@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1400" viewBox="0 0 1200 1400">
+  <rect width="1200" height="1400" fill="#08131f"/>
+  <style>
+    text{font-family:"Noto Sans TC","Microsoft JhengHei",sans-serif;fill:#edf6ff}.t{font-size:43px;font-weight:800}.sub{font-size:21px;fill:#a7bacd}.h{font-size:28px;font-weight:750;fill:#76dec4}.b{font-size:22px}.s{font-size:18px;fill:#b9c8d7}.warn{fill:#ffcf62}.red{fill:#ff8792}.green{fill:#7ce3ad}.card{fill:#102236;stroke:#274760;stroke-width:2}.grid{stroke:#294a62;stroke-width:2}
+  </style>
+  <text x="55" y="75" class="t">市場即時／波段｜07:05</text>
+  <text x="55" y="112" class="sub">台股休市｜舊資料不冒充即時｜ABC僅為情境推演</text>
+  <rect x="50" y="145" width="1100" height="230" rx="22" class="card"/>
+  <text x="80" y="190" class="h">大盤與匯率</text>
+  <text x="80" y="232" class="b">TAIEX 45,308.68　低 45,225.42　｜　TPEx 390.83　低 389.92</text>
+  <text x="80" y="272" class="b">USD/TWD 31.945（8/18央行收盤，台幣較前日偏弱）</text>
+  <text x="80" y="312" class="s">外資／電子估值偏壓；出口換匯相對受益；進口能源成本及金融／壽險評價風險上升。</text>
+  <text x="80" y="348" class="warn">07:05 新台股成交、三大法人、期指、DXY、USD/JPY：unavailable / pending</text>
+  <rect x="50" y="405" width="535" height="300" rx="22" class="card"/>
+  <text x="80" y="450" class="h">跨市場重要因子</text>
+  <text x="80" y="495" class="red">TSM ADR 413.41（-4.07%）</text>
+  <text x="80" y="535" class="b">Nasdaq -1.33%　SOX -4.98%</text>
+  <text x="80" y="575" class="b">Brent 91.02　WTI 84.94 美元</text>
+  <text x="80" y="615" class="b">美30年債殖利率盤中約5.3371%</text>
+  <text x="80" y="660" class="s">科技弱勢、油價與長債折現壓力尚未解除。</text>
+  <rect x="615" y="405" width="535" height="300" rx="22" class="card"/>
+  <text x="645" y="450" class="h">資金輪動</text>
+  <text x="645" y="495" class="green">相對強：能源、醫療、民生必需／防禦</text>
+  <text x="645" y="535" class="red">相對弱：半導體、AI高Beta、記憶體</text>
+  <text x="645" y="580" class="b">台股觀察：運控、機器人零組件、AI視覺</text>
+  <text x="645" y="620" class="b">設備自動化、電子權值</text>
+  <text x="645" y="660" class="s">休市無新廣度；8/19三大法人 pending。</text>
+  <rect x="50" y="735" width="1100" height="345" rx="22" class="card"/>
+  <text x="80" y="780" class="h">Elliott / ABC 修正情境</text>
+  <text x="80" y="825" class="warn">主要：偏A段延伸，信心63%；07:05無新可靠資料，不機械改判。</text>
+  <text x="80" y="870" class="b">支撐：45,225.42／389.92／TSM 410.765</text>
+  <text x="80" y="910" class="b">反壓：45,857.27／46,064.09／SOX 12,228.06</text>
+  <line x1="80" y1="940" x2="1120" y2="940" class="grid"/>
+  <text x="80" y="980" class="green">Bull：守支撐、權值承接、櫃買止跌、機器人2–3檔共振 → B段候選</text>
+  <text x="80" y="1020" class="b">Base：開低／震盪測支撐，現金與WAIT</text>
+  <text x="80" y="1060" class="red">Bear：跌破45,225與389.92，電子、權值、櫃買同步惡化 → A段延伸</text>
+  <rect x="50" y="1110" width="1100" height="225" rx="22" class="card"/>
+  <text x="80" y="1155" class="h">下一交易時段確認</text>
+  <text x="80" y="1195" class="b">① 08:30後可靠台幣與盤前資料　② 09:00–09:20支撐與台積電承接</text>
+  <text x="80" y="1235" class="b">③ 櫃買廣度止跌　④ 機器人／運控至少2–3檔同層共振</text>
+  <text x="80" y="1275" class="s">風險：油價、長債、科技負廣度、台幣偏弱；無可靠數字即標 unavailable。</text>
+  <text x="80" y="1310" class="s">本卡為市場觀察，不構成保證獲利或個人化投資建議。</text>
+</svg>

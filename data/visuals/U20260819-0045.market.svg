@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">U20260819-0045 台股智慧自動化觀察</title>
+  <desc id="desc">盤前非交易時段，四檔均為等待確認，並含確認與失效條件及帳本摘要。</desc>
+  <rect width="1200" height="900" fill="#07111f"/>
+  <rect x="46" y="42" width="1108" height="816" rx="28" fill="#0d1b2d" stroke="#27405f" stroke-width="2"/>
+  <text x="82" y="102" fill="#f5f7fb" font-size="34" font-family="sans-serif" font-weight="700">智慧自動化｜盤前最終校正</text>
+  <text x="82" y="140" fill="#8fa8c4" font-size="20" font-family="sans-serif">U20260819-0045・非交易時段・不捏造價格・四檔全數 WAIT</text>
+  <rect x="82" y="170" width="1036" height="92" rx="16" fill="#112943"/>
+  <text x="108" y="207" fill="#54d2a0" font-size="22" font-family="sans-serif" font-weight="700">市場摘要</text>
+  <text x="108" y="239" fill="#d9e6f2" font-size="18" font-family="sans-serif">09:00 先看量價與族群共振；官方展覽 10:00 開門後再做實機／公開資訊驗證。兩邊對不上就空手。</text>
+  <g font-family="sans-serif">
+    <rect x="82" y="290" width="500" height="128" rx="16" fill="#13263b"/>
+    <text x="108" y="326" fill="#ffffff" font-size="24" font-weight="700">4576 大銀微系統</text><text x="520" y="326" text-anchor="end" fill="#54d2a0" font-size="24" font-weight="700">A</text>
+    <text x="108" y="358" fill="#b8cbe0" font-size="17">確認：量增＋相對強＋核心2–3檔共振＋拉回承接</text>
+    <text x="108" y="390" fill="#ff9c9c" font-size="17">失效：開高走低／爆量不漲／長上影／族群不同步</text>
+    <rect x="618" y="290" width="500" height="128" rx="16" fill="#13263b"/>
+    <text x="644" y="326" fill="#ffffff" font-size="24" font-weight="700">2049 上銀</text><text x="1056" y="326" text-anchor="end" fill="#8ed0ff" font-size="24" font-weight="700">B+</text>
+    <text x="644" y="358" fill="#b8cbe0" font-size="17">確認：零組件多檔同步轉強＋量價健康</text>
+    <text x="644" y="390" fill="#ff9c9c" font-size="17">失效：無共振／開高走低／爆量不漲</text>
+    <rect x="82" y="442" width="500" height="128" rx="16" fill="#13263b"/>
+    <text x="108" y="478" fill="#ffffff" font-size="24" font-weight="700">2359 所羅門</text><text x="520" y="478" text-anchor="end" fill="#f7c66a" font-size="24" font-weight="700">B</text>
+    <text x="108" y="510" fill="#b8cbe0" font-size="17">確認：視覺感知多檔共振＋量價同步</text>
+    <text x="108" y="542" fill="#ff9c9c" font-size="17">失效：單股煙火／爆量不漲／跌破首波支撐</text>
+    <rect x="618" y="442" width="500" height="128" rx="16" fill="#13263b"/>
+    <text x="644" y="478" fill="#ffffff" font-size="24" font-weight="700">6125 廣運</text><text x="1056" y="478" text-anchor="end" fill="#f7c66a" font-size="24" font-weight="700">B</text>
+    <text x="644" y="510" fill="#b8cbe0" font-size="17">確認：核心先強＋設備鏈擴散＋量增站穩</text>
+    <text x="644" y="542" fill="#ff9c9c" font-size="17">失效：無擴散／量縮相對弱／急拉無承接</text>
+  </g>
+  <rect x="82" y="604" width="1036" height="132" rx="16" fill="#0b2238" stroke="#254a68"/>
+  <text x="108" y="644" fill="#ffffff" font-size="24" font-family="sans-serif" font-weight="700">帳本摘要</text>
+  <text x="108" y="681" fill="#d9e6f2" font-size="19" font-family="sans-serif">本金 NT$20,000 ｜ 可用現金 NT$20,000 ｜ 成交 0 ｜ 持股 0 ｜ 損益 0 ｜ 已認列收入 0</text>
+  <text x="108" y="714" fill="#8fa8c4" font-size="16" font-family="sans-serif">所有提案與 NT$500,000 第三方保管款均未達簽約／驗收／付款條件，不灌入本金。</text>
+  <text x="82" y="790" fill="#8fa8c4" font-size="16" font-family="sans-serif">公開證據：大銀官方月營收、上銀官方 Physical AI 公開資料、Automation Taipei 官方展訊</text>
+  <text x="82" y="820" fill="#6f88a3" font-size="15" font-family="sans-serif">研究觀察，不保證獲利。沒有確認，就沒有交易。</text>
+</svg>

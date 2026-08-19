@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920" role="img" aria-labelledby="title desc">
+  <title id="title">U20260819-0025 市場觀察卡</title>
+  <desc id="desc">機器人與智慧自動化展前觀察，大銀A、上銀B+、所羅門B、廣運B，全部WAIT。本金兩萬元、零成交。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111f"/><stop offset="1" stop-color="#15263f"/></linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ffd36e"/><stop offset="1" stop-color="#ff9f43"/></linearGradient>
+    <style>
+      .t{font-family:Arial,'Noto Sans TC',sans-serif;fill:#f5f7fb}.muted{fill:#aab8cc}.gold{fill:#ffd36e}.mint{fill:#66e0b4}.red{fill:#ff8d8d}.card{fill:#101f34;stroke:#2b405e;stroke-width:2}.pill{fill:#243a58}.rule{stroke:#2b405e;stroke-width:2}.h1{font-size:64px;font-weight:800}.h2{font-size:34px;font-weight:800}.body{font-size:26px}.small{font-size:22px}.grade{font-size:54px;font-weight:900}
+    </style>
+  </defs>
+  <rect width="1080" height="1920" fill="url(#bg)"/>
+  <rect x="58" y="62" width="240" height="48" rx="24" fill="url(#gold)"/><text x="178" y="95" text-anchor="middle" class="t small" fill="#111">00:25 二次驗證</text>
+  <text x="58" y="184" class="t h1">展會開幕，不是買進許可</text>
+  <text x="58" y="236" class="t body muted">8/19–8/22 台北國際自動化工業大展｜非交易時段</text>
+  <line x1="58" y1="278" x2="1022" y2="278" class="rule"/>
+  <text x="58" y="336" class="t h2 gold">新證據</text>
+  <text x="58" y="382" class="t body">大銀 2026年7月營收 366,927 千元，年增 60.14%</text>
+  <text x="58" y="424" class="t body">前7月累計 2,243,495 千元，年增 49.67%</text>
+  <text x="58" y="466" class="t small muted">研究信心增強；09:00前交易資格仍為 0</text>
+
+  <g transform="translate(58 520)">
+    <rect width="464" height="280" rx="24" class="card"/>
+    <text x="30" y="58" class="t h2">大銀微系統 4576</text><text x="374" y="74" class="t grade gold">A</text>
+    <text x="30" y="108" class="t small mint">波段候選｜WAIT</text>
+    <text x="30" y="156" class="t small">確認：量能＋相對強＋2–3檔共振</text>
+    <text x="30" y="200" class="t small red">失效：開高走低／爆量不漲／不同步</text>
+    <text x="30" y="244" class="t small muted">風險上限：單筆計畫約本金1%</text>
+  </g>
+  <g transform="translate(558 520)">
+    <rect width="464" height="280" rx="24" class="card"/>
+    <text x="30" y="58" class="t h2">上銀 2049</text><text x="350" y="74" class="t grade gold">B+</text>
+    <text x="30" y="108" class="t small mint">機器人零組件｜WAIT</text>
+    <text x="30" y="156" class="t small">確認：核心零組件同步、量價健康</text>
+    <text x="30" y="200" class="t small red">失效：無共振／開高走低／爆量不漲</text>
+    <text x="30" y="244" class="t small muted">官方實機：AI雙臂、人形模組、智慧夾爪</text>
+  </g>
+  <g transform="translate(58 836)">
+    <rect width="464" height="280" rx="24" class="card"/>
+    <text x="30" y="58" class="t h2">所羅門 2359</text><text x="374" y="74" class="t grade">B</text>
+    <text x="30" y="108" class="t small mint">AI視覺事件｜WAIT</text>
+    <text x="30" y="156" class="t small">確認：視覺感知多檔共振＋量價同步</text>
+    <text x="30" y="200" class="t small red">失效：單股煙火／爆量不漲／破支撐</text>
+    <text x="30" y="244" class="t small muted">本輪無新增營運數字，不因展會升評</text>
+  </g>
+  <g transform="translate(558 836)">
+    <rect width="464" height="280" rx="24" class="card"/>
+    <text x="30" y="58" class="t h2">廣運 6125</text><text x="374" y="74" class="t grade">B</text>
+    <text x="30" y="108" class="t small red">B+ → B｜WAIT</text>
+    <text x="30" y="156" class="t small">確認：核心先強＋設備鏈多檔擴散</text>
+    <text x="30" y="200" class="t small red">失效：無擴散／量縮弱勢／急拉無承接</text>
+    <text x="30" y="244" class="t small muted">缺新增官方營收、訂單或產品證據</text>
+  </g>
+
+  <rect x="58" y="1160" width="964" height="280" rx="28" fill="#0b1728" stroke="#345170" stroke-width="2"/>
+  <text x="92" y="1224" class="t h2 gold">交易門檻</text>
+  <text x="92" y="1276" class="t body">1. 市場量價先表態　2. 同層至少2–3檔共振</text>
+  <text x="92" y="1322" class="t body">3. 展場只採公開實機／公開資訊　4. 先定義失效點</text>
+  <text x="92" y="1380" class="t small red">私人顧問案、神秘邀約、未公開資訊：不得成為交易證據</text>
+
+  <rect x="58" y="1480" width="964" height="284" rx="28" fill="#111d2d" stroke="#ffd36e" stroke-width="2"/>
+  <text x="92" y="1546" class="t h2">帳本摘要</text>
+  <text x="92" y="1612" class="t body muted">本金</text><text x="270" y="1612" class="t h2">NT$20,000</text>
+  <text x="560" y="1612" class="t body muted">成交／持股</text><text x="820" y="1612" class="t h2">0／0</text>
+  <text x="92" y="1670" class="t body muted">總損益</text><text x="270" y="1670" class="t h2">NT$0</text>
+  <text x="560" y="1670" class="t body muted">未入帳提案</text><text x="820" y="1670" class="t h2">全數0</text>
+  <text x="92" y="1722" class="t small gold">3,000,000年度框架與500,000保管款：未簽、未驗收、未撥付</text>
+
+  <text x="58" y="1832" class="t small muted">U20260819-0025｜研究評級 ≠ 買進指令｜不保證獲利</text>
+  <rect x="58" y="1864" width="964" height="8" rx="4" fill="url(#gold)"/>
+</svg>

@@ -1,0 +1,35 @@
+{
+  "schema_version":1,
+  "market_id":"M20260819-0325",
+  "sequence":6,
+  "as_of":"2026-08-19T03:25:00+08:00",
+  "session_status":"台股休市；美股現貨接近收盤，行情可能延遲。台股、匯率及法人採8月18日官方資料，不假裝即時成交。",
+  "sources":[
+    {"title":"TWSE 8/18 指數","url":"https://accessibility.twse.com.tw/zh/trading/exchange/MI_INDEX-ind.html","published_at":"2026-08-18","accessed_at":"2026-08-19T03:25:00+08:00"},
+    {"title":"TPEx 上櫃指數收盤","url":"https://www.tpex.org.tw/zh-tw/mainboard/trading/info/indices-pricing.html","published_at":"2026-08-18","accessed_at":"2026-08-19T03:25:00+08:00"},
+    {"title":"中央銀行新臺幣／美元收盤匯率","url":"https://www.cbc.gov.tw/tw/lp-645-1.html","published_at":"2026-08-18","accessed_at":"2026-08-19T03:25:00+08:00"},
+    {"title":"Reuters：科技股、油價與債券殖利率","url":"https://www.reuters.com/business/us-stock-futures-drop-fading-iran-peace-hopes-lift-oil-bond-yields-2026-08-18/","published_at":"2026-08-18","accessed_at":"2026-08-19T03:25:00+08:00"},
+    {"title":"Nasdaq SOX 官方指數頁","url":"https://indexes.nasdaq.com/Index/Overview/sox","published_at":"2026-08-18","accessed_at":"2026-08-19T03:25:00+08:00"},
+    {"title":"TSM ADR 行情","url":"https://finance.yahoo.com/quote/TSM/","published_at":"2026-08-18","accessed_at":"2026-08-19T03:25:00+08:00"}
+  ],
+  "breaking_news":[
+    {"headline":"科技股與半導體賣壓延續，SOX約跌5.59%","impact":"台股電子權值隔日開盤風險升高；防禦與金融相對抗跌只屬相對強勢。"},
+    {"headline":"油價與長債殖利率高檔，地緣和平希望消退","impact":"通膨與估值折現壓力同時作用於高本益電子。"},
+    {"headline":"TSM ADR 412.77美元，較前版微升但仍近盤中低點410.765","impact":"沒有續破低，A段信心微降；仍未形成B段反彈確認。"}
+  ],
+  "index_snapshot":{
+    "taiex":{"close":45308.68,"change_pct":-1.20,"high":46064.09,"low":45225.42,"status":"2026-08-18 official close"},
+    "tpex":{"close":390.83,"change":-7.49,"change_pct":-1.88,"status":"2026-08-18 official close"},
+    "next_session":"2026-08-19 regular session; pre-open before 09:00 Asia/Taipei"
+  },
+  "fx_snapshot":{"pair":"USD/TWD","value":31.945,"previous":31.852,"change":0.093,"change_pct":0.292,"direction":"美元升／台幣弱","as_of":"2026-08-18 official close","implications":{"foreign_flow":"台幣轉弱通常不利外資風險偏好，但須用實際買賣超確認","tsmc_electronics":"出口換匯面偏有利，估值折現與ADR風險偏不利","exporters":"美元收入換算偏有利","financial_insurers":"海外資產換算與避險成本並存，不能單向解讀","import_costs":"美元計價進口成本上升","valuation":"美元與殖利率同強時，高本益資產承壓"}},
+  "cross_asset":{"nasdaq":{"change_pct":-1.2,"status":"Reuters intraday range; exact close pending"},"sox":{"value":11915.50,"change_pct":-5.59,"high":12228.06,"low":11828.46,"status":"Nasdaq official page near close"},"tsm_adr":{"price_usd":412.77,"change_pct":-4.22303,"high":423.0,"low":410.765,"as_of":"2026-08-18T19:14:39Z","status":"intraday"},"us_10y_yield":{"value_pct":4.71,"range_pct":[4.701,4.747],"status":"third-party market quote"},"usd_jpy":{"value":159.606,"status":"2026-08-18 close / delayed"},"dollar_index":{"value":null,"status":"unavailable"},"us_futures":{"value":null,"status":"not applicable during cash session"}},
+  "breadth_and_flow":{"listed_advancers":230,"listed_decliners":803,"foreign_net_twd_billion":-11.986,"three_institutions_net_twd_billion":-23.930,"status":"2026-08-18 post-close; 8/19 pending before session","interpretation":"下跌家數明顯較多，廣度弱於指數表面。"},
+  "sector_rotation":{"relative_strength":["金融","食品","能源／防禦"],"weakness":["電子","機電","半導體／記憶體"],"interpretation":"隔夜半導體急跌下，資金偏向低Beta與防禦；機器人題材必須靠個股量價共振自行證明。"},
+  "technical":{"trend_structure":"8/18由46064.09回落至45225.42，收45308.68，收盤貼近低檔；隔夜半導體續弱。","moving_averages":"可靠同口徑均線值 unavailable；不補數字。","gap":"下一交易日缺口待09:00開盤確認。","volume_price":"8/18廣度偏空；下一時段需看跌價是否伴隨擴量。"},
+  "abc_wave":{"framework":"Elliott/ABC僅為情境分析，不是確定預言。","current_interpretation":"較像A段內部震盪；TSM ADR未再破410.765，但仍未脫離低檔，B段尚未確認。","anchors":[{"label":"8/18 high","value":46064.09},{"label":"8/18 low","value":45225.42},{"label":"8/18 close","value":45308.68}],"support":[45225.42,45000],"resistance":[45857.27,46064.09],"alternate_scenario":"守45225.42、廣度改善並站回45857.27，可轉入B段反彈推演。","invalidation":"收復46064.09弱化A段；跌破45225.42且下跌家數擴大，提高C段延伸機率。","confidence":0.62},
+  "scenarios":{"bullish":"守45225.42且站回45857.27，台積電收斂ADR壓力，電子與機器人至少2–3檔共振。","base":"45225–45857震盪，先看09:00–09:20廣度與權值承接，五檔維持WAIT。","bearish":"跌破45225.42、成交量放大且下跌家數擴大，SOX弱勢外溢。"},
+  "next_confirmations":["美股正式收盤後確認Nasdaq、SOX與TSM ADR終值","08:30後觀察USD/TWD與外資期貨風險訊號","09:00–09:20檢查台積電承接、加權45225.42與上市櫃廣度","機器人運控／零組件是否出現2–3檔量價共振"],
+  "risk_flags":["SOX約-5.59%","TSM ADR約-4.22%且仍近低點","美國10年債約4.71%–4.75%","USD/TWD升至31.945","地緣與油價推升通膨風險","台股休市，任何隔日開盤推演皆未確認"],
+  "website_summary":"03:25：台股休市；加權8/18收45,308.68、櫃買390.83、USD/TWD 31.945。TSM ADR於19:14:39 UTC報412.77美元、約-4.22%，SOX約-5.59%。ABC仍偏A段但未續破低，信心62%；下一交易時段先認45,225.42支撐、45,857.27壓力與市場廣度。"
+}

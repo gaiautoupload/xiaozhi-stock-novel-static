@@ -1,0 +1,13 @@
+{
+  "update_id":"U20260819-0625",
+  "as_of":"2026-08-19T06:25:00+08:00",
+  "market_summary":"台股休市；沿用8/18加權45308.68、櫃買390.83。Nasdaq -1.33%，SOX正式11992.46、-4.98%。TSM ADR收413.41美元、-4.07%，盤後約412.82–413.10美元、約-0.07%至-0.14%，未破410.765日低。Brent 91.02、WTI 84.94；美30年債殖利率盤中約5.3371%。ABC偏A段維持63%。",
+  "watchlist":[
+    {"ticker":"4576","name":"大銀微系統","positioning":"精密運動控制／智慧自動化波段候選","rating":"A-","evidence":["官方2026年7月營收366927千元、年增60.14%","官方前7月累計營收2243495千元、年增49.67%"],"risks":["SOX -4.98%與長債壓力壓縮高Beta估值","展會題材可能提前反映"],"confirm_signals":["加權守45225.42且運控同層2至3檔共振","拉回有承接且量能健康"],"invalidations":["開高走低或爆量不漲","跌破45225.42且櫃買廣度同步惡化"],"exit_logic":"承接或共振消失即退出；未成交前不預設獲利。","trade_status":"WAIT；0成交"},
+    {"ticker":"2049","name":"上銀","positioning":"機器人關鍵零組件／Physical AI確認股","rating":"B","evidence":["公司官方公開雙臂八軸物流機器人","公司官方公開人形核心模組、智慧夾爪與精密傳動整合"],"risks":["展示不等於訂單","科技、油價與長債風險外溢"],"confirm_signals":["零組件多檔同步","台積電與電子權值止穩"],"invalidations":["族群無共振","權值擴跌且個股無承接"],"exit_logic":"失去族群同步或盤中支撐即退出；不追展會急拉。","trade_status":"WAIT；0成交"},
+    {"ticker":"2359","name":"所羅門","positioning":"AI視覺／機器人感知高風險事件股","rating":"C+","evidence":["公司官方公開人形機器人遠距視覺與3D定位技術","公司年報揭露AI與3D視覺、人形機器人感知研發方向"],"risks":["缺新增營運數字且題材可能提前反映","高Beta風險偏好下降"],"confirm_signals":["感知多檔共振","拉回承接後再攻有量"],"invalidations":["單股孤軍急拉","爆量不漲或長上影"],"exit_logic":"禁止追首紅K；承接或族群擴散消失即退出觀察。","trade_status":"WAIT；禁止追價"},
+    {"ticker":"6125","name":"廣運","positioning":"設備／自動化鏈後順位候選","rating":"B-","evidence":["公司既有設備與自動化定位","官方展會提供自動化產業需求驗證窗口"],"risks":["本輪缺新增公司級營收或訂單證據","設備鏈可能無資金擴散"],"confirm_signals":["核心標的先強","設備鏈多檔放量承接"],"invalidations":["無擴散","核心先跌或急拉無承接"],"exit_logic":"只在設備鏈擴散後考慮；核心轉弱即退出。","trade_status":"WAIT；0成交"},
+    {"ticker":"2330","name":"台積電","positioning":"電子權值／市場風險確認器","rating":"B-","evidence":["8/18台股官方收2380元","ADR正式收413.41美元、-4.07%，盤後小跌但未破410.765"],"risks":["SOX -4.98%與Nasdaq廣度偏空","油價、長債與台幣偏弱形成估值壓力"],"confirm_signals":["開盤承接並守45225.42","電子與櫃買廣度改善"],"invalidations":["跌破45225.42且電子與櫃買同步惡化","權值開低後持續無承接"],"exit_logic":"僅作市場確認；承接與廣度未共振前不交易。","trade_status":"WAIT；0成交"}
+  ],
+  "ledger":{"total_assets_twd":26000,"unrestricted_cash_twd":20000,"restricted_cash_twd":6000,"recognized_income_twd":6000,"stock_positions":0,"stock_trades":0,"unrealized_rights_value_twd":0,"pending_contracts":"42萬元工作單待驗收；8萬元第三方保管可退；86萬元工作單成立但待驗收，15萬元第三方保管可退且不計本金；零新增認列。"}
+}

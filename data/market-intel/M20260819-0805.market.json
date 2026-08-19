@@ -1,0 +1,70 @@
+{
+  "market_id":"M20260819-0805",
+  "as_of":"2026-08-19T08:05:00+08:00",
+  "session_status":"pre_open; Taiwan cash market not open; no 08:05 cash trades",
+  "sources":[
+    {"title":"TWSE 8/18 index close","url":"https://accessibility.twse.com.tw/zh/trading/exchange/MI_INDEX-ind.html","published_at":"2026-08-18","accessed_at":"2026-08-19T08:04:00+08:00"},
+    {"title":"CBC NTD/USD interbank close","url":"https://www.cbc.gov.tw/tw/lp-645-1.html","published_at":"2026-08-18","accessed_at":"2026-08-19T08:04:00+08:00"},
+    {"title":"Reuters: tech selloff and bond yields","url":"https://www.reuters.com/business/us-stock-futures-drop-fading-iran-peace-hopes-lift-oil-bond-yields-2026-08-18/","published_at":"2026-08-18","accessed_at":"2026-08-19T08:04:00+08:00"},
+    {"title":"Reuters global markets wrap","url":"https://www.reuters.com/world/china/global-markets-wrapup-1-2026-08-18/","published_at":"2026-08-18","accessed_at":"2026-08-19T08:04:00+08:00"},
+    {"title":"Automation Taipei official","url":"https://automationtaipei.chanchao.com.tw/","published_at":"2026-08-19","accessed_at":"2026-08-19T08:04:00+08:00"},
+    {"title":"USD/JPY indicative quote","url":"https://www.investing.com/currencies/usd-jpy","published_at":"2026-08-19","accessed_at":"2026-08-19T08:04:00+08:00"}
+  ],
+  "breaking_news":[
+    {"headline":"2026台北國際自動化工業大展今日起至8/22舉行","impact":"機器人與自動化題材有公開驗證窗口，但展會不是交易確認。","status":"official event schedule"},
+    {"headline":"美股半導體急跌、長債與油價維持高檔","impact":"壓抑台股電子權值與高Beta題材估值，防禦與現金相對有利。","status":"latest verified close"}
+  ],
+  "index_snapshot":{
+    "taiex":{"value":45308.68,"change_points":-548.59,"as_of":"2026-08-18 close","status":"stale official close; pre_open"},
+    "otc":{"value":390.83,"as_of":"2026-08-18 close","status":"stale verified close; pre_open"},
+    "intraday_0805":"unavailable; market not open",
+    "three_institutions":"pending for 2026-08-19"
+  },
+  "fx_snapshot":{
+    "usd_twd_official_close":{"value":31.945,"previous":31.852,"direction":"TWD weaker on 8/18","as_of":"2026-08-18"},
+    "usd_twd_latest_indicative":{"range":"31.90-31.93","as_of":"retrieved 2026-08-19 08:04 Asia/Taipei","status":"private mid-market indications; not directly comparable with official close"},
+    "implications":{"foreign_flow":"weaker TWD can restrain foreign risk appetite","tsmc_electronics":"valuation headwind until currency and ADR stabilize","exporters":"translation benefit possible but not a trade signal","financial_insurance":"also depends on bond valuation and hedging cost","imports":"energy and imported input costs face pressure"}
+  },
+  "cross_asset":{
+    "nasdaq":{"change_pct":-1.33,"status":"8/18 close"},
+    "sox":{"change_pct":-4.98,"status":"8/18 close; verified source convention"},
+    "tsm_adr":{"price_usd":413.41,"change_pct":-4.06989,"low":410.765,"status":"8/18 close"},
+    "sp500":{"change_pct":-0.69,"status":"8/18 close"},
+    "vix":{"value":15.84,"change_pct":4.28,"status":"indicative close; highest close since 8/4 per Reuters"},
+    "us_30y_yield":{"intraday_high_pct":5.3371,"close_pct":5.2922,"status":"8/18 Reuters"},
+    "dollar_index":{"value":99.55,"status":"indicative; source warns may not be real-time"},
+    "usd_jpy":{"value":159.55,"range":"159.49-159.64","status":"indicative real-time quote retrieved 08:04"},
+    "brent":{"price_usd":91.02,"status":"8/18 close"},
+    "wti":{"price_usd":84.94,"status":"8/18 close"},
+    "us_futures":"unavailable/reliable synchronized quote not found"
+  },
+  "breadth_and_flow":{
+    "taiwan_0805":"pending; cash market not open",
+    "us_close":"decliners outnumbered advancers on NYSE and Nasdaq per Reuters",
+    "taiwan_three_institutions":"2026-08-19 pending",
+    "volume_price":"use 09:00-09:20 opening breadth and volume; do not infer from exhibition headlines"
+  },
+  "sector_rotation":{
+    "relative_strength":["energy","healthcare","consumer staples","cash/defensive"],
+    "relative_weakness":["semiconductors","AI high beta","memory","long-duration growth"],
+    "taiwan_watch":["robotics motion control","automation equipment","AI vision","TSMC/electronic weights"]
+  },
+  "abc_wave":{
+    "framework":"Elliott/ABC scenario analysis, not prediction",
+    "current_interpretation":"A-leg risk release remains the base interpretation before Taiwan opens; no new OHLC confirms a B rebound.",
+    "anchors":[{"type":"high","value":46064.09,"date":"2026-08-18"},{"type":"low","value":45225.42,"date":"2026-08-18"},{"type":"close","value":45308.68,"date":"2026-08-18"}],
+    "support":[45225.42,45000],
+    "resistance":[45857.27,46064.09],
+    "alternate_scenario":"B-leg rebound only if TSM/weights stabilize, TWD firms and both listed/OTC breadth improve.",
+    "invalidation":"A-leg interpretation weakens if price reclaims resistance with expanding breadth; bearish extension strengthens below 45225.42 with electronic and OTC deterioration.",
+    "confidence":0.63
+  },
+  "scenarios":{
+    "bullish":"TSM/weights stabilize, USD/TWD stops rising, TAIEX holds 45225.42 and automation names show 2-3 stock breadth; then consider a B-rebound scenario.",
+    "base":"Weak or volatile open tests support; maintain WAIT until breadth, volume and relative strength confirm.",
+    "bearish":"TAIEX breaks 45225.42 while electronics and OTC breadth deteriorate, TWD weakens and yields/oil stay elevated; reduce risk and avoid chasing exhibition themes."
+  },
+  "next_confirmations":["08:30 onward: reliable Taiwan pre-open indications if available","09:00-09:20: TAIEX/OTC breadth and volume","TSMC opening support and electronic weight behavior","USD/TWD direction after local FX market opens","robotics/automation 2-3 name co-movement","official three-institution data after publication"],
+  "risk_flags":["30-year U.S. yield near multi-year high","SOX and TSM ADR sharp decline","oil and Middle East geopolitical risk","TWD weakness versus 8/17 official close","exhibition narrative may be priced before orders","Fed July minutes and major U.S. earnings ahead"],
+  "website_summary":"08:05台股未開盤。8/18加權收45,308.68、USD/TWD官方收31.945；TSM ADR 413.41美元、-4.07%，SOX約-4.98%，美30年債收5.2922%。ABC偏A段63%，五檔全WAIT；展會開幕只作驗證窗口。"
+}

@@ -1,0 +1,84 @@
+{
+  "update_id": "U20260818-1925",
+  "market_summary": "8/18收盤後；8/19機器人展前夕；顧問資訊與交易隔離。",
+  "watchlist": [
+    {
+      "ticker": "4576",
+      "name": "大銀微系統",
+      "positioning": "波段研究優先",
+      "rating": "A-",
+      "evidence": [
+        "精密運動控制本業",
+        "既有2026上半年營運成長線索"
+      ],
+      "risks": [
+        "展前提前反映",
+        "產品世代轉換",
+        "高波動"
+      ],
+      "confirm_signals": [
+        "核心股共振",
+        "量價健康與拉回承接"
+      ],
+      "invalidations": [
+        "爆量長上影",
+        "族群不擴散"
+      ],
+      "trade_status": "未成交；資格0"
+    },
+    {
+      "ticker": "2049",
+      "name": "上銀",
+      "positioning": "波段確認股",
+      "rating": "B+",
+      "evidence": [
+        "精密傳動與機器人產品線",
+        "既有官方營收成長"
+      ],
+      "risks": [
+        "大型股彈性",
+        "提前反映"
+      ],
+      "confirm_signals": [
+        "核心股同步轉強"
+      ],
+      "invalidations": [
+        "開高走低",
+        "爆量不漲"
+      ],
+      "trade_status": "未成交"
+    },
+    {
+      "ticker": "2359",
+      "name": "所羅門",
+      "positioning": "短線事件觀察",
+      "rating": "B",
+      "evidence": [
+        "AI/3D視覺與機器人整合",
+        "展會催化"
+      ],
+      "risks": [
+        "展前過熱",
+        "新增營運證據不足"
+      ],
+      "confirm_signals": [
+        "視覺感知層共振"
+      ],
+      "invalidations": [
+        "單股急拉",
+        "長上影"
+      ],
+      "trade_status": "未成交"
+    }
+  ],
+  "trade_status": "0筆成交；持股0",
+  "ledger": {
+    "capital": 20000,
+    "daily_pnl": 0,
+    "remaining_cash": 20000,
+    "pending_income": [
+      6000,
+      30000
+    ]
+  }
+}

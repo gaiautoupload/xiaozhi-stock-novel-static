@@ -1,0 +1,89 @@
+{
+  "schema_version": 2,
+  "update_id": "U20260819-0025",
+  "published_at": "2026-08-19T00:25:00+08:00",
+  "market_summary": "8/19凌晨仍是非交易時段。2026台北國際自動化工業大展於8/19至8/22舉行，事件催化存在，但開幕不等於買點。大銀新增7月官方營收驗證；廣運因本輪缺乏新增公司級證據降級。四檔全部WAIT，09:00後才以量價、相對強弱、族群共振與公開展場驗證取得交易資格。",
+  "watchlist": [
+    {
+      "ticker": "4576",
+      "name": "大銀微系統",
+      "positioning": "波段候選／精密運動控制",
+      "rating": "A",
+      "evidence": [
+        "公司官方月營收頁顯示2026年7月營收366,927千元、年增60.14%",
+        "公司官方月營收頁顯示2026年1至7月累計營收2,243,495千元、年增49.67%",
+        "精密運動控制與智慧自動化產品方向可在展場以實機與供應鏈公開資訊交叉驗證"
+      ],
+      "risks": ["展會題材可能提前反映", "產品世代轉換與高波動", "營收成長不等於盤中買點"],
+      "confirm_signals": ["量能放大", "相對大盤強", "運控／零組件至少2至3檔共振", "拉回有承接"],
+      "invalidations": ["開高走低", "爆量不漲或長上影", "族群不同步", "單筆計畫風險無法壓在本金約1%"],
+      "exit_logic": "若取得交易資格，跌破預先定義的有效支撐或族群共振消失即退出；不拿波段故事替短線失效辯護。",
+      "trade_status": "WAIT"
+    },
+    {
+      "ticker": "2049",
+      "name": "上銀",
+      "positioning": "波段研究池／機器人關鍵零組件",
+      "rating": "B+",
+      "evidence": [
+        "上銀官方2026年6月資料公開展示AI雙臂八軸物流機器人、人形機器人核心模組與智慧夾爪",
+        "官方資料揭露與大銀微系統、Dexterity合作開發工業與倉儲用AI機器人"
+      ],
+      "risks": ["大型股短線彈性可能不足", "題材可能提前反映", "展場展示不等於訂單"],
+      "confirm_signals": ["核心零組件多檔同步轉強", "量價健康", "相對大盤強"],
+      "invalidations": ["無族群共振", "開高走低", "爆量不漲"],
+      "exit_logic": "若進場後核心零組件廣度消失或跌破預設支撐即退出。",
+      "trade_status": "WAIT"
+    },
+    {
+      "ticker": "2359",
+      "name": "所羅門",
+      "positioning": "短線事件／AI視覺與機器人感知",
+      "rating": "B",
+      "evidence": [
+        "公司公開資料持續支持AI視覺、機械手臂與自動化應用方向",
+        "8/19至8/22自動化展提供機器視覺與AI實機應用驗證場景"
+      ],
+      "risks": ["本輪無新增公司級營運數字", "題材波動大", "容易形成單股煙火"],
+      "confirm_signals": ["視覺／感知層多檔共振", "量價同步", "首波有效支撐不破"],
+      "invalidations": ["單股急拉無擴散", "爆量不漲或長上影", "跌破首波有效支撐"],
+      "exit_logic": "事件交易失效即退，不把展會熱度轉成無限期持有理由。",
+      "trade_status": "WAIT"
+    },
+    {
+      "ticker": "6125",
+      "name": "廣運",
+      "positioning": "設備／自動化鏈擴散候選",
+      "rating": "B",
+      "evidence": [
+        "既有設備與自動化鏈定位，可用於觀察核心股轉強後的資金擴散",
+        "自動化展事件提供產業鏈熱度觀察窗口，但本身不構成交易證據"
+      ],
+      "risks": ["本輪缺乏新增官方營收、訂單或產品證據", "量縮或相對弱勢", "僅有題材連結"],
+      "confirm_signals": ["核心機器人股先強", "設備鏈多檔擴散", "量增並站穩有效區"],
+      "invalidations": ["無族群擴散", "量縮相對弱", "單筆急拉無承接"],
+      "exit_logic": "未取得擴散證據不進場；進場後擴散消失或跌破支撐即退出。",
+      "trade_status": "WAIT"
+    }
+  ],
+  "ledger": {
+    "starting_capital": 20000,
+    "trades": 0,
+    "positions": 0,
+    "fees": 0,
+    "tax": 0,
+    "realized_pnl": 0,
+    "unrealized_pnl": 0,
+    "total_pnl": 0,
+    "available_cash": 20000,
+    "unpaid_or_unsigned_income_counted": 0,
+    "pending_proposals_note": "6,000、30,000、50,000、70,000、100,000元提案，以及3,000,000元年度框架與500,000元首階段保管款均未完成簽約、驗收與撥付，不計入本金。"
+  },
+  "sources": [
+    "https://automationtaipei.chanchao.com.tw/",
+    "https://www.hiwinmikro.tw/zh/investor/financial",
+    "https://www.hiwin.tw/news_content.aspx?newsID=25581",
+    "https://www.hiwin.tw/news_content.aspx?newsID=25582",
+    "https://www.solomon.com.tw/"
+  ]
+}

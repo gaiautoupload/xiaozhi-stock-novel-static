@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "market_id": "M20260819-0105",
+  "sequence": 1,
+  "as_of": "2026-08-19T01:05:00+08:00",
+  "session_status": "Taiwan pre-open; U.S. regular session in progress. Taiwan figures are 2026-08-18 closes; U.S. figures are intraday/delayed where stated.",
+  "sources": [
+    {"title":"中央社：台股跌548.59點","url":"https://money.udn.com/money/amp/story/5607/9698855","published_at":"2026-08-18T14:12:00+08:00","accessed_at":"2026-08-19T01:05:00+08:00"},
+    {"title":"TPEx上櫃股價指數收盤行情","url":"https://www.tpex.org.tw/zh-tw/mainboard/trading/info/indices-pricing.html","published_at":"2026-08-18","accessed_at":"2026-08-19T01:05:00+08:00"},
+    {"title":"中央社：三大法人賣超台股239.3億元","url":"https://news.pchome.com.tw/finance/cna/20260818/index-17870372600679218003.html","published_at":"2026-08-18T15:14:00+08:00","accessed_at":"2026-08-19T01:05:00+08:00"},
+    {"title":"Trading Economics USD/TWD","url":"https://tradingeconomics.com/taiwan/currency","published_at":"2026-08-18","accessed_at":"2026-08-19T01:05:00+08:00"},
+    {"title":"Reuters：科技股、油價與殖利率","url":"https://www.reuters.com/business/us-stock-futures-drop-fading-iran-peace-hopes-lift-oil-bond-yields-2026-08-18/","published_at":"2026-08-18","accessed_at":"2026-08-19T01:05:00+08:00"},
+    {"title":"Reuters：全球市場與中東風險","url":"https://www.reuters.com/world/china/global-markets-wrapup-1-2026-08-18/","published_at":"2026-08-18","accessed_at":"2026-08-19T01:05:00+08:00"},
+    {"title":"MarketWatch TSM ADR","url":"https://www.marketwatch.com/investing/stock/tsm","published_at":"2026-08-18","accessed_at":"2026-08-19T01:05:00+08:00"},
+    {"title":"Automation Taipei參展資訊","url":"https://automationtaipei.chanchao.com.tw/ExhibitorInfo","published_at":"2026-08-18","accessed_at":"2026-08-19T01:05:00+08:00"}
+  ],
+  "breaking_news": [
+    {"headline":"美國—伊朗緊張升高推升油價與通膨疑慮，長債殖利率維持高檔。","impact":"偏空高估值科技與AI資本支出鏈；金融／能源相對抗跌機率升高，但須看台股實際擴散。","status":"fresh"},
+    {"headline":"Nasdaq約跌1.06%，SOX約跌3.7%，台積電ADR約跌4.05%。","impact":"8/19台股電子權值開盤承壓風險升高。","status":"intraday/delayed"},
+    {"headline":"2026台北國際自動化工業大展8/19 10:00開放參觀。","impact":"機器人題材由預期階段轉入產品與公開證據驗證。","status":"official"}
+  ],
+  "index_snapshot": {
+    "taiex": {"date":"2026-08-18","open":45922.40,"high":46064.09,"low":45225.42,"close":45308.68,"change":-548.59,"change_pct":-1.20,"turnover_twd_billion":958.443,"status":"closed"},
+    "tpex": {"date":"2026-08-18","open":398.61,"high":400.81,"low":389.92,"close":390.83,"change":-7.49,"change_pct":-1.88,"turnover_twd_billion":238.179,"status":"closed"}
+  },
+  "fx_snapshot": {
+    "pair":"USD/TWD","value":31.926,"change_pct":0.17,"direction":"USD stronger / TWD weaker versus previous session","as_of":"2026-08-18","source_type":"market quote, not CBC official close","bank_spot_range":{"buy":31.87,"sell":32.02,"as_of":"2026-08-18T18:00:00+08:00"},
+    "market_links":{"foreign_flow":"台幣偏弱通常提高外資匯出與權值股籌碼壓力，但單日不可直接推定因果。","tsmc_electronics":"ADR與匯率同時偏不利時，電子權值開盤風險提高。","exporters":"台幣偏弱對美元營收換算相對有利，但需扣除原料與避險效果。","financial_life":"壽險美元資產換算可能受惠，但避險成本與長債波動可能抵銷。","import_cost":"能源與進口原料成本上升。","valuation_risk":"美元與殖利率偏高會壓縮高本益比成長股估值。"}
+  },
+  "cross_asset": {
+    "nasdaq":{"change_pct":-1.06,"status":"U.S. intraday, approximate"},
+    "sox":{"change_pct":-3.7,"status":"U.S. intraday, approximate"},
+    "tsm_adr":{"price_usd":413.5,"change_pct":-4.05,"as_of":"2026-08-18T16:49:05Z","status":"intraday quote"},
+    "sp500":{"change_pct":-0.49,"status":"U.S. intraday, approximate"},
+    "us_10y_yield":{"value_pct":4.71,"direction":"high / roughly flat to slightly lower at latest check","status":"market quote"},
+    "dollar_index":{"value":null,"direction":"slightly higher","status":"exact value unavailable"},
+    "usd_jpy":{"value":159.32,"as_of":"2026-08-14","status":"stale"},
+    "us_futures":{"value":null,"status":"unavailable; U.S. cash session already in progress"},
+    "oil":{"value":null,"direction":"higher for a third day","status":"exact cross-source value inconsistent; omitted"}
+  },
+  "breadth_and_flow": {
+    "listed_advancers":230,
+    "listed_decliners":803,
+    "listed_unchanged":75,
+    "breadth_read":"broadly negative",
+    "foreign_net_twd_billion":-11.986,
+    "investment_trust_net_twd_billion":5.663,
+    "dealer_net_twd_billion":-17.607,
+    "three_institutions_net_twd_billion":-23.93,
+    "foreign_context":"外資終止連六買；8月累計仍為買超，單日轉賣尚不足以定義中期反轉。",
+    "volume_price":"加權開高走低、跌破5日與10日線；成交值約9,584.43億元，賣壓廣度明顯。"
+  },
+  "sector_rotation": {
+    "relative_strength":["金融類股+0.73%","食品類股+0.85%","部分航運股"],
+    "weakness":["機電-1.51%","高位階電子權值","IP/ASIC","部分被動元件與石英元件"],
+    "watch_next":["機器人／精密傳動是否在大盤風險下仍有2–3檔共振","金融抗跌能否延續","半導體是否吸收ADR與SOX壓力"],
+    "interpretation":"資金由高位階電子暫轉防禦與傳產；機器人展題材有事件催化，但需盤面廣度確認，尚不能稱為主線。"
+  },
+  "abc_wave": {
+    "framework":"Elliott/ABC scenario analysis only; not a deterministic forecast.",
+    "current_interpretation":"8/18 failed to hold the intraday breakout and closed near the low, resembling an initial A-leg decline from a short-term high. One daily bar is insufficient to confirm a complete correction.",
+    "anchors":[
+      {"label":"previous_close","value":45857.27,"date":"2026-08-17"},
+      {"label":"8/18_high","value":46064.09,"date":"2026-08-18"},
+      {"label":"8/18_low","value":45225.42,"date":"2026-08-18"},
+      {"label":"8/18_close","value":45308.68,"date":"2026-08-18"}
+    ],
+    "support":[45225.42,45000],
+    "resistance":[45857.27,46064.09],
+    "alternate_scenario":"If price reclaims 45,857.27 with improving breadth and volume, the decline may be a shakeout and transition into a B-leg rebound rather than a continuing impulse lower.",
+    "invalidation":"The A-leg interpretation weakens if 46,064.09 is reclaimed and held; a break below 45,225.42 with worsening breadth raises the probability of a C-leg extension.",
+    "confidence":0.42
+  },
+  "scenarios": {
+    "bullish":"台積電與電子權值吸收ADR壓力，加權守住45,225並站回45,857；機器人核心2–3檔量價共振。",
+    "base":"開低或震盪測試45,225–45,857，資金高速輪動；只做確認，不追展會開幕。",
+    "bearish":"跌破45,225、下跌家數再擴大，SOX與ADR弱勢延續；高Beta與題材股出現補跌。"
+  },
+  "next_confirmations": [
+    "08:45前確認台積電ADR最終收盤、Nasdaq/SOX最終跌幅與美債殖利率。",
+    "09:00–09:20確認台積電、加權與櫃買是否吸收隔夜壓力。",
+    "確認上漲／下跌家數與成交值是否改善。",
+    "確認大銀、上銀、所羅門、廣運是否出現2–3檔族群共振，而非單股急拉。",
+    "10:00後只用公開展場產品、公司公告與可驗證資訊更新評級。"
+  ],
+  "risk_flags": [
+    "U.S. semiconductor selloff",
+    "TSM ADR downside gap risk",
+    "high U.S. Treasury yields",
+    "Middle East / oil inflation risk",
+    "TWD weakness and foreign-flow sensitivity",
+    "negative Taiwan market breadth",
+    "event-driven robot stocks may be priced in"
+  ],
+  "website_summary":"台股8/18開高走低、加權收45,308.68，櫃買跌1.88%，外資終止連六買；美股半導體與台積電ADR盤中轉弱。ABC情境較像A段初跌，但信心僅42%；45,225為首道支撐，45,857–46,064為反壓。8/19前20分鐘先確認，不追展會題材。"
+}

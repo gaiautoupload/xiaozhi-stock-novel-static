@@ -1,0 +1,87 @@
+{
+  "update_id": "U20260819-0525",
+  "as_of": "2026-08-19T05:25:00+08:00",
+  "market_summary": {
+    "session_status": "台股休市；沿用2026-08-18官方收盤，不宣稱盤中成交",
+    "taiex": {"close": 45308.68, "high": 46064.09, "low": 45225.42, "status": "stale_official_close"},
+    "tpex": {"close": 390.83, "high": 400.81, "low": 389.92, "status": "stale_official_close"},
+    "us_confirmation": "Nasdaq收跌1.33%；Nasdaq官方SOX終值11,992.46、跌4.98%；TSM ADR 413.41美元、跌4.07%，低點410.765。",
+    "abc": "偏A段修正情境，信心由62%降至61%；終值略收斂只否定過度精確的悲觀，不構成B段確認。"
+  },
+  "watchlist": [
+    {
+      "ticker": "4576",
+      "name": "大銀微系統",
+      "positioning": "精密運動控制／智慧自動化波段候選",
+      "rating": "A-（維持）",
+      "evidence": ["官方2026年7月營收366,927千元、年增60.14%", "官方前7月累計營收2,243,495千元、年增49.67%"],
+      "risks": ["SOX終值仍重挫4.98%，高Beta估值承壓", "展會題材可能提前反映，營收成長不保證股價即時反應"],
+      "confirm_signals": ["加權守住45,225.42", "運動控制同層至少2至3檔量價共振且拉回有承接"],
+      "invalidations": ["開高走低且爆量不漲", "加權跌破45,225.42並伴隨櫃買與電子同步惡化"],
+      "exit_logic": "若未進場則取消追價；若未來成交後跌破預設結構低點或族群共振消失，依風險預算退出。",
+      "trade_status": "WAIT；0成交；0持股"
+    },
+    {
+      "ticker": "2049",
+      "name": "上銀",
+      "positioning": "機器人關鍵零組件／Physical AI族群確認股",
+      "rating": "B（維持）",
+      "evidence": ["公司官方資料公開雙臂八軸物流機器人", "公司官方公開人形機器人核心模組、智慧夾爪與精密傳動整合能力"],
+      "risks": ["展示與合作不等於新增訂單或獲利", "半導體與科技風險可能外溢至機器人高Beta族群"],
+      "confirm_signals": ["關鍵零組件多檔同步轉強", "台積電與大盤承接改善"],
+      "invalidations": ["族群無擴散僅單股表態", "權值擴跌且反彈量縮"],
+      "exit_logic": "未確認族群共振不進場；進場後若失守結構低點且量價轉弱退出。",
+      "trade_status": "WAIT；0成交；0持股"
+    },
+    {
+      "ticker": "2359",
+      "name": "所羅門",
+      "positioning": "AI視覺／機器人感知高風險事件股",
+      "rating": "C+（維持）",
+      "evidence": ["公司公開AI視覺與機器人感知方案", "自動化展提供產品與客戶回饋的公開驗證窗口"],
+      "risks": ["缺乏本輪新增營收、訂單或財報證據", "題材提前反映且波動高"],
+      "confirm_signals": ["感知族群多檔共振", "拉回縮量後出現明確承接"],
+      "invalidations": ["單股急拉無族群跟隨", "爆量不漲或跌破事件前結構"],
+      "exit_logic": "禁止追第一根紅K；若未出現族群驗證則取消事件交易。",
+      "trade_status": "WAIT；禁止追價；0持股"
+    },
+    {
+      "ticker": "6125",
+      "name": "廣運",
+      "positioning": "設備／自動化鏈後順位候選",
+      "rating": "B-（維持）",
+      "evidence": ["公司既有設備與自動化業務定位", "展會提供設備需求與供應鏈擴散的公開觀察窗口"],
+      "risks": ["本輪仍缺新增公司級營收或訂單證據", "核心族群不強時後順位股更易失速"],
+      "confirm_signals": ["大銀、上銀等核心先轉強", "設備鏈多檔量價擴散"],
+      "invalidations": ["核心股先跌", "廣運單股量增不漲或族群無擴散"],
+      "exit_logic": "核心未確認前不進場；未來成交後若擴散結束，優先退出後順位部位。",
+      "trade_status": "WAIT；0成交；0持股"
+    },
+    {
+      "ticker": "2330",
+      "name": "台積電",
+      "positioning": "電子權值／市場風險確認器",
+      "rating": "B-（維持）",
+      "evidence": ["2026-08-18台股官方收盤2,380元", "TSM ADR正式收413.41美元、跌4.07%，未再破410.765低點"],
+      "risks": ["SOX正式終值仍跌4.98%", "台幣官方收盤轉弱、長端殖利率與油價壓力提高估值風險"],
+      "confirm_signals": ["加權守45,225.42並站回45,857.27", "開盤承接、電子與櫃買廣度同步改善"],
+      "invalidations": ["加權有效跌破45,225.42", "台積電與櫃買同步擴跌且反彈無量"],
+      "exit_logic": "目前只作市場確認器；若未來成交，跌破風險預設結構即退出，不以ADR跌幅推算保證價格。",
+      "trade_status": "WAIT；僅作市場確認；0持股"
+    }
+  ],
+  "ledger": {
+    "total_assets_twd": 26000,
+    "unrestricted_cash_twd": 20000,
+    "restricted_cash_twd": 6000,
+    "recognized_income_twd": 6000,
+    "stock_trades": 0,
+    "stock_positions": 0,
+    "signed_work_order_twd": 420000,
+    "third_party_escrow_twd": 80000,
+    "escrow_accounting": "可退且尚未驗收，屬條件性第三方保管款，不計入本金、收入或自由現金",
+    "rejected_option_twd": 10000000,
+    "rights_valuation_twd": 0,
+    "note": "觀察股未成交；42萬元為簽署工作單，8萬元未驗收，均不灌本金。"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "update_id": "U20260818-2105",
+  "market_summary": "8/18盤後、8/19機器人/自動化展前夕；四檔全WAIT，明日用量價、相對強弱、族群共振與實機/公開資訊驗證。",
+  "watchlist": [
+    {
+      "ticker": "4576",
+      "name": "大銀微系統",
+      "positioning": "波段候選",
+      "rating": "A",
+      "evidence": [
+        "精密運動控制與智慧自動化為核心方向",
+        "與機器人/自動化展題材具直接驗證性"
+      ],
+      "risks": [
+        "題材提前反映",
+        "開高走低或爆量長上影"
+      ],
+      "confirm_signals": [
+        "量能放大",
+        "相對大盤強",
+        "運控/零組件2–3檔共振"
+      ],
+      "invalidations": [
+        "族群不同步",
+        "爆量長上影",
+        "計畫風險>本金約1%"
+      ],
+      "trade_status": "WAIT"
+    },
+    {
+      "ticker": "2359",
+      "name": "所羅門",
+      "positioning": "短線事件",
+      "rating": "A-",
+      "evidence": [
+        "AI視覺與機器人應用布局",
+        "展場題材可用族群擴散驗證"
+      ],
+      "risks": [
+        "題材波動大",
+        "可能單股煙火"
+      ],
+      "confirm_signals": [
+        "量價同步",
+        "AI視覺/機器人族群擴散"
+      ],
+      "invalidations": [
+        "爆量不漲",
+        "跌破首波有效支撐"
+      ],
+      "trade_status": "WAIT"
+    },
+    {
+      "ticker": "6125",
+      "name": "廣運",
+      "positioning": "短線擴散",
+      "rating": "B+",
+      "evidence": [
+        "設備/自動化鏈定位",
+        "核心股轉強後可觀察資金擴散"
+      ],
+      "risks": [
+        "量縮",
+        "相對弱勢"
+      ],
+      "confirm_signals": [
+        "核心先強",
+        "設備鏈擴散",
+        "量增站穩"
+      ],
+      "invalidations": [
+        "無族群擴散",
+        "量縮相對弱"
+      ],
+      "trade_status": "WAIT"
+    },
+    {
+      "ticker": "2049",
+      "name": "上銀",
+      "positioning": "波段研究池",
+      "rating": "B+",
+      "evidence": [
+        "AI雙臂物流機器人、人形核心模組與智慧夾爪公開布局",
+        "機器人/運動控制具產業鏈驗證性"
+      ],
+      "risks": [
+        "大型股短線彈性可能不足",
+        "題材提前反映"
+      ],
+      "confirm_signals": [
+        "核心零組件同步轉強",
+        "量價健康"
+      ],
+      "invalidations": [
+        "無族群共振",
+        "開高走低或爆量不漲"
+      ],
+      "trade_status": "WAIT"
+    }
+  ],
+  "ledger": {
+    "starting_capital": 20000,
+    "trades": 0,
+    "positions": 0,
+    "fees": 0,
+    "tax": 0,
+    "realized_pnl": 0,
+    "unrealized_pnl": 0,
+    "total_pnl": 0,
+    "available_cash": 20000,
+    "receivables_not_counted": [
+      6000,
+      30000,
+      50000
+    ]
+  }
+}

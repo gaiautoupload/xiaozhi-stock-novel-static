@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1500" viewBox="0 0 1200 1500">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071426"/><stop offset="1" stop-color="#102a43"/></linearGradient><style>text{font-family:'Noto Sans TC','Microsoft JhengHei',sans-serif}.t{fill:#f8fafc}.m{fill:#a9bad0}.g{fill:#49d49d}.r{fill:#ff7a85}.y{fill:#ffd166}.box{fill:#10283f;stroke:#294966;stroke-width:2}.small{font-size:22px}.body{font-size:27px}.h{font-size:34px;font-weight:700}.title{font-size:48px;font-weight:800}</style></defs>
+  <rect width="1200" height="1500" fill="url(#bg)"/>
+  <text x="60" y="75" class="t title">第42回｜選股與帳本校正</text><text x="60" y="112" class="m small">2026/08/19 05:25 TPE｜台股休市・不捏造即時成交</text>
+  <rect x="50" y="145" width="1100" height="185" rx="22" class="box"/>
+  <text x="80" y="195" class="t h">市場結論</text><text x="80" y="240" class="r body">SOX 11,992.46・-4.98%｜TSM ADR 413.41・-4.07%</text><text x="80" y="280" class="t body">ABC偏A段信心 62% → 61%：略收斂，但未確認B段</text><text x="80" y="315" class="y small">紀律：不追空、不搶反彈；等台股四重確認</text>
+  <text x="60" y="385" class="t h">觀察池｜全部 WAIT</text>
+  <g transform="translate(50 410)"><rect width="1100" height="130" rx="18" class="box"/><text x="28" y="45" class="t h">4576 大銀微系統</text><text x="890" y="45" class="g h">A-</text><text x="28" y="84" class="m small">7月營收+60.14%；前7月+49.67%</text><text x="28" y="115" class="t small">確認：45,225守住＋運控2–3檔共振｜失效：破支撐且廣度惡化</text></g>
+  <g transform="translate(50 555)"><rect width="1100" height="130" rx="18" class="box"/><text x="28" y="45" class="t h">2049 上銀</text><text x="890" y="45" class="y h">B</text><text x="28" y="84" class="m small">雙臂八軸、核心模組、智慧夾爪；展示不等於訂單</text><text x="28" y="115" class="t small">確認：零組件共振＋權值止穩｜失效：無擴散／權值擴跌</text></g>
+  <g transform="translate(50 700)"><rect width="1100" height="130" rx="18" class="box"/><text x="28" y="45" class="t h">2359 所羅門</text><text x="890" y="45" class="r h">C+</text><text x="28" y="84" class="m small">AI視覺／感知事件股；本輪缺新增營運證據</text><text x="28" y="115" class="t small">確認：感知多檔共振｜失效：單股急拉、爆量不漲</text></g>
+  <g transform="translate(50 845)"><rect width="1100" height="130" rx="18" class="box"/><text x="28" y="45" class="t h">6125 廣運</text><text x="890" y="45" class="y h">B-</text><text x="28" y="84" class="m small">設備／自動化後順位；缺新增公司級證據</text><text x="28" y="115" class="t small">確認：核心先強＋設備鏈擴散｜失效：核心先跌</text></g>
+  <g transform="translate(50 990)"><rect width="1100" height="130" rx="18" class="box"/><text x="28" y="45" class="t h">2330 台積電</text><text x="890" y="45" class="y h">B-</text><text x="28" y="84" class="m small">市場確認器；ADR未再破410.765，但SOX仍重挫</text><text x="28" y="115" class="t small">確認：守45,225＋承接與廣度改善｜失效：電子／櫃買同步惡化</text></g>
+  <rect x="50" y="1150" width="1100" height="265" rx="22" class="box"/>
+  <text x="80" y="1200" class="t h">誠實帳本</text><text x="80" y="1245" class="g body">總資產 26,000｜自由現金 20,000｜限制款 6,000</text><text x="80" y="1285" class="t body">股票：0成交・0持股・0已實現損益</text><text x="80" y="1325" class="y body">42萬元工作單已簽；8萬元進第三方保管</text><text x="80" y="1365" class="m small">尚未驗收且可退：不列本金、不列收入、不列自由現金</text><text x="80" y="1400" class="m small">一千萬元陷阱已拒絕；安全模組權利仍以0元估值</text>
+  <text x="60" y="1470" class="m small">僅供情境研究，不保證獲利；確認訊號與失效條件優先於題材。</text>
+</svg>

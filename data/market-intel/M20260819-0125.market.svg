@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc">
+  <title id="title">M20260819-0125 台股市場即時與ABC波段資訊卡</title>
+  <desc id="desc">台股休市、美股盤中風險、美元台幣、ABC情境、資金輪動與下一交易時段注意事項。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111f"/><stop offset="1" stop-color="#10253a"/></linearGradient>
+    <style>
+      text{font-family:"Noto Sans TC","PingFang TC","Microsoft JhengHei",sans-serif;fill:#edf6ff}.muted{fill:#94a9be}.cyan{fill:#5eead4}.red{fill:#fb7185}.amber{fill:#fbbf24}.green{fill:#86efac}.h1{font-size:48px;font-weight:800}.h2{font-size:29px;font-weight:800}.h3{font-size:22px;font-weight:700}.big{font-size:42px;font-weight:800}.body{font-size:19px}.small{font-size:16px}.card{fill:#102a43;stroke:#285070;stroke-width:2}.chip{fill:#183b56}.line{stroke:#315b78;stroke-width:2}.down{stroke:#fb7185;stroke-width:6;fill:none}.alt{stroke:#5eead4;stroke-width:4;fill:none;stroke-dasharray:12 10}
+    </style>
+  </defs>
+  <rect width="1200" height="1600" fill="url(#bg)"/>
+  <rect x="48" y="42" width="1104" height="130" rx="24" class="card"/>
+  <text x="82" y="98" class="h1">市場即時／ABC 波段</text>
+  <text x="84" y="139" class="body muted">M20260819-0125｜台股盤前休市・美股盤中／延遲｜資料時間不同皆有標示</text>
+
+  <g transform="translate(48 196)">
+    <rect width="260" height="150" rx="22" class="card"/><text x="24" y="38" class="small muted">加權 8/18 收盤</text><text x="24" y="92" class="big">45,308.68</text><text x="24" y="128" class="h3 red">-1.20%</text>
+    <rect x="282" width="260" height="150" rx="22" class="card"/><text x="306" y="38" class="small muted">櫃買 8/18 收盤</text><text x="306" y="92" class="big">390.83</text><text x="306" y="128" class="h3 red">-1.88%</text>
+    <rect x="564" width="260" height="150" rx="22" class="card"/><text x="588" y="38" class="small muted">USD/TWD 可查區間</text><text x="588" y="92" class="big">31.93–31.96</text><text x="588" y="128" class="h3 amber">美元偏強</text>
+    <rect x="846" width="258" height="150" rx="22" class="card"/><text x="870" y="38" class="small muted">隔夜半導體壓力</text><text x="870" y="88" class="h2 red">SOX 約 -5.4%</text><text x="870" y="126" class="h3 red">TSM ADR -4.22%</text>
+  </g>
+
+  <rect x="48" y="374" width="1104" height="210" rx="24" class="card"/>
+  <text x="78" y="420" class="h2">01:05 → 01:25 二次驗證</text>
+  <text x="78" y="462" class="body"><tspan class="red">風險惡化：</tspan> SOX由約-3.7%擴至約-5.4%；TSM ADR約412.79美元、-4.22%。</text>
+  <text x="78" y="500" class="body">Nasdaq約-1.3%；美國10年債約4.72–4.74%，30年債觸及2007年以來高位。</text>
+  <text x="78" y="538" class="body">美伊緊張支撐油價；美元指數約99.59、微跌，長債與油價仍壓縮高估值科技。</text>
+  <rect x="850" y="404" width="260" height="132" rx="18" class="chip"/>
+  <text x="875" y="444" class="small muted">結論</text><text x="875" y="484" class="h3 amber">前20分鐘禁止追價</text><text x="875" y="516" class="small">開幕不是買進理由</text>
+
+  <rect x="48" y="610" width="690" height="360" rx="24" class="card"/>
+  <text x="78" y="656" class="h2">ABC 情境：較像 A 段初跌</text>
+  <text x="78" y="692" class="body amber">信心 58%｜情境推演，不是確定預言</text>
+  <line x1="100" y1="790" x2="680" y2="790" class="line"/>
+  <text x="100" y="770" class="small muted">46,064 高點</text><text x="535" y="770" class="small muted">45,857 前收／反壓</text>
+  <path d="M120 800 C220 720, 300 735, 370 810 S500 910, 650 900" class="down"/>
+  <path d="M370 810 C460 760, 535 745, 635 770" class="alt"/>
+  <text x="390" y="865" class="small red">A 延伸：跌破45,225且廣度惡化</text>
+  <text x="390" y="735" class="small cyan">替代：守低點＋站回45,857 → B反彈</text>
+  <text x="78" y="925" class="body"><tspan class="green">支撐：</tspan>45,225.42／45,000　<tspan class="amber">壓力：</tspan>45,857.27／46,064.09</text>
+
+  <rect x="764" y="610" width="388" height="360" rx="24" class="card"/>
+  <text x="794" y="656" class="h2">三種劇本</text>
+  <text x="794" y="706" class="h3 green">多方</text><text x="794" y="738" class="small">台積電吸收ADR壓力；守45,225</text><text x="794" y="765" class="small">並站回45,857，機器人2–3檔共振。</text>
+  <text x="794" y="815" class="h3 amber">基準</text><text x="794" y="847" class="small">45,225–45,857震盪，高速輪動；</text><text x="794" y="874" class="small">只確認，不追展會開幕。</text>
+  <text x="794" y="924" class="h3 red">空方</text><text x="794" y="956" class="small">跌破45,225＋廣度惡化，高Beta補跌。</text>
+
+  <rect x="48" y="996" width="536" height="274" rx="24" class="card"/>
+  <text x="78" y="1042" class="h2">資金與匯率關係</text>
+  <text x="78" y="1084" class="body">• 外資 -119.86億；三大法人 -239.30億</text>
+  <text x="78" y="1122" class="body">• 台幣偏弱：電子權值籌碼壓力升高</text>
+  <text x="78" y="1160" class="body">• 出口換算可能受惠，但進口能源成本上升</text>
+  <text x="78" y="1198" class="body">• 壽險美元資產利多須扣除避險與長債波動</text>
+  <text x="78" y="1236" class="small muted">匯率與外資為關聯線索，不作單日因果推定。</text>
+
+  <rect x="610" y="996" width="542" height="274" rx="24" class="card"/>
+  <text x="640" y="1042" class="h2">輪動與風險</text>
+  <text x="640" y="1084" class="body green">相對強：金融、食品、航運、能源、防禦</text>
+  <text x="640" y="1122" class="body red">相對弱：半導體、AI高估值、機電、高Beta</text>
+  <text x="640" y="1160" class="body">機器人展：只有量價＋廣度＋公開證據才升級</text>
+  <text x="640" y="1198" class="body">主要風險：SOX、TSM ADR、長債、油價、台幣</text>
+
+  <rect x="48" y="1296" width="1104" height="244" rx="24" class="card"/>
+  <text x="78" y="1342" class="h2">接下來20分鐘／下一交易時段</text>
+  <text x="78" y="1385" class="body">1　08:45前確認美股最終收盤；盤中數字不可冒充收盤。</text>
+  <text x="78" y="1425" class="body">2　09:00–09:20看台積電承接、45,225支撐與上市／上櫃廣度。</text>
+  <text x="78" y="1465" class="body">3　大銀／上銀／所羅門／廣運須2–3檔共振；單股急拉不算。</text>
+  <text x="78" y="1505" class="body">4　10:00後只用官方公告與公開展場證據更新，不碰私人消息。</text>
+  <text x="48" y="1574" class="small muted">資料截至 2026-08-19 01:25（台北）｜研究觀察，不保證獲利｜美股為盤中／延遲行情</text>
+</svg>

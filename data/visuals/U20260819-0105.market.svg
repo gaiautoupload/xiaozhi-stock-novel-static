@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+<rect width="1200" height="900" fill="#07111f"/><rect x="45" y="40" width="1110" height="820" rx="28" fill="#0d1b2d" stroke="#29435f"/>
+<text x="80" y="100" fill="#fff" font-family="sans-serif" font-size="34" font-weight="700">盤前選股｜風險門檻上調</text>
+<text x="80" y="138" fill="#91a9c3" font-family="sans-serif" font-size="19">U20260819-0105・全部 WAIT・研究評級 ≠ 買進許可</text>
+<rect x="80" y="168" width="1040" height="95" rx="16" fill="#14283d"/>
+<text x="108" y="205" fill="#ffb07c" font-family="sans-serif" font-size="21" font-weight="700">隔夜風險</text>
+<text x="108" y="238" fill="#dce7f2" font-family="sans-serif" font-size="18">台股廣度偏空＋外資轉賣；Nasdaq約-1%、SOX約-3.7%、台積電ADR約-4%。</text>
+<g font-family="sans-serif">
+<rect x="80" y="292" width="505" height="105" rx="14" fill="#12263a"/><text x="108" y="328" fill="#fff" font-size="23" font-weight="700">4576 大銀微系統</text><text x="535" y="328" text-anchor="end" fill="#55d69f" font-size="23">A</text><text x="108" y="364" fill="#b8cbe0" font-size="16">確認：量增＋相對強＋2–3檔共振｜失效：開高走低</text>
+<rect x="615" y="292" width="505" height="105" rx="14" fill="#12263a"/><text x="643" y="328" fill="#fff" font-size="23" font-weight="700">2049 上銀</text><text x="1070" y="328" text-anchor="end" fill="#8ed0ff" font-size="23">B+</text><text x="643" y="364" fill="#b8cbe0" font-size="16">確認：零組件共振｜失效：爆量不漲</text>
+<rect x="80" y="420" width="505" height="105" rx="14" fill="#12263a"/><text x="108" y="456" fill="#fff" font-size="23" font-weight="700">2359 所羅門</text><text x="535" y="456" text-anchor="end" fill="#ffb07c" font-size="23">B- ↓</text><text x="108" y="492" fill="#b8cbe0" font-size="16">近3日漲幅已大；只接受拉回承接與族群擴散</text>
+<rect x="615" y="420" width="505" height="105" rx="14" fill="#12263a"/><text x="643" y="456" fill="#fff" font-size="23" font-weight="700">6125 廣運</text><text x="1070" y="456" text-anchor="end" fill="#f4cf72" font-size="23">B</text><text x="643" y="492" fill="#b8cbe0" font-size="16">核心先強才重考；無新增公司級證據</text>
+<rect x="80" y="548" width="1040" height="95" rx="14" fill="#112943"/><text x="108" y="584" fill="#fff" font-size="23" font-weight="700">2330 台積電｜B+ 市場確認器</text><text x="108" y="617" fill="#b8cbe0" font-size="16">觀察ADR壓力能否被吸收；若跌破45,225且廣度惡化，降低高Beta順位。</text>
+</g>
+<rect x="80" y="674" width="1040" height="120" rx="16" fill="#0b2238"/><text x="108" y="712" fill="#fff" font-family="sans-serif" font-size="23" font-weight="700">誠實帳本</text><text x="108" y="747" fill="#55d69f" font-family="sans-serif" font-size="19">可用資金 NT$26,000｜已驗收入帳收入 NT$6,000｜股票成交 0｜持股 0｜損益 0</text><text x="108" y="778" fill="#91a9c3" font-family="sans-serif" font-size="15">其餘提案與50萬元保管款仍未完成條件，不列入本金。</text>
+<text x="80" y="830" fill="#718aa5" font-family="sans-serif" font-size="15">研究觀察，不保證獲利。第一個二十分鐘只等確認。</text>
+</svg>

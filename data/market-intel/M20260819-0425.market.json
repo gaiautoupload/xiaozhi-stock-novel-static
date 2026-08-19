@@ -1,0 +1,33 @@
+{
+  "market_id":"M20260819-0425",
+  "as_of":"2026-08-19T04:25:00+08:00",
+  "session_status":"Taiwan market closed; U.S. regular session closed; later revisions possible where providers disagree.",
+  "sources":[
+    {"title":"TWSE market index","url":"https://accessibility.twse.com.tw/zh/trading/exchange/MI_INDEX-ind.html","published_at":"2026-08-18","accessed_at":"2026-08-19T04:25:00+08:00"},
+    {"title":"TPEx index","url":"https://www.tpex.org.tw/zh-tw/mainboard/trading/info/indices-pricing.html","published_at":"2026-08-18","accessed_at":"2026-08-19T04:25:00+08:00"},
+    {"title":"CBC daily exchange rates","url":"https://www.cbc.gov.tw/tw/lp-645-1.html","published_at":"2026-08-18","accessed_at":"2026-08-19T04:25:00+08:00"},
+    {"title":"Nasdaq PHLX Semiconductor Index","url":"https://indexes.nasdaq.com/Index/Overview/SOX","published_at":"2026-08-18","accessed_at":"2026-08-19T04:25:00+08:00"},
+    {"title":"Reuters: tech selloff weighs down Wall Street","url":"https://www.reuters.com/business/us-stock-futures-drop-fading-iran-peace-hopes-lift-oil-bond-yields-2026-08-18/","published_at":"2026-08-18","accessed_at":"2026-08-19T04:25:00+08:00"},
+    {"title":"TSM quote","url":"https://finance.yahoo.com/quote/TSM/","published_at":"2026-08-18","accessed_at":"2026-08-19T04:25:00+08:00"}
+  ],
+  "breaking_news":[
+    {"headline":"美股收低，科技與半導體賣壓主導","status":"confirmed","detail":"Reuters報導S&P 500跌0.67%、Nasdaq跌1.31%、Dow跌0.22%；長債殖利率與油價上行壓抑成長股。"},
+    {"headline":"TSM ADR正式收盤弱於04:05盤末觀察","status":"confirmed_with_provider_variance","detail":"即時工具約413.45美元、跌4.07%；MarketWatch顯示413.37美元、跌4.08%。均低於04:05觀察415.05，但未再破410.765低點。"},
+    {"headline":"SOX重挫約5%","status":"confirmed_with_revision_risk","detail":"Nasdaq官方Overview顯示11981.69、-5.07%；History頁面另見11992.46、-4.98%，保留供應商修訂差異。"}
+  ],
+  "index_snapshot":{
+    "taiex":{"status":"closed","date":"2026-08-18","close":45308.68,"high":46064.09,"low":45225.42,"note":"official close; no overnight Taiwan trading"},
+    "tpex":{"status":"closed","date":"2026-08-18","close":390.83,"change_pct":-1.88,"note":"official close"},
+    "nasdaq":{"status":"closed","date":"2026-08-18","change_pct":-1.31,"source":"Reuters"},
+    "sox":{"status":"closed_with_provider_revision_risk","date":"2026-08-18","value":11981.69,"change_pct":-5.07,"high":12228.06,"low":11828.46,"alternate_value":11992.46,"alternate_change_pct":-4.98}
+  },
+  "fx_snapshot":{"usd_twd":{"date":"2026-08-18","close":31.945,"previous_close":31.852,"direction":"USD stronger / TWD weaker","implications":["外資風險偏好與電子估值承壓","出口商換匯收入較有利但不等同股價利多","進口成本與壽險避險成本風險上升"]},"usd_jpy":{"value":"unavailable","status":"stale/not refreshed in this cycle"},"dollar_index":{"value":"unavailable","status":"no reliable synchronized snapshot"}},
+  "cross_asset":{"tsm_adr":{"close_approx":413.45,"change_pct_approx":-4.07,"high":423.0,"low":410.765,"status":"closed; minor provider variance"},"us_10y_yield":{"value":"unavailable","direction":"elevated per Reuters","status":"no synchronized official close value"},"oil":{"value":"unavailable","direction":"higher","impact":"inflation and long-yield pressure"},"fed":"July meeting minutes and Jackson Hole remain next policy catalysts","us_futures":"unavailable after regular close"},
+  "breadth_and_flow":{"taiwan_breadth":"stale: 2026-08-18 close","foreign_investors":"official 2026-08-18 flow retained; next session pending","three_institutions":"next-session data pending","us_breadth":"negative; chip selling broad, all 30 SOX components were reported lower intraday","volume_price":"TSM closed above intraday low but below 04:05 observation; rebound lacked confirmation"},
+  "sector_rotation":{"stronger_relative":["energy","healthcare","consumer staples","cash/defensive"],"weaker":["semiconductors","AI high-beta","technology","memory"],"taiwan_watch":["electronic heavyweights first","robotics motion-control breadth second","avoid treating exhibition headlines as order evidence"]},
+  "abc_wave":{"framework":"Elliott/ABC correction scenario analysis, not a forecast","current_interpretation":"More consistent with A-leg risk release than confirmed B rebound; confidence raised from 58% to 61% after weak U.S. close.","anchors":[{"name":"TAIEX 8/18 high","value":46064.09},{"name":"TAIEX 8/18 low/support","value":45225.42},{"name":"TAIEX prior reference resistance","value":45857.27},{"name":"SOX 8/18 low","value":11828.46},{"name":"TSM ADR 8/18 low","value":410.765}],"support":[45225.42],"resistance":[45857.27,46064.09],"alternate_scenario":"If TAIEX holds 45225.42, reclaims 45857.27, TSM/semis stabilize and breadth improves, an early B rebound becomes plausible.","invalidation":"A-leg extension view loses force if price reclaims resistance with healthy breadth; B-rebound view fails if 45225.42 breaks with electronic and OTC breadth deterioration.","confidence":0.61},
+  "scenarios":{"bullish":"Hold 45225.42, reclaim 45857.27, TSM stabilizes and robotics has 2-3-stock breadth; only then discuss B rebound.","base":"Weak or volatile open, support test, selective defensive rotation; keep watchlist WAIT until breadth confirms.","bearish":"Break 45225.42 with TSM/electronics and TPEx breadth worsening; A-leg extension probability rises."},
+  "next_confirmations":["Verify final provider revisions for SOX and TSM ADR","08:30 rights-preservation deadline is story-only and must not affect trading","09:00-09:20 TAIEX support, TSM opening absorption, TPEx breadth","robotics motion-control versus vision versus equipment breadth","official three-institution flow when published"],
+  "risk_flags":["SOX about -5%","TSM ADR about -4%","TWD weaker at 31.945","long yields and oil elevated","provider variance in final U.S. close data","exhibition-news chase risk"],
+  "website_summary":"美股正式收盤削弱盤末反彈：TSM ADR約413.45美元、跌4.07%，SOX官方頁面約跌5.07%，Nasdaq跌1.31%。ABC偏A段信心由58%回升至61%，但ADR未再破410.765，故不追空也不搶多；台股下一交易時段先看45225.42支撐、45857.27反壓、台積電承接與市場廣度。"
+}

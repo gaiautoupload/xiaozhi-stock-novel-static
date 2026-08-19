@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1500" viewBox="0 0 1200 1500">
+  <rect width="1200" height="1500" fill="#07111f"/>
+  <style>
+    text{font-family:"Noto Sans TC","Microsoft JhengHei",sans-serif;fill:#eaf3ff}
+    .title{font-size:44px;font-weight:800}.sub{font-size:23px;fill:#9fb4ca}.h{font-size:28px;font-weight:700;fill:#7ee0c4}
+    .b{font-size:22px}.s{font-size:18px;fill:#b9c8d8}.wait{fill:#ffcf5a;font-weight:800}.risk{fill:#ff8290}.ok{fill:#79e6b0}
+    .card{fill:#0e2034;stroke:#23425e;stroke-width:2}.line{stroke:#2b526f;stroke-width:2}
+  </style>
+  <text x="60" y="80" class="title">07:05 台股觀察卡｜休市不假裝即時</text>
+  <text x="60" y="120" class="sub">U20260819-0705｜資料時間已標示｜不保證獲利</text>
+  <rect x="50" y="160" width="1100" height="205" rx="22" class="card"/>
+  <text x="80" y="205" class="h">市場摘要</text>
+  <text x="80" y="245" class="b">加權 45,308.68｜低 45,225.42　櫃買 390.83｜低 389.92</text>
+  <text x="80" y="282" class="b">TSM ADR 413.41 美元（-4.07%）｜SOX -4.98%｜Nasdaq -1.33%</text>
+  <text x="80" y="319" class="b">USD/TWD 31.945（8/18央行收盤）｜新期指／DXY／USDJPY：</text>
+  <text x="870" y="319" class="wait">unavailable</text>
+  <text x="80" y="348" class="s">ABC情境：偏A段 63%，07:05無可靠新數字，不機械調整。</text>
+  <rect x="50" y="395" width="1100" height="595" rx="22" class="card"/>
+  <text x="80" y="440" class="h">五檔觀察｜全部 WAIT</text>
+  <line x1="80" y1="470" x2="1120" y2="470" class="line"/>
+  <text x="80" y="515" class="b">4576 大銀微系統</text><text x="400" y="515" class="wait">A-／WAIT</text>
+  <text x="590" y="515" class="s">確認：守45,225＋運控2–3檔共振</text>
+  <text x="590" y="545" class="s">失效：開高走低／破支撐且廣度惡化</text>
+  <line x1="80" y1="570" x2="1120" y2="570" class="line"/>
+  <text x="80" y="615" class="b">2049 上銀</text><text x="400" y="615" class="wait">B／WAIT</text>
+  <text x="590" y="615" class="s">確認：零組件同步＋權值止穩</text>
+  <text x="590" y="645" class="s">失效：族群無共振／權值擴跌</text>
+  <line x1="80" y1="670" x2="1120" y2="670" class="line"/>
+  <text x="80" y="715" class="b">2359 所羅門</text><text x="400" y="715" class="wait">C+／WAIT</text>
+  <text x="590" y="715" class="s">確認：感知多檔共振＋拉回承接</text>
+  <text x="590" y="745" class="s">失效：孤軍急拉／爆量不漲</text>
+  <line x1="80" y1="770" x2="1120" y2="770" class="line"/>
+  <text x="80" y="815" class="b">6125 廣運</text><text x="400" y="815" class="wait">B-／WAIT</text>
+  <text x="590" y="815" class="s">確認：核心先強＋設備鏈擴散</text>
+  <text x="590" y="845" class="s">失效：無擴散／核心先跌</text>
+  <line x1="80" y1="870" x2="1120" y2="870" class="line"/>
+  <text x="80" y="915" class="b">2330 台積電</text><text x="400" y="915" class="wait">B-／WAIT</text>
+  <text x="590" y="915" class="s">確認：守45,225＋權值與廣度改善</text>
+  <text x="590" y="945" class="s">失效：破支撐且電子／櫃買同步惡化</text>
+  <rect x="50" y="1020" width="535" height="300" rx="22" class="card"/>
+  <text x="80" y="1065" class="h">情境與風險</text>
+  <text x="80" y="1110" class="ok">多：守支撐＋權值承接＋族群共振</text>
+  <text x="80" y="1150" class="b">基：震盪測支撐，維持現金與WAIT</text>
+  <text x="80" y="1190" class="risk">空：跌破45,225與389.92且同步惡化</text>
+  <text x="80" y="1240" class="s">風險：油價、長債、科技負廣度、台幣偏弱</text>
+  <text x="80" y="1275" class="s">09:00後才用真實成交驗證。</text>
+  <rect x="615" y="1020" width="535" height="300" rx="22" class="card"/>
+  <text x="645" y="1065" class="h">帳本摘要</text>
+  <text x="645" y="1110" class="b">總資產　26,000 元</text>
+  <text x="645" y="1150" class="b">自由現金　20,000 元</text>
+  <text x="645" y="1190" class="b">限制款　6,000 元</text>
+  <text x="645" y="1230" class="b">股票成交／持倉　0／0</text>
+  <text x="645" y="1270" class="s">32萬追加案與342筆權利資料均零認列。</text>
+  <rect x="50" y="1350" width="1100" height="95" rx="18" fill="#112b38" stroke="#38756b"/>
+  <text x="80" y="1392" class="b">下一步：08:30確認可靠盤前資料；09:00–09:20看支撐、權值承接、櫃買廣度與機器人共振。</text>
+  <text x="80" y="1425" class="s">觀察不等於成交；確認訊號未到，不追價、不預設獲利。</text>
+</svg>

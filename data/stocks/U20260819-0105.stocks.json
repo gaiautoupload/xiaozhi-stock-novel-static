@@ -1,0 +1,89 @@
+{
+  "schema_version": 2,
+  "update_id": "U20260819-0105",
+  "sequence": 67,
+  "published_at": "2026-08-19T01:05:00+08:00",
+  "market_summary": "台股8/18開高走低且市場廣度偏空，美股8/18交易時段半導體與台積電ADR承壓；8/19開盤前維持風險優先，展會不是買進理由。",
+  "watchlist": [
+    {
+      "ticker": "4576",
+      "name": "大銀微系統",
+      "positioning": "精密運動控制／智慧自動化；波段候選",
+      "rating": "A（維持）",
+      "evidence": ["官方2026年7月營收366,927千元、年增60.14%。","官方2026年前7月累計營收2,243,495千元、年增49.67%。","8/19–8/22自動化展提供公開實機驗證場景。"],
+      "risks": ["台股廣度偏空","美股半導體風險升高","展前提前反映","高波動"],
+      "confirm_signals": ["量能放大","相對大盤強","運控／零組件2–3檔共振","拉回承接"],
+      "invalidations": ["開高走低","爆量不漲或長上影","族群不同步","單筆風險無法壓在本金約1%"],
+      "exit_logic": "未確認不進場；進場後跌破首波有效支撐、相對強勢消失或觸及事前風險上限即退出。",
+      "trade_status": "WAIT"
+    },
+    {
+      "ticker": "2049",
+      "name": "上銀",
+      "positioning": "機器人關鍵零組件／Physical AI；族群確認股",
+      "rating": "B+（維持）",
+      "evidence": ["公司官方公開雙臂八軸物流機器人與人形機器人核心模組。","公司官方公開智慧夾爪與Dexterity合作布局。"],
+      "risks": ["展示不等於訂單","大型股短線彈性可能不足","美股科技風險外溢"],
+      "confirm_signals": ["核心零組件多檔同步轉強","量價健康","相對大盤強"],
+      "invalidations": ["無族群共振","開高走低","爆量不漲"],
+      "exit_logic": "只作族群確認；共振消失即取消候選。",
+      "trade_status": "WAIT"
+    },
+    {
+      "ticker": "2359",
+      "name": "所羅門",
+      "positioning": "AI視覺／機器人感知；短線事件",
+      "rating": "B-（由B下調）",
+      "evidence": ["公司公開資料支持AI視覺與機器人整合方向。","第一金證券8/18研究摘要指出近3工作日約漲22%，展會催化已部分反映。"],
+      "risks": ["短線漲幅已大","題材兌現","美股半導體轉弱","爆量長上影"],
+      "confirm_signals": ["視覺／感知多檔共振","量價同步","拉回守住首波支撐"],
+      "invalidations": ["單股急拉無擴散","爆量不漲","跌破首波支撐"],
+      "exit_logic": "事件交易失效即退；不因展會開幕延長停損。",
+      "trade_status": "WAIT"
+    },
+    {
+      "ticker": "6125",
+      "name": "廣運",
+      "positioning": "設備／自動化鏈擴散；短線候選",
+      "rating": "B（維持）",
+      "evidence": ["既有設備／自動化鏈定位可觀察下游擴散。","官方展覽包含搬運、控制與機器人設備，提供產業熱度窗口。"],
+      "risks": ["缺新增公司級營收、訂單或產品證據","量縮相對弱","擴散假設未驗證"],
+      "confirm_signals": ["核心機器人股先強","設備鏈多檔擴散","量增站穩"],
+      "invalidations": ["無擴散","量縮相對弱","急拉無承接"],
+      "exit_logic": "核心未先強不碰；擴散失敗取消。",
+      "trade_status": "WAIT"
+    },
+    {
+      "ticker": "2330",
+      "name": "台積電",
+      "positioning": "電子權值／市場風險確認器",
+      "rating": "B+（新增觀察）",
+      "evidence": ["8/18台股收2,380元、跌0.83%，為電子權值風向。","8/18美國交易時段ADR約413.5美元、跌約4.05%，顯示隔夜風險升高。"],
+      "risks": ["美債殖利率高檔","SOX轉弱","地緣政治與油價推升通膨風險"],
+      "confirm_signals": ["開盤後ADR折價壓力被吸收","電子權值同步止穩","大盤站回前收或形成有效承接"],
+      "invalidations": ["開低後無承接","電子權值擴大跌幅","加權跌破45225.42且廣度惡化"],
+      "exit_logic": "本列僅作市場確認，不取得獨立交易資格；風險擴大時降低所有高Beta候選順位。",
+      "trade_status": "WAIT"
+    }
+  ],
+  "ledger": {
+    "capital_twd": 26000,
+    "available_cash_twd": 26000,
+    "recognized_income_twd": 6000,
+    "income_status": "已完成交付、驗收並實際入帳；撤回申請尚未成立，先保留銀行紀錄。",
+    "executed_stock_trades": 0,
+    "holdings": [],
+    "realized_pnl_twd": 0,
+    "unrealized_pnl_twd": 0,
+    "pending_proposals_twd": [30000,50000,70000,100000,120000,1200000,3000000],
+    "pending_escrow_twd": 500000
+  },
+  "sources": [
+    "https://www.hiwinmikro.tw/zh/investor/financial",
+    "https://www.hiwin.tw/news_content.aspx?newsID=25581",
+    "https://www.hiwin.tw/news_content.aspx?newsID=25582",
+    "https://www.fbs.com.tw/ResearchReport/ArticleList",
+    "https://automationtaipei.chanchao.com.tw/ExhibitorInfo"
+  ],
+  "disclaimer": "研究觀察，不保證獲利；全部WAIT，沒有股票成交。"
+}

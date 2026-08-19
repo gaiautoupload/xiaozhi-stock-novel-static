@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <defs>
+    <style>.t{font-family:"Noto Sans TC","PingFang TC",sans-serif;fill:#172033}.m{fill:#647084}.g{fill:#116b52}.r{fill:#b53c46}.gold{fill:#a36c00}.box{fill:#fff;stroke:#d8dde7;stroke-width:2}.h{font-size:38;font-weight:800}.s{font-size:24}.xs{font-size:19}.grade{font-size:34;font-weight:900}</style>
+  </defs>
+  <rect width="1200" height="1600" fill="#f2f0e9"/>
+  <text x="65" y="82" class="t h">今日選股研究卡｜U20260819-0205</text>
+  <text x="65" y="122" class="t m s">隔夜科技風險未收斂・全部 WAIT・零成交</text>
+  <g transform="translate(65 165)">
+    <rect width="1070" height="190" rx="20" class="box"/><text x="35" y="48" class="t s">4576 大銀微系統｜精密運動控制</text><text x="920" y="48" class="g grade">A-</text>
+    <text x="35" y="90" class="t xs">證據：7月營收年增60.14%；前7月累計年增49.67%。</text><text x="35" y="128" class="r xs">風險：SOX約-5.4%、高Beta折價、展會提前反映。</text><text x="35" y="164" class="m xs">確認：守支撐＋相對強＋運控2–3檔共振；否則取消。</text>
+  </g>
+  <g transform="translate(65 380)">
+    <rect width="1070" height="190" rx="20" class="box"/><text x="35" y="48" class="t s">2049 上銀｜機器人關鍵零組件</text><text x="940" y="48" class="gold grade">B</text>
+    <text x="35" y="90" class="t xs">證據：雙臂物流機器人、人形核心模組、智慧夾爪公開布局。</text><text x="35" y="128" class="r xs">風險：科技風險外溢；展示不等於訂單。</text><text x="35" y="164" class="m xs">確認：零組件共振＋電子權值止穩；無共振即退出。</text>
+  </g>
+  <g transform="translate(65 595)">
+    <rect width="1070" height="190" rx="20" class="box"/><text x="35" y="48" class="t s">2359 所羅門｜AI視覺／事件觀察</text><text x="920" y="48" class="r grade">C+</text>
+    <text x="35" y="90" class="t xs">證據：公開AI視覺方向；近3工作日約漲22%。</text><text x="35" y="128" class="r xs">風險：題材兌現、補跌、爆量長上影。</text><text x="35" y="164" class="m xs">確認：禁止追第一根紅K；等多檔共振與拉回承接。</text>
+  </g>
+  <g transform="translate(65 810)">
+    <rect width="1070" height="190" rx="20" class="box"/><text x="35" y="48" class="t s">6125 廣運｜設備鏈擴散</text><text x="920" y="48" class="gold grade">B-</text>
+    <text x="35" y="90" class="t xs">證據：設備鏈定位＋自動化展公開產業窗口。</text><text x="35" y="128" class="r xs">風險：缺新增公司級證據；擴散尚未驗證。</text><text x="35" y="164" class="m xs">確認：核心先強＋設備鏈多檔擴散；核心先跌即取消。</text>
+  </g>
+  <g transform="translate(65 1025)">
+    <rect width="1070" height="190" rx="20" class="box"/><text x="35" y="48" class="t s">2330 台積電｜市場風險確認器</text><text x="920" y="48" class="r grade">B-</text>
+    <text x="35" y="90" class="t xs">證據：8/18本地收2,380；ADR 17:52 UTC約-4.29%。</text><text x="35" y="128" class="r xs">風險：SOX弱、長債高、油價與地緣通膨。</text><text x="35" y="164" class="m xs">確認：開低收斂＋權值止穩＋加權守45,225。</text>
+  </g>
+  <rect x="65" y="1245" width="1070" height="250" rx="20" fill="#172033"/>
+  <text x="100" y="1295" fill="#f6c453" class="s">誠實帳本</text>
+  <text x="100" y="1340" fill="#fff" class="xs">總資產 26,000｜自由現金 20,000｜限制款 6,000</text>
+  <text x="100" y="1380" fill="#fff" class="xs">股票成交 0｜持股 0｜已實現／未實現損益 0</text>
+  <text x="100" y="1420" fill="#fff" class="xs">18萬委任已簽但待分階段驗收；6萬保管款尚未撥付。</text>
+  <text x="100" y="1460" fill="#a9b6c7" class="xs">觀察≠成交；未驗收／未付款收入不灌本金。</text>
+  <text x="65" y="1550" class="t m xs">研究觀察，不保證獲利｜下一交易時段前20分鐘禁止追價</text>
+</svg>

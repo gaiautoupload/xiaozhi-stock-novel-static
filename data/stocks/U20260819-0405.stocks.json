@@ -1,0 +1,14 @@
+{
+  "schema_version":2,"update_id":"U20260819-0405","sequence":73,"published_at":"2026-08-19T04:05:00+08:00",
+  "market_summary":"台股休市；TSM ADR於2026-08-18 19:48:54 UTC報415.05美元、跌3.694%，自410.765低點反彈；Nasdaq官方SOX頁面查證值11,981.69、跌5.07%。正式結算待確認。ABC仍偏A段但信心降至58%。",
+  "watchlist":[
+    {"ticker":"4576","name":"大銀微系統","positioning":"精密運動控制／智慧自動化","rating":"A-（維持）","evidence":["公司官方7月營收366,927千元、年增60.14%","公司官方前7月累計營收2,243,495千元、年增49.67%"],"risks":["SOX仍大跌","高Beta估值折價"],"confirm_signals":["守首波支撐","運控／零組件2–3檔共振"],"invalidations":["開高走低","跌破45225.42且廣度惡化"],"exit_logic":"支撐或族群共振失效即取消／退出","trade_status":"WAIT"},
+    {"ticker":"2049","name":"上銀","positioning":"機器人關鍵零組件／Physical AI","rating":"B（維持）","evidence":["官方公開雙臂八軸物流機器人與人形核心模組","官方公開智慧夾爪及Dexterity合作布局"],"risks":["美股科技風險外溢","展示不等於訂單"],"confirm_signals":["零組件同步轉強","電子權值止穩"],"invalidations":["無共振","權值擴跌"],"exit_logic":"共振消失即取消／退出","trade_status":"WAIT"},
+    {"ticker":"2359","name":"所羅門","positioning":"AI視覺／機器人感知","rating":"C+（維持）","evidence":["公司公開AI視覺與機器人感知方向","短線題材漲幅已明顯提前反映"],"risks":["題材兌現","半導體補跌"],"confirm_signals":["感知族群多檔共振","第一波後拉回承接"],"invalidations":["單股急拉","爆量不漲"],"exit_logic":"禁止追第一根紅K；承接失效即退","trade_status":"WAIT"},
+    {"ticker":"6125","name":"廣運","positioning":"設備／自動化鏈擴散","rating":"B-（維持）","evidence":["既有設備與自動化鏈定位","自動化展提供公開產業驗證窗口"],"risks":["缺新增公司級營運證據","題材擴散可能不成立"],"confirm_signals":["核心股先強","設備鏈多檔量價擴散"],"invalidations":["無擴散","核心先跌"],"exit_logic":"擴散消失即取消／退出","trade_status":"WAIT"},
+    {"ticker":"2330","name":"台積電","positioning":"電子權值／市場風險確認器","rating":"B-（維持）","evidence":["8/18台股官方收盤2,380元","ADR 19:48:54 UTC報415.05美元、跌3.694%，自410.765反彈"],"risks":["SOX查證值仍跌5.07%","美債長端與油價造成估值壓力"],"confirm_signals":["正式收盤確認ADR跌幅收斂","台股開低後有承接且加權守45225.42"],"invalidations":["開低無承接","跌破45225.42且下跌家數擴大"],"exit_logic":"僅作市場確認器，不以ADR單一跳動下單","trade_status":"WAIT"}
+  ],
+  "sources":["https://www.hiwinmikro.tw/zh/investor/financial","https://www.hiwin.tw/news_content.aspx?newsID=25581","https://www.hiwin.tw/news_content.aspx?newsID=25582","https://www.solomon.com.tw/","https://automationtaipei.chanchao.com.tw/ExhibitorInfo","https://accessibility.twse.com.tw/zh/trading/exchange/MI_INDEX-ind.html","https://finance.yahoo.com/quote/TSM/","https://indexes.nasdaq.com/Index/Overview/sox"],
+  "ledger":{"total_assets_twd":26000,"capital_twd":26000,"recognized_income_twd":6000,"unrestricted_cash_twd":20000,"restricted_cash_twd":6000,"executed_stock_trades":0,"holdings":[],"realized_pnl_twd":0,"unrealized_pnl_twd":0,"fees_twd":0,"tax_twd":0,"signed_pending_contracts_twd":420000,"pending_success_fee_twd":500000,"pending_escrow_twd":640000,"unvalued_rights_asset_twd":null,"continuity_note":"18萬與24萬委任已簽但待工作、驗收與付款；50萬成功費仍在議價；安全模組授權權利未完成保全、登記、估值或可執行性核驗，維持零入帳；300萬為事故資產收購上限。"},
+  "disclaimer":"研究觀察，不保證獲利；五檔全WAIT，沒有股票成交。"
+}

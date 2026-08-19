@@ -1,0 +1,85 @@
+{
+  "market_id":"M20260819-0725",
+  "as_of":"2026-08-19T07:25:00+08:00",
+  "session_status":"台股尚未開市；美股8/18已收盤。07:25沒有可靠新台股成交、三大法人、期指、DXY或USD/JPY數字。",
+  "sources":[
+    {"title":"Tech selloff weighs down Wall Street as bond yields climb","url":"https://www.reuters.com/business/us-stock-futures-drop-fading-iran-peace-hopes-lift-oil-bond-yields-2026-08-18/","published_at":"2026-08-18","accessed_at":"2026-08-19T07:25:00+08:00"},
+    {"title":"Nasdaq slides, yields elevated as Mideast conflict fears grow","url":"https://www.reuters.com/world/china/global-markets-wrapup-1-2026-08-18/","published_at":"2026-08-18","accessed_at":"2026-08-19T07:25:00+08:00"},
+    {"title":"US 30-year yields hit highest level since 2007","url":"https://www.reuters.com/business/us-30-year-yields-hit-highest-level-since-2007-war-oil-worries-fester-2026-08-18/","published_at":"2026-08-18","accessed_at":"2026-08-19T07:25:00+08:00"},
+    {"title":"Taiwan central bank USD/TWD close","url":"https://www.cbc.gov.tw/tw/lp-645-1.html","published_at":"2026-08-18","accessed_at":"2026-08-19T07:25:00+08:00"},
+    {"title":"TSM market quote","url":"https://finance.yahoo.com/quote/TSM/","published_at":"2026-08-18","accessed_at":"2026-08-19T07:25:00+08:00"},
+    {"title":"Nasdaq SOX history","url":"https://indexes.nasdaq.com/Index/History/SOX","published_at":"2026-08-18","accessed_at":"2026-08-19T07:25:00+08:00"},
+    {"title":"Taipei Automation official site","url":"https://automationtaipei.chanchao.com.tw/","published_at":"2026-08","accessed_at":"2026-08-19T07:25:00+08:00"}
+  ],
+  "breaking_news":[
+    "Reuters確認美國30年債殖利率盤中約5.3371%、收約5.2922%；高點回落但長債估值壓力未解除。",
+    "VIX收在8月4日以來高點；市場關注Fed七月會議紀錄及Nvidia、Walmart等後續財報。",
+    "TSM ADR正式收413.41美元、-4.07%；07:25沒有新的台股成交或可靠盤前翻多訊號。"
+  ],
+  "index_snapshot":{
+    "taiex":{"status":"stale_official_close","date":"2026-08-18","close":45308.68,"high":46064.09,"low":45225.42},
+    "tpex":{"status":"stale_official_close","date":"2026-08-18","close":390.83,"change":-7.49,"change_pct":-1.88,"high":400.81,"low":389.92},
+    "nasdaq":{"status":"reuters_close","date":"2026-08-18","change_pct":-1.33},
+    "sox":{"status":"official_close","date":"2026-08-18","close":11992.46,"change":-630.11,"change_pct":-4.98,"high":12228.06,"low":11828.46}
+  },
+  "fx_snapshot":{
+    "usd_twd":{"status":"official_close_stale","date":"2026-08-18","close":31.945,"previous":31.852,"direction":"台幣較前一日走弱"},
+    "interpretation":"台幣偏弱通常不利外資風險偏好與電子估值；出口商換匯收入相對受益，但能源與進口成本升高，金融／壽險另受匯兌與長債評價影響。",
+    "usd_jpy":{"status":"unavailable"},
+    "dxy":{"status":"unavailable"}
+  },
+  "cross_asset":{
+    "tsm_adr":{"status":"official_close","close":413.41,"change_pct":-4.07,"high":423.0,"low":410.765},
+    "brent":{"status":"reuters_close_stale","close":91.02,"unit":"USD/bbl"},
+    "wti":{"status":"reuters_close_stale","close":84.94,"unit":"USD/bbl"},
+    "us_30y_yield":{"status":"reuters_close","intraday_high_pct":5.3371,"close_pct":5.2922},
+    "vix":{"status":"reuters_context","note":"收在2026-08-04以來高點"},
+    "us_futures":{"status":"unavailable"}
+  },
+  "breadth_and_flow":{
+    "us_breadth":"Nasdaq上漲1778、下跌2977，科技廣度偏空。",
+    "taiwan_breadth":"尚未開市，無新成交廣度。",
+    "foreign_and_institutions":"8/19三大法人尚未公布，pending。",
+    "volume_price":"沿用8/18正式收盤；07:25不得把盤前或外盤資料當成台股成交。"
+  },
+  "sector_rotation":{
+    "relative_strength":["能源","醫療","民生必需／防禦"],
+    "relative_weakness":["半導體","AI高Beta","記憶體","高估值科技"],
+    "taiwan_watch":["精密運動控制","機器人零組件","AI視覺","設備自動化","電子權值"]
+  },
+  "abc_wave":{
+    "framework":"Elliott/ABC修正波僅為情境分析，不是確定預言。",
+    "current_interpretation":"偏A段延伸，信心維持63%；長債收盤與VIX資料確認風險未解，但沒有新台股成交，不上調。",
+    "anchors":[
+      {"instrument":"TAIEX","date":"2026-08-18","high":46064.09,"low":45225.42,"close":45308.68},
+      {"instrument":"TPEx","date":"2026-08-18","high":400.81,"low":389.92,"close":390.83},
+      {"instrument":"SOX","date":"2026-08-18","high":12228.06,"low":11828.46,"close":11992.46},
+      {"instrument":"TSM ADR","date":"2026-08-18","high":423.0,"low":410.765,"close":413.41}
+    ],
+    "support":["TAIEX 45225.42","TPEx 389.92","TSM ADR 410.765"],
+    "resistance":["TAIEX 45857.27","TAIEX 46064.09","SOX 12228.06"],
+    "alternate_scenario":"若開盤守住45225.42、權值承接且櫃買廣度改善，可能先走弱勢B段反彈；需多訊號共振才升級。",
+    "invalidation":"若站回45857.27並伴隨權值與廣度同步改善，A段主情境降級；若跌破45225.42且電子、櫃買同步惡化，A段延伸風險升高。",
+    "confidence":0.63
+  },
+  "scenarios":{
+    "bullish":"守45225.42、台積電有承接、櫃買止跌且機器人2至3檔共振，僅視為B段反彈候選。",
+    "base":"開低或震盪測支撐，資金停留防禦與現金，觀察股全WAIT。",
+    "bearish":"跌破45225.42與389.92，權值、電子及櫃買同步惡化，A段延伸。"
+  },
+  "next_confirmations":[
+    "08:30後確認可靠台幣、期貨與盤前資料；沒有就維持unavailable。",
+    "09:00–09:20觀察TAIEX 45225.42、TPEx 389.92與台積電承接。",
+    "確認機器人／運動控制是否至少2至3檔同層共振。",
+    "後續關注Fed七月會議紀錄及Nvidia、Walmart等財報對科技與消費風險的影響。"
+  ],
+  "risk_flags":[
+    "油價與霍爾木茲供應風險",
+    "美國30年債殖利率盤中觸及2007年以來高點",
+    "VIX收在8月4日以來高點",
+    "SOX -4.98%與Nasdaq廣度偏空",
+    "USD/TWD官方收31.945、台幣較前日偏弱",
+    "台股尚未開市，盤前數字不可當成交"
+  ],
+  "website_summary":"07:25二次驗證：美30年債殖利率收約5.2922%、VIX升至8/4以來高點，確認風險未解；但無新台股成交或可靠盤前翻多訊號，ABC偏A段維持63%，五檔全WAIT。"
+}

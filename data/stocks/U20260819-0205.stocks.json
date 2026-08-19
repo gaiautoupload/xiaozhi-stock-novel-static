@@ -1,0 +1,113 @@
+{
+  "schema_version": 2,
+  "update_id": "U20260819-0205",
+  "sequence": 69,
+  "published_at": "2026-08-19T02:05:00+08:00",
+  "market_summary": "台股仍為盤前非交易時段，8/18官方收盤資料不變。美股現貨交易仍在進行，TSM ADR於17:52 UTC約412.47美元、跌4.29%，Reuters較早盤中資料顯示SOX約跌5.4%、Nasdaq約跌1.3%。高Beta風險沒有收斂，五檔全部WAIT，台積電再由B降至B-；09:00–09:20先觀察承接與廣度，禁止追第一波。",
+  "watchlist": [
+    {
+      "ticker": "4576",
+      "name": "大銀微系統",
+      "positioning": "精密運動控制／智慧自動化；波段候選",
+      "rating": "A-（維持）",
+      "evidence": [
+        "公司官方2026年7月營收366,927千元、年增60.14%。",
+        "公司官方2026年前7月累計營收2,243,495千元、年增49.67%。",
+        "8/19–8/22自動化展提供公開實機與供應鏈驗證場景。"
+      ],
+      "risks": ["SOX盤中約跌5.4%", "高Beta折價", "展會題材提前反映", "高波動"],
+      "confirm_signals": ["守首波支撐", "相對大盤強", "運控／零組件2–3檔共振", "拉回有承接"],
+      "invalidations": ["開高走低", "爆量不漲或長上影", "族群不同步", "加權跌破45,225.42且廣度惡化"],
+      "exit_logic": "未確認不進場；若進場後支撐、相對強勢或族群共振任一失效即退出。",
+      "trade_status": "WAIT"
+    },
+    {
+      "ticker": "2049",
+      "name": "上銀",
+      "positioning": "機器人關鍵零組件／Physical AI；族群確認股",
+      "rating": "B（維持）",
+      "evidence": [
+        "公司官方公開雙臂八軸物流機器人與人形機器人核心模組。",
+        "公司官方公開智慧夾爪及與Dexterity合作布局。"
+      ],
+      "risks": ["美股科技風險外溢", "展示不等於訂單", "大型股短線彈性可能不足"],
+      "confirm_signals": ["零組件多檔同步轉強", "量價健康", "相對大盤強", "電子權值止穩"],
+      "invalidations": ["無族群共振", "開高走低", "爆量不漲", "電子權值擴跌"],
+      "exit_logic": "只作族群確認；共振或相對強勢消失即取消候選。",
+      "trade_status": "WAIT"
+    },
+    {
+      "ticker": "2359",
+      "name": "所羅門",
+      "positioning": "AI視覺／機器人感知；高風險事件觀察",
+      "rating": "C+（維持）",
+      "evidence": [
+        "公司公開資料支持AI視覺與機器人整合方向。",
+        "第一金證券8/18研究摘要指出近3工作日約漲22%，展會催化已明顯提前反映。"
+      ],
+      "risks": ["SOX盤中約跌5.4%", "近3工作日漲幅已大", "題材兌現與補跌", "爆量長上影"],
+      "confirm_signals": ["感知層多檔共振", "第一根紅K後拉回承接", "量價同步且相對大盤強"],
+      "invalidations": ["單股急拉無擴散", "爆量不漲", "跌破首波支撐", "追價風險超標"],
+      "exit_logic": "禁止追第一根紅K；只有廣度與拉回承接同時成立才重考，事件失效即退。",
+      "trade_status": "WAIT"
+    },
+    {
+      "ticker": "6125",
+      "name": "廣運",
+      "positioning": "設備／自動化鏈擴散；後順位候選",
+      "rating": "B-（維持）",
+      "evidence": [
+        "既有設備／自動化鏈定位可用於觀察下游擴散。",
+        "自動化展官方展項含搬運、控制與機器人設備，提供公開產業熱度窗口。"
+      ],
+      "risks": ["缺新增公司級營運證據", "隔夜風險使擴散更難成立", "量縮相對弱"],
+      "confirm_signals": ["核心機器人股先強", "設備鏈多檔擴散", "量增站穩", "加權廣度改善"],
+      "invalidations": ["無擴散", "量縮相對弱", "急拉無承接", "核心股先跌"],
+      "exit_logic": "核心未先強不碰；擴散消失或跌破有效支撐即退出。",
+      "trade_status": "WAIT"
+    },
+    {
+      "ticker": "2330",
+      "name": "台積電",
+      "positioning": "電子權值／市場風險確認器",
+      "rating": "B-（由B下調）",
+      "evidence": [
+        "8/18台股收2,380元、跌0.83%，仍是電子權值與指數風向。",
+        "8/18 17:52 UTC ADR約412.47美元、跌4.29%，盤中低點411.46美元。"
+      ],
+      "risks": ["SOX盤中約跌5.4%", "美債長端殖利率高檔", "油價與地緣通膨風險", "ADR折價壓力"],
+      "confirm_signals": ["開低後迅速收斂ADR壓力", "電子權值同步止穩", "加權守45,225並改善廣度"],
+      "invalidations": ["開低無承接", "電子權值擴跌", "加權跌破45,225.42且下跌家數擴大"],
+      "exit_logic": "只作市場確認器；ADR跌幅未被吸收時降低所有高Beta候選順位，不把折價直接當便宜。",
+      "trade_status": "WAIT"
+    }
+  ],
+  "ledger": {
+    "total_assets_twd": 26000,
+    "capital_twd": 26000,
+    "recognized_income_twd": 6000,
+    "unrestricted_cash_twd": 20000,
+    "restricted_cash_twd": 6000,
+    "executed_stock_trades": 0,
+    "holdings": [],
+    "realized_pnl_twd": 0,
+    "unrealized_pnl_twd": 0,
+    "fees_twd": 0,
+    "tax_twd": 0,
+    "signed_contract_pending_acceptance_twd": 180000,
+    "pending_proposals_twd": [30000, 50000, 70000, 100000, 120000, 1200000, 3000000],
+    "pending_escrow_twd": 560000,
+    "continuity_note": "6,000元已驗收入帳但暫列限制款。18萬元委任已簽，拆為8萬元證據保全與10萬元公開稽核；6萬元保管款須完成第一階段並驗收後才撥付，尚不列收入。既有50萬元保管款仍未啟動。"
+  },
+  "sources": [
+    "https://accessibility.twse.com.tw/zh/trading/exchange/MI_INDEX-ind.html",
+    "https://www.tpex.org.tw/zh-tw/mainboard/trading/info/indices-pricing.html",
+    "https://www.reuters.com/business/us-stock-futures-drop-fading-iran-peace-hopes-lift-oil-bond-yields-2026-08-18/",
+    "https://www.cbc.gov.tw/en/lp-700-2.html",
+    "https://www.hiwinmikro.tw/zh/investor/financial",
+    "https://www.hiwin.tw/news_content.aspx?newsID=25581",
+    "https://www.hiwin.tw/news_content.aspx?newsID=25582",
+    "https://www.fbs.com.tw/ResearchReport/ArticleList"
+  ],
+  "disclaimer": "研究觀察，不保證獲利；全部WAIT，沒有股票成交。"
+}

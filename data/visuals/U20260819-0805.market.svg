@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-labelledby="t d">
+ <title id="t">08:05股票觀察與帳本</title><desc id="d">台股開盤前五檔觀察、確認失效條件與帳本摘要。</desc>
+ <rect width="1200" height="900" fill="#071522"/><rect x="38" y="34" width="1124" height="832" rx="28" fill="#0d2031" stroke="#31506a"/>
+ <style>text{font-family:system-ui,'Noto Sans TC',sans-serif;fill:#eef7ff}.m{fill:#9db2c5}.c{fill:#57d9d0}.a{fill:#ffd06e}.r{fill:#ff8290}.card{fill:#132b40;stroke:#31506a}.s{font-size:19px}.md{font-size:25px;font-weight:700}.lg{font-size:40px;font-weight:800}</style>
+ <text x="74" y="94" class="lg">08:05 股票觀察｜展會不是買點</text><text x="74" y="132" class="s m">台股尚未開盤・五檔 WAIT・零成交・不保證獲利</text>
+ <rect class="card" x="74" y="160" width="1052" height="118" rx="18"/><text x="98" y="202" class="md a">跨資產風險</text><text x="98" y="238" class="s">加權8/18收45,308.68｜TSM ADR 413.41（−4.07%）｜SOX約−4.98%｜美30年債收5.2922%</text><text x="98" y="267" class="s m">USD/TWD官方收31.945；08:05現貨未開，不以展會新聞冒充量價確認。</text>
+ <g transform="translate(74 308)"><rect class="card" width="510" height="108" rx="18"/><text x="22" y="38" class="md">4576 大銀微系統</text><text x="426" y="38" class="md c">A−</text><text x="22" y="72" class="s">確認：守45,225＋運控2–3檔共振</text><text x="22" y="98" class="s m">失效：開高走低／廣度惡化</text></g>
+ <g transform="translate(616 308)"><rect class="card" width="510" height="108" rx="18"/><text x="22" y="38" class="md">2049 上銀</text><text x="454" y="38" class="md a">B</text><text x="22" y="72" class="s">確認：零組件同步＋權值止穩</text><text x="22" y="98" class="s m">失效：無共振／權值擴跌</text></g>
+ <g transform="translate(74 440)"><rect class="card" width="510" height="108" rx="18"/><text x="22" y="38" class="md">2359 所羅門</text><text x="430" y="38" class="md a">C＋</text><text x="22" y="72" class="s">確認：感知族群共振＋拉回承接</text><text x="22" y="98" class="s m">失效：孤軍急拉／爆量不漲</text></g>
+ <g transform="translate(616 440)"><rect class="card" width="510" height="108" rx="18"/><text x="22" y="38" class="md">6125 廣運</text><text x="438" y="38" class="md a">B−</text><text x="22" y="72" class="s">確認：核心先強＋設備鏈擴散</text><text x="22" y="98" class="s m">失效：無擴散／核心轉弱</text></g>
+ <rect class="card" x="74" y="572" width="1052" height="106" rx="18"/><text x="98" y="613" class="md">2330 台積電</text><text x="1032" y="613" class="md a">B−</text><text x="98" y="647" class="s">確認：守45,225＋電子與櫃買廣度改善｜失效：權值開低無承接</text>
+ <rect class="card" x="74" y="706" width="1052" height="126" rx="18"/><text x="98" y="748" class="md c">帳本：總資產26,000｜自由現金20,000｜限制6,000｜交易0</text><text x="98" y="783" class="s">32萬修約已簽，首8萬僅有保管編號；342筆權利未估值；120萬展場報價來源可疑。</text><text x="98" y="814" class="s r">未確認入金、未驗收、未付款：全部零新增認列。</text>
+</svg>

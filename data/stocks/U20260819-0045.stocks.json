@@ -1,0 +1,95 @@
+{
+  "schema_version": 2,
+  "update_id": "U20260819-0045",
+  "sequence": 66,
+  "published_at": "2026-08-19T00:45:00+08:00",
+  "market_summary": {
+    "session": "pre-open/non-trading hours",
+    "status": "No new price/volume evidence; do not invent prices or transactions.",
+    "event": "2026 Taipei International Industrial Automation Exhibition",
+    "event_time": "2026-08-19 to 2026-08-22; visitor hours 10:00-17:00, final day to 16:00",
+    "thesis": "Public company evidence supports continued research, but all names require 09:00 price-volume and peer co-movement confirmation before any trade.",
+    "sources": [
+      "https://automationtaipei.chanchao.com.tw/ExhibitorInfo",
+      "https://www.hiwinmikro.tw/zh/investor/financial",
+      "https://www.hiwin.tw/news_content.aspx?newsID=25581",
+      "https://www.hiwin.tw/news_content.aspx?newsID=25582"
+    ]
+  },
+  "watchlist": [
+    {
+      "ticker": "4576",
+      "name": "大銀微系統",
+      "positioning": "精密運動控制／智慧自動化；波段候選",
+      "rating": "A（維持）",
+      "evidence": [
+        "公司官方2026年7月營收366,927千元，年增60.14%。",
+        "公司官方2026年前7月累計營收2,243,495千元，年增49.67%。",
+        "自動化展2026/8/19–8/22提供驅動、馬達、機器人與關鍵零組件的公開驗證場景。"
+      ],
+      "risks": ["展前提前反映", "產品世代轉換", "高波動", "營收成長不等於盤中買點"],
+      "confirm_signals": ["量能放大", "相對大盤強", "運控／零組件2–3檔共振", "拉回有承接"],
+      "invalidations": ["開高走低", "爆量不漲或長上影", "族群不同步", "單筆計畫風險無法壓在本金約1%"],
+      "exit_logic": "未取得確認即不進場；若進場後相對強勢消失、跌破首波有效支撐或觸及事前風險上限，退出。",
+      "trade_status": "WAIT"
+    },
+    {
+      "ticker": "2049",
+      "name": "上銀",
+      "positioning": "機器人關鍵零組件／Physical AI；波段研究池",
+      "rating": "B+（維持）",
+      "evidence": [
+        "公司官方2026年6月公開雙臂八軸物流機器人與人形機器人核心模組。",
+        "公司官方公開智慧夾爪、精密傳動與致動模組布局，並有Dexterity合作紀錄。"
+      ],
+      "risks": ["大型股短線彈性可能不足", "展示不等於訂單", "題材可能提前反映"],
+      "confirm_signals": ["核心零組件多檔同步轉強", "量價健康", "相對大盤強"],
+      "invalidations": ["無族群共振", "開高走低", "爆量不漲"],
+      "exit_logic": "只作族群確認股；失去相對強勢或族群共振即取消。",
+      "trade_status": "WAIT"
+    },
+    {
+      "ticker": "2359",
+      "name": "所羅門",
+      "positioning": "AI視覺／機器人感知；短線事件",
+      "rating": "B（維持）",
+      "evidence": [
+        "公司公開資料支持AI視覺與機器人整合應用方向。",
+        "自動化展官方展項包含機器視覺、人工智慧與機器人，提供公開驗證場景。"
+      ],
+      "risks": ["題材波動大", "單股煙火", "本輪無新增公司級營運數字"],
+      "confirm_signals": ["視覺／感知多檔共振", "量價同步", "首波有效支撐不破"],
+      "invalidations": ["單股急拉無擴散", "爆量不漲或長上影", "跌破首波支撐"],
+      "exit_logic": "失效即退出；不得因展會開幕或私人資訊升級。",
+      "trade_status": "WAIT"
+    },
+    {
+      "ticker": "6125",
+      "name": "廣運",
+      "positioning": "設備／自動化鏈擴散；短線候選",
+      "rating": "B（維持降級）",
+      "evidence": [
+        "既有設備／自動化鏈定位可用於觀察下游擴散。",
+        "自動化展提供產業熱度窗口，但不構成個股營運證據。"
+      ],
+      "risks": ["本輪缺新增官方營收、訂單或產品證據", "量縮或相對弱勢", "擴散假設尚未驗證"],
+      "confirm_signals": ["核心機器人股先強", "設備鏈多檔擴散", "量增站穩"],
+      "invalidations": ["無擴散", "量縮相對弱", "單筆急拉無承接"],
+      "exit_logic": "核心未先強則不碰；擴散失敗立即取消候選。",
+      "trade_status": "WAIT"
+    }
+  ],
+  "ledger": {
+    "capital_twd": 20000,
+    "available_cash_twd": 20000,
+    "holdings": [],
+    "executed_trades": 0,
+    "realized_pnl_twd": 0,
+    "unrealized_pnl_twd": 0,
+    "recognized_income_twd": 0,
+    "pending_proposals_twd": [6000, 30000, 50000, 70000, 100000, 120000, 1200000, 3000000],
+    "pending_escrow_twd": 500000,
+    "continuity_note": "All proposals and escrow remain unsigned, unaccepted, unpaid, or not activated. The prior row omitted 120,000 and 1,200,000; this update restores continuity without deleting or rewriting historical rows."
+  },
+  "disclaimer": "研究觀察，不保證獲利；所有股票均未成交。"
+}

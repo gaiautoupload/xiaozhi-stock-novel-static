@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-labelledby="title desc">
+  <title id="title">U20260819-0125 股票觀察與誠實帳本</title>
+  <desc id="desc">五檔觀察股評級、確認訊號、失效條件與帳本摘要。</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08121f"/><stop offset="1" stop-color="#16213a"/></linearGradient><style>text{font-family:"Noto Sans TC","PingFang TC","Microsoft JhengHei",sans-serif;fill:#f3f7fb}.card{fill:#111f35;stroke:#334864;stroke-width:2}.h1{font-size:46px;font-weight:800}.h2{font-size:28px;font-weight:800}.h3{font-size:22px;font-weight:700}.body{font-size:18px}.small{font-size:15px}.muted{fill:#9bb0c7}.red{fill:#fb7185}.amber{fill:#fbbf24}.green{fill:#86efac}.cyan{fill:#67e8f9}.pill{fill:#263954}</style></defs>
+  <rect width="1200" height="1600" fill="url(#bg)"/>
+  <text x="54" y="78" class="h1">01:25 研究評級全面降風險</text>
+  <text x="56" y="118" class="body muted">美股盤中：SOX約-5.4%｜TSM ADR約-4.22%｜全部WAIT・零成交</text>
+  <rect x="48" y="146" width="1104" height="116" rx="22" class="card"/>
+  <text x="76" y="188" class="h3 red">新證據推翻的是「隔夜壓力尚可控」，不是公司基本面。</text>
+  <text x="76" y="226" class="body">前20分鐘禁止追價；先看台積電承接、45,225支撐、族群廣度與拉回承接。</text>
+
+  <g transform="translate(48 292)">
+    <rect width="1104" height="202" rx="22" class="card"/>
+    <rect x="28" y="28" width="115" height="54" rx="27" class="pill"/><text x="55" y="64" class="h2 amber">A-</text>
+    <text x="166" y="62" class="h2">4576 大銀微系統</text><text x="166" y="94" class="small muted">精密運動控制／智慧自動化・由A下調</text>
+    <text x="28" y="132" class="body green">確認｜相對大盤強＋運控／零組件2–3檔共振＋拉回承接</text>
+    <text x="28" y="168" class="body red">失效｜開高走低、爆量不漲、族群不同步、跌破有效支撐</text>
+    <text x="930" y="62" class="h3 cyan">WAIT</text>
+  </g>
+  <g transform="translate(48 516)">
+    <rect width="1104" height="202" rx="22" class="card"/>
+    <rect x="28" y="28" width="115" height="54" rx="27" class="pill"/><text x="61" y="64" class="h2 amber">B</text>
+    <text x="166" y="62" class="h2">2049 上銀</text><text x="166" y="94" class="small muted">Physical AI／關鍵零組件・由B+下調</text>
+    <text x="28" y="132" class="body green">確認｜零組件多檔同步轉強＋量價健康＋電子權值止穩</text>
+    <text x="28" y="168" class="body red">失效｜無族群共振、開高走低、爆量不漲、權值擴跌</text>
+    <text x="930" y="62" class="h3 cyan">WAIT</text>
+  </g>
+  <g transform="translate(48 740)">
+    <rect width="1104" height="202" rx="22" class="card"/>
+    <rect x="28" y="28" width="115" height="54" rx="27" class="pill"/><text x="52" y="64" class="h2 red">C+</text>
+    <text x="166" y="62" class="h2">2359 所羅門</text><text x="166" y="94" class="small muted">AI視覺／機器人感知・由B-再下調</text>
+    <text x="28" y="132" class="body green">確認｜視覺感知多檔共振＋第一根紅K後拉回仍有承接</text>
+    <text x="28" y="168" class="body red">失效｜單股煙火、爆量不漲、跌破首波支撐；禁止追第一根紅K</text>
+    <text x="930" y="62" class="h3 cyan">WAIT</text>
+  </g>
+  <g transform="translate(48 964)">
+    <rect width="1104" height="202" rx="22" class="card"/>
+    <rect x="28" y="28" width="115" height="54" rx="27" class="pill"/><text x="52" y="64" class="h2 amber">B-</text>
+    <text x="166" y="62" class="h2">6125 廣運</text><text x="166" y="94" class="small muted">設備／自動化擴散・由B下調</text>
+    <text x="28" y="132" class="body green">確認｜核心先強＋設備鏈多檔擴散＋量增站穩＋廣度改善</text>
+    <text x="28" y="168" class="body red">失效｜無擴散、量縮相對弱、急拉無承接、核心先跌</text>
+    <text x="930" y="62" class="h3 cyan">WAIT</text>
+  </g>
+  <g transform="translate(48 1188)">
+    <rect width="1104" height="184" rx="22" class="card"/>
+    <rect x="28" y="28" width="115" height="54" rx="27" class="pill"/><text x="61" y="64" class="h2 amber">B</text>
+    <text x="166" y="62" class="h2">2330 台積電</text><text x="166" y="94" class="small muted">市場風險確認器・由B+下調</text>
+    <text x="28" y="132" class="body green">確認｜開低收斂ADR壓力＋電子權值止穩＋守45,225</text>
+    <text x="28" y="166" class="body red">失效｜開低無承接＋權值擴跌＋廣度惡化</text>
+    <text x="930" y="62" class="h3 cyan">WAIT</text>
+  </g>
+  <rect x="48" y="1400" width="1104" height="142" rx="22" class="card"/>
+  <text x="76" y="1442" class="h2">誠實帳本</text>
+  <text x="76" y="1480" class="body">總資產 26,000｜自由現金 20,000｜限制款 6,000｜股票0成交／0持股／損益0</text>
+  <text x="76" y="1518" class="small muted">18萬元緊急委任、6萬元新增保管款與其他未完成提案均不列收入；總待條件保管款56萬元。</text>
+  <text x="48" y="1580" class="small muted">U20260819-0125｜研究觀察，不保證獲利；評級不是買進許可。</text>
+</svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#081322"/><stop offset="1" stop-color="#15273c"/></linearGradient>
+    <style>
+      .t{font-family:"Noto Sans TC","PingFang TC",sans-serif;fill:#f5f7fb}.muted{fill:#a9b6c7}.gold{fill:#f6c453}.red{fill:#ff6b6b}.green{fill:#51d6a3}.box{fill:#14263a;stroke:#2b435c;stroke-width:2}.h{font-size:38;font-weight:800}.s{font-size:24}.xs{font-size:19}.num{font-size:44;font-weight:900}
+    </style>
+  </defs>
+  <rect width="1200" height="1600" fill="url(#bg)"/>
+  <text x="70" y="86" class="t h">台股市場即時／波段情報</text>
+  <text x="70" y="126" class="t muted s">M20260819-0205｜台灣盤前・美股盤中</text>
+  <rect x="70" y="165" width="510" height="190" rx="22" class="box"/>
+  <text x="105" y="210" class="t muted xs">TAIEX 8/18 官方收盤</text>
+  <text x="105" y="275" class="t num">45,308.68</text>
+  <text x="105" y="322" class="t red s">▼ 548.59（-1.20%）</text>
+  <rect x="620" y="165" width="510" height="190" rx="22" class="box"/>
+  <text x="655" y="210" class="t muted xs">TPEx 8/18 官方收盤</text>
+  <text x="655" y="275" class="t num">390.83</text>
+  <text x="655" y="322" class="t red s">▼ 7.49（-1.88%）</text>
+  <rect x="70" y="385" width="1060" height="155" rx="22" class="box"/>
+  <text x="105" y="430" class="t gold s">USD/TWD 官方收盤 31.945</text>
+  <text x="105" y="470" class="t xs">較前日 31.852 上升 0.093（美元強／台幣弱）</text>
+  <text x="105" y="510" class="t muted xs">電子權值與外資偏逆風；出口換算利多須扣除原料與避險成本。</text>
+  <rect x="70" y="570" width="1060" height="240" rx="22" class="box"/>
+  <text x="105" y="620" class="t gold s">隔夜重點｜美股仍在交易，不冒充收盤</text>
+  <text x="105" y="670" class="t xs">TSM ADR　412.47 美元　<tspan class="red">約 -4.29%</tspan>（17:52 UTC）</text>
+  <text x="105" y="712" class="t xs">SOX　約 <tspan class="red">-5.4%</tspan>　｜ Nasdaq 約 <tspan class="red">-1.3%</tspan>（Reuters 11:36 ET）</text>
+  <text x="105" y="754" class="t xs">美國10年債約 4.71%｜30年債約 5.29%｜油價盤中偏強</text>
+  <text x="105" y="790" class="t muted xs">科技估值承壓；能源、醫療、必需消費相對抗跌。</text>
+  <rect x="70" y="840" width="1060" height="290" rx="22" class="box"/>
+  <text x="105" y="895" class="t gold s">ABC 情境｜A段初跌延伸，信心 61%</text>
+  <text x="105" y="940" class="t xs">錨點：46,064.09 高點 → 45,225.42 低點 → 45,308.68 收盤</text>
+  <text x="105" y="985" class="t green xs">支撐：45,225.42／45,000</text>
+  <text x="105" y="1028" class="t red xs">壓力：45,857.27／46,064.09</text>
+  <text x="105" y="1072" class="t xs">替代情境：守45,225、廣度改善且站回45,857，可能轉入B段反彈。</text>
+  <text x="105" y="1110" class="t muted xs">技術推演，不是確定預言；台股尚未開盤，不能提前確認C段。</text>
+  <rect x="70" y="1160" width="510" height="270" rx="22" class="box"/>
+  <text x="105" y="1210" class="t gold s">資金輪動</text>
+  <text x="105" y="1252" class="t xs">相對強：金融／食品／航運</text>
+  <text x="105" y="1292" class="t xs">美股：能源／醫療／必需消費</text>
+  <text x="105" y="1332" class="t red xs">偏弱：半導體／記憶體／高Beta</text>
+  <text x="105" y="1372" class="t muted xs">機器人展只作公開驗證，不是買點。</text>
+  <rect x="620" y="1160" width="510" height="270" rx="22" class="box"/>
+  <text x="655" y="1210" class="t gold s">下一步確認</text>
+  <text x="655" y="1252" class="t xs">① 美股最終收盤與ADR</text>
+  <text x="655" y="1292" class="t xs">② 09:00後台積電承接</text>
+  <text x="655" y="1332" class="t xs">③ 加權45,225與市場廣度</text>
+  <text x="655" y="1372" class="t xs">④ 機器人2–3檔族群共振</text>
+  <text x="70" y="1495" class="t s">Base：45,225–45,857震盪測試；前20分鐘不追價。</text>
+  <text x="70" y="1540" class="t muted xs">資料截至 2026/08/19 02:05（台北）｜研究觀察，不保證獲利</text>
+</svg>

@@ -1,0 +1,12 @@
+{
+  "update_id":"U20260819-0505","as_of":"2026-08-19T05:05:00+08:00",
+  "market_summary":"台股休市；8/18加權45308.68、櫃買390.83。Reuters正式收盤稿：Nasdaq -1.33%，上漲1778家、下跌2977家；SOX約-5%。TSM ADR最新可查約413.41美元、-4.07%，未破410.765低點。ABC偏A段信心62%。",
+  "watchlist":[
+    {"ticker":"4576","name":"大銀微系統","positioning":"精密運動控制／智慧自動化波段候選","rating":"A-","evidence":["官方2026年7月營收366927千元、年增60.14%","前7月累計2243495千元、年增49.67%"],"risks":["SOX約跌5%造成高Beta折價","展會題材可能提前反映"],"confirm_signals":["加權守45225.42並站回45857.27","運動控制同層2至3檔共振"],"invalidations":["開高走低爆量不漲","跌破45225.42且廣度惡化"],"exit_logic":"共振或承接消失、跌破預設失效點即退出；未成交前不預設獲利。","trade_status":"WAIT；0成交"},
+    {"ticker":"2049","name":"上銀","positioning":"機器人關鍵零組件／Physical AI確認股","rating":"B","evidence":["官方公開雙臂八軸物流機器人與人形核心模組","官方智慧夾爪及合作布局"],"risks":["科技風險外溢","展示不等於訂單"],"confirm_signals":["零組件多檔同步","台積電與電子權值止穩"],"invalidations":["族群無共振","權值擴跌且個股無承接"],"exit_logic":"失去族群同步或盤中支撐即退出；不追展會急拉。","trade_status":"WAIT；0成交"},
+    {"ticker":"2359","name":"所羅門","positioning":"AI視覺／機器人感知高風險事件股","rating":"C+","evidence":["公司公開AI視覺與機器人感知方案","自動化展提供公開驗證窗口"],"risks":["題材可能提前反映","半導體與高Beta風險偏好下降"],"confirm_signals":["感知多檔共振","拉回承接並再攻有量"],"invalidations":["單股孤軍急拉","爆量不漲或長上影"],"exit_logic":"禁止追首紅K；承接或族群擴散消失即退出觀察。","trade_status":"WAIT；禁止追價"},
+    {"ticker":"6125","name":"廣運","positioning":"設備／自動化鏈後順位候選","rating":"B-","evidence":["既有設備與自動化定位","展會提供需求驗證窗口"],"risks":["本輪無新增公司級營收或訂單證據","設備鏈可能無資金擴散"],"confirm_signals":["核心先強","設備鏈多檔放量承接"],"invalidations":["無擴散","核心先跌或急拉無承接"],"exit_logic":"只在設備鏈擴散後考慮；核心轉弱即退出。","trade_status":"WAIT；0成交"},
+    {"ticker":"2330","name":"台積電","positioning":"電子權值／市場風險確認器","rating":"B-","evidence":["8/18台股官方收2380元","ADR最新可查約413.41美元、-4.07%，未破410.765低點"],"risks":["SOX約跌5%且Nasdaq廣度偏空","台幣偏弱與長債高檔"],"confirm_signals":["開盤承接並守45225.42","電子與櫃買廣度改善"],"invalidations":["跌破45225.42且電子、櫃買同步惡化","權值開低後持續無承接"],"exit_logic":"僅作市場確認；承接與廣度未共振前不交易。","trade_status":"WAIT；0成交"}
+  ],
+  "ledger":{"total_assets_twd":26000,"unrestricted_cash_twd":20000,"restricted_cash_twd":6000,"recognized_income_twd":6000,"stock_positions":0,"stock_trades":0,"unrealized_rights_value_twd":0,"pending_contracts":"18萬與24萬委任待驗收；42萬保全委任僅反提案；50萬成功費議價；64萬保管待條件；1000萬選擇權已拒絕，不列損失或收入。"}
+}
