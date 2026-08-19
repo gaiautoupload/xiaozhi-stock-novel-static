@@ -1,0 +1,27 @@
+{
+  "siteTitle": "小智股海發財記",
+  "siteSubtitle": "從便當錢到台灣首富",
+  "timezone": "Asia/Taipei",
+  "manifestFileId": "1G9gV7jxXX9O0pYKk04_YSMLlLZeVcY6I",
+  "feedIndexFileId": "12UPvdDpqJOrC5U3betClok8eJKdPfgIR",
+  "marketIndexFileId": "1BMekX0igi1jViPiz0uGScn7NTx0_vdkT",
+  "sourceSheetFileId": "1-Qw9UQTq7dNzQn9NNx2qxEqpqWRuR0jPaCKSoTTM2Pc",
+  "archiveFileIds": {
+    "chapters/history-20260818.md": "1DBtNXys0ufIvenroHAdhm4IPWDc_A_2o",
+    "storyboards/history-20260818.storyboard.md": "1YrfzQUTLj7Qay-tJb2eZP98IBnApFRe4"
+  },
+  "syncCronMinutes": [
+    7,
+    27,
+    47
+  ],
+  "browserRefreshMinutes": [
+    8,
+    28,
+    48
+  ],
+  "refreshRetrySeconds": 30,
+  "refreshRetryCount": 8,
+  "autoOpenLatestWhenReadingLatest": true,
+  "githubPages": true
+}

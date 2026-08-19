@@ -1,0 +1,755 @@
+{
+  "schema_version": 2,
+  "timezone": "Asia/Taipei",
+  "latest_update_id": "U20260819-0825",
+  "sequence": 82,
+  "ordering_rule": "sequence then update_id; ignore legacy chapter numbers",
+  "history_count": 82,
+  "updates": [
+    {
+      "sequence": 1,
+      "update_id": "U20260818-0006",
+      "published_at": "2026-08-18T00:06:00+08:00",
+      "title": "第一回：凌晨十二點，小智正在研究明天要不要當韭菜",
+      "chapter_archive": "chapters/history-20260818.md",
+      "storyboard_archive": "storyboards/history-20260818.storyboard.md",
+      "backfill": true
+    },
+    {
+      "sequence": 2,
+      "update_id": "U20260818-0025",
+      "published_at": "2026-08-18T00:25:00+08:00",
+      "title": "第二回：小智的兩萬塊，和一個不該在半夜傳訊息的女人",
+      "chapter_archive": "chapters/history-20260818.md",
+      "storyboard_archive": "storyboards/history-20260818.storyboard.md",
+      "backfill": true
+    },
+    {
+      "sequence": 3,
+      "update_id": "U20260818-0045",
+      "published_at": "2026-08-18T00:45:00+08:00",
+      "title": "第三回：真正會讓男人睡不著的，不一定是女人，也可能是風險清單",
+      "chapter_archive": "chapters/history-20260818.md",
+      "storyboard_archive": "storyboards/history-20260818.storyboard.md",
+      "backfill": true
+    },
+    {
+      "sequence": 4,
+      "update_id": "U20260818-0105",
+      "published_at": "2026-08-18T01:05:00+08:00",
+      "title": "第四回：若晴說她有內線，小智差點把咖啡噴到螢幕上",
+      "chapter_archive": "chapters/history-20260818.md",
+      "storyboard_archive": "storyboards/history-20260818.storyboard.md",
+      "backfill": true
+    },
+    {
+      "sequence": 5,
+      "update_id": "U20260818-0125",
+      "published_at": "2026-08-18T01:25:00+08:00",
+      "title": "第五回：她說「帶你進去」，小智第一個想到的居然不是約會",
+      "chapter_archive": "chapters/history-20260818.md",
+      "storyboard_archive": "storyboards/history-20260818.storyboard.md",
+      "backfill": true
+    },
+    {
+      "sequence": 6,
+      "update_id": "U20260818-0145",
+      "published_at": "2026-08-18T01:45:00+08:00",
+      "title": "第五回：一張名片，兩個女人，和三條不能碰的線",
+      "chapter_archive": "chapters/history-20260818.md",
+      "storyboard_archive": "storyboards/history-20260818.storyboard.md",
+      "backfill": true
+    },
+    {
+      "sequence": 7,
+      "update_id": "U20260818-0205",
+      "published_at": "2026-08-18T02:05:00+08:00",
+      "title": "第七回：凌晨兩點，一個被收回的訊息，比漲停板還難追",
+      "chapter_archive": "chapters/history-20260818.md",
+      "storyboard_archive": "storyboards/history-20260818.storyboard.md",
+      "backfill": true
+    },
+    {
+      "sequence": 8,
+      "update_id": "U20260818-0225",
+      "published_at": "2026-08-18T02:25:00+08:00",
+      "title": "第八回：兩萬塊的第一堂課，不是怎麼賺，是一次最多能輸多少",
+      "chapter_archive": "chapters/history-20260818.md",
+      "storyboard_archive": "storyboards/history-20260818.storyboard.md",
+      "backfill": true
+    },
+    {
+      "sequence": 9,
+      "update_id": "U20260818-0245",
+      "published_at": "2026-08-18T02:45:00+08:00",
+      "title": "第九回：兩百塊的停損，和一句不能撤回的話",
+      "chapter_archive": "chapters/history-20260818.md",
+      "storyboard_archive": "storyboards/history-20260818.storyboard.md",
+      "backfill": true
+    },
+    {
+      "sequence": 10,
+      "update_id": "U20260818-0305",
+      "published_at": "2026-08-18T03:05:00+08:00",
+      "title": "第九回：兩百塊的風險，和一杯不能亂請的咖啡",
+      "chapter_archive": "chapters/history-20260818.md",
+      "storyboard_archive": "storyboards/history-20260818.storyboard.md",
+      "backfill": true
+    },
+    {
+      "sequence": 11,
+      "update_id": "U20260818-0325",
+      "published_at": "2026-08-18T03:25:00+08:00",
+      "title": "第十回：真正的第一筆交易，先從「不買」開始",
+      "chapter_archive": "chapters/history-20260818.md",
+      "storyboard_archive": "storyboards/history-20260818.storyboard.md",
+      "backfill": true
+    },
+    {
+      "sequence": 12,
+      "update_id": "U20260818-0345",
+      "published_at": "2026-08-18T03:45:00+08:00",
+      "title": "第三章 五點半的豆漿，和不能問的問題",
+      "chapter_archive": "chapters/history-20260818.md",
+      "storyboard_archive": "storyboards/history-20260818.storyboard.md",
+      "backfill": true
+    },
+    {
+      "sequence": 13,
+      "update_id": "U20260818-0405",
+      "published_at": "2026-08-18T04:05:00+08:00",
+      "title": "第十三回：第五張牌，和凌晨五點半的兩瓶豆漿",
+      "chapter_archive": "chapters/history-20260818.md",
+      "storyboard_archive": "storyboards/history-20260818.storyboard.md",
+      "backfill": true
+    },
+    {
+      "sequence": 14,
+      "update_id": "U20260818-0425",
+      "published_at": "2026-08-18T04:25:00+08:00",
+      "title": "第十四回：第五張牌不是股票，是先看誰在動",
+      "chapter_archive": "chapters/history-20260818.md",
+      "storyboard_archive": "storyboards/history-20260818.storyboard.md",
+      "backfill": true
+    },
+    {
+      "sequence": 15,
+      "update_id": "U20260818-0445",
+      "published_at": "2026-08-18T04:45:00+08:00",
+      "title": "第十五回：兩瓶豆漿，只剩一瓶能安全下車",
+      "chapter_archive": "chapters/history-20260818.md",
+      "storyboard_archive": "storyboards/history-20260818.storyboard.md",
+      "backfill": true
+    },
+    {
+      "sequence": 16,
+      "update_id": "U20260818-0505",
+      "published_at": "2026-08-18T05:05:00+08:00",
+      "title": "第十六回：第五格不是股票，是一個問題",
+      "chapter_archive": "chapters/history-20260818.md",
+      "storyboard_archive": "storyboards/history-20260818.storyboard.md",
+      "backfill": true
+    },
+    {
+      "sequence": 17,
+      "update_id": "U20260818-0525",
+      "published_at": "2026-08-18T05:25:00+08:00",
+      "title": "第十七回：三年前的訊號，和一張不能提前填滿的表",
+      "chapter_archive": "chapters/history-20260818.md",
+      "storyboard_archive": "storyboards/history-20260818.storyboard.md",
+      "backfill": true
+    },
+    {
+      "sequence": 18,
+      "update_id": "U20260818-0545",
+      "published_at": "2026-08-18T05:45:00+08:00",
+      "title": "第十八回：二十萬的答案，和一個不准拿愛情當槓桿的人",
+      "chapter_archive": "chapters/history-20260818.md",
+      "storyboard_archive": "storyboards/history-20260818.storyboard.md",
+      "backfill": true
+    },
+    {
+      "sequence": 19,
+      "update_id": "U20260818-0605",
+      "published_at": "2026-08-18T06:05:00+08:00",
+      "title": "第十九回：安全帽扣太緊，市場還沒開，小智先被軋空",
+      "chapter_archive": "chapters/history-20260818.md",
+      "storyboard_archive": "storyboards/history-20260818.storyboard.md",
+      "backfill": true
+    },
+    {
+      "sequence": 20,
+      "update_id": "U20260818-0625",
+      "published_at": "2026-08-18T06:25:00+08:00",
+      "title": "第六章：公開資訊，比曖昧更容易被誤讀",
+      "chapter_archive": "chapters/history-20260818.md",
+      "storyboard_archive": "storyboards/history-20260818.storyboard.md",
+      "backfill": true
+    },
+    {
+      "sequence": 21,
+      "update_id": "U20260818-0645",
+      "published_at": "2026-08-18T06:45:00+08:00",
+      "title": "第十五回：第五格不是股票，是小智第一次學會把「不知道」留下來",
+      "chapter_archive": "chapters/history-20260818.md",
+      "storyboard_archive": "storyboards/history-20260818.storyboard.md",
+      "backfill": true
+    },
+    {
+      "sequence": 22,
+      "update_id": "U20260818-0705",
+      "published_at": "2026-08-18T07:05:00+08:00",
+      "title": "第十六回：答案可以等，早餐會冷",
+      "chapter_archive": "chapters/history-20260818.md",
+      "storyboard_archive": "storyboards/history-20260818.storyboard.md",
+      "backfill": true
+    },
+    {
+      "sequence": 23,
+      "update_id": "U20260818-0725",
+      "published_at": "2026-08-18T07:25:00+08:00",
+      "title": "第二十四回：最強的股票，不一定是最該先買的股票",
+      "chapter_archive": "chapters/history-20260818.md",
+      "storyboard_archive": "storyboards/history-20260818.storyboard.md",
+      "backfill": true
+    },
+    {
+      "sequence": 24,
+      "update_id": "U20260818-0745",
+      "published_at": "2026-08-18T07:45:00+08:00",
+      "title": "第十五回：研究第一名，開盤不一定坐第一排",
+      "chapter_archive": "chapters/history-20260818.md",
+      "storyboard_archive": "storyboards/history-20260818.storyboard.md",
+      "backfill": true
+    },
+    {
+      "sequence": 25,
+      "update_id": "U20260818-0805",
+      "published_at": "2026-08-18T08:05:00+08:00",
+      "title": "第二十六回：紙條不能看，盤前劇本可以先寫",
+      "chapter_archive": "chapters/history-20260818.md",
+      "storyboard_archive": "storyboards/history-20260818.storyboard.md",
+      "backfill": true
+    },
+    {
+      "sequence": 26,
+      "update_id": "U20260818-0825",
+      "published_at": "2026-08-18T08:25:00+08:00",
+      "title": "先不決定〉",
+      "chapter_archive": "chapters/history-20260818.md",
+      "storyboard_archive": "storyboards/history-20260818.storyboard.md",
+      "backfill": true
+    },
+    {
+      "sequence": 27,
+      "update_id": "U20260818-0845",
+      "published_at": "2026-08-18T08:45:00+08:00",
+      "title": "小智股海發財記 08:45 更新",
+      "chapter_archive": "chapters/history-20260818.md",
+      "storyboard_archive": "storyboards/history-20260818.storyboard.md",
+      "backfill": true
+    },
+    {
+      "sequence": 28,
+      "update_id": "U20260818-0905",
+      "published_at": "2026-08-18T09:05:00+08:00",
+      "title": "不買，也算成交了一次紀律",
+      "chapter_archive": "chapters/history-20260818.md",
+      "storyboard_archive": "storyboards/history-20260818.storyboard.md",
+      "backfill": true
+    },
+    {
+      "sequence": 29,
+      "update_id": "U20260818-0925",
+      "published_at": "2026-08-18T09:25:00+08:00",
+      "title": "第十二回：紙條拆了，市場卻不肯給答案",
+      "chapter_archive": "chapters/history-20260818.md",
+      "storyboard_archive": "storyboards/history-20260818.storyboard.md",
+      "backfill": true
+    },
+    {
+      "sequence": 30,
+      "update_id": "U20260818-0945",
+      "published_at": "2026-08-18T09:45:00+08:00",
+      "title": "第一筆交易，最難的是承認沒有證據",
+      "chapter_archive": "chapters/history-20260818.md",
+      "storyboard_archive": "storyboards/history-20260818.storyboard.md",
+      "backfill": true
+    },
+    {
+      "sequence": 31,
+      "update_id": "U20260818-1005",
+      "published_at": "2026-08-18T10:05:00+08:00",
+      "title": "第十點零五回：空手不是沒故事",
+      "chapter_archive": "chapters/history-20260818.md",
+      "storyboard_archive": "storyboards/history-20260818.storyboard.md",
+      "backfill": true
+    },
+    {
+      "sequence": 32,
+      "update_id": "U20260818-1025",
+      "published_at": "2026-08-18T10:25:00+08:00",
+      "title": "第十一回：空手的人，先看見了風往哪裡吹",
+      "chapter_archive": "chapters/history-20260818.md",
+      "storyboard_archive": "storyboards/history-20260818.storyboard.md",
+      "backfill": true
+    },
+    {
+      "sequence": 33,
+      "update_id": "U20260818-1045",
+      "published_at": "2026-08-18T10:45:00+08:00",
+      "title": "小智股海發財記 10:45 更新",
+      "chapter_archive": "chapters/history-20260818.md",
+      "storyboard_archive": "storyboards/history-20260818.storyboard.md",
+      "backfill": true
+    },
+    {
+      "sequence": 34,
+      "update_id": "U20260818-1105",
+      "published_at": "2026-08-18T11:05:00+08:00",
+      "title": "小智股海發財記 11:05 更新",
+      "chapter_archive": "chapters/history-20260818.md",
+      "storyboard_archive": "storyboards/history-20260818.storyboard.md",
+      "backfill": true
+    },
+    {
+      "sequence": 35,
+      "update_id": "U20260818-1125",
+      "published_at": "2026-08-18T11:25:00+08:00",
+      "title": "第五格開始長出銅箔",
+      "chapter_archive": "chapters/history-20260818.md",
+      "storyboard_archive": "storyboards/history-20260818.storyboard.md",
+      "backfill": true
+    },
+    {
+      "sequence": 36,
+      "update_id": "U20260818-1145",
+      "published_at": "2026-08-18T11:45:00+08:00",
+      "title": "第五格不是板，是板下面那一層",
+      "chapter_archive": "chapters/history-20260818.md",
+      "storyboard_archive": "storyboards/history-20260818.storyboard.md",
+      "backfill": true
+    },
+    {
+      "sequence": 37,
+      "update_id": "U20260818-1205",
+      "published_at": "2026-08-18T12:05:00+08:00",
+      "title": "第十二回：十二點十分以前，先別把答案買進去",
+      "chapter_archive": "chapters/history-20260818.md",
+      "storyboard_archive": "storyboards/history-20260818.storyboard.md",
+      "backfill": true
+    },
+    {
+      "sequence": 38,
+      "update_id": "U20260818-1225",
+      "published_at": "2026-08-18T12:25:00+08:00",
+      "title": "先把工作做成第一筆可控現金流",
+      "chapter_archive": "chapters/history-20260818.md",
+      "storyboard_archive": "storyboards/history-20260818.storyboard.md",
+      "backfill": true
+    },
+    {
+      "sequence": 39,
+      "update_id": "U20260818-1245",
+      "published_at": "2026-08-18T12:45:00+08:00",
+      "title": "第一筆錢，可能不是股票賺的",
+      "chapter_archive": "chapters/history-20260818.md",
+      "storyboard_archive": "storyboards/history-20260818.storyboard.md",
+      "backfill": true
+    },
+    {
+      "sequence": 40,
+      "update_id": "U20260818-1305",
+      "published_at": "2026-08-18T13:05:00+08:00",
+      "title": "第十三章：第一桶金，差點不是從股票來的",
+      "chapter_archive": "chapters/history-20260818.md",
+      "storyboard_archive": "storyboards/history-20260818.storyboard.md",
+      "backfill": true
+    },
+    {
+      "sequence": 41,
+      "update_id": "U20260818-1325",
+      "published_at": "2026-08-18T13:25:00+08:00",
+      "title": "收盤前五分鐘，第一筆錢可能不是股票",
+      "chapter_archive": "chapters/history-20260818.md",
+      "storyboard_archive": "storyboards/history-20260818.storyboard.md",
+      "backfill": true
+    },
+    {
+      "sequence": 42,
+      "update_id": "U20260818-1345",
+      "published_at": "2026-08-18T13:45:00+08:00",
+      "title": "第十二回：零交易的第一個勝利，和那個叫子謙的人",
+      "chapter_archive": "chapters/history-20260818.md",
+      "storyboard_archive": "storyboards/history-20260818.storyboard.md",
+      "backfill": true
+    },
+    {
+      "sequence": 43,
+      "update_id": "U20260818-1405",
+      "published_at": "2026-08-18T14:05:00+08:00",
+      "title": "零交易之後，第一張報價單",
+      "chapter_archive": "chapters/history-20260818.md",
+      "storyboard_archive": "storyboards/history-20260818.storyboard.md",
+      "backfill": true
+    },
+    {
+      "sequence": 44,
+      "update_id": "U20260818-1425",
+      "published_at": "2026-08-18T14:25:00+08:00",
+      "title": "報價不是收入，喜歡也不是成交",
+      "chapter_archive": "chapters/history-20260818.md",
+      "storyboard_archive": "storyboards/history-20260818.storyboard.md",
+      "backfill": true
+    },
+    {
+      "sequence": 45,
+      "update_id": "U20260818-1445",
+      "chapter_file_id": "1HPT2SWFcNjLUPFLgGDKHp7hmekHA6pfe",
+      "storyboard_file_id": "1dPoRvnDPA1xA5XVXTASTZhzfJ73Txknf",
+      "stocks_file_id": null,
+      "market_svg_file_id": null,
+      "backfill": false
+    },
+    {
+      "sequence": 46,
+      "update_id": "U20260818-1505",
+      "chapter_file_id": "18cVi1DlSdLYhDt94CqzH8U4mCxLh63SD",
+      "storyboard_file_id": "1cDzSiBrQ6NtURhs5wcdGyxVKXy1Wt1v5",
+      "stocks_file_id": null,
+      "market_svg_file_id": null,
+      "backfill": false
+    },
+    {
+      "sequence": 47,
+      "update_id": "U20260818-1525",
+      "chapter_file_id": "1vDLyJPy0aIf9mSc6DrZpZx62EH8x7xi9",
+      "storyboard_file_id": "1ZKCEh4j48BC36nK2WPeTzwRV6KvbvDwl",
+      "stocks_file_id": null,
+      "market_svg_file_id": null,
+      "backfill": false
+    },
+    {
+      "sequence": 48,
+      "update_id": "U20260818-1545",
+      "chapter_file_id": "1CEd1aTgyS6TSSfVw0WgqE-Vl-rRsLrWF",
+      "storyboard_file_id": "1B1DW9-ZdBbmRflZx_36hz47crAGnnszP",
+      "stocks_file_id": null,
+      "market_svg_file_id": null,
+      "backfill": false
+    },
+    {
+      "sequence": 49,
+      "update_id": "U20260818-1625",
+      "chapter_file_id": "19XEWDo0eWrOCZnur3S8rxuQBdae_fr74",
+      "storyboard_file_id": "1VQiCwNC6gH2UHSZjBkqxiDnMEWRWPWdw",
+      "stocks_file_id": null,
+      "market_svg_file_id": null,
+      "backfill": false
+    },
+    {
+      "sequence": 50,
+      "update_id": "U20260818-1645",
+      "chapter_file_id": "14hYH_fei7FXVnVV71cN5SS82PQyjJejW",
+      "storyboard_file_id": "1VQX7XEuToWcnrsBjIonCbP5mpX2bPVyN",
+      "stocks_file_id": null,
+      "market_svg_file_id": null,
+      "backfill": false
+    },
+    {
+      "sequence": 51,
+      "update_id": "U20260818-1705",
+      "chapter_file_id": "18QIljWhyVhsa8Kj_-eM6Qyn8x8DZBeMX",
+      "storyboard_file_id": "1b7hgyscEuyvgHgbbZwVNxSsQE9xr1Sj3",
+      "stocks_file_id": null,
+      "market_svg_file_id": null,
+      "backfill": false
+    },
+    {
+      "sequence": 52,
+      "update_id": "U20260818-1725",
+      "chapter_file_id": "15rU6Ve4L8c_OV0H20tgM6To3XPEWiC_z",
+      "storyboard_file_id": "1FtYpWTIw_ZIje-34kJOH-ymlBS8OhPgq",
+      "stocks_file_id": null,
+      "market_svg_file_id": null,
+      "backfill": false
+    },
+    {
+      "sequence": 53,
+      "update_id": "U20260818-1745",
+      "chapter_file_id": "1eId3CxwBzM_C2UymDEsiLoYv6hr_guug",
+      "storyboard_file_id": "1eQGCdSlUliSAYDxrVaEMvExFu8dX7kJh",
+      "stocks_file_id": null,
+      "market_svg_file_id": null,
+      "backfill": false
+    },
+    {
+      "sequence": 54,
+      "update_id": "U20260818-1805",
+      "chapter_file_id": "1OyHYlO3oW1aM8pm-9RHYftMO6wDDUWSO",
+      "storyboard_file_id": "1fFLHvP0AiTpSNBUsCVvrTgFh079EyBl6",
+      "stocks_file_id": null,
+      "market_svg_file_id": null,
+      "backfill": false
+    },
+    {
+      "sequence": 55,
+      "update_id": "U20260818-1825",
+      "chapter_file_id": "1L1tesccq3wIyzOrA5Irf0c8sLbL2lE9B",
+      "storyboard_file_id": "1nuge9cUyU03kGtrb5b8BNmGT1SM06yAH",
+      "stocks_file_id": null,
+      "market_svg_file_id": null,
+      "backfill": false
+    },
+    {
+      "sequence": 56,
+      "update_id": "U20260818-1905",
+      "chapter_file_id": "1S25dmt3K-IQEaQruGlbG1YIUccue_HJ1",
+      "storyboard_file_id": "1gbbsGb_RI5Jd079c_RstBPYFOYpRSRtr",
+      "stocks_file_id": "1sB20q_-DbqdPhEhnyhdbsN9YhrLsL7YH",
+      "market_svg_file_id": "1r2jwTr0TehvqZOOjxHKnlZCEV5G21Zxt",
+      "backfill": false
+    },
+    {
+      "sequence": 57,
+      "update_id": "U20260818-1925",
+      "chapter_file_id": "1lrCL730bOYFNPOzmc41IcomCu7XQlEQD",
+      "storyboard_file_id": "1C6bn7ujbzw-V-B0VqHNXcHMgtm_eLVsy",
+      "stocks_file_id": "1ZRxqwcIvCfwaWakEfd5MbzZ4lhFKRjWV",
+      "market_svg_file_id": "1DqeVb2Noig1DtwaPdU25iJ9-UUFNBpEw",
+      "backfill": false
+    },
+    {
+      "sequence": 58,
+      "update_id": "U20260818-2025",
+      "chapter_file_id": "1PEfOTK7xtsXYEjhc_sKuVFdZ0_gBBSE3",
+      "storyboard_file_id": "1w-st_B6nH5rWlMwxKUQfKe8WxUhI6KFY",
+      "stocks_file_id": "1qRtjMK-tq_IvZg_Q1iOPdxc98GIcNQSK",
+      "market_svg_file_id": "1-m-ePlvrFrZ1y9eCrUyZYMZ6GeLoGb6j",
+      "backfill": false
+    },
+    {
+      "sequence": 59,
+      "update_id": "U20260818-2105",
+      "chapter_file_id": "1ae1EsbQZJP9Y9eWfSt_hcSkW6ODvFzk6",
+      "storyboard_file_id": "1IHKSPd72E5r1p1lrtBi1CjI1ziI-gt5z",
+      "stocks_file_id": "1PICNAZ249pYcZmiJpM5IuQqTIezwh_uQ",
+      "market_svg_file_id": "11XQpC5h4DEluFrd2Hjd4-l90LYDSjopd",
+      "backfill": false
+    },
+    {
+      "sequence": 60,
+      "update_id": "U20260818-2125",
+      "chapter_file_id": "1kWd9F5fcX_NlO6mf2AkLsl7DKrk1txja",
+      "storyboard_file_id": "1Ed8JkeDEmOOvyeagTOZ7f7Zz4SUD1eDW",
+      "stocks_file_id": "1E8SRePBwkX2NUV3UtC07FqFaCQW-mY27",
+      "market_svg_file_id": "1-EqgFeHxfkdw12OwtdkLI2VjF6PDtc1X",
+      "backfill": false
+    },
+    {
+      "sequence": 61,
+      "update_id": "U20260818-2205",
+      "chapter_file_id": "1vLnyqqZ5wrJWOFlfhdqEjhysZzbj6-8-",
+      "storyboard_file_id": "1XutWEb1xgUwWVjE5XICftJCJOdYALfVb",
+      "stocks_file_id": "1QE1Qh8zCcmqURVs0nGaIqDitNrCetZaB",
+      "market_svg_file_id": "1VkFPFuUrD_-1hzGS9sOY0VeRPVdjIM21",
+      "backfill": false
+    },
+    {
+      "sequence": 62,
+      "update_id": "U20260818-2305",
+      "chapter_file_id": "1HiJebA0XaYebcy_vboTQb8yAUpu9iR8z",
+      "storyboard_file_id": "1tfFSuPTIO-qreyTSuBGBPysmHLmcZiW2",
+      "stocks_file_id": "1NigPjUKl21VnYBg4SHN3D5g2Xl094_c8",
+      "market_svg_file_id": "1vovZHRWYwe9wkwMjYBbBImoe6BjuLRo1",
+      "backfill": false
+    },
+    {
+      "sequence": 63,
+      "update_id": "U20260818-2325",
+      "chapter_file_id": "1t9iMDuqPfYsYWurHTU-5kc2j7W9bHkMM",
+      "storyboard_file_id": "1S6JzXRG17qrqvI_fYKbUh6Tx6mxd2LuN",
+      "stocks_file_id": "1HN0HKA8Lm64-hmTfBww0A2jE8nEf0nGf",
+      "market_svg_file_id": "1RnXtEfLkY_xSPjD4bAMDBMzEz53SU1JX",
+      "backfill": false
+    },
+    {
+      "sequence": 64,
+      "update_id": "U20260819-0005",
+      "chapter_file_id": "1Kgyk5d90YG03jZukbD2UMUB80A4arpBJ",
+      "storyboard_file_id": "1gBsJxikMHf0je-4K1DdO9E2A9gZNdTXo",
+      "stocks_file_id": "1DxvkKQB38z3nMOYZNCiOjuSE2MnzcvF1",
+      "market_svg_file_id": "1gyxbX9FEcsIusrzy9HkJ219XQospANvI",
+      "backfill": false
+    },
+    {
+      "sequence": 65,
+      "update_id": "U20260819-0025",
+      "chapter_file_id": "1NNAmQvPWUWR_REubm-zs_ZXQPWDae_7J",
+      "storyboard_file_id": "1MrJRa3aLIzDDuJsfyN82qfjDHv2Z-RJn",
+      "stocks_file_id": "1yojejmXGwhicEX6JTtvFlhzb_od0vsMQ",
+      "market_svg_file_id": "1AEKAdblYu5s2pT63-ChnT1u6fy5gtWEX",
+      "backfill": false
+    },
+    {
+      "sequence": 66,
+      "update_id": "U20260819-0045",
+      "chapter_file_id": "14c9xKehlgePgK5st04hGBIsAt9xJ70D-",
+      "storyboard_file_id": "1oayoDf74E1DhWB8OjktEKfN8sZl2hqMh",
+      "stocks_file_id": "1yBTIBDGjIICKrZ_60h6KLUkIOXnU_SGT",
+      "market_svg_file_id": "1qBU-M4fm2EUW-DMXKl6XHIiCT8ZiQha-",
+      "backfill": false
+    },
+    {
+      "sequence": 67,
+      "update_id": "U20260819-0105",
+      "chapter_file_id": "16A0AFIK7GJ4dcdvMpDGe3VvtS1HFvRIZ",
+      "storyboard_file_id": "19AmOYJ0i4UlrVC7G9A-ZdGD4O8caxuHc",
+      "stocks_file_id": "1vuo9CGksI7GWuPCr6PrnmSDc5jyqeBZg",
+      "market_svg_file_id": "1y0YFwIwB7PjBORVXToQohSqt7X-GxyMi",
+      "backfill": false
+    },
+    {
+      "sequence": 68,
+      "update_id": "U20260819-0125",
+      "chapter_file_id": "1lZ-wgK3hosVuWzfeiQk-SBAEmiCGjzIf",
+      "storyboard_file_id": "1hFidKVH_ZKR0VGzamm7wFx9NhgAW9k80",
+      "stocks_file_id": "1k2-Q66-FCskrEx634iQxPIiJ0tfi_UIA",
+      "market_svg_file_id": "1r51JHzA8vEgP-eGVUhj6JDLeNc_pBLTO",
+      "backfill": false
+    },
+    {
+      "sequence": 69,
+      "update_id": "U20260819-0205",
+      "chapter_file_id": "1aibSzjlI3V6T0CSXY0moSvS7J1Pr_tzN",
+      "storyboard_file_id": "1J_puLbyraJbvanzrJm7Wqzsfx3rYZ9PF",
+      "stocks_file_id": "1FQgSeMGI5xrKGlzHD3x8DNiytY7JFNNV",
+      "market_svg_file_id": "1Djrrk-cqWCTHZLOyYeL4thQfELyCkB78",
+      "backfill": false
+    },
+    {
+      "sequence": 70,
+      "update_id": "U20260819-0225",
+      "chapter_file_id": "1bCYWLuoMbmIkSMcMczYiZP74dMf9oqXY",
+      "storyboard_file_id": "1aRQ8vG-ri347_VuBjpyL2aqeag-vebvE",
+      "stocks_file_id": "1YBWTYSxEBO-9ZPAi76fOT2tSmLTXN0OX",
+      "market_svg_file_id": "1Y71kSacU64CV_BVc5u1dwGjyCez-KOLG",
+      "backfill": false
+    },
+    {
+      "sequence": 71,
+      "update_id": "U20260819-0305",
+      "chapter_file_id": "1YEZ5II2MO2z2x2LY2izx5_-yYsRe9P8Y",
+      "storyboard_file_id": "1-lf8rLlLreG6U7JYg2iuaKBBl5n_fvTG",
+      "stocks_file_id": "1jmIC25NEjP-F4NLCOxXbi9AJtD4ZYoST",
+      "market_svg_file_id": "1Bg3TGIt8UWlA8yrYZq6mzwEnj33b7xvn",
+      "backfill": false
+    },
+    {
+      "sequence": 72,
+      "update_id": "U20260819-0325",
+      "chapter_file_id": "1St9ZhNf2_DFGjl2d7BFKj-QM29puAJsU",
+      "storyboard_file_id": "1ozS3eguDGaTLBdwjlZm9LASsWR3SZ8Wf",
+      "stocks_file_id": "1ctut_JergOQJmeonLxnHm9XJEXuHFokv",
+      "market_svg_file_id": "1Qp-Gw66gZ2OhR1HX1qaYroupEMh11_hL",
+      "backfill": false
+    },
+    {
+      "sequence": 73,
+      "update_id": "U20260819-0405",
+      "chapter_file_id": "1B2ef3BUi5OUwdW-ME-uI8b9nNgJ1C8nu",
+      "storyboard_file_id": "1QQOekYvSnNBkvCWNruDnAhUxK_LKM2fQ",
+      "stocks_file_id": "1yRy2bxnVdUYQwPl70OgcR3fXbd0b83Fe",
+      "market_svg_file_id": "1zVa3604YwVC8DJOvVy5-Vn-AwH6EERiP",
+      "backfill": false
+    },
+    {
+      "sequence": 74,
+      "update_id": "U20260819-0425",
+      "chapter_file_id": "1YAfJIkkREtF0hGfWAdJQRxMgEbdqgRzW",
+      "storyboard_file_id": "16ipWWqVRwoXi3bld1N2pv5GXGPIaqkti",
+      "stocks_file_id": "1PMHgaBE7T2Mrb5d6QRNzklm5-aypUJMl",
+      "market_svg_file_id": "1ypMkaxo6hmREhrpNrJrN3NCl_18YNJKg",
+      "backfill": false
+    },
+    {
+      "sequence": 75,
+      "update_id": "U20260819-0505",
+      "chapter_file_id": "1ISD8qoUtYPd3qFtHaQQvWyNj1DNtETwD",
+      "storyboard_file_id": "1pyNPktn2nK3w4bVTN53mxqFAjSL7mBjb",
+      "stocks_file_id": "1yt9qnsGHEm0RyGEWDAhmUaCYbdOfJSci",
+      "market_svg_file_id": "1RvbQuU0SxuN8NIN9ZEvC6PPQCoCETYaz",
+      "backfill": false
+    },
+    {
+      "sequence": 76,
+      "update_id": "U20260819-0525",
+      "chapter_file_id": "1PgpcZFdsh9LgfrtLBgaXzbDWP0HfMJqD",
+      "storyboard_file_id": "1Pvt9vx_R00hc2LDzZeKlCUVOZlChwmU1",
+      "stocks_file_id": "1hHIpeqpLLf6A1huypiHfs0bpjekUyJuM",
+      "market_svg_file_id": "1fwOzl8g_kFmTh4WGyG3r1M-fqIn_fhbb",
+      "backfill": false
+    },
+    {
+      "sequence": 77,
+      "update_id": "U20260819-0605",
+      "chapter_file_id": "1YLplyh-1PXpxJlXx_YoMXSdFzf8R796L",
+      "storyboard_file_id": "18RhCLA5PSWv1wNGjH7UWGD4KfDYT6S2V",
+      "stocks_file_id": "1d-vHrb7Wpf_EKMAHM7jyjIY6sS7T1GJn",
+      "market_svg_file_id": "1-ZE-fFTJaYX1U4Q9KfyfHVieKAoJYb4r",
+      "backfill": false
+    },
+    {
+      "sequence": 78,
+      "update_id": "U20260819-0625",
+      "chapter_file_id": "1Qf2dXZqz7HLZPkWrtgMGevhwtjlDCT6q",
+      "storyboard_file_id": "1jiakcXyd3A-uh7NmlFneipgKzbd3v90b",
+      "stocks_file_id": "1tF-hrFSMeApn1BtbjcGeOJjRw8rSuJLj",
+      "market_svg_file_id": "1Rk1c4OOcnyQLD3rhrvIllYqDgt54DIgl",
+      "backfill": false
+    },
+    {
+      "sequence": 79,
+      "update_id": "U20260819-0705",
+      "chapter_file_id": "1zJo14eFWC6w7g6S06SnzTwCr8XaH5nAz",
+      "storyboard_file_id": "1odatjm8Y57CmQkw7oAVimG8diPFO4oyp",
+      "stocks_file_id": "1wL06K4864btOt2qcw7thmE6SByDPOx2z",
+      "market_svg_file_id": "1y9PJh1vsPKjc3lgawD3f99pE71NrnmN5",
+      "backfill": false
+    },
+    {
+      "sequence": 80,
+      "update_id": "U20260819-0725",
+      "published_at": "2026-08-19T07:25:00+08:00",
+      "title": "第四十六回　他帶四個人闖過三人門，另一個林小智卻叫他哥哥",
+      "chapter_file_id": "1Bh5_vdVthofNdNeNsRbFO439HR4n8BNm",
+      "storyboard_file_id": "1znNzUvQpjhU-YuivV3eB822qjMhgtRmn",
+      "stocks_file_id": "1O4gE5fT03JFjt8OcMfobyAI4AJSDMIms",
+      "market_svg_file_id": "1YhwXNEnK_sZ5xfBJ4fVni2eYKFpWvHOo",
+      "backfill": false
+    },
+    {
+      "sequence": 81,
+      "update_id": "U20260819-0805",
+      "published_at": "2026-08-19T08:05:00+08:00",
+      "title": "第四十七回　展場還沒開門，他先把自己的替身變成第一個證人",
+      "chapter_file_id": "1rBLI85kqDNfOisvkLnZkIAE87VgM2_d5",
+      "storyboard_file_id": "1ypkl5XxuugNpRqZYxeFlO6sFVprPozqK",
+      "stocks_file_id": "1giV4YPbONWWKsaoLTe0R0U-aIupq4XpZ",
+      "market_svg_file_id": "1OAdOsa7XI0tjI-rnrpcJStDOiFpuPta0",
+      "backfill": false
+    },
+    {
+      "sequence": 82,
+      "update_id": "U20260819-0825",
+      "published_at": "2026-08-19T08:25:00+08:00",
+      "title": "第四十八回　第三個小智不是人，她卻拿他的臉凍結一百二十萬",
+      "chapter_file_id": "1Eidywx4AcnygXJ0WuxaXqR5cnZw5TV1B",
+      "storyboard_file_id": "17n1TAQbGRIPadLm8M1XdLEtrqvR1b8U7",
+      "stocks_file_id": "1S4bjucR5CY0OfmkMMHQepQItkUT7Zy3C",
+      "market_svg_file_id": "1IEqEJ0gKIIPoxs4P4vG7DwPiKuV7KwmW",
+      "backfill": false
+    }
+  ]
+}
+

@@ -1,0 +1,121 @@
+{
+  "schema_version": 1,
+  "timezone": "Asia/Taipei",
+  "latest_market_id": "M20260819-0825",
+  "sequence": 16,
+  "updates": [
+    {
+      "sequence": 1,
+      "market_id": "M20260819-0105",
+      "as_of": "2026-08-19T01:05:00+08:00",
+      "json_file_id": "1YxJonUJk-bhK4gmzSdGTqYc3eguNEmhE",
+      "svg_file_id": "1Bv3_NKUlnKIGPr-HbbzztvuVDM2HDbnU"
+    },
+    {
+      "sequence": 2,
+      "market_id": "M20260819-0125",
+      "as_of": "2026-08-19T01:25:00+08:00",
+      "json_file_id": "11e-wWzMrGHmplOUlc8WAn9qhZQuUYAhY",
+      "svg_file_id": "1GaAKDt6lE_is_PJA8taToLrYJ-sjECUD"
+    },
+    {
+      "sequence": 3,
+      "market_id": "M20260819-0205",
+      "as_of": "2026-08-19T02:05:00+08:00",
+      "json_file_id": "170B042n_uPTtImxw5LT8KrCqAMBW8IPt",
+      "svg_file_id": "1BDwyM5s08OEwRGpjuZjuW0bSk4cYA095"
+    },
+    {
+      "sequence": 4,
+      "market_id": "M20260819-0225",
+      "as_of": "2026-08-19T02:25:00+08:00",
+      "json_file_id": "1rOJnqcOlb_YyYZ-cZtqxtZpMdwHZnDpi",
+      "svg_file_id": "1rtfKQorJRZqfGY44XhApdgSFl97NngKC"
+    },
+    {
+      "sequence": 5,
+      "market_id": "M20260819-0305",
+      "as_of": "2026-08-19T03:05:00+08:00",
+      "json_file_id": "18bsflnZOZ0WPKsigJlUB1ERjyw-WJtkf",
+      "svg_file_id": "1-twNl8y4R4odumtubgDXqiYMidOzaDb0"
+    },
+    {
+      "sequence": 6,
+      "market_id": "M20260819-0325",
+      "as_of": "2026-08-19T03:25:00+08:00",
+      "json_file_id": "1wJZ8ILFpCYrb4Qu0GMxP8KrU0wSfxSXg",
+      "svg_file_id": "1A35qch7dhP2ezJVSvCpe3fKVriImuY9I"
+    },
+    {
+      "sequence": 7,
+      "market_id": "M20260819-0405",
+      "as_of": "2026-08-19T04:05:00+08:00",
+      "json_file_id": "1wLLrTPZlGVY2n1SgAS2SpAuGWfRO64nl",
+      "svg_file_id": "1YK6HpaYIJWOYd_nrBd7xUeRMlaGDoTGx"
+    },
+    {
+      "sequence": 8,
+      "market_id": "M20260819-0425",
+      "as_of": "2026-08-19T04:25:00+08:00",
+      "json_file_id": "1T_a-0RSXv90mnr15h3D8vwDHw9ZkKFgM",
+      "svg_file_id": "1a8klU-SNmi_3O5JE4FpPoZ0Fqha2SW7h"
+    },
+    {
+      "sequence": 9,
+      "market_id": "M20260819-0505",
+      "as_of": "2026-08-19T05:05:00+08:00",
+      "json_file_id": "118ocopsTmLeiojPtf1y-HCfdkC5K1cKV",
+      "svg_file_id": "1l0_iPKMAI7u7KvoQiEHHqGIYrKxObTjS"
+    },
+    {
+      "sequence": 10,
+      "market_id": "M20260819-0525",
+      "as_of": "2026-08-19T05:25:00+08:00",
+      "json_file_id": "1j3sid21rPRYGtYe01kgZfBbf7pg7Gn8J",
+      "svg_file_id": "1c-8wodu5dj0W-NxdIKf5W6eFrT0M_TeU"
+    },
+    {
+      "sequence": 11,
+      "market_id": "M20260819-0605",
+      "as_of": "2026-08-19T06:05:00+08:00",
+      "json_file_id": "1F5BlcudH0PPnQjmfztxFXF_wSwMQBnEt",
+      "svg_file_id": "1hk_9_FzVsES4e6esW2L8FrFzyzEMi25D"
+    },
+    {
+      "sequence": 12,
+      "market_id": "M20260819-0625",
+      "as_of": "2026-08-19T06:25:00+08:00",
+      "json_file_id": "1qR8xw7Fxd45bZOP3N-B-qTs72mOZTcEm",
+      "svg_file_id": "1-q-yV9ddbCPHUpl386cffC5w38cwiFGi"
+    },
+    {
+      "sequence": 13,
+      "market_id": "M20260819-0705",
+      "as_of": "2026-08-19T07:05:00+08:00",
+      "json_file_id": "1a2rHDWe-XJsCVNIiupEUoeDoqI62Fbxx",
+      "svg_file_id": "116ju0myBpgM0fq6w41HCdAlg3l-tvLzI"
+    },
+    {
+      "sequence": 14,
+      "market_id": "M20260819-0725",
+      "as_of": "2026-08-19T07:25:00+08:00",
+      "json_file_id": "18SXPCNGKeuTimAYNkvJYtClLAzeE6_av",
+      "svg_file_id": "1cB4BDjPERRJosTOxgj8Y76UxraP2kM9L"
+    },
+    {
+      "sequence": 15,
+      "market_id": "M20260819-0805",
+      "as_of": "2026-08-19T08:05:00+08:00",
+      "json_file_id": "1xEIuZNZq7Wd51U4nC0g_N_nvLEgVzzSV",
+      "svg_file_id": "1gMC8ux-0aDzjxSvTWcuceDC87fPRU88V"
+    },
+    {
+      "sequence": 16,
+      "market_id": "M20260819-0825",
+      "as_of": "2026-08-19T08:25:00+08:00",
+      "json_file_id": "1mcQCeXnNSr0xFtdGxsnKXhr7F7xRB9yp",
+      "svg_file_id": "1i0_weoGZZC7Kqq7CyJOpcUNiB7CZEonZ"
+    }
+  ]
+}
+

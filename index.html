@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#08111f">
+  <meta name="description" content="小智股海發財記：從便當錢到台灣首富。Drive 資料驅動的靜態小說與市場研究網站。">
+  <title>小智股海發財記</title>
+  <link rel="stylesheet" href="./assets/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <a href="#home" class="brand-title">小智股海發財記</a>
+      <span class="brand-sub">從便當錢到台灣首富</span>
+    </div>
+    <div class="sync-cluster">
+      <span id="syncDot" class="sync-dot"></span>
+      <span id="syncText">讀取資料中</span>
+      <span class="countdown-label">下次檢查</span>
+      <strong id="countdown">--:--</strong>
+      <button id="refreshBtn" class="icon-btn" title="立即檢查更新">↻</button>
+      <button id="themeBtn" class="icon-btn" title="切換明暗">◐</button>
+    </div>
+  </header>
+
+  <nav class="tabs" aria-label="主要分頁">
+    <a href="#home" data-route="home">首頁</a>
+    <a href="#novel" data-route="novel">完整小說</a>
+    <a href="#stocks" data-route="stocks">今日選股</a>
+    <a href="#stock-history" data-route="stock-history">選股歷程</a>
+    <a href="#ledger" data-route="ledger">交易帳本</a>
+    <a href="#market" data-route="market">市場即時／波段</a>
+    <a href="#characters" data-route="characters">人物誌</a>
+    <a href="#history" data-route="history">歷史資料</a>
+  </nav>
+
+  <main id="app" class="app-shell">
+    <section class="loading-card">正在載入 Drive 同步快照…</section>
+  </main>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+  <footer class="footer">
+    <p>小說情節為虛構；股票、市場與政策資料以發布包中的查證結果為準，不構成投資建議。</p>
+    <p>靜態站本身不使用 ChatGPT Work。資料由 GitHub Actions 自 Drive 同步。</p>
+  </footer>
+
+  <script src="./assets/app.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,22 @@
+{
+  "market_id":"M20260819-0825","as_of":"2026-08-19T08:25:00+08:00","session_status":"台股現貨尚未開市；公開展場10:00開放。無可靠新台股OHLC、廣度或三大法人資料。",
+  "sources":[
+    {"title":"Tech selloff weighs down Wall Street as bond yields climb","url":"https://www.reuters.com/business/us-stock-futures-drop-fading-iran-peace-hopes-lift-oil-bond-yields-2026-08-18/","published_at":"2026-08-18","accessed_at":"2026-08-19T08:25:00+08:00"},
+    {"title":"Nasdaq slides, yields elevated as Mideast conflict fears grow","url":"https://www.reuters.com/world/china/global-markets-wrapup-1-2026-08-18/","published_at":"2026-08-18","accessed_at":"2026-08-19T08:25:00+08:00"},
+    {"title":"Taiwan central bank USD/TWD close","url":"https://www.cbc.gov.tw/tw/lp-645-1.html","published_at":"2026-08-18","accessed_at":"2026-08-19T08:25:00+08:00"},
+    {"title":"USD/TWD indicative quote","url":"https://tw.stock.yahoo.com/quote/USDTWD%3DX","published_at":"2026-08-19T01:49:00+08:00","accessed_at":"2026-08-19T08:25:00+08:00"},
+    {"title":"2026 Taipei Automation official event details","url":"https://www.chanchao.com.tw/expoDetail.asp?id=DAUI2026","published_at":"2026","accessed_at":"2026-08-19T08:25:00+08:00"},
+    {"title":"自動化展開幕前機器人族群升溫","url":"https://money.udn.com/money/story/5607/9676743","published_at":"2026-08-07","accessed_at":"2026-08-19T08:25:00+08:00"}
+  ],
+  "breaking_news":["自動化展8/19至8/22舉行，公開入場10:00；08:25仍為非公開交易前時段。","展前上銀、大銀等題材已有提前反映，開幕本身不構成買進理由。","美股科技與長債壓力未解除；台股開盤承接尚待驗證。"],
+  "index_snapshot":{"taiex":{"status":"stale_official_close","date":"2026-08-18","close":45308.68,"high":46064.09,"low":45225.42},"tpex":{"status":"stale_official_close","date":"2026-08-18","close":390.83,"high":400.81,"low":389.92},"nasdaq":{"status":"reuters_close","change_pct":-1.33},"sox":{"status":"reuters_close","change_pct_approx":-5.0}},
+  "fx_snapshot":{"usd_twd":{"official_close":31.945,"official_date":"2026-08-18","indicative":31.915,"indicative_time":"2026-08-19T01:49:00+08:00","direction":"指示值較官方前收略偏台幣強，但資料已延遲"},"interpretation":"台幣若轉弱，通常不利外資風險偏好與電子估值；出口換匯相對受益，進口成本升高，金融／壽險另受匯兌與長債評價影響。","usd_jpy":{"status":"stale_indicative","value":159.55},"dxy":{"status":"stale_indicative","value":99.55}},
+  "cross_asset":{"tsm_adr":{"status":"official_close","close":413.41,"change_pct":-4.07,"high":423.0,"low":410.765},"us_30y_yield":{"status":"reuters_close","close_pct":5.2922,"intraday_high_pct":5.3371},"brent":{"status":"reuters_close_stale","close":91.02},"wti":{"status":"reuters_close_stale","close":84.94},"us_futures":{"status":"unavailable"}},
+  "breadth_and_flow":{"taiwan_breadth":"尚未開市，pending。","foreign_and_institutions":"8/19三大法人尚未公布，pending。","volume_price":"無新現貨量價；不得以展場或外盤期待冒充成交。"},
+  "sector_rotation":{"watch_strength":["精密運動控制","機器人零組件","AI視覺"],"risk_weakness":["半導體高Beta","高估值科技"],"note":"展會題材已有提前反映風險，須等盤中2至3檔共振。"},
+  "abc_wave":{"framework":"Elliott/ABC僅為情境分析。","current_interpretation":"偏A段延伸，63%；08:25無新OHLC，未形成B段確認。","anchors":[{"instrument":"TAIEX","date":"2026-08-18","high":46064.09,"low":45225.42,"close":45308.68},{"instrument":"TPEx","date":"2026-08-18","high":400.81,"low":389.92,"close":390.83}],"support":["45225.42","45000","TPEx 389.92"],"resistance":["45857.27","46064.09"],"alternate_scenario":"守住45225.42、權值承接且櫃買廣度改善，可能出現弱勢B段反彈。","invalidation":"站回45857.27且權值、廣度同步改善則A段降級；跌破45225.42且電子、櫃買同步惡化則A段延伸風險升高。","confidence":0.63},
+  "scenarios":{"bullish":"守45225.42、台積電承接、櫃買止跌且機器人2至3檔共振。","base":"開盤測支撐，五檔維持WAIT。","bearish":"跌破45225.42與389.92，權值、電子及櫃買同步惡化。"},
+  "next_confirmations":["08:30後只採有時間戳的匯率與期貨資料。","09:00–09:20確認TAIEX 45225.42、TPEx 389.92及台積電承接。","確認機器人／運控至少2至3檔同層共振。"],
+  "risk_flags":["台股尚未開市","USD/TWD指示值延遲","展會題材提前反映","SOX與TSM ADR壓力","長債與油價風險"],
+  "website_summary":"08:25二次驗證：台股未開市，展會公開入場10:00；題材已有提前反映，無新OHLC支持B段反轉，ABC偏A段63%，五檔全WAIT。"
+}

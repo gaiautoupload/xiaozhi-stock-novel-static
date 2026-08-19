@@ -1,0 +1,71 @@
+name: Sync Drive & Deploy Pages
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+  schedule:
+    # Novel publishes at :05/:25/:45. Give Drive ~2 minutes, then sync.
+    - cron: "7,27,47 * * * *"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: xiaozhi-pages
+  cancel-in-progress: false
+
+jobs:
+  sync-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install sync dependencies
+        run: pip install -r requirements.txt
+
+      - name: Sync publication data from Google Drive
+        id: drive_sync
+        continue-on-error: true
+        env:
+          GDRIVE_SERVICE_ACCOUNT_JSON: ${{ secrets.GDRIVE_SERVICE_ACCOUNT_JSON }}
+        run: python scripts/sync_drive.py
+
+      - name: Report Drive sync fallback
+        if: steps.drive_sync.outcome == 'failure'
+        run: echo "Drive sync failed; deploying the last committed snapshot instead." >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Validate static site
+        run: python scripts/validate_site.py
+
+      - name: Commit refreshed data snapshot
+        run: |
+          git config user.name "xiaozhi-data-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          if ! git diff --cached --quiet; then
+            git commit -m "data: sync Drive publication package"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: "."
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
