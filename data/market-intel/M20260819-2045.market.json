@@ -1,0 +1,21 @@
+{
+  "market_id":"M20260819-2045","as_of":"2026-08-19T20:45:00+08:00","session_status":"closed_historical_snapshot",
+  "sources":[
+    {"title":"TWSE TAIEX historical data","url":"https://www.twse.com.tw/en/indices/taiex/mi-5min-hist.html","published_at":"2026-08-19","accessed_at":"2026-08-21T02:30:00+08:00"},
+    {"title":"Taipei Exchange Daily Volume & Index","url":"https://www.tpex.org.tw/en-us/mainboard/trading/info/daily-indices.html","published_at":"2026-08-19","accessed_at":"2026-08-21T02:30:00+08:00"},
+    {"title":"CBC NTD/USD closing rate","url":"https://www.cbc.gov.tw/tw/lp-645-1.html","published_at":"2026-08-19","accessed_at":"2026-08-21T02:30:00+08:00"},
+    {"title":"Reuters: US stock futures steady after tech slump","url":"https://www.reuters.com/business/us-stock-futures-steady-after-tech-slump-investors-focus-middle-east-tensions-2026-08-19/","published_at":"2026-08-19","accessed_at":"2026-08-21T02:30:00+08:00"},
+    {"title":"Reuters Morning Bid: Robot Rally","url":"https://www.reuters.com/podcasts/reuters-morning-bid/robot-rally-2026-08-19/","published_at":"2026-08-19","accessed_at":"2026-08-21T02:30:00+08:00"}
+  ],
+  "breaking_news":["Unitree上海上市首日一度上漲約600%，機器人題材升溫，但展示用途與估值風險並存。","長天期美債殖利率仍在多年高位，科技股估值承壓；中東與油價風險仍在。"],
+  "index_snapshot":{"TAIEX":{"close":44719.35,"change":-589.33,"change_pct":-1.30,"high":45071.34,"low":44308.71,"status":"closed"},"TPEx":{"close":384.79,"change":-6.04,"change_pct":-1.55,"status":"closed"}},
+  "fx_snapshot":{"USD_TWD":{"close":31.937,"prior_close":31.945,"twd_change":0.008,"direction":"TWD slightly stronger"},"impact":"台幣小升可略緩進口成本與外資匯兌壓力，但不足抵銷外資賣超；出口商換匯收益受抑，壽險避險成本與電子估值仍受美元及長債牽動。"},
+  "cross_asset":{"NASDAQ":"exact close unavailable at target slot; U.S. session in progress","SOX":"prior selloff nearly 5%; exact target-slot quote unavailable","TSM_ADR":"unavailable at exact target slot","DXY":"direction mixed; exact quote unavailable","US10Y":"elevated; exact target-slot quote unavailable","US30Y":"about 5.28% reported before U.S. open","USD_JPY":"unavailable at exact target slot"},
+  "breadth_and_flow":{"three_institutions_net_billion_twd":-70.848,"foreign_net_billion_twd":-41.639,"status":"official post-close figures carried from same trading day","breadth":"TAIEX and TPEx both fell more than 1%; weak breadth inferred, exact advancers/decliners unavailable"},
+  "sector_rotation":{"stronger":["機器人題材／自動化觀察"],"weaker":["半導體高Beta","櫃買成長股"],"note":"題材催化尚未等於台股資金確認。"},
+  "abc_wave":{"framework":"Elliott/ABC scenario analysis, not a forecast","current_interpretation":"弱勢B波準備或A波延伸，尚無反轉確認","anchors":[{"type":"high","value":45071.34,"date":"2026-08-19"},{"type":"low","value":44308.71,"date":"2026-08-19"},{"type":"close","value":44719.35,"date":"2026-08-19"}],"support":[44308.71],"resistance":[45071.34],"alternate_scenario":"若次一交易時段放量站回45071.34，可能由A波延伸改判B波反彈；若跌破44308.71，偏向C波或A波續跌。","invalidation":"未取得後續量價、ADR與外資回補前，不得把反彈當趨勢反轉。","confidence":"medium-low"},
+  "scenarios":{"bullish":"守44308.71並放量收復45071.34，台積電/ADR與SOX同步止穩。","base":"44308.71至45071.34間震盪，機器人題材局部活躍但大盤仍受長債壓制。","bearish":"跌破44308.71且外資續賣，櫃買與高Beta擴大補跌。"},
+  "next_confirmations":["次一交易時段是否守住44308.71","能否放量收復45071.34","TSM ADR與SOX是否止穩","外資是否停止大額賣超","機器人族群是否由題材轉為量價擴散"],
+  "risk_flags":["長債殖利率高檔","中東與油價風險","機器人題材過熱","精確美股盤中報價 unavailable","收盤後不得假裝即時成交"],
+  "website_summary":"8/19台股收盤弱勢：加權44719.35、櫃買384.79；台幣小升至31.937。ABC僅作弱B/A延伸情境，44308.71支撐、45071.34壓力。"
+}

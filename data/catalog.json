@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-20T18:18:59+00:00",
-  "latest_update_id": "U20260819-2025",
-  "sequence": 118,
+  "generated_at": "2026-08-20T19:15:03+00:00",
+  "latest_update_id": "U20260819-2105",
+  "sequence": 120,
   "entries": [
     {
       "sequence": 1,
@@ -1181,6 +1181,26 @@
       "chapter_path": "data/chapters/U20260819-2025.md",
       "stocks_path": "data/stocks/U20260819-2025.stocks.json",
       "market_svg_path": "data/visuals/U20260819-2025.market.svg",
+      "backfill": false
+    },
+    {
+      "sequence": 119,
+      "update_id": "U20260819-2045",
+      "published_at": "2026-08-19T20:45:00+08:00",
+      "title": "第八十五回：姐姐說她死過一次，小智卻讓死人先投標",
+      "chapter_path": "data/chapters/U20260819-2045.md",
+      "stocks_path": "data/stocks/U20260819-2045.stocks.json",
+      "market_svg_path": "data/visuals/U20260819-2045.market.svg",
+      "backfill": false
+    },
+    {
+      "sequence": 120,
+      "update_id": "U20260819-2105",
+      "published_at": "2026-08-19T21:05:00+08:00",
+      "title": "第八十六回：第三個顧知夏開出婚約，沈妍書先把戒指戴上",
+      "chapter_path": "data/chapters/U20260819-2105.md",
+      "stocks_path": "data/stocks/U20260819-2105.stocks.json",
+      "market_svg_path": "data/visuals/U20260819-2105.market.svg",
       "backfill": false
     }
   ]

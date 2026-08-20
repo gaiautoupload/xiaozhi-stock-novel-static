@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
   "timezone": "Asia/Taipei",
-  "latest_update_id": "U20260819-2025",
-  "sequence": 118,
+  "latest_update_id": "U20260819-2105",
+  "sequence": 120,
   "ordering_rule": "sequence then update_id; ignore legacy chapter numbers",
-  "history_count": 118,
+  "history_count": 120,
   "updates": [
     {
       "sequence": 1,
@@ -1101,6 +1101,28 @@
       "storyboard_file_id": "1sMq_2T8PtsazEI5WKYwyns2dY6INzeUW",
       "stocks_file_id": "1NOleRACA3Ep82YFEKmUY3wuVVLS3N4-q",
       "market_svg_file_id": "10z5-FctJTTfSodds1vepn9UmtXuRTRuj"
+    },
+    {
+      "sequence": 119,
+      "update_id": "U20260819-2045",
+      "published_at": "2026-08-19T20:45:00+08:00",
+      "title": "第八十五回：姐姐說她死過一次，小智卻讓死人先投標",
+      "chapter_file_id": "16XbpVa1i0vgPhd2Y1SNkP3InwJAldOjE",
+      "storyboard_file_id": "1iAmQXNwDydHfW4V37NPkOYe6J13iLtlt",
+      "stocks_file_id": "1moX9hBkII49JtRAjtEequslmButDvi-G",
+      "market_svg_file_id": "1mhQyfOeRpD5lAo2-_U-j5ryAM81ET5jo",
+      "market_id": "M20260819-2045"
+    },
+    {
+      "sequence": 120,
+      "update_id": "U20260819-2105",
+      "published_at": "2026-08-19T21:05:00+08:00",
+      "title": "第八十六回：第三個顧知夏開出婚約，沈妍書先把戒指戴上",
+      "chapter_file_id": "1zBV5G7109667plibN56yeJh2RatmL2R0",
+      "storyboard_file_id": "1opE-JEslF1ZNYOnBwv2vnXdgGiqZJiVj",
+      "stocks_file_id": "1AdMSVOJxrE6VWDBLv87Jx21R_bOY7q2U",
+      "market_svg_file_id": "1vClbcLwG9agwhfH5Xt8YXVM88GbjSeVT",
+      "market_id": "M20260819-2105"
     }
   ]
 }
