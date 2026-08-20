@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-20T21:57:24+00:00",
-  "latest_update_id": "U20260820-0025",
-  "sequence": 130,
+  "generated_at": "2026-08-20T22:45:25+00:00",
+  "latest_update_id": "U20260820-0145",
+  "sequence": 134,
   "entries": [
     {
       "sequence": 1,
@@ -1301,6 +1301,46 @@
       "chapter_path": "data/chapters/U20260820-0025.md",
       "stocks_path": "data/stocks/U20260820-0025.stocks.json",
       "market_svg_path": "data/visuals/U20260820-0025.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 131,
+      "update_id": "U20260820-0045",
+      "published_at": "2026-08-20T00:45:00+08:00",
+      "title": "第九十七回　她要小智單獨認母，他卻讓三個吃醋的女人同時成為證人",
+      "chapter_path": "data/chapters/U20260820-0045.md",
+      "stocks_path": "data/stocks/U20260820-0045.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-0045.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 132,
+      "update_id": "U20260820-0105",
+      "published_at": "2026-08-20T01:05:00+08:00",
+      "title": "第九十八回　出生證明說他是自己的父親，他用一滴血逼三十億信託先驗身分",
+      "chapter_path": "data/chapters/U20260820-0105.md",
+      "stocks_path": "data/stocks/U20260820-0105.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-0105.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 133,
+      "update_id": "U20260820-0125",
+      "published_at": "2026-08-20T01:25:00+08:00",
+      "title": "第九十九回　她是下一把鑰匙，開出的條件卻是和他同住七天",
+      "chapter_path": "data/chapters/U20260820-0125.md",
+      "stocks_path": "data/stocks/U20260820-0125.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-0125.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 134,
+      "update_id": "U20260820-0145",
+      "published_at": "2026-08-20T01:45:00+08:00",
+      "title": "第一百回　四個女人搶一間安全屋，他用一元租金住進三十億頂樓",
+      "chapter_path": "data/chapters/U20260820-0145.md",
+      "stocks_path": "data/stocks/U20260820-0145.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-0145.market.svg",
       "backfill": true
     }
   ]

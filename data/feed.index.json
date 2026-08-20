@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
   "timezone": "Asia/Taipei",
-  "latest_update_id": "U20260820-0025",
-  "sequence": 130,
+  "latest_update_id": "U20260820-0145",
+  "sequence": 134,
   "ordering_rule": "sequence then update_id; ignore legacy chapter numbers",
-  "history_count": 130,
+  "history_count": 134,
   "updates": [
     {
       "sequence": 1,
@@ -1234,6 +1234,54 @@
       "stocks_file_id": "1I8nbb-TpeBbbd1SiJTTKAeMv73aY0mQh",
       "market_svg_file_id": "1iCa-j4HjruA6k4MEjN16xxc-A6fJNuGD",
       "market_id": "M20260820-0025",
+      "backfill": true
+    },
+    {
+      "sequence": 131,
+      "update_id": "U20260820-0045",
+      "published_at": "2026-08-20T00:45:00+08:00",
+      "title": "第九十七回　她要小智單獨認母，他卻讓三個吃醋的女人同時成為證人",
+      "chapter_file_id": "1bgMSs16BteGGOJd022MBi3W_RiHM5G30",
+      "storyboard_file_id": "1bsS8XygQLeanG9vw8hzOC9h5nlgFCQbe",
+      "stocks_file_id": "1QRHe67u6ASc83jONTp9gdebfPntwNqNr",
+      "market_svg_file_id": "1SK1FlRGUsrUSlBeWC_uaiHJtMtWzxUW0",
+      "market_id": "M20260820-0045",
+      "backfill": true
+    },
+    {
+      "sequence": 132,
+      "update_id": "U20260820-0105",
+      "published_at": "2026-08-20T01:05:00+08:00",
+      "title": "第九十八回　出生證明說他是自己的父親，他用一滴血逼三十億信託先驗身分",
+      "chapter_file_id": "1eAyHQBwDbm-NjZKktwsoJvzZYqg4e5tD",
+      "storyboard_file_id": "1p6Vd0zau5vBDi6VlAIBDe38uCPcT7db3",
+      "stocks_file_id": "1OV-MgScTlN3mbx8SZ40eBh0cKrdxGCXj",
+      "market_svg_file_id": "1utTIidyqkWOeZmAPNSfw-a11Zq4ZzFJK",
+      "market_id": "M20260820-0105",
+      "backfill": true
+    },
+    {
+      "sequence": 133,
+      "update_id": "U20260820-0125",
+      "published_at": "2026-08-20T01:25:00+08:00",
+      "title": "第九十九回　她是下一把鑰匙，開出的條件卻是和他同住七天",
+      "chapter_file_id": "1WY_8ft84lt4nUVx7OYVqclOL6A9yjMNQ",
+      "storyboard_file_id": "1ogPPqbCWcDIPULoPolYCV3UjjW6H7ALl",
+      "stocks_file_id": "1xHe_lRIWqcqPoD3IIoCl1vJA22-CnU6t",
+      "market_svg_file_id": "1qoOcO2aGU8LRBTyaV3lG7KfQ5X8PffyT",
+      "market_id": "M20260820-0125",
+      "backfill": true
+    },
+    {
+      "sequence": 134,
+      "update_id": "U20260820-0145",
+      "published_at": "2026-08-20T01:45:00+08:00",
+      "title": "第一百回　四個女人搶一間安全屋，他用一元租金住進三十億頂樓",
+      "chapter_file_id": "10wWA6-LjEsXSd1xMxJIpiO4NlObbYYJp",
+      "storyboard_file_id": "15w1ZzpEHKZ2lAYLj6v26T4XXqipXMS6h",
+      "stocks_file_id": "1K2fK9MIhfJ3MroMBjNYVRYRrYaKdDNKV",
+      "market_svg_file_id": "10imXpnwk448j6QntBK1RDGUr854eJrxG",
+      "market_id": "M20260820-0145",
       "backfill": true
     }
   ]

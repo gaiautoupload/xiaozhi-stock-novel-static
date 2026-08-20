@@ -1,0 +1,132 @@
+{
+  "schema_version": 2,
+  "update_id": "U20260820-0125",
+  "market_id": "M20260820-0125",
+  "as_of": "2026-08-20T01:25:00+08:00",
+  "portfolio": {
+    "total_assets_twd": 26000,
+    "unrestricted_cash_twd": 20000,
+    "restricted_cash_twd": 6000,
+    "recognized_income_twd": 0,
+    "stock_trades": 0
+  },
+  "watchlist": [
+    {
+      "ticker": "4576",
+      "name": "大銀微系統",
+      "positioning": "精密運動控制／機器人零組件",
+      "rating": "B",
+      "evidence": [
+        "2026年7月營收年增60.14%",
+        "Unitree上市首日大漲帶動機器人題材"
+      ],
+      "risks": [
+        "題材擁擠",
+        "R-4576為非公開虛構線索"
+      ],
+      "confirm_signals": [
+        "公開量價擴散",
+        "收復45071.34"
+      ],
+      "invalidations": [
+        "量增跌破44308.71"
+      ],
+      "exit_logic": "法遵解除且公開訊號確認前不進場",
+      "action": "WAIT"
+    },
+    {
+      "ticker": "2049",
+      "name": "上銀",
+      "positioning": "線性傳動／自動化",
+      "rating": "B-",
+      "evidence": [
+        "2026年7月營收年增33.94%",
+        "自動化需求具展會催化"
+      ],
+      "risks": [
+        "景氣循環",
+        "題材先反映"
+      ],
+      "confirm_signals": [
+        "族群廣度改善",
+        "相對轉強"
+      ],
+      "invalidations": [
+        "量增破底"
+      ],
+      "exit_logic": "確認失敗移除",
+      "action": "WAIT"
+    },
+    {
+      "ticker": "2359",
+      "name": "所羅門",
+      "positioning": "AI視覺／系統整合",
+      "rating": "C",
+      "evidence": [
+        "2026年7月營收年增36.32%",
+        "AI視覺屬機器人落地環節"
+      ],
+      "risks": [
+        "月減29.09%",
+        "估值訂單落差"
+      ],
+      "confirm_signals": [
+        "官方訂單",
+        "量價共振"
+      ],
+      "invalidations": [
+        "量價背離再破低"
+      ],
+      "exit_logic": "無增量不進場",
+      "action": "WAIT"
+    },
+    {
+      "ticker": "6125",
+      "name": "廣運",
+      "positioning": "自動化／物流整合",
+      "rating": "C+",
+      "evidence": [
+        "2026年7月營收年增約4.03%",
+        "物流自動化有產業催化"
+      ],
+      "risks": [
+        "專案遞延",
+        "櫃買弱勢"
+      ],
+      "confirm_signals": [
+        "法人回補",
+        "TPEx止穩"
+      ],
+      "invalidations": [
+        "量增破低"
+      ],
+      "exit_logic": "支撐失效退出",
+      "action": "WAIT"
+    },
+    {
+      "ticker": "2330",
+      "name": "台積電",
+      "positioning": "晶圓代工／電子權值風險錨",
+      "rating": "C-",
+      "evidence": [
+        "2026年7月營收4675.8億元、年增44.7%",
+        "8月19日外資賣超台股416.39億元"
+      ],
+      "risks": [
+        "海外半導體波動",
+        "利率與地緣"
+      ],
+      "confirm_signals": [
+        "ADR與現貨同步止穩",
+        "收復45071.34"
+      ],
+      "invalidations": [
+        "權值續弱且跌破44308.71"
+      ],
+      "exit_logic": "三重確認前不進場",
+      "action": "WAIT"
+    }
+  ],
+  "selection_changes": [],
+  "disclaimer": "觀察非成交；未簽驗付款案件不列本金。"
+}

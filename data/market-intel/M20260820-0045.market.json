@@ -1,0 +1,178 @@
+{
+  "market_id": "M20260820-0045",
+  "as_of": "2026-08-20T00:45:00+08:00",
+  "session_status": "taiwan_closed_us_session_historical_snapshot",
+  "sources": [
+    {
+      "title": "TWSE 2026/08 TAIEX historical data",
+      "url": "https://www.twse.com.tw/en/indices/taiex/mi-5min-hist.html",
+      "published_at": "2026-08-19T13:30:00+08:00",
+      "accessed_at": "2026-08-21T06:10:00+08:00"
+    },
+    {
+      "title": "TPEx daily indices",
+      "url": "https://www.tpex.org.tw/en-us/mainboard/trading/info/daily-indices.html",
+      "published_at": "2026-08-19T13:30:00+08:00",
+      "accessed_at": "2026-08-21T06:10:00+08:00"
+    },
+    {
+      "title": "三大法人賣超台股708.48億元",
+      "url": "https://www.cna.com.tw/news/afe/202608190182.aspx",
+      "published_at": "2026-08-19T15:12:00+08:00",
+      "accessed_at": "2026-08-21T06:10:00+08:00"
+    },
+    {
+      "title": "CBC exchange-rate data",
+      "url": "https://www.cbc.gov.tw/tw/lp-645-1.html",
+      "published_at": "2026-08-19T16:00:00+08:00",
+      "accessed_at": "2026-08-21T06:10:00+08:00"
+    },
+    {
+      "title": "Unitree surges in Shanghai debut",
+      "url": "https://www.reuters.com/world/asia-pacific/chinese-humanoid-robot-maker-unitree-set-jump-over-600-shanghai-debut-2026-08-19/",
+      "published_at": "2026-08-19T09:27:39+08:00",
+      "accessed_at": "2026-08-21T06:10:00+08:00"
+    },
+    {
+      "title": "TSMC July 2026 Revenue Report",
+      "url": "https://pr.tsmc.com/english/news/3329",
+      "published_at": "2026-08-10T14:00:00+08:00",
+      "accessed_at": "2026-08-21T06:10:00+08:00"
+    }
+  ],
+  "breaking_news": [
+    "Unitree上市首日大幅上漲，機器人題材有催化亦有估值過熱風險",
+    "目標時點前可驗證資訊顯示長債與能源仍是主要風險"
+  ],
+  "index_snapshot": {
+    "TAIEX": {
+      "close": 44719.35,
+      "change_points": -589.33,
+      "change_pct": -1.3,
+      "open": 45071.34,
+      "low": 44308.71,
+      "turnover_twd_billion": 847.857,
+      "status": "official_2026-08-19_close"
+    },
+    "TPEx": {
+      "close": 384.79,
+      "change_points": -6.04,
+      "change_pct": -1.55,
+      "turnover_twd_billion": 179.319,
+      "status": "official_2026-08-19_close"
+    }
+  },
+  "fx_snapshot": {
+    "USD_TWD": {
+      "close": 31.937,
+      "previous": 31.945,
+      "twd_change": 0.008,
+      "status": "official daily close; exact target quote unavailable"
+    },
+    "impacts": {
+      "foreign_flow": "台幣小幅升值未抵銷外資賣超",
+      "tsmc": "外資賣超使權值股仍承壓",
+      "exports": "升值略壓縮出口換匯",
+      "financial_insurance": "長債波動影響債券評價",
+      "import_cost": "台幣升值小幅降低成本",
+      "valuation": "殖利率高檔壓抑成長股估值"
+    }
+  },
+  "cross_asset": {
+    "NASDAQ": {
+      "value": "unavailable",
+      "status": "exact target quote unavailable"
+    },
+    "SOX": {
+      "value": "unavailable",
+      "status": "exact target quote unavailable"
+    },
+    "TSM_ADR": {
+      "value": "unavailable",
+      "status": "exact target quote unavailable"
+    },
+    "DXY": {
+      "value": 98.95,
+      "status": "stale Reuters snapshot available before target"
+    },
+    "US_10Y": {
+      "value": "unavailable",
+      "status": "exact target quote unavailable"
+    },
+    "US_30Y": {
+      "value": 5.208,
+      "status": "stale Reuters snapshot available before target"
+    },
+    "USDJPY": {
+      "value": "unavailable",
+      "status": "exact target quote unavailable"
+    },
+    "macro": [
+      "FOMC會議紀要與長債供給",
+      "中東地緣及能源",
+      "關稅與科技管制"
+    ]
+  },
+  "breadth_and_flow": {
+    "advancers": 387,
+    "decliners": 605,
+    "unchanged": 114,
+    "three_institutions_net_sell_twd_billion": 70.848,
+    "foreign_net_sell_twd_billion": 41.639,
+    "investment_trust_net_sell_twd_billion": 12.091,
+    "dealer_net_sell_twd_billion": 17.118,
+    "assessment": "下跌家數占優且三法人同步賣超，廣度偏弱"
+  },
+  "sector_rotation": {
+    "stronger": [
+      "機器人概念有事件催化，仍需公開量價與訂單驗證"
+    ],
+    "weaker": [
+      "電子權值",
+      "櫃買成長股"
+    ],
+    "watch": [
+      "出口匯率敏感股",
+      "金融壽險債券評價",
+      "進口成本受惠股"
+    ]
+  },
+  "abc_wave": {
+    "framework": "Elliott/ABC僅作情境，不作預言",
+    "current_interpretation": "8/19急跌可視為A段後弱B準備，亦可能是A段尚未結束",
+    "anchors": [
+      45071.34,
+      44308.71,
+      44719.35
+    ],
+    "support": [
+      44308.71
+    ],
+    "resistance": [
+      44811,
+      45071.34
+    ],
+    "alternate_scenario": "跌破44308.71則A段延伸；收復45071.34且廣度改善則弱B可信度提升",
+    "invalidation": "突破45071.34並獲法人回補，或跌破44308.71使弱B假設失效",
+    "confidence": "medium_low"
+  },
+  "scenarios": {
+    "bullish": "收復45071.34、外資轉買、機器人題材由展示擴散到訂單與量價",
+    "base": "44308.71至45071.34震盪等待確認",
+    "bearish": "跌破44308.71且電子權值、TPEx同步轉弱"
+  },
+  "next_confirmations": [
+    "台股開盤能否守44308.71",
+    "外資與台積電是否止穩",
+    "TPEx廣度能否翻正",
+    "NASDAQ/SOX/TSM ADR下一可驗證資料",
+    "DXY、美債、USDJPY方向"
+  ],
+  "risk_flags": [
+    "精確目標時點跨資產報價無可靠時間戳，標示unavailable或stale",
+    "機器人估值與商用落地落差",
+    "法人賣超與弱勢廣度",
+    "長債、能源、地緣、關稅風險"
+  ],
+  "website_summary": "8/19台股收44719.35、櫃買384.79，三法人賣超708.48億元；機器人有Unitree催化，但法人、廣度與長債風險要求WAIT。ABC只列弱B／A延伸雙情境。"
+}
