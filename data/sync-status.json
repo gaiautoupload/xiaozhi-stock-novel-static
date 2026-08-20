@@ -1,10 +1,10 @@
 {
-  "last_success": "2026-08-20T17:44:18+00:00",
+  "last_success": "2026-08-20T18:19:00+00:00",
   "mode": "public_drive",
-  "feed_sequence": 116,
-  "market_sequence": 50,
-  "chapter_count": 116,
-  "stocks_snapshot_count": 61,
+  "feed_sequence": 118,
+  "market_sequence": 52,
+  "chapter_count": 118,
+  "stocks_snapshot_count": 63,
   "errors": [
     "sheet export skipped: 401 Client Error: Unauthorized for url: https://docs.google.com/spreadsheets/d/1-Qw9UQTq7dNzQn9NNx2qxEqpqWRuR0jPaCKSoTTM2Pc/export?format=xlsx"
   ],
