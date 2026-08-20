@@ -1,0 +1,23 @@
+{
+  "market_id":"M20260819-1905","as_of":"2026-08-19T19:05:00+08:00","session_status":"post_close_historical_backfill",
+  "sources":[
+    {"title":"TWSE TAIEX Total Index Historical Data","url":"https://www.twse.com.tw/en/indices/taiex/mi-5min-hist.html","published_at":"2026-08-19T14:30:00+08:00","accessed_at":"2026-08-21T01:04:00+08:00"},
+    {"title":"台股收盤跌589點 台積電下挫40元","url":"https://www.cna.com.tw/news/afe/202608190167.aspx","published_at":"2026-08-19T14:44:00+08:00","accessed_at":"2026-08-21T01:04:00+08:00"},
+    {"title":"三大法人賣超台股708.48億元","url":"https://www.cna.com.tw/news/afe/202608190182.aspx","published_at":"2026-08-19T15:12:00+08:00","accessed_at":"2026-08-21T01:04:00+08:00"},
+    {"title":"櫃買市場重要指標","url":"https://www.tpex.org.tw/zh-tw/mainboard/trading/info/highlight.html","published_at":"2026-08-19T14:30:00+08:00","accessed_at":"2026-08-21T01:04:00+08:00"},
+    {"title":"新臺幣／美元銀行間收盤匯率","url":"https://www.cbc.gov.tw/tw/lp-645-1.html","published_at":"2026-08-19T17:00:00+08:00","accessed_at":"2026-08-21T01:04:00+08:00"},
+    {"title":"Morning Bid: Bonds out, robots in","url":"https://www.reuters.com/commentary/reuters-open-interest/global-markets-view-usa-2026-08-19/","published_at":"2026-08-19T18:34:00+08:00","accessed_at":"2026-08-21T01:04:00+08:00"},
+    {"title":"TSMC July 2026 Revenue Report","url":"https://pr.tsmc.com/english/news/3329","published_at":"2026-08-10T00:00:00+08:00","accessed_at":"2026-08-21T01:04:00+08:00"}
+  ],
+  "breaking_news":["19:05前未見新的台股官方數據推翻18:45判讀。","Reuters 18:34報導的機器人題材升溫與長債殖利率壓力並存，構成次日局部催化與估值風險。","美加關稅調升暫緩至少三日，屬談判中的暫時性緩和。"],
+  "index_snapshot":{"TAIEX":{"open":45071.34,"high":45071.34,"low":44308.71,"close":44719.35,"change":-589.33,"change_pct":-1.30,"turnover_twd_100m":8478.57,"status":"closed"},"TPEx":{"close":384.79,"change":-6.04,"change_pct":-1.55,"turnover_twd_100m":1793.19,"status":"closed"}},
+  "fx_snapshot":{"USD_TWD":{"close":31.937,"previous":31.945,"change":-0.008,"direction":"TWD_appreciation","source":"CBC official close"},"impact":{"foreign_flow":"台幣小升未能抵銷外資現貨賣超，仍須等待資金回流確認。","tsmc_electronics":"匯率換算略偏逆風，權值方向仍受海外科技與法人主導。","exporters":"出口換算略有壓力。","financial_insurance":"外幣資產評價、避險成本與債券殖利率須合併判斷。","import_cost":"進口與能源成本方向略受益。","valuation":"只有升值伴隨外資回流才較利估值，本日證據不足。"}},
+  "cross_asset":{"NASDAQ":"stale_prior_session_-1.33%","SOX":"stale_prior_session_near_-5%","TSM_ADR":"unavailable_at_target_time","US_equity_futures":"unavailable_at_target_time","DXY":"unavailable_at_target_time","US10Y":"unavailable_at_target_time","US_long_yields":"Reuters_18:34_reported_near_multi_decade_highs_with_some_relief","USDJPY":"unavailable_at_target_time","policy_and_macro":["美國工業生產低於預期","Fed會議紀要待確認","美加關稅調升暫緩至少三日"],"geopolitics":"中東與油價仍為通膨風險背景；無可靠19:05即時價格即標 unavailable。"},
+  "breadth_and_flow":{"TAIEX":{"up":387,"down":605,"flat":114},"TPEx":{"up":334,"down":432,"flat":96},"institutional_twd_100m":{"total":-708.48,"foreign_and_china":-416.39,"investment_trust":-120.91,"dealer":-171.18},"volume_price":"收盤自低點回升但仍低於開盤、45,000與前收；法人同步賣超，未構成趨勢反轉。"},
+  "sector_rotation":{"stronger":["電腦周邊","部分光學","航運","被動元件","機器人題材次日觀察"],"weaker":["半導體","電子零組件","其他電子","高beta AI"],"interpretation":"19:05二次驗證維持：機器人有海外催化，但台股弱勢結構與法人賣超尚未被推翻。"},
+  "abc_wave":{"framework":"Elliott/ABC correction scenario analysis; not a deterministic forecast","current_interpretation":"弱B反彈準備／A段延伸雙情境維持。","anchors":[{"label":"session_high_open","value":45071.34,"time":"2026-08-19 regular session"},{"label":"session_low","value":44308.71,"time":"2026-08-19 regular session"},{"label":"session_close","value":44719.35,"time":"2026-08-19 13:30+08:00"}],"support":[44308.71],"resistance":[44811,45000,45071.34],"alternate_scenario":"若跌破44,308.71且櫃買與半導體同步惡化，A段延伸或更大修正機率提高。","invalidation":"弱B情境於44,308.71有效跌破且廣度惡化時失效；帶量收復45,071.34才提高B反彈可信度。","confidence":"medium_low"},
+  "scenarios":{"bullish":"機器人、自動化族群量價擴散，台積電止跌、外資回流，TAIEX收復45,071.34。","base":"海外題材只帶來局部輪動，指數維持44,308.71至45,071.34震盪。","bearish":"長債殖利率或科技賣壓再升，跌破44,308.71並拖累櫃買。"},
+  "next_confirmations":["機器人題材是否出現台股實際量價擴散","44,308.71支撐與45,071.34壓力","台積電現股與ADR共同方向","外資與USD/TWD是否改善","反彈成交量及市場廣度"],
+  "risk_flags":["三大法人同步賣超","廣度偏空","長端殖利率仍高","海外機器人暴漲後的追價風險","多項跨資產目標時點資料 unavailable/stale"],
+  "website_summary":"19:05二次驗證未推翻18:45判讀：台股法人與廣度偏空，USD/TWD 31.937；機器人題材有海外催化，但ABC仍為弱B準備／A延伸雙情境。"
+}

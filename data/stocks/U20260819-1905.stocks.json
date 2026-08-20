@@ -1,0 +1,13 @@
+{
+  "schema_version":2,"update_id":"U20260819-1905","market_id":"M20260819-1905","as_of":"2026-08-19T19:05:00+08:00","market_status":"post_close_historical_backfill",
+  "watchlist":[
+    {"ticker":"4576","name":"大銀微系統","positioning":"精密運動控制／機器人零組件","rating":"B","status":"WAIT","evidence":["7月營收年增60.14%","Reuters 18:34台北時間報導Unitree上市大漲、機器人題材全球升溫"],"risks":["題材擁擠","台股法人賣超與高波動"],"confirm_signals":["次一交易日量價轉強","族群相對強度擴散"],"invalidations":["量增破結構低點","題材共振消失"],"exit_logic":"未確認不交易；失效立即退出，不攤平"},
+    {"ticker":"2049","name":"上銀","positioning":"線性傳動／自動化核心","rating":"B-","status":"WAIT","evidence":["7月營收年增33.94%","全球機器人題材有催化，但8/19三大法人合計賣超708.48億元"],"risks":["景氣循環","匯率與外銷"],"confirm_signals":["守支撐且放量轉強","外資賣壓收斂"],"invalidations":["量增破底","需求展望惡化"],"exit_logic":"反彈無量或再破低即退出觀察交易"},
+    {"ticker":"2359","name":"所羅門","positioning":"AI視覺／機器人系統整合","rating":"C","status":"WAIT","evidence":["7月營收年增36.32%但月減29.09%","全球機器人題材升溫但8/19高beta電子承壓"],"risks":["估值波動","籌碼反轉"],"confirm_signals":["帶量收復急跌K棒一半","族群連續擴散"],"invalidations":["反彈量縮再破低","題材退潮"],"exit_logic":"高風險觀察；無確認不建立部位"},
+    {"ticker":"6125","name":"廣運","positioning":"物流自動化／設備整合","rating":"C+","status":"WAIT","evidence":["7月營收年增約4.03%","櫃買收跌1.55%、廣度偏弱"],"risks":["專案認列遞延","流動性"],"confirm_signals":["櫃買與個股同步止穩","設備族群轉強"],"invalidations":["量增破低","專案或財務訊息惡化"],"exit_logic":"量價不配合即撤銷短線觀察"},
+    {"ticker":"2330","name":"台積電","positioning":"晶圓代工／電子權值風險錨","rating":"C-","status":"WAIT","evidence":["官方7月營收年增44.7%","8/19外資及陸資賣超416.39億元、半導體承壓"],"risks":["全球科技估值","殖利率、地緣與匯率"],"confirm_signals":["ADR與現股共同止穩","TAIEX收復45,071.34"],"invalidations":["跌破44,308.71且權值續弱","海外科技賣壓擴大"],"exit_logic":"三重確認前不追價、不新增交易"}
+  ],
+  "selection_changes":[],"transactions":[],
+  "ledger":{"capital_total":26000,"unrestricted_cash":20000,"restricted_cash":6000,"recognized_income":0,"executed_trades":0,"note":"6,800萬元稽核預算僅為上限，未簽、未驗收、未付款；十億元信託亦未驗，不入帳。"},
+  "disclaimer":"情境研究，不保證獲利。"
+}

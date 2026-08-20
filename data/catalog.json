@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-20T17:04:44+00:00",
-  "latest_update_id": "U20260819-1825",
-  "sequence": 112,
+  "generated_at": "2026-08-20T17:44:18+00:00",
+  "latest_update_id": "U20260819-1945",
+  "sequence": 116,
   "entries": [
     {
       "sequence": 1,
@@ -1121,6 +1121,46 @@
       "chapter_path": "data/chapters/U20260819-1825.md",
       "stocks_path": "data/stocks/U20260819-1825.stocks.json",
       "market_svg_path": "data/visuals/U20260819-1825.market.svg",
+      "backfill": false
+    },
+    {
+      "sequence": 113,
+      "update_id": "U20260819-1845",
+      "published_at": "2026-08-19T18:45:00+08:00",
+      "title": "U20260819-1845",
+      "chapter_path": "data/chapters/U20260819-1845.md",
+      "stocks_path": "data/stocks/U20260819-1845.stocks.json",
+      "market_svg_path": "data/visuals/U20260819-1845.market.svg",
+      "backfill": false
+    },
+    {
+      "sequence": 114,
+      "update_id": "U20260819-1905",
+      "published_at": "2026-08-19T19:05:00+08:00",
+      "title": "U20260819-1905",
+      "chapter_path": "data/chapters/U20260819-1905.md",
+      "stocks_path": "data/stocks/U20260819-1905.stocks.json",
+      "market_svg_path": "data/visuals/U20260819-1905.market.svg",
+      "backfill": false
+    },
+    {
+      "sequence": 115,
+      "update_id": "U20260819-1925",
+      "published_at": "2026-08-19T19:25:00+08:00",
+      "title": "U20260819-1925",
+      "chapter_path": "data/chapters/U20260819-1925.md",
+      "stocks_path": "data/stocks/U20260819-1925.stocks.json",
+      "market_svg_path": "data/visuals/U20260819-1925.market.svg",
+      "backfill": false
+    },
+    {
+      "sequence": 116,
+      "update_id": "U20260819-1945",
+      "published_at": "2026-08-19T19:45:00+08:00",
+      "title": "U20260819-1945",
+      "chapter_path": "data/chapters/U20260819-1945.md",
+      "stocks_path": "data/stocks/U20260819-1945.stocks.json",
+      "market_svg_path": "data/visuals/U20260819-1945.market.svg",
       "backfill": false
     }
   ]
