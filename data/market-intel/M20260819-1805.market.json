@@ -1,0 +1,22 @@
+{
+  "market_id":"M20260819-1805","as_of":"2026-08-19T18:05:00+08:00","session_status":"post_close_historical_backfill",
+  "sources":[
+    {"title":"台股收盤跌589點 台積電下挫40元","url":"https://www.cna.com.tw/news/afe/202608190167.aspx","published_at":"2026-08-19T14:44:00+08:00","accessed_at":"2026-08-21T00:22:00+08:00"},
+    {"title":"三大法人賣超台股708.48億元","url":"https://www.cna.com.tw/news/afe/202608190182.aspx","published_at":"2026-08-19T15:12:00+08:00","accessed_at":"2026-08-21T00:22:00+08:00"},
+    {"title":"櫃買市場重要指標","url":"https://www.tpex.org.tw/zh-tw/mainboard/trading/info/highlight.html","published_at":"2026-08-19T14:30:00+08:00","accessed_at":"2026-08-21T00:22:00+08:00"},
+    {"title":"中央銀行新台幣對美元銀行間成交收盤匯率","url":"https://www.cbc.gov.tw/tw/lp-645-1.html","published_at":"2026-08-19T17:00:00+08:00","accessed_at":"2026-08-21T00:22:00+08:00"},
+    {"title":"TSMC July 2026 Revenue Report","url":"https://pr.tsmc.com/english/news/3329","published_at":"2026-08-10T00:00:00+08:00","accessed_at":"2026-08-21T00:22:00+08:00"},
+    {"title":"US tech selloff and bond-yield context","url":"https://www.reuters.com/business/us-stock-futures-drop-fading-iran-peace-hopes-lift-oil-bond-yields-2026-08-18/","published_at":"2026-08-18T00:00:00Z","accessed_at":"2026-08-21T00:22:00+08:00"}
+  ],
+  "breaking_news":["台股收盤後三大法人合計賣超708.48億元，外資及陸資賣超416.39億元。","美元兌新台幣官方收盤31.937，前一日31.945，新台幣小幅升值0.008元。"],
+  "index_snapshot":{"TAIEX":{"close":44719.35,"change":-589.33,"change_pct":-1.30,"open":45071.34,"high":45071.34,"low":44308.71,"turnover_twd_100m":8478.57,"status":"closed"},"TPEx":{"close":384.79,"change":-6.04,"change_pct":-1.55,"turnover_twd_100m":1793.19,"status":"closed"}},
+  "fx_snapshot":{"USD_TWD":{"close":31.937,"previous":31.945,"change":-0.008,"direction":"TWD_appreciation","source":"CBC official close"},"impact":"新台幣小幅升值通常有助進口成本並可能緩和外資匯損，但單日幅度有限；出口商換匯、台積電與電子權值、金融壽險部位及外資風險偏好仍需合併觀察，不應由匯率單獨推論買賣。"},
+  "cross_asset":{"NASDAQ":"stale_prior_session_-1.33%","SOX":"stale_prior_session_near_-5%","TSM_ADR":"unavailable_at_target_time","US_equity_futures":"unavailable_at_target_time","DXY":"unavailable_at_target_time","US10Y":"unavailable_at_target_time","US30Y":"stale_prior_context_touched_5.3371%_closed_5.2922%","USDJPY":"unavailable_at_target_time","oil":{"Brent":"stale_prior_context_91.02","WTI":"stale_prior_context_84.94"}},
+  "breadth_and_flow":{"TAIEX":{"up":387,"down":605,"flat":114},"TPEx":{"up":334,"down":432,"flat":96},"institutional_twd_100m":{"total":-708.48,"foreign_and_china":-416.39,"investment_trust":-120.91,"dealer":-171.18},"assessment":"下跌家數高於上漲家數，三大法人同步賣超，廣度與資金面偏空。"},
+  "sector_rotation":{"stronger":["電腦周邊","部分光學","航運","被動元件"],"weaker":["半導體","電子零組件","其他電子","高beta AI"],"note":"依當日收盤盤面整理；個別族群即時細分量價於目標時點若無可靠歷史快照則不補數字。"},
+  "abc_wave":{"framework":"Elliott/ABC correction scenario analysis, not a forecast","current_interpretation":"較像A段急跌後尋找弱B反彈，亦可能仍是A段延伸。","anchors":[{"type":"high/open","value":45071.34,"time":"2026-08-19 session"},{"type":"low","value":44308.71,"time":"2026-08-19 session"},{"type":"close","value":44719.35,"time":"2026-08-19 close"}],"support":[44308.71],"resistance":[44811,45000,45071.34],"alternate_scenario":"若無法形成量價止穩並再破44,308.71，視為A段延伸或更大級別修正；若帶量收復45,071.34，弱B反彈情境提升。","invalidation":"主要弱B準備情境於跌破44,308.71且賣壓擴大時失效。","confidence":"medium_low"},
+  "scenarios":{"bullish":"次一交易日權值與半導體止跌、外資賣壓收斂並收復45,000至45,071.34。","base":"44,308.71至45,071.34間震盪消化，弱B反彈仍需量價確認。","bearish":"跌破44,308.71且電子與櫃買同步擴大跌勢，修正延伸。"},
+  "next_confirmations":["次一交易日開盤是否守住44,308.71","台積電及電子權值能否止跌","USD/TWD與外資現貨賣超是否同向惡化","成交量是否在反彈時擴增","櫃買384.79附近相對強弱"],
+  "risk_flags":["三大法人同步賣超","全球科技股前一交易時段走弱","高殖利率與油價背景壓抑估值","目標時點的ADR、期指、DXY、US10Y、USDJPY資料不足"],
+  "website_summary":"8/19台股收44,719.35、跌1.30%，櫃買跌1.55%；法人與廣度偏空。USD/TWD官方收31.937。ABC僅作情境：較像A急跌後準備弱B，44,308.71為已驗證支撐，45,000至45,071.34為壓力。"
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "update_id": "U20260819-1805",
+  "market_id": "M20260819-1805",
+  "as_of": "2026-08-19T18:05:00+08:00",
+  "market_status": "post_close_historical_backfill",
+  "watchlist": [
+    {"ticker":"4576","name":"大銀微系統","positioning":"機器人與精密運動控制觀察","rating":"B","status":"WAIT","evidence":["台股8/19收盤弱勢、電子高波動，宜等待價格確認","機器人題材仍在但個股即時量價於目標時點無可靠歷史快照"],"risks":["題材擁擠","波動放大"],"confirm_signals":["次一交易日量價轉強且守前低","族群同步擴散"],"invalidations":["跌破結構低點且量增","題材族群全面轉弱"],"exit_logic":"僅觀察；若未出現確認訊號不進場，出現失效條件即移出優先名單"},
+    {"ticker":"2049","name":"上銀","positioning":"自動化與機器人核心零組件","rating":"B-","status":"WAIT","evidence":["具線性傳動與自動化產業定位","8/19大盤與櫃買同步下跌，需等待風險偏好修復"],"risks":["景氣循環","外銷與匯率敏感"],"confirm_signals":["守住支撐並放量轉強","外資賣壓收斂"],"invalidations":["破底且成交量擴大","產業訂單展望轉弱"],"exit_logic":"未確認不買；若反彈無量或再破低，停止追蹤反彈交易"},
+    {"ticker":"2359","name":"所羅門","positioning":"AI視覺與機器人題材","rating":"C","status":"WAIT","evidence":["AI視覺題材具辨識度","高beta電子在8/19盤面承壓，題材股風險升高"],"risks":["估值與題材波動","籌碼快速反轉"],"confirm_signals":["帶量站回短期均線","同族群出現兩日以上續強"],"invalidations":["反彈量縮並跌破前低","題材熱度快速退潮"],"exit_logic":"只列高風險觀察；沒有量價確認即不建立部位"},
+    {"ticker":"6125","name":"廣運","positioning":"物流自動化與設備題材","rating":"C+","status":"WAIT","evidence":["具自動化設備與物流系統題材","8/19市場廣度偏弱，需防中小型股流動性折價"],"risks":["專案認列波動","中小型股流動性"],"confirm_signals":["量能回升且守住前低","設備族群相對強度改善"],"invalidations":["量增破低","重大專案或財務訊息惡化"],"exit_logic":"僅待確認；量價不配合即撤銷短線觀察"},
+    {"ticker":"2330","name":"台積電","positioning":"電子權值與AI供應鏈核心","rating":"C-","status":"WAIT","evidence":["公司官方公布2026年7月營收年增44.7%","8/19半導體與電子權值承壓，大盤收跌1.30%"],"risks":["全球科技股估值修正","匯率與地緣政策"],"confirm_signals":["ADR與現股止跌、權值帶量回穩","TAIEX收復45,000與45,071.34"],"invalidations":["權值續弱並使指數跌破44,308.71","國際科技股賣壓擴大"],"exit_logic":"核心觀察但不追價；指數與ADR未共同止穩前不新增交易"}
+  ],
+  "selection_changes": [],
+  "transactions": [],
+  "ledger": {"capital_total":26000,"unrestricted_cash":20000,"restricted_cash":6000,"recognized_income":0,"executed_trades":0,"note":"觀察股非成交；4.2億元報價與其他提案均未簽、未付款，不計入本金或收入。"},
+  "disclaimer": "情境研究，不保證獲利。"
+}
