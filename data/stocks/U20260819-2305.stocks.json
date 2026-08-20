@@ -1,0 +1,16 @@
+{
+  "update_id":"U20260819-2305",
+  "market_id":"M20260819-2305",
+  "as_of":"2026-08-19T23:05:00+08:00",
+  "transaction_status":"no_trade",
+  "capital":{"total_twd":26000,"unrestricted_twd":20000,"restricted_twd":6000,"recognized_income_twd":0},
+  "watchlist":[
+    {"ticker":"4576","name":"大銀微系統","positioning":"精密運動控制／機器人零組件","rating":"B","evidence":["7月營收3.67億元、年增60.14%","機器人展及海外同業上市催化"],"risks":["題材擁擠","大盤高波動"],"confirm_signals":["族群量價擴散","收復45071.34"],"invalidations":["量增跌破44308.71"],"exit_logic":"失效退出、不攤平"},
+    {"ticker":"2049","name":"上銀","positioning":"線性傳動／自動化","rating":"B-","evidence":["7月營收26.82億元、年增33.94%","自動化與晶圓移載需求具公開產業脈絡"],"risks":["景氣循環","題材先反映"],"confirm_signals":["族群廣度改善","相對轉強"],"invalidations":["量增破底"],"exit_logic":"確認失敗移除"},
+    {"ticker":"2359","name":"所羅門","positioning":"AI視覺／系統整合","rating":"C","evidence":["7月營收4.11億元、年增36.32%","AI視覺與機器人感知題材"],"risks":["月減29.09%","估值與訂單落差"],"confirm_signals":["官方訂單增量","量價共振"],"invalidations":["量價背離"],"exit_logic":"無增量不進場"},
+    {"ticker":"6125","name":"廣運","positioning":"自動化／物流整合","rating":"C+","evidence":["7月營收3.653億元、年增4.03%","物流自動化題材延伸"],"risks":["專案遞延","櫃買弱勢"],"confirm_signals":["法人回補","同步止穩"],"invalidations":["量增破低"],"exit_logic":"支撐失效退出"},
+    {"ticker":"2330","name":"台積電","positioning":"晶圓代工／電子權值風險錨","rating":"C-","evidence":["官方7月營收4675.8億元、年增44.7%","加權收跌1.30%且外資賣超416.39億元"],"risks":["海外半導體波動","長債與地緣風險"],"confirm_signals":["ADR現貨同步止穩","收復45071.34"],"invalidations":["權值續弱且破44308.71"],"exit_logic":"三重確認前不進場"}
+  ],
+  "selection_changes":[],
+  "disclaimer":"觀察股不是成交，不保證獲利。"
+}

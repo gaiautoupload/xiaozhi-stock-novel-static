@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
   "timezone": "Asia/Taipei",
-  "latest_update_id": "U20260819-2145",
-  "sequence": 122,
+  "latest_update_id": "U20260819-2305",
+  "sequence": 126,
   "ordering_rule": "sequence then update_id; ignore legacy chapter numbers",
-  "history_count": 122,
+  "history_count": 126,
   "updates": [
     {
       "sequence": 1,
@@ -1145,6 +1145,50 @@
       "stocks_file_id": "1R0I_41b6DxxIxJwTyjl4Bl3c_9A9RajA",
       "market_svg_file_id": "1xrTMPfHF63t_CjxOmUZuj7R38xDhBGB0",
       "market_id": "M20260819-2145"
+    },
+    {
+      "sequence": 123,
+      "update_id": "U20260819-2205",
+      "published_at": "2026-08-19T22:05:00+08:00",
+      "title": "第八十九回：她被宣告死亡，小智卻讓整間銀行替她作證",
+      "chapter_file_id": "1eknP9IANF4B7XYOmTX-nXjNo_L0TLzcW",
+      "storyboard_file_id": "1BBKBXnblj6Lfc54vqX6hNtDVFF6zMbIu",
+      "stocks_file_id": "1MhE1w7pdu2mvK93FQXSXD4f_2V-62jaZ",
+      "market_svg_file_id": "1KNgXrdzNvzlZwO2qVQ1cZPI5UDCptdMS",
+      "market_id": "M20260819-2205"
+    },
+    {
+      "sequence": 124,
+      "update_id": "U20260819-2225",
+      "published_at": "2026-08-19T22:25:00+08:00",
+      "title": "第九十回：她父親買下他的監護權，小智卻把婚約變成股權毒丸",
+      "chapter_file_id": "1ybuoRp0KFU4EquL84v3tXKicgDKfVZCA",
+      "storyboard_file_id": "1WuPcvsAhpOnxru0mC2PVbUN7hJ7bwwc5",
+      "stocks_file_id": "1X7FvJM4h5LJcVP97Y9wlNHQ_Zg_A4lX2",
+      "market_svg_file_id": "1s58EjOjUkytUEC9Jz6JLC6azR3w22dQ3",
+      "market_id": "M20260819-2225"
+    },
+    {
+      "sequence": 125,
+      "update_id": "U20260819-2245",
+      "published_at": "2026-08-19T22:45:00+08:00",
+      "title": "第九十一回：死人要他叫岳父，小智卻把十億婚約改成一元競標",
+      "chapter_file_id": "14t74mPlL3M0_xe3a3X2mAs4H2s45hRUs",
+      "storyboard_file_id": "1ieSOMlFWMQKTfArF9EEHYegoxfMBsg3s",
+      "stocks_file_id": "1RDbADQNCK9cQ-bmhTI-Bm-HQffieLukT",
+      "market_svg_file_id": "1HDc4c1lByyUX5NguStf2n9uU9XbNsh0F",
+      "market_id": "M20260819-2245"
+    },
+    {
+      "sequence": 126,
+      "update_id": "U20260819-2305",
+      "published_at": "2026-08-19T23:05:00+08:00",
+      "title": "第九十二回：兩個父親共用一段DNA，他讓生母用四十九趴股份證明自己",
+      "chapter_file_id": "1Wwupl_OGbN_UdT2vgNCfBPDEdhqJyxjK",
+      "storyboard_file_id": "1DYdavoe-BB4jyltz-rhZQZ1hlPET4Fea",
+      "stocks_file_id": "1FR8piVdyBVHEOn3SZ_agcsBk86qhSFJe",
+      "market_svg_file_id": "1XkECSMuo9P9SNTibJDkiy9jWDJ87A6lF",
+      "market_id": "M20260819-2305"
     }
   ]
 }
