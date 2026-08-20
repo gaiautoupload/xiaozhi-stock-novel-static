@@ -1,0 +1,218 @@
+{
+  "schema_version": 2,
+  "market_id": "M20260819-1445",
+  "as_of": "2026-08-19T14:45:00+08:00",
+  "session_status": "post_close_historical_snapshot",
+  "sources": [
+    {
+      "title": "台股量縮下跌589點 收44719點失守季線",
+      "url": "https://www.cna.com.tw/news/afe/202608190167.aspx",
+      "published_at": "2026-08-19T14:44:00+08:00",
+      "accessed_at": "2026-08-20T21:30:00+08:00"
+    },
+    {
+      "title": "大盤資訊－臺灣證券交易所",
+      "url": "https://accessibility.twse.com.tw/zh/trading/exchange/MI_INDEX-ind.html",
+      "published_at": "2026-08-19T13:51:00+08:00",
+      "accessed_at": "2026-08-20T21:30:00+08:00"
+    },
+    {
+      "title": "市場現況－證券櫃檯買賣中心",
+      "url": "https://www.tpex.org.tw/zh-tw/mainboard/trading/info/highlight.html",
+      "published_at": "2026-08-19T13:33:00+08:00",
+      "accessed_at": "2026-08-20T21:30:00+08:00"
+    },
+    {
+      "title": "Nasdaq slides, yields elevated as Mideast conflict fears grow",
+      "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-08-18/",
+      "published_at": "2026-08-18T09:16:40+08:00",
+      "accessed_at": "2026-08-20T21:30:00+08:00"
+    },
+    {
+      "title": "TSMC July 2026 Revenue Report",
+      "url": "https://pr.tsmc.com/english/news/3329",
+      "published_at": "2026-08-10T00:00:00+08:00",
+      "accessed_at": "2026-08-20T21:30:00+08:00"
+    },
+    {
+      "title": "新臺幣／美元銀行間收盤匯率",
+      "url": "https://www.cbc.gov.tw/tw/lp-645-1.html",
+      "published_at": "2026-08-19T16:00:00+08:00",
+      "accessed_at": "2026-08-20T21:30:00+08:00"
+    }
+  ],
+  "breaking_news": [
+    {
+      "headline": "台股收44719.35點、跌589.33點，失守45000與季線",
+      "status": "published_14:44",
+      "impact": "電子權值與風險偏好偏弱"
+    },
+    {
+      "headline": "三大法人完整數據於15:12才發布",
+      "status": "pending_at_target_time",
+      "impact": "不得回填為14:45或15:05決策依據"
+    },
+    {
+      "headline": "央行31.937收盤匯率於每日16:00至17:00窗口後可查",
+      "status": "unavailable_at_target_time",
+      "impact": "目標時點僅標pending，不補數字"
+    }
+  ],
+  "index_snapshot": {
+    "TAIEX": {
+      "open": 45071.34,
+      "high": 45071.34,
+      "low": 44308.71,
+      "close": 44719.35,
+      "change": -589.33,
+      "change_pct": -1.3,
+      "turnover_twd_100m": 8478.57,
+      "as_of": "2026-08-19T13:51:00+08:00"
+    },
+    "TPEx": {
+      "close": 384.79,
+      "change": -6.04,
+      "change_pct": -1.55,
+      "as_of": "2026-08-19T13:33:00+08:00"
+    }
+  },
+  "fx_snapshot": {
+    "pair": "USD/TWD",
+    "value": "unavailable_at_target_time",
+    "direction": "pending",
+    "change": "pending",
+    "later_official_close": 31.937,
+    "later_release_window": "2026-08-19T16:00:00+08:00 to 17:00:00+08:00",
+    "interpretation": [
+      "新台幣走弱通常增添外資匯出與電子估值壓力，但有利出口換算；走強則相反。",
+      "壽險與金融受避險成本、債券殖利率與匯兌共同影響；進口成本隨新台幣走弱上升。",
+      "因官方目標時點數字不可得，本素材不對當時方向下結論。"
+    ]
+  },
+  "cross_asset": {
+    "NASDAQ": {
+      "prior_close_change_pct": -1.33
+    },
+    "SOX": {
+      "prior_close_change_pct": -4.98
+    },
+    "TSM_ADR": {
+      "prior_close": 413.41,
+      "change_pct": -4.07,
+      "status": "prior_close_from_market_report"
+    },
+    "DXY": {
+      "value": 99.67,
+      "change_pct": 0.13
+    },
+    "US10Y": {
+      "yield_pct": 4.712
+    },
+    "US30Y": {
+      "yield_pct": 5.2922,
+      "intraday_high_pct": 5.3371
+    },
+    "USDJPY": {
+      "value": 159.64,
+      "change_pct": 0.13
+    },
+    "Brent": {
+      "close_usd": 91.02
+    },
+    "key_factors": [
+      "中東衝突與荷莫茲海峽風險推升油價及通膨疑慮。",
+      "長天期殖利率高檔壓縮科技與AI估值。",
+      "市場等待Fed會議紀要與Jackson Hole訊號。"
+    ]
+  },
+  "breadth_and_flow": {
+    "TAIEX": {
+      "up": 387,
+      "down": 605,
+      "flat": 114,
+      "breadth": "negative"
+    },
+    "TPEx": {
+      "up": 334,
+      "down": 432,
+      "flat": 96,
+      "breadth": "negative",
+      "as_of": "2026-08-19T13:33:00+08:00"
+    },
+    "institutional": "pending_at_target_time",
+    "volume_price": "指數下跌且成交值為近7個交易日低量，屬量縮下跌；尚不足以確認止跌。"
+  },
+  "sector_rotation": {
+    "relative_strength": [
+      "食品",
+      "造紙",
+      "泥窯",
+      "上銀相對抗跌"
+    ],
+    "weakness": [
+      "塑化",
+      "機電",
+      "半導體／電子權值",
+      "高估值機器人題材"
+    ],
+    "interpretation": "資金偏防禦與個別題材，尚未形成廣泛風險回流。"
+  },
+  "technical": {
+    "trend_structure": "收盤低於45000與季線44811，日內自44308.71低點反彈但未收復開盤高點。",
+    "moving_averages": "季線約44811為近端壓力。",
+    "gap": "未取得可靠日線缺口邊界，標示insufficient_data。",
+    "volume_price": "量縮下跌，反彈確認度不足。"
+  },
+  "abc_wave": {
+    "framework": "Elliott/ABC僅為情境分析，不是確定預言。",
+    "current_interpretation": "較像急跌A段後的弱B反彈嘗試，亦可能是A段尚未結束。",
+    "anchors": [
+      {
+        "type": "A_start_or_resistance",
+        "value": 45071.34,
+        "source": "TWSE 2026-08-19 open/high"
+      },
+      {
+        "type": "A_low",
+        "value": 44308.71,
+        "source": "TWSE 2026-08-19 low"
+      },
+      {
+        "type": "rebound_close",
+        "value": 44719.35,
+        "source": "TWSE 2026-08-19 close"
+      }
+    ],
+    "support": [
+      44308.71
+    ],
+    "resistance": [
+      44811,
+      45000,
+      45071.34
+    ],
+    "alternate_scenario": "若下一交易日放量收復45071.34，則A段低點可能已完成並進入較強B；若跌破44308.71，A延伸或C段下殺風險升高。",
+    "invalidation": "主要弱B情境在放量站穩45071.34後失效；反彈情境在跌破44308.71後失效。",
+    "confidence": "medium-low"
+  },
+  "scenarios": {
+    "bullish": "放量收復44811、45000與45071.34，SOX／TSM ADR同步止跌，才提高反彈可信度。",
+    "base": "44308.71至45071.34間弱勢震盪，觀察股維持WAIT。",
+    "bearish": "跌破44308.71且電子權值續弱，A延伸或C段風險升高。"
+  },
+  "next_confirmations": [
+    "下一交易時段能否守住44308.71。",
+    "季線44811與45000是否收復。",
+    "SOX、TSM ADR與美債殖利率是否止穩。",
+    "三大法人數據僅能作為15:12後的新證據，不得回填。",
+    "官方USD/TWD在發布窗口後僅作盤後補充。"
+  ],
+  "risk_flags": [
+    "歷史回補資料有發布時點差異。",
+    "高殖利率與油價上升壓縮估值。",
+    "市場廣度偏空。",
+    "觀察股不得冒充成交。"
+  ],
+  "website_summary": "台股8月19日收44719.35點、跌1.30%，櫃買跌1.55%，廣度偏空且量縮。目標時點法人與官方USD/TWD仍未發布；ABC僅暫列急跌A後弱B或A延伸，44308.71為關鍵支撐，44811至45071.34為壓力。"
+}
+

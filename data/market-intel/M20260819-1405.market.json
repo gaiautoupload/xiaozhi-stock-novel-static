@@ -1,0 +1,171 @@
+{
+  "market_id": "M20260819-1405",
+  "as_of": "2026-08-19T14:05:00+08:00",
+  "session_status": "closed_historical_backfill",
+  "sources": [
+    {
+      "title": "TWSE 2026-08-19盤後行情",
+      "url": "https://accessibility.twse.com.tw/zh/trading/exchange/MI_INDEX-ind.html",
+      "published_at": "2026-08-19T13:30:00+08:00",
+      "accessed_at": "2026-08-20T21:07:00+08:00"
+    },
+    {
+      "title": "TPEx日成交量值、指數",
+      "url": "https://www.tpex.org.tw/zh-tw/mainboard/trading/info/daily-indices.html",
+      "published_at": "2026-08-19T13:33:00+08:00",
+      "accessed_at": "2026-08-20T21:07:00+08:00"
+    },
+    {
+      "title": "TPEx當日彙總與市場廣度",
+      "url": "https://www.tpex.org.tw/zh-tw/mainboard/trading/info/highlight.html",
+      "published_at": "2026-08-19T13:33:00+08:00",
+      "accessed_at": "2026-08-20T21:07:00+08:00"
+    },
+    {
+      "title": "三大法人賣超台股708.48億元",
+      "url": "https://www.cna.com.tw/news/afe/202608190182.aspx",
+      "published_at": "2026-08-19T15:12:00+08:00",
+      "accessed_at": "2026-08-20T21:07:00+08:00"
+    },
+    {
+      "title": "中央銀行新臺幣／美元收盤匯率",
+      "url": "https://www.cbc.gov.tw/tw/lp-645-1.html",
+      "published_at": "2026-08-19T16:00:00+08:00",
+      "accessed_at": "2026-08-20T21:07:00+08:00"
+    },
+    {
+      "title": "Reuters隔夜美股、油價與殖利率背景",
+      "url": "https://www.reuters.com/business/us-stock-futures-drop-fading-iran-peace-hopes-lift-oil-bond-yields-2026-08-18/",
+      "published_at": "2026-08-18T00:00:00Z",
+      "accessed_at": "2026-08-20T21:07:00+08:00"
+    },
+    {
+      "title": "台股量縮下跌589點收44719點",
+      "url": "https://www.cna.com.tw/news/afe/202608190167.aspx",
+      "published_at": "2026-08-19T14:44:00+08:00",
+      "accessed_at": "2026-08-20T21:07:00+08:00"
+    }
+  ],
+  "breaking_news": [
+    "加權與櫃買收黑，半導體與電子權值壓力未解",
+    "機器人展題材存在，但未形成大盤翻多確認"
+  ],
+  "index_snapshot": {
+    "TAIEX": {
+      "open": 45071.34,
+      "high": 45071.34,
+      "low": 44308.71,
+      "close": 44719.35,
+      "change": -589.33,
+      "change_pct": -1.3,
+      "turnover_twd_100m": 8478.57,
+      "as_of": "2026-08-19 close"
+    },
+    "TPEx": {
+      "close": 384.79,
+      "change": -6.04,
+      "change_pct": -1.55,
+      "advancers": 334,
+      "decliners": 432,
+      "unchanged": 96,
+      "as_of": "2026-08-19 close; updated 13:33"
+    }
+  },
+  "fx_snapshot": {
+    "USDTWD": {
+      "value": 31.937,
+      "published_at": "2026-08-19 16:00-17:00 window",
+      "status": "published_after_target_not_known_at_decision_time",
+      "direction_vs_prior_close": "新台幣小幅升值0.008",
+      "impact": "事後官方收盤顯示新台幣微升；但在目標時點仍不可用。匯率若走弱通常壓抑外資風險偏好，出口折算相對有利，同時增加進口成本與金融壽險避險壓力。"
+    }
+  },
+  "cross_asset": {
+    "NASDAQ": {
+      "change_pct": -1.33,
+      "status": "prior_close"
+    },
+    "SOX": {
+      "change_pct": -4.98,
+      "status": "prior_close"
+    },
+    "TSM_ADR": {
+      "close": 413.41,
+      "change_pct": -4.07,
+      "status": "prior_close"
+    },
+    "DXY": "unavailable_at_target",
+    "US_TREASURY_YIELD": "stale/unavailable_at_target",
+    "USDJPY": "unavailable_at_target"
+  },
+  "breadth_and_flow": {
+    "TPEx": {
+      "advancers": 334,
+      "decliners": 432,
+      "unchanged": 96
+    },
+    "TAIEX_breadth": "unavailable_at_target",
+    "three_institutions": {
+      "status": "pending_at_target",
+      "later_release": "15:12; not used in decision"
+    }
+  },
+  "sector_rotation": {
+    "stronger": [
+      "被動元件相對抗跌",
+      "機器人／自動化僅觀察"
+    ],
+    "weaker": [
+      "半導體",
+      "電子權值",
+      "AI高Beta"
+    ]
+  },
+  "abc_wave": {
+    "framework": "Elliott/ABC情境分析，非預言",
+    "current_interpretation": "急跌A段測試44308.71後弱反彈，亦可能仍是A段延伸",
+    "anchors": [
+      {
+        "type": "open/high",
+        "value": 45071.34
+      },
+      {
+        "type": "low",
+        "value": 44308.71
+      },
+      {
+        "type": "close",
+        "value": 44719.35
+      }
+    ],
+    "support": [
+      44308.71
+    ],
+    "resistance": [
+      44811,
+      45000,
+      45071.34
+    ],
+    "alternate_scenario": "若下一交易時段放量站回44811並收復45071.34，B段修復機率提高",
+    "invalidation": "再失守44308.71則弱B反彈情境失效",
+    "confidence": "medium-low"
+  },
+  "scenarios": {
+    "bullish": "站回44811、45000與45071.34，權值和廣度共振",
+    "base": "44308.71至44811間整理",
+    "bearish": "跌破44308.71且量增，A段延伸"
+  },
+  "next_confirmations": [
+    "15:12後三大法人正式資料（目標時點尚未知）",
+    "下一交易時段台積電承接與大盤廣度",
+    "USD/TWD下一可用報價",
+    "機器人族群是否出現2至3檔量價共振"
+  ],
+  "risk_flags": [
+    "三大法人在目標時點pending",
+    "USD/TWD官方收盤在目標時點尚未發布",
+    "隔夜半導體壓力",
+    "展會題材可能先行反映"
+  ],
+  "website_summary": "8/19收盤加權44719.35（-1.30%）、櫃買384.79（-1.55%）；櫃買下跌432家多於上漲334家。ABC僅作情境，五檔全WAIT。"
+}

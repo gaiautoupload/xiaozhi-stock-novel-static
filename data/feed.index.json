@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
   "timezone": "Asia/Taipei",
-  "latest_update_id": "U20260819-1345",
-  "sequence": 98,
+  "latest_update_id": "U20260819-1505",
+  "sequence": 102,
   "ordering_rule": "sequence then update_id; ignore legacy chapter numbers",
-  "history_count": 98,
+  "history_count": 102,
   "updates": [
     {
       "sequence": 1,
@@ -921,6 +921,42 @@
       "storyboard_file_id": "1sWyy_tK-V6AqJzux8hszSfQ66QR2RoTW",
       "stocks_file_id": "13OflCazMXyaFGNbaIZ7RHjD8lEDejKBv",
       "market_svg_file_id": "12H7kRSZbNteJghdK6AcTRrwBUoP2GBQr"
+    },
+    {
+      "sequence": 99,
+      "update_id": "U20260819-1405",
+      "published_at": "2026-08-19T14:05:00+08:00",
+      "chapter_file_id": "1bs6UPTE9UaV6xOoBeJ-_0Tg-NTLliYb1",
+      "storyboard_file_id": "1g2Dbwd13s0sDVFEk_QA8SMDbBmfxeJA0",
+      "stocks_file_id": "1IQcVeJkH7D6430SzWAYMxVSVZo7lXTp3",
+      "market_svg_file_id": "10vZxqgt0ipMX64ni6lW_o_LnnqnjK7hP"
+    },
+    {
+      "sequence": 100,
+      "update_id": "U20260819-1425",
+      "published_at": "2026-08-19T14:25:00+08:00",
+      "chapter_file_id": "1y0PVCaVaPC_5WTA-d9ud2ZYV_5U6xuPn",
+      "storyboard_file_id": "11E9Ch0NaF3jlP80gyaCkhrKEUbYmbn3C",
+      "stocks_file_id": "1iV_wQFYndUgEd2DVltBizS-PSYfLf3fF",
+      "market_svg_file_id": "1FkasKSfD6DRyOsTaU7TmuEBgw8Hstg6w"
+    },
+    {
+      "sequence": 101,
+      "update_id": "U20260819-1445",
+      "published_at": "2026-08-19T14:45:00+08:00",
+      "chapter_file_id": "1SarT_jKBvv5rEl9kogtDqhHL9wLcAE3A",
+      "storyboard_file_id": "1YAtcVDdIYEDKe9el7lWfzZfL4wdKy5NY",
+      "stocks_file_id": "18CMvFvMi0psooco3lEa7tW2uJVR3-Our",
+      "market_svg_file_id": "1rFlgzEnhNtkpd7t1_5b6nJLrD6ypbWqg"
+    },
+    {
+      "sequence": 102,
+      "update_id": "U20260819-1505",
+      "published_at": "2026-08-19T15:05:00+08:00",
+      "chapter_file_id": "1DM6Kj4tNHO9keytrJ0eINX0cHlbxymvt",
+      "storyboard_file_id": "1B2YuTUpVilsaYUoVfTcdtet3Tq3g-UhZ",
+      "stocks_file_id": "1-6xCD-ggrlec1MWrasi8VIZW_MRHZ1dh",
+      "market_svg_file_id": "1W54DjkNsmDgguxJS1xTS16Bhq-CQgq0K"
     }
   ]
 }

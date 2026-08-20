@@ -1,0 +1,184 @@
+{
+  "update_id": "U20260819-1425",
+  "market_id": "M20260819-1425",
+  "market_summary": "收盤後防守框架未變；加權44719.35（-1.30%）、櫃買384.79（-1.55%），五檔全WAIT。",
+  "selection_changes": [],
+  "watchlist": [
+    {
+      "ticker": "4576",
+      "name": "大銀微系統",
+      "positioning": "精密運動控制／機器人零組件",
+      "rating": "B",
+      "evidence": [
+        "公司官方產品定位與機器人／自動化應用可核實",
+        "8/19加權收跌1.30%、櫃買收跌1.55%，整體風險偏弱"
+      ],
+      "risks": [
+        "題材先行反映或高Beta波動",
+        "大盤續弱及估值收縮"
+      ],
+      "confirm_signals": [
+        "族群2至3檔量價共振",
+        "加權站回44811且權值、廣度同步改善"
+      ],
+      "invalidations": [
+        "放量跌破前低",
+        "展會後缺乏訂單或營運證據"
+      ],
+      "exit_logic": "確認未達不進場；進場後失效即退出、不攤平",
+      "trade_status": "WAIT"
+    },
+    {
+      "ticker": "2049",
+      "name": "上銀",
+      "positioning": "線性傳動／自動化",
+      "rating": "B-",
+      "evidence": [
+        "公司官方產品定位與機器人／自動化應用可核實",
+        "8/19加權收跌1.30%、櫃買收跌1.55%，整體風險偏弱"
+      ],
+      "risks": [
+        "題材先行反映或高Beta波動",
+        "大盤續弱及估值收縮"
+      ],
+      "confirm_signals": [
+        "族群2至3檔量價共振",
+        "加權站回44811且權值、廣度同步改善"
+      ],
+      "invalidations": [
+        "放量跌破前低",
+        "展會後缺乏訂單或營運證據"
+      ],
+      "exit_logic": "確認未達不進場；進場後失效即退出、不攤平",
+      "trade_status": "WAIT"
+    },
+    {
+      "ticker": "2359",
+      "name": "所羅門",
+      "positioning": "AI視覺／系統整合",
+      "rating": "C",
+      "evidence": [
+        "公司官方產品定位與機器人／自動化應用可核實",
+        "8/19加權收跌1.30%、櫃買收跌1.55%，整體風險偏弱"
+      ],
+      "risks": [
+        "題材先行反映或高Beta波動",
+        "大盤續弱及估值收縮"
+      ],
+      "confirm_signals": [
+        "族群2至3檔量價共振",
+        "加權站回44811且權值、廣度同步改善"
+      ],
+      "invalidations": [
+        "放量跌破前低",
+        "展會後缺乏訂單或營運證據"
+      ],
+      "exit_logic": "確認未達不進場；進場後失效即退出、不攤平",
+      "trade_status": "WAIT"
+    },
+    {
+      "ticker": "6125",
+      "name": "廣運",
+      "positioning": "自動化／物流整合",
+      "rating": "C+",
+      "evidence": [
+        "公司官方產品定位與機器人／自動化應用可核實",
+        "8/19加權收跌1.30%、櫃買收跌1.55%，整體風險偏弱"
+      ],
+      "risks": [
+        "題材先行反映或高Beta波動",
+        "大盤續弱及估值收縮"
+      ],
+      "confirm_signals": [
+        "族群2至3檔量價共振",
+        "加權站回44811且權值、廣度同步改善"
+      ],
+      "invalidations": [
+        "放量跌破前低",
+        "展會後缺乏訂單或營運證據"
+      ],
+      "exit_logic": "確認未達不進場；進場後失效即退出、不攤平",
+      "trade_status": "WAIT"
+    },
+    {
+      "ticker": "2330",
+      "name": "台積電",
+      "positioning": "晶圓代工／權值風險錨",
+      "rating": "C",
+      "evidence": [
+        "隔夜TSM ADR收413.41美元、跌4.07%，權值承接須續驗",
+        "8/19加權收跌1.30%、櫃買收跌1.55%，整體風險偏弱"
+      ],
+      "risks": [
+        "題材先行反映或高Beta波動",
+        "大盤續弱及估值收縮"
+      ],
+      "confirm_signals": [
+        "族群2至3檔量價共振",
+        "加權站回44811且權值、廣度同步改善"
+      ],
+      "invalidations": [
+        "放量跌破前低",
+        "展會後缺乏訂單或營運證據"
+      ],
+      "exit_logic": "確認未達不進場；進場後失效即退出、不攤平",
+      "trade_status": "WAIT"
+    }
+  ],
+  "ledger": {
+    "total_assets_twd": 26000,
+    "unrestricted_cash_twd": 20000,
+    "restricted_cash_twd": 6000,
+    "recognized_income_twd": 0,
+    "stock_trades": 0,
+    "trade_status": "NO_TRADE",
+    "notes": [
+      "觀察不等於成交",
+      "3億元意向與1,000萬元履約保證未簽約、未驗收、未付款，不列本金"
+    ]
+  },
+  "sources": [
+    {
+      "title": "TWSE 2026-08-19盤後行情",
+      "url": "https://accessibility.twse.com.tw/zh/trading/exchange/MI_INDEX-ind.html",
+      "published_at": "2026-08-19T13:30:00+08:00",
+      "accessed_at": "2026-08-20T21:07:00+08:00"
+    },
+    {
+      "title": "TPEx日成交量值、指數",
+      "url": "https://www.tpex.org.tw/zh-tw/mainboard/trading/info/daily-indices.html",
+      "published_at": "2026-08-19T13:33:00+08:00",
+      "accessed_at": "2026-08-20T21:07:00+08:00"
+    },
+    {
+      "title": "TPEx當日彙總與市場廣度",
+      "url": "https://www.tpex.org.tw/zh-tw/mainboard/trading/info/highlight.html",
+      "published_at": "2026-08-19T13:33:00+08:00",
+      "accessed_at": "2026-08-20T21:07:00+08:00"
+    },
+    {
+      "title": "三大法人賣超台股708.48億元",
+      "url": "https://www.cna.com.tw/news/afe/202608190182.aspx",
+      "published_at": "2026-08-19T15:12:00+08:00",
+      "accessed_at": "2026-08-20T21:07:00+08:00"
+    },
+    {
+      "title": "中央銀行新臺幣／美元收盤匯率",
+      "url": "https://www.cbc.gov.tw/tw/lp-645-1.html",
+      "published_at": "2026-08-19T16:00:00+08:00",
+      "accessed_at": "2026-08-20T21:07:00+08:00"
+    },
+    {
+      "title": "Reuters隔夜美股、油價與殖利率背景",
+      "url": "https://www.reuters.com/business/us-stock-futures-drop-fading-iran-peace-hopes-lift-oil-bond-yields-2026-08-18/",
+      "published_at": "2026-08-18T00:00:00Z",
+      "accessed_at": "2026-08-20T21:07:00+08:00"
+    },
+    {
+      "title": "台股量縮下跌589點收44719點",
+      "url": "https://www.cna.com.tw/news/afe/202608190167.aspx",
+      "published_at": "2026-08-19T14:44:00+08:00",
+      "accessed_at": "2026-08-20T21:07:00+08:00"
+    }
+  ]
+}

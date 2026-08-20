@@ -1,0 +1,157 @@
+{
+  "schema_version": 2,
+  "update_id": "U20260819-1505",
+  "market_id": "M20260819-1505",
+  "as_of": "2026-08-19T15:05:00+08:00",
+  "market_summary": {
+    "session_status": "post_close",
+    "taiex": {
+      "close": 44719.35,
+      "change": -589.33,
+      "change_pct": -1.3,
+      "turnover_twd_100m": 8478.57
+    },
+    "tpex": {
+      "close": 384.79,
+      "change": -6.04,
+      "change_pct": -1.55
+    },
+    "fx_status": "official_close_unavailable_at_target_time",
+    "institutional_status": "pending_at_target_time",
+    "note": "收盤報導15:00更新權值資訊；15:12法人與16:00後央行匯率仍未發布。"
+  },
+  "watchlist": [
+    {
+      "ticker": "4576",
+      "name": "大銀微系統",
+      "positioning": "精密運動控制與機器人零組件",
+      "rating": "B",
+      "evidence": [
+        "公司公告型營收資料顯示2026年7月營收3.67億元、年增60.14%、月增6.64%。",
+        "8月19日大盤與櫃買同步下跌，風險偏好惡化，需等待個股量價確認，不能只憑營收追價。"
+      ],
+      "risks": [
+        "營收高成長可能已反映在評價與短線漲幅。",
+        "機器人題材擁擠、法人資料在目標時點尚未公布。"
+      ],
+      "confirm_signals": [
+        "次一交易日守住前低並量縮止跌。",
+        "機器人族群轉強且個股量價同步。"
+      ],
+      "invalidations": [
+        "跌破事件日低點且放量。",
+        "後續營收動能顯著轉弱。"
+      ],
+      "exit_logic": "僅觀察；若未出現止跌與族群共振不進場，若日後建倉則以事件日低點或預設風險額為退出線。",
+      "trade_status": "watch_only"
+    },
+    {
+      "ticker": "2049",
+      "name": "上銀",
+      "positioning": "線性傳動、工業自動化與機器人",
+      "rating": "B-",
+      "evidence": [
+        "2026年7月合併營收26.82億元、年增33.94%、月增約5%，為2022年8月以來高點。",
+        "8月19日可查收盤價367元、小漲0.27%，在大盤跌1.30%時呈相對抗跌。"
+      ],
+      "risks": [
+        "長交期與需求回補未必等同最終需求持續。",
+        "全球利率與科技股修正可能壓縮機器人題材估值。"
+      ],
+      "confirm_signals": [
+        "相對強勢延續且量能不失控。",
+        "守穩事件日低點並突破短壓。"
+      ],
+      "invalidations": [
+        "跌破事件日低點且相對強勢消失。",
+        "訂單或營收成長低於預期。"
+      ],
+      "exit_logic": "維持WAIT；確認相對強勢與價格結構後才評估，失守事件低點退出。",
+      "trade_status": "watch_only"
+    },
+    {
+      "ticker": "2359",
+      "name": "所羅門",
+      "positioning": "AI視覺與機器人整合",
+      "rating": "C",
+      "evidence": [
+        "2026年7月營收4.11億元、年增36.32%。",
+        "同月營收月減29.09%，且8月19日列入跌幅前五，顯示題材與價格風險同時升高。"
+      ],
+      "risks": [
+        "月營收波動大、題材估值敏感。",
+        "事件日價格急跌可能延續。"
+      ],
+      "confirm_signals": [
+        "先止跌並收復急跌K棒一半。",
+        "後續營收月增回穩且成交量健康。"
+      ],
+      "invalidations": [
+        "再破事件日低點。",
+        "營收連續轉弱或題材退潮。"
+      ],
+      "exit_logic": "不接落刀；未收復急跌結構前不進場，若建倉後再破低立即退出。",
+      "trade_status": "watch_only"
+    },
+    {
+      "ticker": "2330",
+      "name": "台積電",
+      "positioning": "先進製程、AI與電子權值核心",
+      "rating": "C",
+      "evidence": [
+        "台積電2026年7月營收4675.8億元、月增5.6%、年增44.7%。",
+        "8月19日收2350元、跌30元或1.26%，與SOX前一交易日重挫及高殖利率壓力同向。"
+      ],
+      "risks": [
+        "高殖利率壓縮科技股估值。",
+        "地緣政治、能源與供應鏈風險上升。"
+      ],
+      "confirm_signals": [
+        "TAIEX收復季線與45000，台積電守穩事件低點。",
+        "SOX與TSM ADR止跌。"
+      ],
+      "invalidations": [
+        "台積電跌破事件日低點並放量。",
+        "國際科技股與利率風險持續惡化。"
+      ],
+      "exit_logic": "只觀察不追價；待指數與ADR雙確認，若建倉後事件低點失守退出。",
+      "trade_status": "watch_only"
+    },
+    {
+      "ticker": "6125",
+      "name": "廣運",
+      "positioning": "自動化物流與系統整合",
+      "rating": "C+",
+      "evidence": [
+        "2026年7月營收3.65億元、月增約0.73%、年增約4.03%，累計營收仍維持成長。",
+        "8月19日櫃買指數跌1.55%，上漲334家少於下跌432家，中小型題材承接仍弱。"
+      ],
+      "risks": [
+        "專案型收入認列波動與遞延風險。",
+        "櫃買廣度偏空時題材股流動性風險升高。"
+      ],
+      "confirm_signals": [
+        "櫃買廣度改善且個股量價轉強。",
+        "新案或營收證據與價格突破同步。"
+      ],
+      "invalidations": [
+        "事件日低點失守且放量。",
+        "營收或專案進度不如預期。"
+      ],
+      "exit_logic": "維持WAIT；未見櫃買與個股共振不進場，若建倉後破事件低點退出。",
+      "trade_status": "watch_only"
+    }
+  ],
+  "selection_changes": [],
+  "ledger": {
+    "capital_total_twd": 26000,
+    "unrestricted_cash_twd": 20000,
+    "restricted_cash_twd": 6000,
+    "recognized_income_twd": 0,
+    "executed_trades": 0,
+    "pending_escrow_twd": 10000000,
+    "pending_contract_value_twd": 300000000,
+    "policy": "待入帳、未驗收與未付款金額均不列本金或收入。"
+  },
+  "disclaimer": "觀察清單不等於買進建議，不保證獲利。"
+}
