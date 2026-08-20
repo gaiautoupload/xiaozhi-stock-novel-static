@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T15:49:11+00:00",
+  "generated_at": "2026-08-20T16:20:15+00:00",
   "events": [
     {
       "sequence": 56,
@@ -7965,40 +7965,52 @@
       ],
       "exit_logic": "雙確認前不追價",
       "trade_status": null
-    }
-  ],
-  "current": [
+    },
     {
+      "sequence": 109,
+      "update_id": "U20260819-1725",
+      "as_of": "2026-08-19T17:25:00+08:00",
       "ticker": "4576",
       "name": "大銀微系統",
-      "positioning": "精密運動控制／機器人零組件",
+      "action": "維持",
+      "previous_rating": "B",
       "rating": "B",
+      "positioning": "精密運動控制／機器人零組件",
+      "reason": "8/19法人同步賣超且大盤失守季線",
+      "reason_source": "auto_diff",
       "evidence": [
         "2026年7月營收年增60.14%",
-        "8/19大盤與法人同步偏空"
+        "8/19法人同步賣超且大盤失守季線"
       ],
       "risks": [
         "題材擁擠",
         "大盤弱勢"
       ],
       "confirm_signals": [
-        "守事件低點",
+        "守住事件低點",
         "族群量價共振"
       ],
       "invalidations": [
-        "放量破低"
+        "放量跌破事件低點"
       ],
-      "exit_logic": "失效退出不攤平",
-      "status": "WAIT"
+      "exit_logic": "失效退出，不攤平",
+      "trade_status": null
     },
     {
+      "sequence": 109,
+      "update_id": "U20260819-1725",
+      "as_of": "2026-08-19T17:25:00+08:00",
       "ticker": "2049",
       "name": "上銀",
-      "positioning": "線性傳動／自動化",
+      "action": "維持",
+      "previous_rating": "B-",
       "rating": "B-",
+      "positioning": "線性傳動／自動化",
+      "reason": "外資及陸資8/19賣超416.39億元",
+      "reason_source": "auto_diff",
       "evidence": [
         "2026年7月營收年增33.94%",
-        "外資及陸資賣超416.39億元"
+        "外資及陸資8/19賣超416.39億元"
       ],
       "risks": [
         "需求循環",
@@ -8011,7 +8023,144 @@
       "invalidations": [
         "相對強勢消失"
       ],
-      "exit_logic": "失效退出不攤平",
+      "exit_logic": "失效退出，不攤平",
+      "trade_status": null
+    },
+    {
+      "sequence": 109,
+      "update_id": "U20260819-1725",
+      "as_of": "2026-08-19T17:25:00+08:00",
+      "ticker": "2359",
+      "name": "所羅門",
+      "action": "維持",
+      "previous_rating": "C",
+      "rating": "C",
+      "positioning": "AI視覺／系統整合",
+      "reason": "同月月減29.09%且事件日急跌",
+      "reason_source": "auto_diff",
+      "evidence": [
+        "2026年7月營收年增36.32%",
+        "同月月減29.09%且事件日急跌"
+      ],
+      "risks": [
+        "高Beta",
+        "專案驗收風險"
+      ],
+      "confirm_signals": [
+        "收復急跌K棒一半"
+      ],
+      "invalidations": [
+        "再破事件低點"
+      ],
+      "exit_logic": "不接落刀",
+      "trade_status": null
+    },
+    {
+      "sequence": 109,
+      "update_id": "U20260819-1725",
+      "as_of": "2026-08-19T17:25:00+08:00",
+      "ticker": "6125",
+      "name": "廣運",
+      "action": "維持",
+      "previous_rating": "C+",
+      "rating": "C+",
+      "positioning": "自動化／物流整合",
+      "reason": "櫃買8/19下跌1.55%且廣度偏空",
+      "reason_source": "auto_diff",
+      "evidence": [
+        "2026年7月營收年增約4.03%",
+        "櫃買8/19下跌1.55%且廣度偏空"
+      ],
+      "risks": [
+        "專案遞延",
+        "流動性"
+      ],
+      "confirm_signals": [
+        "櫃買與個股同步止穩"
+      ],
+      "invalidations": [
+        "事件低點失守"
+      ],
+      "exit_logic": "失效退出，不攤平",
+      "trade_status": null
+    },
+    {
+      "sequence": 109,
+      "update_id": "U20260819-1725",
+      "as_of": "2026-08-19T17:25:00+08:00",
+      "ticker": "2330",
+      "name": "台積電",
+      "action": "維持",
+      "previous_rating": "C-",
+      "rating": "C-",
+      "positioning": "晶圓代工／權值風險錨",
+      "reason": "官方2026年7月營收年增44.7%；8/19外資賣超416.39億元且前一交易日SOX近跌5%",
+      "reason_source": "auto_diff",
+      "evidence": [
+        "官方2026年7月營收年增44.7%",
+        "8/19外資賣超416.39億元且前一交易日SOX近跌5%"
+      ],
+      "risks": [
+        "利率",
+        "地緣政治",
+        "高估值"
+      ],
+      "confirm_signals": [
+        "ADR止穩",
+        "大盤收復季線"
+      ],
+      "invalidations": [
+        "TAIEX跌破44308.71"
+      ],
+      "exit_logic": "雙確認前不追價",
+      "trade_status": null
+    }
+  ],
+  "current": [
+    {
+      "ticker": "4576",
+      "name": "大銀微系統",
+      "positioning": "精密運動控制／機器人零組件",
+      "rating": "B",
+      "evidence": [
+        "2026年7月營收年增60.14%",
+        "8/19法人同步賣超且大盤失守季線"
+      ],
+      "risks": [
+        "題材擁擠",
+        "大盤弱勢"
+      ],
+      "confirm_signals": [
+        "守住事件低點",
+        "族群量價共振"
+      ],
+      "invalidations": [
+        "放量跌破事件低點"
+      ],
+      "exit_logic": "失效退出，不攤平",
+      "status": "WAIT"
+    },
+    {
+      "ticker": "2049",
+      "name": "上銀",
+      "positioning": "線性傳動／自動化",
+      "rating": "B-",
+      "evidence": [
+        "2026年7月營收年增33.94%",
+        "外資及陸資8/19賣超416.39億元"
+      ],
+      "risks": [
+        "需求循環",
+        "估值壓縮"
+      ],
+      "confirm_signals": [
+        "相對強勢延續",
+        "量價改善"
+      ],
+      "invalidations": [
+        "相對強勢消失"
+      ],
+      "exit_logic": "失效退出，不攤平",
       "status": "WAIT"
     },
     {
@@ -8021,11 +8170,11 @@
       "rating": "C",
       "evidence": [
         "2026年7月營收年增36.32%",
-        "月減29.09%且事件日急跌"
+        "同月月減29.09%且事件日急跌"
       ],
       "risks": [
         "高Beta",
-        "驗收風險"
+        "專案驗收風險"
       ],
       "confirm_signals": [
         "收復急跌K棒一半"
@@ -8043,19 +8192,19 @@
       "rating": "C+",
       "evidence": [
         "2026年7月營收年增約4.03%",
-        "櫃買下跌1.55%且廣度偏空"
+        "櫃買8/19下跌1.55%且廣度偏空"
       ],
       "risks": [
         "專案遞延",
         "流動性"
       ],
       "confirm_signals": [
-        "櫃買與個股共振"
+        "櫃買與個股同步止穩"
       ],
       "invalidations": [
         "事件低點失守"
       ],
-      "exit_logic": "失效退出不攤平",
+      "exit_logic": "失效退出，不攤平",
       "status": "WAIT"
     },
     {
@@ -8064,17 +8213,17 @@
       "positioning": "晶圓代工／權值風險錨",
       "rating": "C-",
       "evidence": [
-        "官方7月營收年增44.7%",
-        "外資8/19賣超416.39億元且SOX前收近跌5%"
+        "官方2026年7月營收年增44.7%",
+        "8/19外資賣超416.39億元且前一交易日SOX近跌5%"
       ],
       "risks": [
         "利率",
-        "地緣",
-        "估值"
+        "地緣政治",
+        "高估值"
       ],
       "confirm_signals": [
         "ADR止穩",
-        "收復季線"
+        "大盤收復季線"
       ],
       "invalidations": [
         "TAIEX跌破44308.71"
@@ -8083,5 +8232,5 @@
       "status": "WAIT"
     }
   ],
-  "snapshot_count": 53
+  "snapshot_count": 54
 }

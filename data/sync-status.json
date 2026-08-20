@@ -1,12 +1,12 @@
 {
-  "last_success": "2026-08-20T15:49:12+00:00",
+  "last_success": "2026-08-20T16:20:15+00:00",
   "mode": "public_drive",
-  "feed_sequence": 108,
-  "market_sequence": 42,
-  "chapter_count": 108,
-  "stocks_snapshot_count": 53,
+  "feed_sequence": 109,
+  "market_sequence": 43,
+  "chapter_count": 109,
+  "stocks_snapshot_count": 54,
   "errors": [
-    "U20260819-0725 market_svg_file_id: 503 Server Error: Service Unavailable for url: https://drive.usercontent.google.com/download?id=1YhwXNEnK_sZ5xfBJ4fVni2eYKFpWvHOo&export=download&confirm=t",
+    "M20260819-0605 svg_file_id: 503 Server Error: Service Unavailable for url: https://drive.usercontent.google.com/download?id=1hk_9_FzVsES4e6esW2L8FrFzyzEMi25D&export=download&confirm=t",
     "sheet export skipped: 401 Client Error: Unauthorized for url: https://docs.google.com/spreadsheets/d/1-Qw9UQTq7dNzQn9NNx2qxEqpqWRuR0jPaCKSoTTM2Pc/export?format=xlsx"
   ],
   "message": "Drive 同步完成；有警告時保留舊快照，不刪除既有資料。"

@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "timezone": "Asia/Taipei",
-  "latest_market_id": "M20260819-1705",
-  "sequence": 42,
+  "latest_market_id": "M20260819-1725",
+  "sequence": 43,
   "updates": [
     {
       "sequence": 1,
@@ -313,7 +313,16 @@
       "json_url": "https://drive.google.com/file/d/1OG9pKijMQ_NKZPAd2S4tKV2rD4NbDjum/view",
       "svg_file_id": "1pWdLUEUOtOMGx6CEmSJYQsuo_ELcADO7",
       "svg_url": "https://drive.google.com/file/d/1pWdLUEUOtOMGx6CEmSJYQsuo_ELcADO7/view"
+    },
+    {
+      "sequence": 43,
+      "market_id": "M20260819-1725",
+      "as_of": "2026-08-19T17:25:00+08:00",
+      "json_file_id": "14MwulA9EWVKtKXKINSfKyYUPXLsTxduC",
+      "json_url": "https://drive.google.com/file/d/14MwulA9EWVKtKXKINSfKyYUPXLsTxduC/view",
+      "svg_file_id": "1MzUqQfECRyYxx8yxSWiUdEGmGpDrbiSR",
+      "svg_url": "https://drive.google.com/file/d/1MzUqQfECRyYxx8yxSWiUdEGmGpDrbiSR/view"
     }
   ],
-  "history_count": 42
+  "history_count": 43
 }
