@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "timezone": "Asia/Taipei",
-  "latest_market_id": "M20260819-2305",
-  "sequence": 60,
+  "latest_market_id": "M20260820-0025",
+  "sequence": 64,
   "updates": [
     {
       "sequence": 1,
@@ -475,7 +475,39 @@
       "json_url": "https://drive.google.com/file/d/1m-uQFZXwC2rEjmh5fAGBApeE906rQ2gG/view",
       "svg_file_id": "1XLVkyd7Oi4iKUoeENng6a7uGR7pu1QKZ",
       "svg_url": "https://drive.google.com/file/d/1XLVkyd7Oi4iKUoeENng6a7uGR7pu1QKZ/view"
+    },
+    {
+      "sequence": 61,
+      "market_id": "M20260819-2325",
+      "as_of": "2026-08-19T23:25:00+08:00",
+      "json_file_id": "1YCO3yZkwGFin4sO5nJ6HBMx8XU4iOQRs",
+      "json_url": "https://drive.google.com/file/d/1YCO3yZkwGFin4sO5nJ6HBMx8XU4iOQRs/view",
+      "svg_file_id": "14O6IFMHxMG_tDMCV3vIMultDHtWEJgVX",
+      "svg_url": "https://drive.google.com/file/d/14O6IFMHxMG_tDMCV3vIMultDHtWEJgVX/view"
+    },
+    {
+      "sequence": 62,
+      "market_id": "M20260819-2345",
+      "as_of": "2026-08-19T23:45:00+08:00",
+      "json_file_id": "1fdXy3tMdrH4XwVYYM2P38e4tVB_LKXQs",
+      "json_url": "https://drive.google.com/file/d/1fdXy3tMdrH4XwVYYM2P38e4tVB_LKXQs/view",
+      "svg_file_id": "1bpKbKvgkTB1ncHGN2pVHRmKGCvlIcVjS",
+      "svg_url": "https://drive.google.com/file/d/1bpKbKvgkTB1ncHGN2pVHRmKGCvlIcVjS/view"
+    },
+    {
+      "sequence": 63,
+      "market_id": "M20260820-0005",
+      "as_of": "2026-08-20T00:05:00+08:00",
+      "json_file_id": "1U_wpbz1hh80KwC4b5h7Er1m4ibRoCx0l",
+      "svg_file_id": "1M-Mtr2A8hyMpbMaXiWbd4-QBs7whVcXu"
+    },
+    {
+      "sequence": 64,
+      "market_id": "M20260820-0025",
+      "as_of": "2026-08-20T00:25:00+08:00",
+      "json_file_id": "1lNwK_0FVpZvuanFQVACfDuhZE3QL4zgt",
+      "svg_file_id": "1NNCcf7BDRPxBMRnwt6WEsoQ8QYqUYDpI"
     }
   ],
-  "history_count": 60
+  "history_count": 62
 }

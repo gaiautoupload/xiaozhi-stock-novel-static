@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
   "timezone": "Asia/Taipei",
-  "latest_update_id": "U20260819-2305",
-  "sequence": 126,
+  "latest_update_id": "U20260820-0025",
+  "sequence": 130,
   "ordering_rule": "sequence then update_id; ignore legacy chapter numbers",
-  "history_count": 126,
+  "history_count": 130,
   "updates": [
     {
       "sequence": 1,
@@ -1189,6 +1189,52 @@
       "stocks_file_id": "1FR8piVdyBVHEOn3SZ_agcsBk86qhSFJe",
       "market_svg_file_id": "1XkECSMuo9P9SNTibJDkiy9jWDJ87A6lF",
       "market_id": "M20260819-2305"
+    },
+    {
+      "sequence": 127,
+      "update_id": "U20260819-2325",
+      "published_at": "2026-08-19T23:25:00+08:00",
+      "title": "第九十三回　名冊說他做空台積電，他用一個不存在的生日拆掉十二億生母",
+      "chapter_file_id": "1N43ZRw1hH6byLIwHL0Bk4Tg7THEpGFlr",
+      "storyboard_file_id": "186iw395bglvmyxmG1JPga3ekL-A2V0Km",
+      "stocks_file_id": "1sxWUmH_UAMpaF7lp4jtL6i8Tn6-zhyUK",
+      "market_svg_file_id": "12pTe8vbN5GdGifBcU9DIkRyITuy2rCMU",
+      "market_id": "M20260819-2325"
+    },
+    {
+      "sequence": 128,
+      "update_id": "U20260819-2345",
+      "published_at": "2026-08-19T23:45:00+08:00",
+      "title": "第九十四回　戒指要她替基金開槍，他卻用一個擁抱鎖死三億保證金",
+      "chapter_file_id": "1LZfaU8MtzvlxeXYXqXjH69Ooqmj_gJZ5",
+      "storyboard_file_id": "1a8HQ7hGFC2Ki_zl2yuoptNGHNM4faCrg",
+      "stocks_file_id": "1YISBGYccOrPYX9ab5hWLibxNOEQMOu6y",
+      "market_svg_file_id": "1IH7RNnCZPS-tJZn4JFjFYUNxj9O8jPpR",
+      "market_id": "M20260819-2345"
+    },
+    {
+      "sequence": 129,
+      "update_id": "U20260820-0005",
+      "published_at": "2026-08-20T00:05:00+08:00",
+      "title": "第九十五回　若棠被偷拍成董事長，他讓鏡頭自己供出一億六千萬買家",
+      "chapter_file_id": "1teFyNyOs7aR0BHhRdBU7Vk8-ET4mv6qG",
+      "storyboard_file_id": "13PZv60ajS7BZQssXp-sdTEq6j5-WNNve",
+      "stocks_file_id": "1ySw-qceHLxAY91T9TOSIUwXtqjfD0ZTN",
+      "market_svg_file_id": "1u8ud9UQhZCZ5raw4hwgMyx50G-sULR0z",
+      "market_id": "M20260820-0005",
+      "backfill": true
+    },
+    {
+      "sequence": 130,
+      "update_id": "U20260820-0025",
+      "published_at": "2026-08-20T00:25:00+08:00",
+      "title": "第九十六回　沈妍書成了幕後買家，他卻在六千元限制款裡找到自己的出生證",
+      "chapter_file_id": "1LTGY9t5ShRwJ95cijIHxgpcXEoxf8vi0",
+      "storyboard_file_id": "1-VidssLzpn1_dXQ3vASjtddNpTW1Y1tR",
+      "stocks_file_id": "1I8nbb-TpeBbbd1SiJTTKAeMv73aY0mQh",
+      "market_svg_file_id": "1iCa-j4HjruA6k4MEjN16xxc-A6fJNuGD",
+      "market_id": "M20260820-0025",
+      "backfill": true
     }
   ]
 }

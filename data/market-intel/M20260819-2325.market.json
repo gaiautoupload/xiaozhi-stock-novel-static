@@ -1,0 +1,38 @@
+{
+  "market_id":"M20260819-2325","as_of":"2026-08-19T23:25:00+08:00","session_status":"taiwan_closed_us_session_historical_snapshot",
+  "sources":[
+    {"title":"TWSE TAIEX historical data","url":"https://www.twse.com.tw/en/indices/taiex/mi-5min-hist.html","published_at":"2026-08-19","accessed_at":"2026-08-21T05:05:42+08:00"},
+    {"title":"TPEx Daily Volume & Index","url":"https://www.tpex.org.tw/en-us/mainboard/trading/info/daily-indices.html","published_at":"2026-08-19","accessed_at":"2026-08-21T05:05:42+08:00"},
+    {"title":"中央銀行新臺幣／美元收盤匯率","url":"https://www.cbc.gov.tw/tw/lp-645-1.html","published_at":"2026-08-19T17:00:00+08:00","accessed_at":"2026-08-21T05:05:42+08:00"},
+    {"title":"三大法人賣超台股708.48億元","url":"https://www.cna.com.tw/news/afe/202608190182.aspx","published_at":"2026-08-19T15:12:00+08:00","accessed_at":"2026-08-21T05:05:42+08:00"},
+    {"title":"Reuters: Yields fall after Treasury doubles bond buybacks","url":"https://www.reuters.com/legal/transactional/view-us-treasury-will-double-some-bond-buy-backs-2026-08-19/","published_at":"2026-08-19T21:43:53+08:00","accessed_at":"2026-08-21T05:05:42+08:00"},
+    {"title":"Reuters: Unitree surges in Shanghai debut","url":"https://www.reuters.com/world/asia-pacific/chinese-humanoid-robot-maker-unitree-set-jump-over-600-shanghai-debut-2026-08-19/","published_at":"2026-08-19","accessed_at":"2026-08-21T05:05:42+08:00"}
+  ],
+  "breaking_news":[
+    {"headline":"美國財政部把10至30年期債券回購規模由20億美元提高至至少40億美元","impact":"長端殖利率短線回落、美元轉弱，暫緩高估值科技股折現率壓力；但不改變赤字與供給風險。"},
+    {"headline":"Unitree上海上市大幅上漲","impact":"機器人題材獲估值催化，但台股自動化供應鏈仍需量價與營收確認。"}
+  ],
+  "index_snapshot":{
+    "TAIEX":{"status":"official_close","open":45071.34,"high":45071.34,"low":44308.71,"close":44719.35,"change_points":-589.33,"change_pct":-1.30,"turnover_twd_billion":847.857,"timestamp":"2026-08-19T13:30:00+08:00"},
+    "TPEx":{"status":"official_close","close":384.79,"change_points":-6.04,"change_pct":-1.55,"turnover_twd_billion":179.319,"timestamp":"2026-08-19T13:30:00+08:00"}
+  },
+  "fx_snapshot":{"pair":"USD/TWD","status":"official_daily_close","close":31.937,"previous_close":31.945,"twd_change":0.008,"direction":"TWD_appreciated_slightly","implications":{"foreign_flow":"新臺幣小幅升值本身偏中性略正面，但外資當日仍大幅賣超，不能單憑匯率判斷回流。","tsmc_electronics":"美元轉弱可稍降估值壓力；權值仍須ADR與現股同步止穩。","exporters":"若升值延續，出口換匯收益承壓。","financial_insurance":"壽險海外資產換算與避險成本需留意。","import_cost":"新臺幣升值有助降低美元計價進口成本。","valuation_risk":"匯率利多不足以抵銷法人賣壓與長債波動。"}},
+  "cross_asset":{
+    "NASDAQ":{"value":null,"status":"stale_direction_only","note":"Reuters 21:43台北時間快照約上漲0.4%；23:25精確值不可驗證。"},
+    "SOX":{"value":null,"status":"unavailable_at_target_time"},
+    "TSM_ADR":{"value":null,"status":"unavailable_at_target_time"},
+    "US_futures":{"value":null,"status":"not_applicable_us_session_open"},
+    "DXY":{"value":98.95,"change_pct":-0.7,"status":"stale_from_2026-08-19T21:43:53+08:00"},
+    "US10Y":{"value":null,"status":"unavailable_at_target_time"},
+    "US30Y":{"value":5.208,"unit":"percent","status":"stale_from_2026-08-19T21:43:53+08:00","intraday_low":5.188},
+    "USDJPY":{"value":null,"status":"unavailable_at_target_time"},
+    "macro":"Fed 7月會議紀要顯示部分官員若通膨不降願意升息；中東局勢及油價仍是通膨風險。"
+  },
+  "breadth_and_flow":{"advancers":387,"decliners":605,"unchanged":114,"three_institutions_net_twd_billion":-70.848,"foreign_net_twd_billion":-41.639,"investment_trust_net_twd_billion":-12.091,"dealer_net_twd_billion":-17.118,"assessment":"下跌家數高於上漲家數，法人同步賣超，廣度偏弱。"},
+  "sector_rotation":{"stronger":["食品","造紙","機器人題材催化"],"weaker":["塑化","電子權值","高估值成長股"],"watch":["精密運動控制","線性傳動","AI視覺","物流自動化"]},
+  "abc_wave":{"framework":"Elliott/ABC僅作情境分析，不是預言。","current_interpretation":"8月19日急跌較像A段，收盤離低後反彈可視為弱B準備；替代情境為A段尚未結束。","anchors":[{"label":"A-start/open-high","value":45071.34,"time":"2026-08-19T09:00:00+08:00"},{"label":"A-low","value":44308.71,"time":"2026-08-19"},{"label":"close","value":44719.35,"time":"2026-08-19T13:30:00+08:00"}],"support":[44308.71],"resistance":[44811,45071.34],"alternate_scenario":"若下一交易時段跌破44308.71且量增，偏向A段延伸或C段提前；若收復45071.34且廣度改善，弱B反彈成立機率提高。","invalidation":"把單一路徑寫成確定走勢即失效；價格突破／跌破關鍵錨點後必須重算。","confidence":"medium_low"},
+  "scenarios":{"bullish":"美元轉弱與長端殖利率回落延續，台股收復45071.34且機器人族群量價擴散。","base":"下一交易時段在44308.71至45071.34間震盪，弱B嘗試但法人賣壓限制高度。","bearish":"長債再上行、油價或地緣風險升溫，權值續弱並跌破44308.71。"},
+  "next_confirmations":["下一交易時段是否守住44308.71","能否收復季線約44811與45071.34","外資是否由賣轉買","台積電ADR與現股是否同步止穩","機器人族群是否由題材擴散到成交量與營收"],
+  "risk_flags":["23:25精確NASDAQ/SOX/TSM ADR/DXY/殖利率/USDJPY報價不完整","法人賣超與市場廣度偏弱","長債回購效果可能短暫","中東與油價推升通膨","題材股估值擁擠"],
+  "website_summary":"台股8月19日收44719.35、櫃買384.79，法人賣超708.48億元；USD/TWD收31.937。長債回購令殖利率與美元短線回落，機器人題材獲Unitree催化，但廣度與法人仍偏空。ABC以急跌A後弱B準備為主情境，支撐44308.71、壓力44811與45071.34。"
+}

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-20T21:16:53+00:00",
-  "latest_update_id": "U20260819-2305",
-  "sequence": 126,
+  "generated_at": "2026-08-20T21:57:24+00:00",
+  "latest_update_id": "U20260820-0025",
+  "sequence": 130,
   "entries": [
     {
       "sequence": 1,
@@ -1262,6 +1262,46 @@
       "stocks_path": "data/stocks/U20260819-2305.stocks.json",
       "market_svg_path": "data/visuals/U20260819-2305.market.svg",
       "backfill": false
+    },
+    {
+      "sequence": 127,
+      "update_id": "U20260819-2325",
+      "published_at": "2026-08-19T23:25:00+08:00",
+      "title": "第九十三回　名冊說他做空台積電，他用一個不存在的生日拆掉十二億生母",
+      "chapter_path": "data/chapters/U20260819-2325.md",
+      "stocks_path": "data/stocks/U20260819-2325.stocks.json",
+      "market_svg_path": "data/visuals/U20260819-2325.market.svg",
+      "backfill": false
+    },
+    {
+      "sequence": 128,
+      "update_id": "U20260819-2345",
+      "published_at": "2026-08-19T23:45:00+08:00",
+      "title": "第九十四回　戒指要她替基金開槍，他卻用一個擁抱鎖死三億保證金",
+      "chapter_path": "data/chapters/U20260819-2345.md",
+      "stocks_path": "data/stocks/U20260819-2345.stocks.json",
+      "market_svg_path": "data/visuals/U20260819-2345.market.svg",
+      "backfill": false
+    },
+    {
+      "sequence": 129,
+      "update_id": "U20260820-0005",
+      "published_at": "2026-08-20T00:05:00+08:00",
+      "title": "第九十五回　若棠被偷拍成董事長，他讓鏡頭自己供出一億六千萬買家",
+      "chapter_path": "data/chapters/U20260820-0005.md",
+      "stocks_path": "data/stocks/U20260820-0005.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-0005.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 130,
+      "update_id": "U20260820-0025",
+      "published_at": "2026-08-20T00:25:00+08:00",
+      "title": "第九十六回　沈妍書成了幕後買家，他卻在六千元限制款裡找到自己的出生證",
+      "chapter_path": "data/chapters/U20260820-0025.md",
+      "stocks_path": "data/stocks/U20260820-0025.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-0025.market.svg",
+      "backfill": true
     }
   ]
 }
