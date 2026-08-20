@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "timezone": "Asia/Taipei",
-  "latest_market_id": "M20260819-1505",
-  "sequence": 36,
+  "latest_market_id": "M20260819-1545",
+  "sequence": 38,
   "updates": [
     {
       "sequence": 1,
@@ -259,7 +259,25 @@
       "as_of": "2026-08-19T15:05:00+08:00",
       "json_file_id": "1FQS6qOBqv1dwIgc7TEpzkI5Hfh41qi_L",
       "svg_file_id": "1ibsRBXNN1reUqYVXLnvZFWw3D6g3wncI"
+    },
+    {
+      "sequence": 37,
+      "market_id": "M20260819-1525",
+      "as_of": "2026-08-19T15:25:00+08:00",
+      "json_file_id": "1WTO-GBQrciugXRErErDXSo--kuBK0qmw",
+      "json_url": "https://drive.google.com/file/d/1WTO-GBQrciugXRErErDXSo--kuBK0qmw/view",
+      "svg_file_id": "1CnHCvY51OwW_R9yZvfKc4jpVwhXWLNXg",
+      "svg_url": "https://drive.google.com/file/d/1CnHCvY51OwW_R9yZvfKc4jpVwhXWLNXg/view"
+    },
+    {
+      "sequence": 38,
+      "market_id": "M20260819-1545",
+      "as_of": "2026-08-19T15:45:00+08:00",
+      "json_file_id": "1v0ETxnOkDZmgaiNX5OTz-CR2q5-5EB6c",
+      "json_url": "https://drive.google.com/file/d/1v0ETxnOkDZmgaiNX5OTz-CR2q5-5EB6c/view",
+      "svg_file_id": "1vck1teiJn2Q1x4Rpmr8xJC1Bfy2j2LD6",
+      "svg_url": "https://drive.google.com/file/d/1vck1teiJn2Q1x4Rpmr8xJC1Bfy2j2LD6/view"
     }
   ],
-  "history_count": 36
+  "history_count": 38
 }

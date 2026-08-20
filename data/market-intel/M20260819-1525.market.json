@@ -1,0 +1,32 @@
+{
+  "schema_version": 2,
+  "market_id": "M20260819-1525",
+  "as_of": "2026-08-19T15:25:00+08:00",
+  "session_status": "post_close_historical_snapshot",
+  "sources": [
+    {"title":"台股量縮下跌589點 收44719點失守季線","url":"https://www.cna.com.tw/news/afe/202608190167.aspx","published_at":"2026-08-19T14:44:00+08:00","accessed_at":"2026-08-20T22:10:00+08:00"},
+    {"title":"三大法人賣超台股708.48億元","url":"https://www.cna.com.tw/news/afe/202608190182.aspx","published_at":"2026-08-19T15:12:00+08:00","accessed_at":"2026-08-20T22:10:00+08:00"},
+    {"title":"三大法人買賣金額統計表－TWSE","url":"https://accessibility.twse.com.tw/zh/trading/foreign/bfi82u.html","published_at":"2026-08-19T15:12:00+08:00","accessed_at":"2026-08-20T22:10:00+08:00"},
+    {"title":"指數－TWSE","url":"https://accessibility.twse.com.tw/zh/trading/exchange/MI_INDEX-ind.html","published_at":"2026-08-19T13:51:00+08:00","accessed_at":"2026-08-20T22:10:00+08:00"},
+    {"title":"上櫃股票當日彙總資訊－TPEx","url":"https://www.tpex.org.tw/zh-tw/mainboard/trading/info/highlight.html","published_at":"2026-08-19T13:33:00+08:00","accessed_at":"2026-08-20T22:10:00+08:00"},
+    {"title":"Nasdaq slides, yields elevated as Mideast conflict fears grow","url":"https://www.reuters.com/world/china/global-markets-wrapup-1-2026-08-18/","published_at":"2026-08-18T09:16:40+08:00","accessed_at":"2026-08-20T22:10:00+08:00"},
+    {"title":"TSMC July 2026 Revenue Report","url":"https://pr.tsmc.com/english/news/3329","published_at":"2026-08-10T00:00:00+08:00","accessed_at":"2026-08-20T22:10:00+08:00"},
+    {"title":"新臺幣／美元銀行間收盤匯率","url":"https://www.cbc.gov.tw/tw/lp-645-1.html","published_at":"2026-08-19T16:00:00+08:00","accessed_at":"2026-08-20T22:10:00+08:00"}
+  ],
+  "breaking_news": [
+    {"headline":"15:12三大法人合計賣超708.48億元","status":"available_at_target_time","impact":"外資、投信、自營商同步賣超，盤後風險證據升級"},
+    {"headline":"外資及陸資賣超416.39億元","status":"available_at_target_time","impact":"電子權值與台積電籌碼風險上升"},
+    {"headline":"央行31.937收盤匯率尚未進入16:00至17:00發布窗口","status":"unavailable_at_target_time","impact":"不得回填為15:25決策依據"}
+  ],
+  "index_snapshot": {"TAIEX":{"open":45071.34,"high":45071.34,"low":44308.71,"close":44719.35,"change":-589.33,"change_pct":-1.30,"turnover_twd_100m":8478.57,"as_of":"2026-08-19T13:51:00+08:00"},"TPEx":{"close":384.79,"change":-6.04,"change_pct":-1.55,"as_of":"2026-08-19T13:33:00+08:00"}},
+  "fx_snapshot": {"pair":"USD/TWD","value":"unavailable_at_target_time","direction":"pending","change":"pending","later_official_close":31.937,"later_release_window":"2026-08-19T16:00:00+08:00 to 17:00:00+08:00","interpretation":["新台幣走弱通常增加外資匯出與電子估值壓力，但有利出口換算；走強則相反。","金融與壽險同時受匯兌、避險成本與債券殖利率影響；進口成本在新台幣走弱時上升。","目標時點無官方值，故不對當時方向下結論。"]},
+  "cross_asset": {"NASDAQ":{"prior_close":26289.71,"change_pct":-1.33},"SOX":{"prior_close_change_pct":-4.98},"TSM_ADR":{"prior_close":413.41,"change_pct":-4.07,"status":"prior_close"},"DXY":{"value":99.67,"change_pct":0.13,"status":"stale_prior_market_snapshot"},"US10Y":{"yield_pct":4.712,"status":"prior_market_snapshot"},"US30Y":{"yield_pct":5.2922,"intraday_high_pct":5.3371},"USDJPY":{"value":159.64,"change_pct":0.13,"status":"stale_prior_market_snapshot"},"Brent":{"close_usd":91.02},"key_factors":["中東與荷莫茲風險推升油價及通膨疑慮。","長天期殖利率高檔壓縮科技與AI估值。","市場等待Fed會議紀要與Jackson Hole訊號。"]},
+  "breadth_and_flow": {"TAIEX":{"up":387,"down":605,"flat":114,"breadth":"negative"},"TPEx":{"up":334,"down":432,"flat":96,"breadth":"negative"},"institutional":{"total_net_sell_twd_100m":708.48,"foreign_net_sell_twd_100m":416.39,"investment_trust_net_sell_twd_100m":120.91,"dealer_net_sell_twd_100m":171.18,"published_at":"2026-08-19T15:12:00+08:00"},"volume_price":"量縮下跌且法人同步賣超，尚不足以確認止跌。"},
+  "sector_rotation": {"relative_strength":["被動元件","散熱","上銀相對抗跌"],"weakness":["半導體／電子權值","塑化","高估值機器人題材"],"interpretation":"資金偏防禦與少數題材，法人同步賣超後風險偏好更弱。"},
+  "technical": {"trend_structure":"收盤低於45000與季線44811，日內自44308.71反彈但未收復開盤高點。","moving_averages":"季線約44811為近端壓力。","gap":"insufficient_data","volume_price":"量縮下跌疊加法人賣超，反彈確認度不足。"},
+  "abc_wave": {"framework":"Elliott/ABC僅為情境分析，不是確定預言。","current_interpretation":"較像急跌A段後弱B反彈嘗試，亦可能A段尚未結束；法人賣超使後者權重上升。","anchors":[{"type":"A_start_or_resistance","value":45071.34,"source":"TWSE open/high"},{"type":"A_low","value":44308.71,"source":"TWSE low"},{"type":"rebound_close","value":44719.35,"source":"TWSE close"}],"support":[44308.71],"resistance":[44811,45000,45071.34],"alternate_scenario":"放量站回45071.34則可能進入較強B；跌破44308.71則A延伸或C段風險升高。","invalidation":"弱B情境在放量站穩45071.34後失效；反彈情境在跌破44308.71後失效。","confidence":"medium-low"},
+  "scenarios": {"bullish":"放量收復44811、45000與45071.34，SOX與ADR同步止跌。","base":"44308.71至45071.34間弱勢震盪，觀察股維持WAIT。","bearish":"跌破44308.71且外資與電子權值續弱，A延伸或C段風險升高。"},
+  "next_confirmations": ["下一交易時段能否守44308.71。","季線44811與45000能否收復。","外資賣壓是否延續。","SOX、TSM ADR與美債殖利率是否止穩。","USD/TWD官方值在發布後只作盤後補充。"],
+  "risk_flags": ["歷史回補須嚴守發布時點。","法人同步賣超。","高殖利率與油價壓縮估值。","觀察股不得冒充成交。"],
+  "website_summary": "8月19日15:25可得新證據顯示三大法人合計賣超708.48億元，其中外資及陸資賣超416.39億元；TAIEX收44719.35、TPEx收384.79，ABC暫列急跌A後弱B或A延伸。USD/TWD官方收盤仍未到發布窗口。"
+}
