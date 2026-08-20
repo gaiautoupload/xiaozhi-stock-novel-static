@@ -1,0 +1,164 @@
+{
+  "schema_version": 2,
+  "update_id": "U20260819-2145",
+  "market_id": "M20260819-2145",
+  "as_of": "2026-08-19T21:45:00+08:00",
+  "session_status": "closed_historical_backfill",
+  "watchlist": [
+    {
+      "ticker": "4576",
+      "name": "大銀微系統",
+      "positioning": "精密運動控制／機器人零組件",
+      "rating": "B",
+      "evidence": [
+        "台北自動化／機器人展提供產業催化",
+        "Unitree上海首日收盤較IPO價高460%，驗證機器人題材熱度但也反映估值擁擠"
+      ],
+      "risks": [
+        "大盤收黑且法人賣超",
+        "題材交易擁擠、追高風險"
+      ],
+      "confirm_signals": [
+        "族群量價共振",
+        "大盤收復45,071.34"
+      ],
+      "invalidations": [
+        "跌破前低且放量",
+        "題材失去廣度"
+      ],
+      "exit_logic": "僅觀察；若失效即退出，不攤平",
+      "status": "WAIT"
+    },
+    {
+      "ticker": "2049",
+      "name": "上銀",
+      "positioning": "線性傳動／自動化",
+      "rating": "B-",
+      "evidence": [
+        "機器人與智慧自動化展產業催化",
+        "Unitree上市熱度帶動人形機器人供應鏈關注"
+      ],
+      "risks": [
+        "催化可能已反映",
+        "外資與大盤風險"
+      ],
+      "confirm_signals": [
+        "自動化族群廣度改善",
+        "量能非單點爆量"
+      ],
+      "invalidations": [
+        "族群轉弱",
+        "跌破事件低點"
+      ],
+      "exit_logic": "僅觀察；確認失敗即移除",
+      "status": "WAIT"
+    },
+    {
+      "ticker": "2359",
+      "name": "所羅門",
+      "positioning": "AI視覺／系統整合",
+      "rating": "C",
+      "evidence": [
+        "機器人展帶來AI視覺展示題材",
+        "海外機器人上市事件提高市場關注"
+      ],
+      "risks": [
+        "估值波動",
+        "題材與實際訂單落差"
+      ],
+      "confirm_signals": [
+        "營收或訂單有官方驗證",
+        "量價與族群同步"
+      ],
+      "invalidations": [
+        "僅新聞上漲但量價背離",
+        "跌破前低"
+      ],
+      "exit_logic": "不追價；無基本面增量即退出觀察",
+      "status": "WAIT"
+    },
+    {
+      "ticker": "6125",
+      "name": "廣運",
+      "positioning": "自動化與物流整合",
+      "rating": "C+",
+      "evidence": [
+        "自動化展提供可驗證產業催化",
+        "機器人資金熱度延伸至系統整合"
+      ],
+      "risks": [
+        "專案認列波動",
+        "市場風險偏高"
+      ],
+      "confirm_signals": [
+        "法人回補",
+        "自動化族群擴散"
+      ],
+      "invalidations": [
+        "量價背離",
+        "大盤破44,308.71"
+      ],
+      "exit_logic": "支撐失效即退出，不以題材攤平",
+      "status": "WAIT"
+    },
+    {
+      "ticker": "2330",
+      "name": "台積電",
+      "positioning": "晶圓代工／電子權值風險錨",
+      "rating": "C-",
+      "evidence": [
+        "8/19加權收44,719.35、下跌1.30%，權值環境承壓",
+        "三大法人合計賣超708.48億元，外資風險未解"
+      ],
+      "risks": [
+        "海外半導體與利率波動",
+        "權值續弱拖累指數"
+      ],
+      "confirm_signals": [
+        "ADR與現貨同步止穩",
+        "加權收復45,071.34"
+      ],
+      "invalidations": [
+        "加權跌破44,308.71且量增",
+        "外資續大幅賣超"
+      ],
+      "exit_logic": "僅作風險錨；未止穩不進場",
+      "status": "WAIT"
+    }
+  ],
+  "selection_changes": [],
+  "ledger": {
+    "total_capital_twd": 26000,
+    "unrestricted_twd": 20000,
+    "restricted_twd": 6000,
+    "recognized_income_twd": 0,
+    "stock_trades": 0,
+    "note": "十億信託不列資產；6,800萬元案未簽未驗付；觀察股非成交"
+  },
+  "sources": [
+    {
+      "title": "TWSE TAIEX Historical Data",
+      "url": "https://www.twse.com.tw/en/indices/taiex/mi-5min-hist.html",
+      "published_at": "2026-08-19",
+      "accessed_at": "2026-08-21T03:28:00+08:00"
+    },
+    {
+      "title": "TPEx Daily Volume & Index",
+      "url": "https://www.tpex.org.tw/en-us/mainboard/trading/info/daily-indices.html",
+      "published_at": "2026-08-19",
+      "accessed_at": "2026-08-21T03:28:00+08:00"
+    },
+    {
+      "title": "CBC NT$/US$ Closing Rate",
+      "url": "https://www.cbc.gov.tw/tw/lp-645-1.html",
+      "published_at": "2026-08-19",
+      "accessed_at": "2026-08-21T03:28:00+08:00"
+    },
+    {
+      "title": "Unitree surges in Shanghai debut",
+      "url": "https://www.reuters.com/world/asia-pacific/chinese-humanoid-robot-maker-unitree-set-jump-over-600-shanghai-debut-2026-08-19/",
+      "published_at": "2026-08-19",
+      "accessed_at": "2026-08-21T03:28:00+08:00"
+    }
+  ]
+}

@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
   "timezone": "Asia/Taipei",
-  "latest_update_id": "U20260819-2105",
-  "sequence": 120,
+  "latest_update_id": "U20260819-2145",
+  "sequence": 122,
   "ordering_rule": "sequence then update_id; ignore legacy chapter numbers",
-  "history_count": 120,
+  "history_count": 122,
   "updates": [
     {
       "sequence": 1,
@@ -1123,6 +1123,28 @@
       "stocks_file_id": "1AdMSVOJxrE6VWDBLv87Jx21R_bOY7q2U",
       "market_svg_file_id": "1vClbcLwG9agwhfH5Xt8YXVM88GbjSeVT",
       "market_id": "M20260819-2105"
+    },
+    {
+      "sequence": 121,
+      "update_id": "U20260819-2125",
+      "published_at": "2026-08-19T21:25:00+08:00",
+      "title": "第八十七回：第四錨定人不是新娘，她用一枚假戒指鎖死十億",
+      "chapter_file_id": "1bur7PZN1o2B-O8SKYRCDN6ceXV_TnXbI",
+      "storyboard_file_id": "1LaL7toicf9TMYBMxWbrg3qloUETsHKvV",
+      "stocks_file_id": "1X5plFzNd2i8_cKYZhTDct-Z5HISc5UXK",
+      "market_svg_file_id": "1R3wUbU6RsZ9ed7rgRbzVRLb0CBhJ-sku",
+      "market_id": "M20260819-2125"
+    },
+    {
+      "sequence": 122,
+      "update_id": "U20260819-2145",
+      "published_at": "2026-08-19T21:45:00+08:00",
+      "title": "第八十八回：死亡證明倒數二十分鐘，他先把自己的葬禮改成投標規格",
+      "chapter_file_id": "1U22EQUxGr6V08rnSOD9x9edqPuxF1XjT",
+      "storyboard_file_id": "1XQ03PnUzaushdr3mc2n4izsMxad4JKGz",
+      "stocks_file_id": "1R0I_41b6DxxIxJwTyjl4Bl3c_9A9RajA",
+      "market_svg_file_id": "1xrTMPfHF63t_CjxOmUZuj7R38xDhBGB0",
+      "market_id": "M20260819-2145"
     }
   ]
 }

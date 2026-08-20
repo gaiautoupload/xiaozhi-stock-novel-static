@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-20T19:15:03+00:00",
-  "latest_update_id": "U20260819-2105",
-  "sequence": 120,
+  "generated_at": "2026-08-20T19:59:06+00:00",
+  "latest_update_id": "U20260819-2145",
+  "sequence": 122,
   "entries": [
     {
       "sequence": 1,
@@ -1201,6 +1201,26 @@
       "chapter_path": "data/chapters/U20260819-2105.md",
       "stocks_path": "data/stocks/U20260819-2105.stocks.json",
       "market_svg_path": "data/visuals/U20260819-2105.market.svg",
+      "backfill": false
+    },
+    {
+      "sequence": 121,
+      "update_id": "U20260819-2125",
+      "published_at": "2026-08-19T21:25:00+08:00",
+      "title": "第八十七回：第四錨定人不是新娘，她用一枚假戒指鎖死十億",
+      "chapter_path": "data/chapters/U20260819-2125.md",
+      "stocks_path": "data/stocks/U20260819-2125.stocks.json",
+      "market_svg_path": "data/visuals/U20260819-2125.market.svg",
+      "backfill": false
+    },
+    {
+      "sequence": 122,
+      "update_id": "U20260819-2145",
+      "published_at": "2026-08-19T21:45:00+08:00",
+      "title": "第八十八回：死亡證明倒數二十分鐘，他先把自己的葬禮改成投標規格",
+      "chapter_path": "data/chapters/U20260819-2145.md",
+      "stocks_path": "data/stocks/U20260819-2145.stocks.json",
+      "market_svg_path": "data/visuals/U20260819-2145.market.svg",
       "backfill": false
     }
   ]
