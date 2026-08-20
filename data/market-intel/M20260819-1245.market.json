@@ -1,0 +1,165 @@
+{
+  "market_id": "M20260819-1245",
+  "as_of": "2026-08-19T12:45:00+08:00",
+  "session_status": "historical_intraday_backfill_stale_latest_verified",
+  "sources": [
+    {
+      "title": "台股早盤重挫後跌點收斂 被動元件逆勢走強",
+      "url": "https://www.cna.com.tw/news/afe/202608190047.aspx",
+      "published_at": "2026-08-19T10:52:00+08:00",
+      "accessed_at": "2026-08-20T19:25:00+08:00"
+    },
+    {
+      "title": "US stock futures drop as Iran uncertainty lifts oil and bond yields",
+      "url": "https://www.reuters.com/business/us-stock-futures-drop-fading-iran-peace-hopes-lift-oil-bond-yields-2026-08-18/",
+      "published_at": "2026-08-18",
+      "accessed_at": "2026-08-20T19:25:00+08:00"
+    },
+    {
+      "title": "中央銀行新台幣對美元歷史匯率",
+      "url": "https://www.cbc.gov.tw/tw/lp-645-1.html",
+      "published_at": null,
+      "accessed_at": "2026-08-20T19:25:00+08:00"
+    },
+    {
+      "title": "櫃買指數開盤資訊",
+      "url": "https://news.cnyes.com/news/id/6580901",
+      "published_at": "2026-08-19T09:01:00+08:00",
+      "accessed_at": "2026-08-20T19:25:00+08:00"
+    },
+    {
+      "title": "台灣機器人與智慧自動化展",
+      "url": "https://tairos.chanchao.com.tw/",
+      "published_at": null,
+      "accessed_at": "2026-08-20T19:25:00+08:00"
+    }
+  ],
+  "breaking_news": [
+    "10:30加權44691.13、跌617.55，早盤低約44308；目標時點精確值 unavailable。",
+    "被動元件逆勢轉強，但整體廣度與權值承接無可靠目標時點證據。",
+    "隔夜NASDAQ約-1.33%、SOX約-5%、TSM ADR 413.41美元/-4.07%，均屬前收stale。"
+  ],
+  "index_snapshot": {
+    "TAIEX": {
+      "value": 44691.13,
+      "change": -617.55,
+      "as_of": "2026-08-19T10:30:00+08:00",
+      "status": "stale_latest_verified",
+      "turnover_twd_billion": 441.7,
+      "early_low_approx": 44308
+    },
+    "TPEx": {
+      "value": 381.25,
+      "change_percent": -2.45,
+      "as_of": "2026-08-19T09:00:00+08:00",
+      "status": "stale"
+    }
+  },
+  "fx_snapshot": {
+    "USDTWD": {
+      "value": 31.945,
+      "as_of": "2026-08-18T16:00:00+08:00",
+      "status": "prior_official_close_stale",
+      "impact": {
+        "foreign_flows": "台幣偏弱提高外資匯出與估值折價風險，仍須實際流量確認",
+        "tsmc_electronics": "出口換算可能受惠但ADR與風險偏好壓抑估值",
+        "exporters": "換算受惠不能抵銷需求風險",
+        "financial_insurance": "需同看避險成本及債券殖利率",
+        "import_costs": "美元進口成本提高",
+        "valuation": "高本益電子更受利率與匯率折價影響"
+      }
+    }
+  },
+  "cross_asset": {
+    "NASDAQ": {
+      "change_percent": -1.33,
+      "status": "previous_close_stale"
+    },
+    "SOX": {
+      "change_percent": -5,
+      "status": "approx_previous_close_stale"
+    },
+    "TSM_ADR": {
+      "close": 413.41,
+      "change_percent": -4.07,
+      "status": "previous_close_stale"
+    },
+    "DXY": {
+      "value": "unavailable",
+      "status": "unavailable"
+    },
+    "US10Y": {
+      "value": "unavailable",
+      "status": "unavailable"
+    },
+    "USDJPY": {
+      "value": "unavailable",
+      "status": "unavailable"
+    },
+    "drivers": [
+      "油價與長債殖利率上升",
+      "中東風險",
+      "半導體隔夜賣壓"
+    ]
+  },
+  "breadth_and_flow": {
+    "advance_decline": "target_slot_unavailable",
+    "volume": "10:30加權成交約4417億元；目標時點 unavailable",
+    "foreign_investors": "official flow pending at target slot",
+    "three_institutions": "pending at target slot"
+  },
+  "sector_rotation": {
+    "strong": [
+      "被動元件逆勢"
+    ],
+    "weak": [
+      "半導體與電子權值"
+    ],
+    "watch": [
+      "機器人／自動化需等2至3檔量價共振"
+    ]
+  },
+  "abc_wave": {
+    "framework": "Elliott/ABC情境分析，非預言",
+    "current_interpretation": "較像急跌A段後的反彈嘗試；目標時點OHLC不足，信心低",
+    "anchors": [
+      {
+        "label": "early_low_approx",
+        "value": 44308
+      },
+      {
+        "label": "10:30_index",
+        "value": 44691.13
+      }
+    ],
+    "support": [
+      44308
+    ],
+    "resistance": [
+      44811,
+      45000
+    ],
+    "alternate_scenario": "站回44811與45000且權值、廣度改善，才可能視為A段後B彈；再破44308則延伸跌勢或C段風險升高",
+    "invalidation": "缺乏12:45/13:05可靠OHLC，精確波段標記不足以成立",
+    "confidence": "low"
+  },
+  "scenarios": {
+    "bullish": "站回44811與45000，權值承接及上漲家數擴大",
+    "base": "44308至44811震盪，資金集中少數逆勢族群",
+    "bearish": "破44308且量能擴大，半導體與高Beta股再承壓"
+  },
+  "next_confirmations": [
+    "下一可靠盤中或收盤指數與成交量",
+    "外資及三大法人正式數據",
+    "新一筆USD/TWD報價",
+    "被動元件是否擴散",
+    "機器人族群是否量價共振"
+  ],
+  "risk_flags": [
+    "歷史分鐘行情無法重建",
+    "多項跨資產數字為前收或unavailable",
+    "油價、殖利率及地緣政治風險",
+    "不得以事後收盤冒充當時資訊"
+  ],
+  "website_summary": "12:45歷史回補：最新可驗證為10:30加權44691.13；44308支撐、44811與45000壓力。被動元件逆勢，但整體仍是低信心反彈情境。"
+}

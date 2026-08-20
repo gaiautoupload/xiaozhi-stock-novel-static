@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
   "timezone": "Asia/Taipei",
-  "latest_update_id": "U20260819-1145",
-  "sequence": 92,
+  "latest_update_id": "U20260819-1305",
+  "sequence": 96,
   "ordering_rule": "sequence then update_id; ignore legacy chapter numbers",
-  "history_count": 92,
+  "history_count": 96,
   "updates": [
     {
       "sequence": 1,
@@ -867,6 +867,42 @@
       "market_svg_file_id": "1JcDNDt1LT8WPYW4LJ-W4R_Al_Dnjxkpt",
       "market_svg_url": "https://drive.google.com/file/d/1JcDNDt1LT8WPYW4LJ-W4R_Al_Dnjxkpt/view",
       "market_id": "M20260819-1145"
+    },
+    {
+      "sequence": 93,
+      "update_id": "U20260819-1205",
+      "published_at": "2026-08-19T12:05:00+08:00",
+      "chapter_file_id": "1dPJ2AboGv3yD6L6-p9N5rhe0yNpXj1M-",
+      "storyboard_file_id": "1F3xYDqaycd7eN-5Rbs4TOu-0GVZDMhhF",
+      "stocks_file_id": "1xo_by8Zz4dFRW-UuKgp47XPFDxHhRQTk",
+      "market_svg_file_id": "17AEjjrNdoWrZUKKPRZv4bxJyEEfVlakV"
+    },
+    {
+      "sequence": 94,
+      "update_id": "U20260819-1225",
+      "published_at": "2026-08-19T12:25:00+08:00",
+      "chapter_file_id": "11yGdDzi8gQuGiYygcvu-B9SITBG8DRDR",
+      "storyboard_file_id": "1FHEG4g5eA6hBnU9S9zhF4h2-WMwhDSfY",
+      "stocks_file_id": "1x00dpaDXKXP2SvYlUeFwsRV4Kf2SV2Rn",
+      "market_svg_file_id": "1op8HMRRBfqn8lvGdjtCTGcRWYZDO5crX"
+    },
+    {
+      "sequence": 95,
+      "update_id": "U20260819-1245",
+      "published_at": "2026-08-19T12:45:00+08:00",
+      "chapter_file_id": "1LHy44E-OEEXYpAlqJ6mG4F4eJ_enDWMp",
+      "storyboard_file_id": "14gD53ufpuXXbgzuopcAFG3yQm-Zxkufa",
+      "stocks_file_id": "1VoJlYTTMF7-XOkVSzyUFcJME68QXZ0CZ",
+      "market_svg_file_id": "1yZJ9-NxTSnyy3gZUf0IphTIZ6T04-ka1"
+    },
+    {
+      "sequence": 96,
+      "update_id": "U20260819-1305",
+      "published_at": "2026-08-19T13:05:00+08:00",
+      "chapter_file_id": "10RjOjb48CJepxgFLlOqc9E242qcHxsja",
+      "storyboard_file_id": "1NYbYJoPQeeB6GpA35AWa8ku7kXk8a8Qj",
+      "stocks_file_id": "1qTRP4Fzguga7n4rkDYZ8JDVVhSTykLI1",
+      "market_svg_file_id": "1YOAbXilmExV1tLPe_FShrWYe8XJxsKjK"
     }
   ]
 }
