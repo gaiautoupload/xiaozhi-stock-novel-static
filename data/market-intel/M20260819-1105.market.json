@@ -1,0 +1,20 @@
+{
+  "market_id":"M20260819-1105","as_of":"2026-08-19T11:05:00+08:00","session_status":"open_historical_reconstruction",
+  "sources":[
+    {"title":"中央社：台股早盤跌近800點、跌破45000與季線","url":"https://www.cna.com.tw/news/afe/202608190025.aspx","published_at":"2026-08-19T09:21:00+08:00","accessed_at":"2026-08-20T18:12:00+08:00"},
+    {"title":"Reuters：科技股下跌、油價與債券殖利率上升","url":"https://www.reuters.com/business/us-stock-futures-drop-fading-iran-peace-hopes-lift-oil-bond-yields-2026-08-18/","published_at":"2026-08-18 (exact time unavailable)","accessed_at":"2026-08-20T18:12:00+08:00"},
+    {"title":"中央銀行：新臺幣/美元銀行間收盤匯率","url":"https://www.cbc.gov.tw/tw/lp-645-1.html","published_at":"daily series","accessed_at":"2026-08-20T18:12:00+08:00"},
+    {"title":"台灣機器人與智慧自動化展官方網站","url":"https://tairos.chanchao.com.tw/","published_at":"2026 event information","accessed_at":"2026-08-20T18:12:00+08:00"}
+  ],
+  "breaking_news":["11:05前仍未取得可核實的新精確盤中指數、匯率、廣度或法人數值。","展會正在進行，但當時可得可靠資料不足以證明機器人族群已形成市場主線。"],
+  "index_snapshot":{"TAIEX":{"status":"stale_timestamped","value":44518.07,"change":-790.61,"timestamp":"2026-08-19T09:05:00+08:00","early_low_approx":44308,"exact_1105":"unavailable"},"TPEx":{"status":"stale/unavailable","direction":"lower at open","exact_value":"unavailable"}},
+  "fx_snapshot":{"pair":"USD/TWD","latest_verified_at_target":"31.945 previous official close on 2026-08-18","intraday_1105":"unavailable","direction":"previous close weaker TWD versus 31.852 on 2026-08-17","implications":["外資撤出與台幣偏弱可能同向","台積電及電子權值估值承壓","出口商受益需同看需求與避險","金融／壽險看避險成本及海外資產評價","進口成本上升"]},
+  "cross_asset":{"NASDAQ_previous_close":{"change_pct":-1.33},"SOX_previous_close":{"change_pct_approx":-5.0},"TSM_ADR_previous_close":{"close":413.41,"change_pct":-4.07},"DXY":"exact target value unavailable","US10Y":"exact target value unavailable; direction higher in Reuters report","USDJPY":"exact target value unavailable","oil":"direction higher on geopolitical risk"},
+  "breadth_and_flow":{"breadth":"weak; exact 11:05 counts unavailable","volume_price":"index below key levels; exact turnover unavailable","foreign_and_three_institutions":"pending at target time"},
+  "sector_rotation":{"weak":["semiconductors","electronic heavyweights"],"watch":["robotics","automation","precision motion control"],"decision":"retain ratings; exhibition presence alone is not a confirmation"},
+  "abc_wave":{"framework":"Elliott/ABC scenario analysis, not a forecast","current_interpretation":"Insufficient new anchors; maintain possible A-leg/corrective extension interpretation.","anchors":[{"type":"stale_0905","value":44518.07},{"type":"early_low_approx","value":44308}],"support":["44,308 early low (approximate)"],"resistance":["44,811 seasonal moving average (approximate)","45,000 psychological level"],"alternate_scenario":"A B rebound requires a fresh reclaim of 44,811 and breadth repair.","invalidation":"Bullish rebound interpretation fails below 44,308 without breadth repair.","confidence":"low"},
+  "scenarios":{"bullish":"Fresh quote reclaims 44,811 then 45,000 with TSMC/TPEx repair.","base":"Seasonal-line-under consolidation; stay defensive.","bearish":"Break 44,308 with semiconductor, FX and breadth deterioration."},
+  "next_confirmations":["fresh TAIEX/TPEx quote","USD/TWD timestamped quote","TSMC stabilization","automation relative strength","breadth/turnover","post-close institutional flow"],
+  "risk_flags":["stale quote anchors","geopolitical oil risk","SOX and ADR weakness","event-theme overinterpretation","institutional flow pending"],
+  "website_summary":"11:05歷史回補：沒有可靠新時間戳可推翻季線下防守框架；展會存在但無法取代量價、廣度及訂單確認，五檔全WAIT。"
+}

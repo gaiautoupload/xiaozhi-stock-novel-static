@@ -1,0 +1,14 @@
+{
+  "update_id":"U20260819-1105","market_id":"M20260819-1105","as_of":"2026-08-19T11:05:00+08:00",
+  "market_summary":"11:05二次搜尋仍無可靠精確TAIEX、TPEx、USD/TWD、廣度或法人盤中時間戳；維持09:05與早盤低點stale anchors。海外科技壓力與季線下結構未被可靠新證據推翻。",
+  "selection_changes":[],
+  "watchlist":[
+    {"ticker":"4576","name":"大銀微系統","positioning":"精密運動控制／機器人關節","rating":"B","evidence":["2026年7月營收366,927千元、年增60.14%","機器人與自動化展提供實機驗證場景"],"risks":["大盤季線下估值壓力","展會未必轉換為訂單"],"confirm_signals":["相對強勢＋健康量能","可量化接單／量產公告"],"invalidations":["破事件低點且無承接","營收動能反轉"],"exit_logic":"雙確認後才分批；確認低點失守退出。","trade_status":"WAIT"},
+    {"ticker":"2049","name":"上銀","positioning":"線性傳動／人形機器人自動化","rating":"B-","evidence":["公司產品線涵蓋線性傳動與機器人應用","8月19日官方展會開展"],"risks":["資本支出循環","系統性賣壓壓過題材"],"confirm_signals":["守早低且相對強","後續商業化揭露"],"invalidations":["無量反彈再破低","展示無商業成果"],"exit_logic":"確認後小部位；破確認低點即退。","trade_status":"WAIT"},
+    {"ticker":"2359","name":"所羅門","positioning":"AI視覺／機器人感知","rating":"C","evidence":["公司公開AI與3D視覺應用資訊","展會提供需求驗證場景"],"risks":["高Beta題材風險","專案驗收遞延"],"confirm_signals":["可核實訂單／合作","站回均線且量能健康"],"invalidations":["僅展示無營運成果","放量破低"],"exit_logic":"不追消息；雙確認後才行動。","trade_status":"WAIT"},
+    {"ticker":"6125","name":"廣運","positioning":"自動化搬運／物流整合","rating":"C+","evidence":["公司業務涵蓋輸送與自動化系統工程","智慧製造展對應需求場景"],"risks":["專案與驗收波動","櫃買精確值缺失"],"confirm_signals":["新案能見度提升","量價優於櫃買"],"invalidations":["驗收遞延","破事件低點"],"exit_logic":"專案與相對強雙門檻；任一失效退出。","trade_status":"WAIT"},
+    {"ticker":"2330","name":"台積電","positioning":"核心權值／風險確認器","rating":"C","evidence":["09:05早盤低2,335元","ADR前收413.41美元、跌4.07%"],"risks":["SOX約跌5%","殖利率、油價與地緣風險"],"confirm_signals":["ADR／SOX止穩","現股收復均線且外資壓力收斂"],"invalidations":["海外與現股同步破低","量縮反彈"],"exit_logic":"雙止穩後才考慮；再破低退出。","trade_status":"WAIT"}
+  ],
+  "ledger":{"total_assets_twd":26000,"unrestricted_cash_twd":20000,"restricted_cash_twd":6000,"recognized_income_twd":0,"pending_income_twd":73000000,"pending_items":[{"item":"盡調意向","amount_twd":20000000,"status":"未簽／未驗收／未付款"},{"item":"展場顧問案","amount_twd":3000000,"status":"待正式簽署、驗收、付款"},{"item":"海外最低保證提案","amount_twd":50000000,"status":"僅個人簽名，基金未核准、公司未蓋章、未付款"}],"royalty_term":"提案維持7%，附稽核與區域收回權；未生效、不估值","executed_trades":0},
+  "disclaimer":"觀察與情境分析，不保證獲利；未觸發確認訊號前不視為交易。"
+}

@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
   "timezone": "Asia/Taipei",
-  "latest_update_id": "U20260819-1045",
-  "sequence": 89,
+  "latest_update_id": "U20260819-1145",
+  "sequence": 92,
   "ordering_rule": "sequence then update_id; ignore legacy chapter numbers",
-  "history_count": 89,
+  "history_count": 92,
   "updates": [
     {
       "sequence": 1,
@@ -826,6 +826,47 @@
       "stocks_file_id": "1H9sjXTSt8Uy-4lj7HnyTa9f7MZrZX3re",
       "market_svg_file_id": "1RMM4nj2Vqjwijoz1nG9XDgn4EGV5cVvn",
       "backfill": true
+    },
+    {
+      "sequence": 90,
+      "update_id": "U20260819-1105",
+      "published_at": "2026-08-19T11:05:00+08:00",
+      "title": "第五十六回　她拿五千萬逼他低頭，他把買斷案改成永久抽成",
+      "chapter_file_id": "1ACsOkBZ-uBi2iU1nlnEEwB1qZxCHVK6o",
+      "storyboard_file_id": "1wnJ2zhqT4sQ0bepuaQZRnEUIn0bDrxEC",
+      "stocks_file_id": "10kvKFhJ-K0rqSXbCC12dPGbBe45pIvaC",
+      "market_svg_file_id": "1pNE8uXQCGzij0d8cvJWf5LT3FCgy1-s_",
+      "backfill": true
+    },
+    {
+      "sequence": 91,
+      "update_id": "U20260819-1125",
+      "published_at": "2026-08-19T11:25:00+08:00",
+      "title": "第五十七回　她把真名藏在帳本裡，他把五千萬的局改成公開競標",
+      "chapter_file_id": "1GLnTaop6wx6tP1WaAMmDLhHfPimoBMcz",
+      "chapter_url": "https://drive.google.com/file/d/1GLnTaop6wx6tP1WaAMmDLhHfPimoBMcz/view",
+      "storyboard_file_id": "1hQT1cPEU3xasSn8Xr9q5v3W2E7MnH91h",
+      "storyboard_url": "https://drive.google.com/file/d/1hQT1cPEU3xasSn8Xr9q5v3W2E7MnH91h/view",
+      "stocks_file_id": "17jTpU7Qa4MAFkzVNXAXBirwcH1PdDFzb",
+      "stocks_url": "https://drive.google.com/file/d/17jTpU7Qa4MAFkzVNXAXBirwcH1PdDFzb/view",
+      "market_svg_file_id": "1pesD7_FAy0qgyFvIhu1U7yeXC3-V8qnW",
+      "market_svg_url": "https://drive.google.com/file/d/1pesD7_FAy0qgyFvIhu1U7yeXC3-V8qnW/view",
+      "market_id": "M20260819-1125"
+    },
+    {
+      "sequence": 92,
+      "update_id": "U20260819-1145",
+      "published_at": "2026-08-19T11:45:00+08:00",
+      "title": "第五十八回　監控拍到她的側臉，他卻證明兇手借的是她的影子",
+      "chapter_file_id": "1_DCZr5i-PxdXfn53BkiRm5rm726z7wkj",
+      "chapter_url": "https://drive.google.com/file/d/1_DCZr5i-PxdXfn53BkiRm5rm726z7wkj/view",
+      "storyboard_file_id": "1Ad5k-0OvUFP36DJ2p37y7uMj7unNWD2j",
+      "storyboard_url": "https://drive.google.com/file/d/1Ad5k-0OvUFP36DJ2p37y7uMj7unNWD2j/view",
+      "stocks_file_id": "11NIrJmJ3y3mCJNZPAL_D_d0etIk1YuB7",
+      "stocks_url": "https://drive.google.com/file/d/11NIrJmJ3y3mCJNZPAL_D_d0etIk1YuB7/view",
+      "market_svg_file_id": "1JcDNDt1LT8WPYW4LJ-W4R_Al_Dnjxkpt",
+      "market_svg_url": "https://drive.google.com/file/d/1JcDNDt1LT8WPYW4LJ-W4R_Al_Dnjxkpt/view",
+      "market_id": "M20260819-1145"
     }
   ]
 }

@@ -1,0 +1,20 @@
+{
+  "market_id":"M20260819-1125","as_of":"2026-08-19T11:25:00+08:00","session_status":"historical_intraday_backfill",
+  "sources":[
+    {"title":"台股開盤重挫、跌破45,000點","url":"https://www.cna.com.tw/news/afe/202608190025.aspx","published_at":"2026-08-19T09:21:00+08:00","accessed_at":"2026-08-20T18:25:00+08:00"},
+    {"title":"US stock futures drop as semiconductor pressure rises","url":"https://www.reuters.com/business/us-stock-futures-drop-fading-iran-peace-hopes-lift-oil-bond-yields-2026-08-18/","published_at":"2026-08-18","accessed_at":"2026-08-20T18:25:00+08:00"},
+    {"title":"央行新台幣對美元收盤匯率","url":"https://www.cbc.gov.tw/tw/lp-645-1.html","published_at":"2026-08-18","accessed_at":"2026-08-20T18:25:00+08:00"},
+    {"title":"台灣機器人與智慧自動化展","url":"https://tairos.chanchao.com.tw/","published_at":null,"accessed_at":"2026-08-20T18:25:00+08:00"}
+  ],
+  "breaking_news":["11:25 target-minute TAIEX/TPEx/FX could not be reconstructed from reliable timestamped sources","09:05 TAIEX 44518.07, down 790.61; early low about 44308 remained stale anchors"],
+  "index_snapshot":{"TAIEX":{"value":null,"status":"unavailable_at_target_minute","stale_anchors":[44518.07,44308]},"TPEx":{"value":null,"status":"unavailable_at_target_minute"}},
+  "fx_snapshot":{"USDTWD":{"value":null,"status":"unavailable_at_target_minute","prior_official_close":31.945,"prior_close_date":"2026-08-18","direction":"unknown at 11:25","impact":"若台幣轉弱，外資與電子估值承壓、出口換匯有利但進口成本上升；金融壽險須看避險成本與資產負債結構，不能單向推論。"}},
+  "cross_asset":{"NASDAQ":{"prior_change_pct":-1.33},"SOX":{"prior_change_pct":"about -5%"},"TSM_ADR":{"prior_close_usd":413.41,"prior_change_pct":-4.07},"DXY":"unavailable at target minute","UST10Y":"directional pressure reported; exact target-minute unavailable","USDJPY":"unavailable at target minute","drivers":["semiconductor selloff","bond-yield pressure","oil/geopolitical risk"]},
+  "breadth_and_flow":{"breadth":"unavailable","volume":"unavailable at target minute","foreign_and_institutions":"pending at 11:25; no post-close data backfilled as if known"},
+  "sector_rotation":{"strong":["automation/robotics event interest (theme only)"],"weak":["semiconductors","electronic heavyweights"],"assessment":"event visibility did not confirm capital rotation"},
+  "abc_wave":{"framework":"Elliott/ABC scenario analysis only","current_interpretation":"possible A-leg decline or ongoing C-leg; insufficient intraday anchors to distinguish","anchors":[{"time":"09:05","TAIEX":44518.07},{"time":"early_session","TAIEX":"about 44308"},{"level":44811,"label":"reported seasonal moving-average area"}],"support":[44308],"resistance":[44811,45000],"alternate_scenario":"reclaim 44811 and 45000 with breadth and volume could indicate B-wave rebound","invalidation":"without target-minute OHLC, any confident wave label is invalid","confidence":"low"},
+  "scenarios":{"bullish":"reclaim 44811/45000 with TSMC and breadth confirmation","base":"volatile defense below seasonal line; cash first","bearish":"break 44308 with expanding breadth weakness and FX pressure"},
+  "next_confirmations":["fresh timestamped TAIEX/TPEx","USD/TWD direction","TSMC and 2–3 automation names relative strength","volume breadth","post-close institutional flows when officially available"],
+  "risk_flags":["historical minute data unavailable","geopolitical/oil/yield shock","semiconductor beta","event-theme chase risk"],
+  "website_summary":"11:25回補：精確加權、櫃買與匯率無可靠時間戳，沿用09:05與早低作stale錨；季線下防守，五檔全WAIT、零成交。"
+}

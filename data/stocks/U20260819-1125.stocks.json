@@ -1,0 +1,14 @@
+{
+  "update_id":"U20260819-1125","market_id":"M20260819-1125","as_of":"2026-08-19T11:25:00+08:00",
+  "market_summary":{"session_status":"historical_intraday_backfill","tai_ex":"11:25 exact unavailable; 09:05 stale anchor 44518.07, early low about 44308","tpex":"unavailable","usd_twd":"unavailable at target minute; prior official 2026-08-18 close 31.945","stance":"defensive; cash first"},
+  "watchlist":[
+    {"ticker":"4576","name":"大銀微系統","positioning":"精密運動控制／機器人零組件","rating":"B","evidence":["公司公開產品線涵蓋線性馬達、驅動與定位元件","TAIROS官方展會於2026-08-19至08-22舉行，提供產業驗證場景"],"risks":["系統性科技賣壓","展會曝光不等於訂單"],"confirm_signals":["族群2–3檔共振","公司揭露可量化訂單且量價轉強"],"invalidations":["無量反彈後再破可靠低點","僅題材無商業化證據"],"exit_logic":"未成交；若未達確認維持WAIT","trade_status":"WATCH_ONLY"},
+    {"ticker":"2049","name":"上銀","positioning":"線性傳動／自動化","rating":"B-","evidence":["公司產品涵蓋滾珠螺桿、線性滑軌等自動化元件","TAIROS官方展會提供應用場景"],"risks":["資本支出循環","盤勢破位"],"confirm_signals":["權值與自動化族群同步承接","量價結構改善"],"invalidations":["展會熱度無訂單","反彈無量再破低"],"exit_logic":"未成交；確認失敗不進場","trade_status":"WATCH_ONLY"},
+    {"ticker":"2359","name":"所羅門","positioning":"AI視覺／機器人感知","rating":"C","evidence":["公司公開資訊列示AI與3D視覺方案","TAIROS為機器人應用展示場景"],"risks":["高Beta","驗收與訂單時程不確定"],"confirm_signals":["公告可量化訂單","站回關鍵均線且量能確認"],"invalidations":["僅展示未商轉","放量破低"],"exit_logic":"未成交；高波動下不追價","trade_status":"WATCH_ONLY"},
+    {"ticker":"6125","name":"廣運","positioning":"自動化搬運／物流整合","rating":"C+","evidence":["公司公開業務涵蓋自動化搬運與系統整合","展會題材可作需求觀察窗口"],"risks":["專案認列波動","櫃買精確錨缺失"],"confirm_signals":["新案公告與族群轉強","可驗證量價承接"],"invalidations":["專案遞延","市場風險擴散"],"exit_logic":"未成交；缺乏櫃買錨不啟動","trade_status":"WATCH_ONLY"},
+    {"ticker":"2330","name":"台積電","positioning":"電子權值／市場確認","rating":"C","evidence":["09:05早盤一度下探2335元的公開報導","隔夜ADR 413.41美元、下跌4.07%顯示海外壓力"],"risks":["SOX約跌5%","權值賣壓拖累指數"],"confirm_signals":["現貨止跌並帶動廣度","ADR與SOX風險收斂"],"invalidations":["再破早低且廣度惡化","僅單股反彈無市場共振"],"exit_logic":"未成交；作為市場確認股","trade_status":"WATCH_ONLY"}
+  ],
+  "selection_changes":[],
+  "ledger":{"total_assets_twd":26000,"unrestricted_cash_twd":20000,"restricted_cash_twd":6000,"recognized_income_twd":0,"executed_trades":0,"pending_items":["20000000 diligence indication unsigned/unpaid","3000000 consulting pending acceptance/payment","50000000 minimum guarantee not approved/sealed/paid","second buyer indication non-binding"]},
+  "sources":["https://www.cna.com.tw/news/afe/202608190025.aspx","https://www.reuters.com/business/us-stock-futures-drop-fading-iran-peace-hopes-lift-oil-bond-yields-2026-08-18/","https://www.cbc.gov.tw/tw/lp-645-1.html","https://tairos.chanchao.com.tw/"]
+}

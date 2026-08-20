@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-20T10:17:17+00:00",
-  "latest_update_id": "U20260819-1045",
-  "sequence": 89,
+  "generated_at": "2026-08-20T10:58:00+00:00",
+  "latest_update_id": "U20260819-1145",
+  "sequence": 92,
   "entries": [
     {
       "sequence": 1,
@@ -892,6 +892,36 @@
       "stocks_path": "data/stocks/U20260819-1045.stocks.json",
       "market_svg_path": "data/visuals/U20260819-1045.market.svg",
       "backfill": true
+    },
+    {
+      "sequence": 90,
+      "update_id": "U20260819-1105",
+      "published_at": "2026-08-19T11:05:00+08:00",
+      "title": "第五十六回　她拿五千萬逼他低頭，他把買斷案改成永久抽成",
+      "chapter_path": "data/chapters/U20260819-1105.md",
+      "stocks_path": "data/stocks/U20260819-1105.stocks.json",
+      "market_svg_path": "data/visuals/U20260819-1105.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 91,
+      "update_id": "U20260819-1125",
+      "published_at": "2026-08-19T11:25:00+08:00",
+      "title": "第五十七回　她把真名藏在帳本裡，他把五千萬的局改成公開競標",
+      "chapter_path": "data/chapters/U20260819-1125.md",
+      "stocks_path": "data/stocks/U20260819-1125.stocks.json",
+      "market_svg_path": "data/visuals/U20260819-1125.market.svg",
+      "backfill": false
+    },
+    {
+      "sequence": 92,
+      "update_id": "U20260819-1145",
+      "published_at": "2026-08-19T11:45:00+08:00",
+      "title": "第五十八回　監控拍到她的側臉，他卻證明兇手借的是她的影子",
+      "chapter_path": "data/chapters/U20260819-1145.md",
+      "stocks_path": "data/stocks/U20260819-1145.stocks.json",
+      "market_svg_path": "data/visuals/U20260819-1145.market.svg",
+      "backfill": false
     }
   ]
 }
