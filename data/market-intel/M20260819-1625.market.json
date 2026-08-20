@@ -1,0 +1,207 @@
+{
+  "market_id": "M20260819-1625",
+  "as_of": "2026-08-19T16:25:00+08:00",
+  "session_status": "post_close_historical_snapshot",
+  "sources": [
+    {
+      "title": "台股量縮下跌589點 收44719點失守季線",
+      "url": "https://www.cna.com.tw/news/afe/202608190167.aspx",
+      "published_at": "2026-08-19T14:44:00+08:00",
+      "accessed_at": "2026-08-20T23:10:00+08:00"
+    },
+    {
+      "title": "三大法人賣超台股708.48億元",
+      "url": "https://www.cna.com.tw/news/afe/202608190182.aspx",
+      "published_at": "2026-08-19T15:12:00+08:00",
+      "accessed_at": "2026-08-20T23:10:00+08:00"
+    },
+    {
+      "title": "TAIEX Historical Data",
+      "url": "https://www.twse.com.tw/en/indices/taiex/mi-5min-hist.html",
+      "published_at": "2026-08-19",
+      "accessed_at": "2026-08-20T23:10:00+08:00"
+    },
+    {
+      "title": "新臺幣/美元銀行間收盤匯率",
+      "url": "https://www.cbc.gov.tw/tw/lp-645-1.html",
+      "published_at": "daily 16:00-17:00 window; exact minute unavailable",
+      "accessed_at": "2026-08-20T23:10:00+08:00"
+    },
+    {
+      "title": "US stock futures steady after tech slump",
+      "url": "https://www.reuters.com/business/us-stock-futures-steady-after-tech-slump-investors-focus-middle-east-tensions-2026-08-19/",
+      "published_at": "2026-08-19T10:36:09Z",
+      "accessed_at": "2026-08-20T23:10:00+08:00"
+    },
+    {
+      "title": "TSMC July 2026 Revenue Report",
+      "url": "https://pr.tsmc.com/english/news/3329",
+      "published_at": "2026-08-10",
+      "accessed_at": "2026-08-20T23:10:00+08:00"
+    }
+  ],
+  "breaking_news": [
+    {
+      "time": "2026-08-19T15:12:00+08:00",
+      "headline": "三大法人合計賣超708.48億元，外資及陸資賣超416.39億元。",
+      "status": "verified"
+    },
+    {
+      "time": "2026-08-19T14:44:00+08:00",
+      "headline": "加權收44719.35點，失守45000點與季線44811點。",
+      "status": "verified"
+    },
+    {
+      "time": "2026-08-19T18:36:09+08:00",
+      "headline": "美股期指報導晚於目標時段，不作為當時即時訊號。",
+      "status": "post_target_excluded"
+    }
+  ],
+  "index_snapshot": {
+    "taiex": {
+      "status": "closed",
+      "open": 45071.34,
+      "high": 45071.34,
+      "low": 44308.71,
+      "close": 44719.35,
+      "change": -589.33,
+      "change_pct": -1.3,
+      "turnover_twd_100m": 8478.57,
+      "as_of": "2026-08-19T13:30:00+08:00"
+    },
+    "tpex": {
+      "status": "closed",
+      "close": 384.79,
+      "change": -6.04,
+      "change_pct": -1.55,
+      "as_of": "2026-08-19T13:30:00+08:00"
+    }
+  },
+  "fx_snapshot": {
+    "pair": "USD/TWD",
+    "value": null,
+    "direction": "unavailable_at_target_time",
+    "change": null,
+    "as_of": "2026-08-19T16:25:00+08:00",
+    "note": "雖位於央行16:00至17:00窗口，缺乏精確發布分鐘證據，故仍標unavailable_at_target_time。",
+    "impact": {
+      "foreign_flow": "新台幣偏弱通常增加外資匯出與估值壓力，但本時點無可驗證匯率，不推定方向。",
+      "tsmc_electronics": "電子權值同受美元利率與外資風險偏好影響。",
+      "exports": "新台幣偏弱可能有利出口換算，但不能抵銷需求與估值風險。",
+      "financial_life": "匯率波動影響避險成本與壽險資產評價。",
+      "imports": "新台幣偏弱會提高能源與設備進口成本。"
+    }
+  },
+  "cross_asset": {
+    "nasdaq_previous_close_pct": -1.33,
+    "sox_previous_close_pct": -5,
+    "tsm_adr": {
+      "status": "stale_unverified_at_exact_slot",
+      "value": null
+    },
+    "dxy": {
+      "status": "unavailable"
+    },
+    "us_30y_yield": {
+      "value": 5.28,
+      "unit": "%",
+      "source_time": "Reuters 2026-08-19 10:36Z, after Taiwan target slot; context only"
+    },
+    "us_10y_yield": {
+      "status": "unavailable_exact_value"
+    },
+    "usd_jpy": {
+      "status": "unavailable"
+    },
+    "oil": {
+      "status": "geopolitical_risk_elevated",
+      "note": "Hormuz uncertainty and oil strength raised inflation/yield risk."
+    }
+  },
+  "breadth_and_flow": {
+    "taiex": {
+      "up": 387,
+      "down": 605,
+      "flat": 114
+    },
+    "tpex": {
+      "up": 334,
+      "down": 432,
+      "flat": 96
+    },
+    "institutional": {
+      "total_net_sell_twd_100m": 708.48,
+      "foreign_net_sell_twd_100m": 416.39,
+      "investment_trust_net_sell_twd_100m": 120.91,
+      "dealer_net_sell_twd_100m": 171.18,
+      "status": "available_since_15:12"
+    },
+    "volume_price": "量縮下跌且收盤未站回季線，廣度偏空。"
+  },
+  "sector_rotation": {
+    "strong_relative": [
+      "防禦型與少數事件股相對抗跌，但缺乏可驗證全面領漲資料"
+    ],
+    "weak": [
+      "半導體",
+      "高Beta電子",
+      "櫃買中小型股"
+    ],
+    "watch": [
+      "機器人自動化僅觀察，未確認資金回流",
+      "台積電須等待ADR與季線雙確認"
+    ]
+  },
+  "abc_wave": {
+    "framework": "Elliott/ABC correction scenario analysis; not prediction",
+    "current_interpretation": "較像A段急跌後的弱B反彈準備，亦可能仍在A段延伸；收復季線前不確認B段成立。",
+    "anchors": [
+      {
+        "type": "open/high",
+        "value": 45071.34,
+        "time": "2026-08-19"
+      },
+      {
+        "type": "low",
+        "value": 44308.71,
+        "time": "2026-08-19"
+      },
+      {
+        "type": "close",
+        "value": 44719.35,
+        "time": "2026-08-19"
+      }
+    ],
+    "support": [
+      44308.71
+    ],
+    "resistance": [
+      44811,
+      45000,
+      45071.34
+    ],
+    "alternate_scenario": "若下一交易時段放量跌破44308.71，視為A段延伸或C段提前，取消弱B反彈假設。",
+    "invalidation": "收復45071.34且廣度、量價與外資同步改善，現行偏空修正解讀失效。",
+    "confidence": "medium_low"
+  },
+  "scenarios": {
+    "bullish": "收復44811與45000，台積電及SOX止穩，外資賣壓縮小。",
+    "base": "44308.71至45071.34間震盪，弱B反彈仍需量價確認。",
+    "bearish": "跌破44308.71且電子與櫃買同步轉弱，修正波延伸。"
+  },
+  "next_confirmations": [
+    "下一交易時段是否守住44308.71",
+    "能否收復季線44811與45000",
+    "台積電ADR與SOX是否止穩",
+    "USD/TWD官方資料的可驗證發布時間與方向",
+    "外資現貨賣壓是否收斂"
+  ],
+  "risk_flags": [
+    "外資及陸資單日賣超416.39億元",
+    "SOX前收重挫近5%",
+    "全球長債殖利率高檔",
+    "中東與油價風險",
+    "歷史回補不可把事後資訊冒充當時即時"
+  ],
+  "website_summary": "8/19收盤後偏空：加權44719.35、櫃買384.79，三大法人賣超708.48億元。ABC僅作情境，44308.71為關鍵支撐，44811至45071.34為壓力；匯率在目標分鐘點無可驗證發布時間，標示pending。"
+}

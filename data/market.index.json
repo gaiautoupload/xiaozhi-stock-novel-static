@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "timezone": "Asia/Taipei",
-  "latest_market_id": "M20260819-1545",
-  "sequence": 38,
+  "latest_market_id": "M20260819-1705",
+  "sequence": 42,
   "updates": [
     {
       "sequence": 1,
@@ -277,7 +277,43 @@
       "json_url": "https://drive.google.com/file/d/1v0ETxnOkDZmgaiNX5OTz-CR2q5-5EB6c/view",
       "svg_file_id": "1vck1teiJn2Q1x4Rpmr8xJC1Bfy2j2LD6",
       "svg_url": "https://drive.google.com/file/d/1vck1teiJn2Q1x4Rpmr8xJC1Bfy2j2LD6/view"
+    },
+    {
+      "sequence": 39,
+      "market_id": "M20260819-1605",
+      "as_of": "2026-08-19T16:05:00+08:00",
+      "json_file_id": "161ndVoZwKOnaj0UBjva-DsEyLUE9GGsJ",
+      "json_url": "https://drive.google.com/file/d/161ndVoZwKOnaj0UBjva-DsEyLUE9GGsJ/view",
+      "svg_file_id": "1YUFUStnCUGQkjbBCoKGa9y0XT1o7Dtqt",
+      "svg_url": "https://drive.google.com/file/d/1YUFUStnCUGQkjbBCoKGa9y0XT1o7Dtqt/view"
+    },
+    {
+      "sequence": 40,
+      "market_id": "M20260819-1625",
+      "as_of": "2026-08-19T16:25:00+08:00",
+      "json_file_id": "1ijbdx0FZB5YphVdYzrQJoAVOBTXXWYG4",
+      "json_url": "https://drive.google.com/file/d/1ijbdx0FZB5YphVdYzrQJoAVOBTXXWYG4/view",
+      "svg_file_id": "1pKGqlO6FGNqhnWKd4cH1bxrFjSdzBzOi",
+      "svg_url": "https://drive.google.com/file/d/1pKGqlO6FGNqhnWKd4cH1bxrFjSdzBzOi/view"
+    },
+    {
+      "sequence": 41,
+      "market_id": "M20260819-1645",
+      "as_of": "2026-08-19T16:45:00+08:00",
+      "json_file_id": "1XwdqlOLsVQ-oG1KZKYHctjMAjL89qmwK",
+      "json_url": "https://drive.google.com/file/d/1XwdqlOLsVQ-oG1KZKYHctjMAjL89qmwK/view",
+      "svg_file_id": "1U1ItRXtcBNLLe79H2rCErHceIn0_icxR",
+      "svg_url": "https://drive.google.com/file/d/1U1ItRXtcBNLLe79H2rCErHceIn0_icxR/view"
+    },
+    {
+      "sequence": 42,
+      "market_id": "M20260819-1705",
+      "as_of": "2026-08-19T17:05:00+08:00",
+      "json_file_id": "1OG9pKijMQ_NKZPAd2S4tKV2rD4NbDjum",
+      "json_url": "https://drive.google.com/file/d/1OG9pKijMQ_NKZPAd2S4tKV2rD4NbDjum/view",
+      "svg_file_id": "1pWdLUEUOtOMGx6CEmSJYQsuo_ELcADO7",
+      "svg_url": "https://drive.google.com/file/d/1pWdLUEUOtOMGx6CEmSJYQsuo_ELcADO7/view"
     }
   ],
-  "history_count": 38
+  "history_count": 42
 }

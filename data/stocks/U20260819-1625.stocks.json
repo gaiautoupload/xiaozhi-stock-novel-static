@@ -1,0 +1,164 @@
+{
+  "schema_version": 2,
+  "update_id": "U20260819-1625",
+  "market_id": "M20260819-1625",
+  "as_of": "2026-08-19T16:25:00+08:00",
+  "market_summary": {
+    "session_status": "post_close_historical_snapshot",
+    "taiex": {
+      "close": 44719.35,
+      "change": -589.33,
+      "change_pct": -1.3,
+      "turnover_twd_100m": 8478.57
+    },
+    "tpex": {
+      "close": 384.79,
+      "change": -6.04,
+      "change_pct": -1.55
+    },
+    "institutional": {
+      "status": "available_since_15:12",
+      "total_net_sell_twd_100m": 708.48,
+      "foreign_net_sell_twd_100m": 416.39,
+      "investment_trust_net_sell_twd_100m": 120.91,
+      "dealer_net_sell_twd_100m": 171.18
+    },
+    "fx_status": "unavailable_at_exact_target_minute"
+  },
+  "watchlist": [
+    {
+      "ticker": "4576",
+      "name": "大銀微系統",
+      "positioning": "精密運動控制／機器人零組件",
+      "rating": "B",
+      "evidence": [
+        "2026年7月營收年增60.14%。",
+        "8/19法人同步賣超、指數失守季線，題材需等待量價確認。"
+      ],
+      "risks": [
+        "題材擁擠。",
+        "中小型股承受風險偏好下降。"
+      ],
+      "confirm_signals": [
+        "守事件低點且量縮止跌。",
+        "機器人族群共振。"
+      ],
+      "invalidations": [
+        "放量跌破事件低點。",
+        "營收動能轉弱。"
+      ],
+      "exit_logic": "未確認不進場；進場後跌破事件低點退出，不攤平。",
+      "trade_status": "watch_only"
+    },
+    {
+      "ticker": "2049",
+      "name": "上銀",
+      "positioning": "線性傳動／工業自動化",
+      "rating": "B-",
+      "evidence": [
+        "2026年7月營收年增33.94%。",
+        "8/19相對大盤抗跌論點仍需下一交易時段確認。"
+      ],
+      "risks": [
+        "需求循環。",
+        "法人賣壓與估值壓力。"
+      ],
+      "confirm_signals": [
+        "相對強勢延續。",
+        "量價改善。"
+      ],
+      "invalidations": [
+        "相對強勢消失。",
+        "跌破事件低點。"
+      ],
+      "exit_logic": "WAIT；相對強勢失效或事件低點跌破退出。",
+      "trade_status": "watch_only"
+    },
+    {
+      "ticker": "2359",
+      "name": "所羅門",
+      "positioning": "AI視覺／機器人系統整合",
+      "rating": "C",
+      "evidence": [
+        "2026年7月營收年增36.32%。",
+        "同月月減29.09%且8/19事件日急跌。"
+      ],
+      "risks": [
+        "高Beta。",
+        "營收波動與專案驗收風險。"
+      ],
+      "confirm_signals": [
+        "收復急跌K棒一半。",
+        "營收與量價回穩。"
+      ],
+      "invalidations": [
+        "再破事件低點。",
+        "題材退潮。"
+      ],
+      "exit_logic": "不接落刀；確認失敗不進場，破低退出。",
+      "trade_status": "watch_only"
+    },
+    {
+      "ticker": "6125",
+      "name": "廣運",
+      "positioning": "自動化／物流系統整合",
+      "rating": "C+",
+      "evidence": [
+        "2026年7月營收年增約4.03%。",
+        "8/19櫃買下跌1.55%，下跌家數多於上漲家數。"
+      ],
+      "risks": [
+        "專案遞延。",
+        "流動性與中小型股風險。"
+      ],
+      "confirm_signals": [
+        "櫃買與個股同步止穩。",
+        "新案與量價共振。"
+      ],
+      "invalidations": [
+        "事件低點失守。",
+        "專案進度不如預期。"
+      ],
+      "exit_logic": "未共振不進場；跌破事件低點退出。",
+      "trade_status": "watch_only"
+    },
+    {
+      "ticker": "2330",
+      "name": "台積電",
+      "positioning": "先進製程／AI與電子權值風險錨",
+      "rating": "C-",
+      "evidence": [
+        "2026年7月營收年增44.7%。",
+        "8/19外資及陸資賣超416.39億元，SOX前收重挫近5%，台積電收2350元、跌1.26%。"
+      ],
+      "risks": [
+        "高利率壓縮估值。",
+        "外資、地緣政治與匯率風險。"
+      ],
+      "confirm_signals": [
+        "ADR與SOX止穩。",
+        "收復季線44811並站回45000。"
+      ],
+      "invalidations": [
+        "放量跌破44308.71且台積電同步破低。",
+        "外資賣壓惡化。"
+      ],
+      "exit_logic": "維持C-與WAIT；雙確認後才重估，破低退出。",
+      "trade_status": "watch_only"
+    }
+  ],
+  "selection_changes": [],
+  "ledger": {
+    "capital_total_twd": 26000,
+    "unrestricted_cash_twd": 20000,
+    "restricted_cash_twd": 6000,
+    "recognized_income_twd": 0,
+    "executed_trades": 0,
+    "pending_escrow_twd": 10000000,
+    "pending_contract_value_twd": 350000000,
+    "pending_audit_budget_twd": 20000000,
+    "unverified_beneficial_interest": "TSMC 30000 lots claim disproven as inactive stress-test amount; not recognized",
+    "policy": "未簽約、未驗收、未付款與未證實權利一律不列本金或收入。"
+  },
+  "disclaimer": "觀察清單不等於買進建議，不保證獲利。"
+}
