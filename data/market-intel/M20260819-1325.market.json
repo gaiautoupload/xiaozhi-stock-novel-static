@@ -1,0 +1,145 @@
+{
+  "market_id": "M20260819-1325",
+  "as_of": "2026-08-19T13:25:00+08:00",
+  "session_status": "open_historical_backfill_stale",
+  "sources": [
+    {
+      "title": "證交所盤後資訊",
+      "url": "https://accessibility.twse.com.tw/zh/trading/exchange/MI_INDEX-ind.html",
+      "published_at": "2026-08-19T13:30:00+08:00",
+      "accessed_at": "2026-08-20T20:10:00+08:00"
+    },
+    {
+      "title": "櫃買市場重點指標",
+      "url": "https://www.tpex.org.tw/zh-tw/mainboard/trading/info/highlight.html",
+      "published_at": "2026-08-19T13:33:00+08:00",
+      "accessed_at": "2026-08-20T20:10:00+08:00"
+    },
+    {
+      "title": "台股早盤重挫逾600點",
+      "url": "https://www.cna.com.tw/news/afe/202608190047.aspx",
+      "published_at": "2026-08-19T10:52:00+08:00",
+      "accessed_at": "2026-08-20T20:10:00+08:00"
+    },
+    {
+      "title": "US stock futures drop as Iran risks lift oil and yields",
+      "url": "https://www.reuters.com/business/us-stock-futures-drop-fading-iran-peace-hopes-lift-oil-bond-yields-2026-08-18/",
+      "published_at": "2026-08-18T00:00:00Z",
+      "accessed_at": "2026-08-20T20:10:00+08:00"
+    },
+    {
+      "title": "中央銀行新台幣對美元銀行間成交匯率",
+      "url": "https://www.cbc.gov.tw/tw/lp-645-1.html",
+      "published_at": "2026-08-18T16:00:00+08:00",
+      "accessed_at": "2026-08-20T20:10:00+08:00"
+    },
+    {
+      "title": "台灣機器人與智慧自動化展",
+      "url": "https://tairos.tw/",
+      "published_at": "2026-08-19T10:00:00+08:00",
+      "accessed_at": "2026-08-20T20:10:00+08:00"
+    }
+  ],
+  "breaking_news": [
+    "隔夜科技與半導體承壓，油價與長債殖利率構成風險背景",
+    "機器人與智慧自動化展開展，但題材不足以取代量價確認"
+  ],
+  "index_snapshot": {
+    "TAIEX": {
+      "value": 44691.13,
+      "change": -617.55,
+      "as_of": "2026-08-19T10:30:00+08:00",
+      "status": "stale_at_target"
+    },
+    "TPEx": {
+      "value": "unavailable",
+      "status": "unavailable_at_target"
+    }
+  },
+  "fx_snapshot": {
+    "USDTWD": {
+      "value": 31.945,
+      "as_of": "2026-08-18 close",
+      "status": "stale",
+      "direction": "新台幣偏弱背景",
+      "impact": "新台幣偏弱可能壓抑外資風險偏好；出口商折算受益，但進口成本、金融壽險避險與估值壓力需併看。"
+    }
+  },
+  "cross_asset": {
+    "NASDAQ": {
+      "change_pct": -1.33,
+      "status": "prior_close"
+    },
+    "SOX": {
+      "change_pct": -4.98,
+      "status": "prior_close"
+    },
+    "TSM_ADR": {
+      "close": 413.41,
+      "change_pct": -4.07,
+      "status": "prior_close"
+    },
+    "DXY": "unavailable_at_target",
+    "US_TREASURY_YIELD": "stale/unavailable_at_target",
+    "USDJPY": "unavailable_at_target"
+  },
+  "breadth_and_flow": {
+    "breadth": "unavailable_at_target",
+    "three_institutions": "pending_at_target",
+    "volume": "exact_13:25_unavailable"
+  },
+  "sector_rotation": {
+    "stronger": [
+      "被動元件相對抗跌",
+      "機器人／自動化題材僅觀察"
+    ],
+    "weaker": [
+      "半導體",
+      "電子權值",
+      "AI高Beta"
+    ]
+  },
+  "abc_wave": {
+    "framework": "Elliott/ABC情境分析，非預言",
+    "current_interpretation": "較像急跌A段後的盤中反彈嘗試，亦可能仍是A段延伸",
+    "anchors": [
+      {
+        "type": "low",
+        "value": 44308.71,
+        "status": "當日可驗證低點，目標時點前已出現"
+      },
+      {
+        "type": "snapshot",
+        "value": 44691.13,
+        "as_of": "10:30"
+      }
+    ],
+    "support": [
+      44308.71
+    ],
+    "resistance": [
+      44811,
+      45000
+    ],
+    "alternate_scenario": "若放量站回44811與45000，可視為B段修復機率上升",
+    "invalidation": "跌破44308.71則弱反彈情境失效",
+    "confidence": "low"
+  },
+  "scenarios": {
+    "bullish": "站回44811且權值與廣度同步改善",
+    "base": "44308.71至44811間弱勢震盪",
+    "bearish": "再破44308.71，A段延伸"
+  },
+  "next_confirmations": [
+    "13:30官方收盤OHLC與成交金額",
+    "TPEx官方收盤",
+    "三大法人盤後資料",
+    "USD/TWD可靠歷史快照"
+  ],
+  "risk_flags": [
+    "13:25精確快照無法重建",
+    "法人尚未公布",
+    "展會題材可能先行反映"
+  ],
+  "website_summary": "13:25歷史回補：只採10:30加權44691.13與當日低點44308.71作舊錨；櫃買、匯率、廣度精確值不可得。五檔全WAIT。"
+}

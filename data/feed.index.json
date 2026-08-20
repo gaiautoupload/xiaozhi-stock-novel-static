@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
   "timezone": "Asia/Taipei",
-  "latest_update_id": "U20260819-1305",
-  "sequence": 96,
+  "latest_update_id": "U20260819-1345",
+  "sequence": 98,
   "ordering_rule": "sequence then update_id; ignore legacy chapter numbers",
-  "history_count": 96,
+  "history_count": 98,
   "updates": [
     {
       "sequence": 1,
@@ -903,6 +903,24 @@
       "storyboard_file_id": "1NYbYJoPQeeB6GpA35AWa8ku7kXk8a8Qj",
       "stocks_file_id": "1qTRP4Fzguga7n4rkDYZ8JDVVhSTykLI1",
       "market_svg_file_id": "1YOAbXilmExV1tLPe_FShrWYe8XJxsKjK"
+    },
+    {
+      "sequence": 97,
+      "update_id": "U20260819-1325",
+      "published_at": "2026-08-19T13:25:00+08:00",
+      "chapter_file_id": "1GdvyesBPw6GCvOlJN0_vVzp5pEVIkFZX",
+      "storyboard_file_id": "1JNEKotdd5T8Hry7xQid_qfuhZjJq90Mo",
+      "stocks_file_id": "1eXXYisygPUvm3JZUu-OmaG3omSFf54JI",
+      "market_svg_file_id": "18-PeYlgTde_PiE-jBA_2JIgKwsBxwxc_"
+    },
+    {
+      "sequence": 98,
+      "update_id": "U20260819-1345",
+      "published_at": "2026-08-19T13:45:00+08:00",
+      "chapter_file_id": "1XgBFvpmbkcKZD2FT7feD1QFaijaJrtYa",
+      "storyboard_file_id": "1sWyy_tK-V6AqJzux8hszSfQ66QR2RoTW",
+      "stocks_file_id": "13OflCazMXyaFGNbaIZ7RHjD8lEDejKBv",
+      "market_svg_file_id": "12H7kRSZbNteJghdK6AcTRrwBUoP2GBQr"
     }
   ]
 }
