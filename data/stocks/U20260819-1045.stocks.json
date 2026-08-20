@@ -1,0 +1,14 @@
+{
+  "update_id":"U20260819-1045","market_id":"M20260819-1045","as_of":"2026-08-19T10:45:00+08:00",
+  "market_summary":"歷史回補；未取得可靠10:45 TAIEX、TPEx或USD/TWD時間戳快照。沿用當時已公開09:05加權44,518.07、跌790.61及早盤低約44,308為stale anchors；不得以事後收盤值冒充。",
+  "selection_changes":[],
+  "watchlist":[
+    {"ticker":"4576","name":"大銀微系統","positioning":"精密運動控制／機器人關節","rating":"B","evidence":["公司財務資訊顯示2026年7月營收366,927千元、年增60.14%","8月19日機器人與自動化展開展，提供實機與客戶驗證場景"],"risks":["指數跌破季線帶來估值壓縮","展會曝光不等於訂單或獲利"],"confirm_signals":["相對大盤轉強且量能健康","公司公告可量化訂單、送樣或量產"],"invalidations":["跌破事件低點且無承接","營收動能反轉"],"exit_logic":"雙確認後才分批；確認K低點失守或基本面撤回即退出。","trade_status":"WAIT"},
+    {"ticker":"2049","name":"上銀","positioning":"線性傳動／人形機器人與自動化","rating":"B-","evidence":["公司產品涵蓋線性傳動、機器人與精密運動控制","官方展會於8月19日開展，提供新品驗證窗口"],"risks":["資本支出循環波動","系統性賣壓可能壓過題材"],"confirm_signals":["守住早盤低並呈相對強勢","後續可核實商業化進度"],"invalidations":["反彈無量再破低","展示後無商業成果"],"exit_logic":"確認後小部位；跌破確認低點即退。","trade_status":"WAIT"},
+    {"ticker":"2359","name":"所羅門","positioning":"AI視覺／機器人感知","rating":"C","evidence":["公司公開資訊持續聚焦AI與3D機器視覺","自動化展提供應用展示與合作場景"],"risks":["高Beta與題材評價風險","專案驗收和收入認列可能遞延"],"confirm_signals":["訂單或合作公告可驗證","量價站回關鍵均線"],"invalidations":["只有展示無商業成果","放量破低"],"exit_logic":"訂單與量價雙確認後才行動；事件低點失守退出。","trade_status":"WAIT"},
+    {"ticker":"6125","name":"廣運","positioning":"自動化搬運／物流整合","rating":"C+","evidence":["公司業務涵蓋自動化輸送與系統工程","智慧製造展對應工廠自動化需求"],"risks":["專案型收入及驗收時程波動","中小型題材股受風險偏好壓縮"],"confirm_signals":["新案或在手訂單能見度提升","量價優於櫃買"],"invalidations":["驗收遞延擴大","跌破事件前低"],"exit_logic":"專案公告與相對強度雙門檻；任一失效退出。","trade_status":"WAIT"},
+    {"ticker":"2330","name":"台積電","positioning":"核心權值／市場風險確認器","rating":"C","evidence":["09:05早盤低至2,335元並拖累大盤","前一交易日ADR收413.41美元、跌4.07%"],"risks":["SOX約跌5%與殖利率／油價上行壓縮估值","地緣政治與外資風險偏好惡化"],"confirm_signals":["ADR與SOX止穩","現股收復關鍵均線且外資賣壓收斂"],"invalidations":["ADR與現股同步破低","反彈量縮"],"exit_logic":"海外與現股雙止穩後才考慮；確認後再破低退出。","trade_status":"WAIT"}
+  ],
+  "ledger":{"total_assets_twd":26000,"unrestricted_cash_twd":20000,"restricted_cash_twd":6000,"recognized_income_twd":0,"pending_income_twd":73000000,"pending_items":[{"item":"盡調保證金意向","amount_twd":20000000,"status":"未簽／未驗收／未付款"},{"item":"展場鑑識顧問案","amount_twd":3000000,"status":"已進條款協商；待簽／待里程碑驗收／待付款"},{"item":"海外分潤買斷測試報價","amount_twd":50000000,"status":"已拒絕買斷；不列資產或收入"}],"executed_trades":0},
+  "disclaimer":"觀察與情境分析，不保證獲利；未觸發確認訊號前不視為交易。"
+}

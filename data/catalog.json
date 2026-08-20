@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-20T09:48:58+00:00",
-  "latest_update_id": "U20260819-1025",
-  "sequence": 88,
+  "generated_at": "2026-08-20T10:17:17+00:00",
+  "latest_update_id": "U20260819-1045",
+  "sequence": 89,
   "entries": [
     {
       "sequence": 1,
@@ -881,6 +881,16 @@
       "chapter_path": "data/chapters/U20260819-1025.md",
       "stocks_path": "data/stocks/U20260819-1025.stocks.json",
       "market_svg_path": "data/visuals/U20260819-1025.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 89,
+      "update_id": "U20260819-1045",
+      "published_at": "2026-08-19T10:45:00+08:00",
+      "title": "第五十五回　三個女人都要答案，他當眾把五千萬退回桌上",
+      "chapter_path": "data/chapters/U20260819-1045.md",
+      "stocks_path": "data/stocks/U20260819-1045.stocks.json",
+      "market_svg_path": "data/visuals/U20260819-1045.market.svg",
       "backfill": true
     }
   ]
