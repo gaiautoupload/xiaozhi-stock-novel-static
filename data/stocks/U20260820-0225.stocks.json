@@ -1,0 +1,13 @@
+{
+  "update_id":"U20260820-0225","market_id":"M20260820-0225","as_of":"2026-08-20T02:25:00+08:00",
+  "portfolio":{"total_assets_twd":26000,"free_cash_twd":20000,"restricted_cash_twd":6000,"recognized_income_twd":0,"stock_trades":0},
+  "compliance":["董事憑證與R-4576皆屬小說內未驗證重大未公開線索，全員禁止交易","三十億元信託與九億六千萬元案未交割簽驗付款，不列資產收入"],
+  "watchlist":[
+    {"ticker":"4576","name":"大銀微系統","positioning":"精密運動控制／機器人零組件","rating":"B","action":"WAIT","evidence":["Unitree上市事件提供機器人題材催化","8月19日台股法人賣超、廣度偏弱，需量價確認"],"risks":["題材擁擠","未公開線索合規風險"],"confirm_signals":["公開公告與營收支持","帶量站回短均"],"invalidations":["跌破前低且量增","催化未轉基本面"],"exit_logic":"只依公開資訊；結構失守退出"},
+    {"ticker":"2049","name":"上銀","positioning":"線性傳動／自動化","rating":"B-","action":"WAIT","evidence":["自動化需求具長線支撐","大盤與櫃買8月19日同步回檔"],"risks":["景氣循環","匯率與毛利"],"confirm_signals":["量價轉強","月營收改善"],"invalidations":["區間低點失守","接單續弱"],"exit_logic":"突破確認才介入，跌回突破點退出"},
+    {"ticker":"2359","name":"所羅門","positioning":"機器視覺／AI機器人","rating":"C","action":"WAIT","evidence":["機器人事件催化延續","櫃買弱勢廣度限制風險偏好"],"risks":["波動高","估值與題材退潮"],"confirm_signals":["量價突破","訂單公告"],"invalidations":["爆量長黑","訂單不及預期"],"exit_logic":"不追高，跌破平台退出"},
+    {"ticker":"6125","name":"廣運","positioning":"自動化設備／物流","rating":"C+","action":"WAIT","evidence":["自動化題材有催化","法人賣超708.48億元仍為逆風"],"risks":["專案認列波動","中小型股流動性"],"confirm_signals":["量能回升","在手訂單可驗證"],"invalidations":["支撐失守","專案延遲"],"exit_logic":"小部位、確認後進；事件落空退出"},
+    {"ticker":"2330","name":"台積電","positioning":"先進製程／AI晶片核心","rating":"C-","action":"WAIT","evidence":["7月營收年增44.7%","外資賣超與FOMC偏鷹風險壓抑估值"],"risks":["殖利率與SOX波動","地緣風險"],"confirm_signals":["ADR與現貨同步止穩","外資轉買"],"invalidations":["跌破前低","利率再上行"],"exit_logic":"未止穩不接；結構失效退出"}
+  ],
+  "selection_changes":[]
+}

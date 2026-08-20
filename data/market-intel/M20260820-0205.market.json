@@ -1,0 +1,21 @@
+{
+  "market_id":"M20260820-0205","as_of":"2026-08-20T02:05:00+08:00","session_status":"taiwan_closed_us_session_historical_target",
+  "sources":[
+    {"title":"TWSE TAIEX historical data","url":"https://www.twse.com.tw/en/indices/taiex/mi-5min-hist.html","published_at":"2026-08-19T13:33:00+08:00","accessed_at":"2026-08-21T07:10:00+08:00"},
+    {"title":"TPEx daily indices","url":"https://www.tpex.org.tw/en-us/mainboard/trading/info/daily-indices.html","published_at":"2026-08-19T13:33:00+08:00","accessed_at":"2026-08-21T07:10:00+08:00"},
+    {"title":"中央銀行新台幣匯率","url":"https://www.cbc.gov.tw/tw/lp-645-1.html","published_at":"2026-08-19T16:00:00+08:00","accessed_at":"2026-08-21T07:10:00+08:00"},
+    {"title":"FOMC July 28-29 minutes","url":"https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm","published_at":"2026-08-20T02:00:00+08:00","accessed_at":"2026-08-21T07:10:00+08:00"},
+    {"title":"台積電2026年7月營收","url":"https://pr.tsmc.com/english/news/3329","published_at":"2026-08-10T13:30:00+08:00","accessed_at":"2026-08-21T07:10:00+08:00"}
+  ],
+  "breaking_news":["FOMC會議紀要於台北02:00發布：通膨疑慮升高，若通膨未回到2%，部分官員傾向更緊縮；目標時點僅過5分鐘，不推定完整市場消化。","Unitree上市急漲提供機器人題材催化，但台股弱勢廣度與法人賣壓仍在。"],
+  "index_snapshot":{"TAIEX":{"value":44719.35,"change_pct":-1.30,"high":45071.34,"low":44308.71,"turnover_twd_billion":847.857,"status":"2026-08-19 official close"},"TPEx":{"value":384.79,"change_pct":-1.55,"turnover_twd_billion":179.319,"status":"2026-08-19 official close"}},
+  "fx_snapshot":{"USD_TWD":{"value":31.937,"change":-0.008,"status":"2026-08-19 official daily close; stale for target"},"DXY":"unavailable_at_target_minute","USD_JPY":"unavailable_at_target_minute"},
+  "cross_asset":{"NASDAQ":"unavailable_at_target_minute","SOX":"unavailable_at_target_minute","TSM_ADR":"unavailable_at_target_minute","US10Y":"unavailable_at_target_minute","US30Y":"unavailable_at_target_minute","context":"FOMC紀要剛發布；不以稍後收盤或延遲報價倒填。"},
+  "breadth_and_flow":{"advancers":387,"decliners":605,"unchanged":114,"foreign_twd_billion":-41.639,"investment_trust_twd_billion":-12.091,"dealer_twd_billion":-17.118,"total_institutional_twd_billion":-70.848,"interpretation":"廣度與法人同步偏空，反彈需價格及成交量共同確認。"},
+  "sector_rotation":{"leaders":["機器人／自動化（事件催化、待基本面驗證）"],"laggards":["高估值半導體","弱勢中小型題材"],"impacts":{"tsmc":"營收強但外資與利率壓力抑制估值","exporters":"新台幣小幅升值對美元營收換算略逆風","financial_insurance":"長端利率波動影響債券評價","import_costs":"新台幣偏強略降進口成本","valuation":"FOMC偏鷹風險使高本益比承壓"}},
+  "abc_wave":{"framework":"Elliott/ABC僅作條件情境","current_interpretation":"8/19急跌可視為A段；若44,308.71守住，可能進入弱B反彈，否則A段延伸。","anchors":[45071.34,44308.71,44719.35],"support":[44308.71],"resistance":[44811,45071.34],"alternate_scenario":"跌破44,308.71且量增，A段延伸。","invalidation":"站穩45,071.34並改善廣度，弱B假設需重估。","confidence":"medium_low"},
+  "scenarios":{"bullish":"守44,308.71、外資賣壓收斂，機器人與權值同步放量反彈。","base":"44,308.71至45,071.34震盪，題材輪動但不追高。","bearish":"FOMC偏鷹解讀推升殖利率，失守44,308.71且法人續賣。"},
+  "next_confirmations":["8/20台股開盤廣度與外資期現貨","台積電能否守穩並帶量","美債殖利率對FOMC紀要反應","機器人族群是否有公司公告支持"],
+  "risk_flags":["分鐘級美股與跨資產報價不足","中東與能源價格","高估值與法人賣壓","題材擁擠"],
+  "website_summary":"8/19台股收黑且法人賣超708.48億元；02:00 FOMC紀要偏鷹風險新增。機器人有催化，但僅觀察，ABC維持弱B／A延伸雙情境。"
+}

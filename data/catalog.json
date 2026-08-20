@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-20T23:10:27+00:00",
-  "latest_update_id": "U20260820-0145",
-  "sequence": 134,
+  "generated_at": "2026-08-20T23:41:57+00:00",
+  "latest_update_id": "U20260820-0305",
+  "sequence": 138,
   "entries": [
     {
       "sequence": 1,
@@ -1341,6 +1341,46 @@
       "chapter_path": "data/chapters/U20260820-0145.md",
       "stocks_path": "data/stocks/U20260820-0145.stocks.json",
       "market_svg_path": "data/visuals/U20260820-0145.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 135,
+      "update_id": "U20260820-0205",
+      "published_at": "2026-08-20T02:05:00+08:00",
+      "title": "第一百零一回　DNA說他不能愛她，他用一根頭髮拆掉六億兩千萬禁婚局",
+      "chapter_path": "data/chapters/U20260820-0205.md",
+      "stocks_path": "data/stocks/U20260820-0205.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-0205.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 136,
+      "update_id": "U20260820-0225",
+      "published_at": "2026-08-20T02:25:00+08:00",
+      "title": "第一百零二回　她用一個吻啟動三十億，他卻把愛情從信託條款裡刪掉",
+      "chapter_path": "data/chapters/U20260820-0225.md",
+      "stocks_path": "data/stocks/U20260820-0225.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-0225.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 137,
+      "update_id": "U20260820-0245",
+      "published_at": "2026-08-20T02:45:00+08:00",
+      "title": "第一百零三回　生母不准他帶姓顧的人，他帶三個吃醋女人拆掉十二億董事局",
+      "chapter_path": "data/chapters/U20260820-0245.md",
+      "stocks_path": "data/stocks/U20260820-0245.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-0245.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 138,
+      "update_id": "U20260820-0305",
+      "published_at": "2026-08-20T03:05:00+08:00",
+      "title": "第一百零四回　六千元不是本金，她用一張出生存摺買下他的第一個敵人",
+      "chapter_path": "data/chapters/U20260820-0305.md",
+      "stocks_path": "data/stocks/U20260820-0305.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-0305.market.svg",
       "backfill": true
     }
   ]
