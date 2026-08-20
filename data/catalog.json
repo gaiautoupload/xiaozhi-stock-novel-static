@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-20T08:54:50+00:00",
-  "latest_update_id": "U20260819-0825",
-  "sequence": 82,
+  "generated_at": "2026-08-20T09:48:58+00:00",
+  "latest_update_id": "U20260819-1025",
+  "sequence": 88,
   "entries": [
     {
       "sequence": 1,
@@ -822,6 +822,66 @@
       "stocks_path": "data/stocks/U20260819-0825.stocks.json",
       "market_svg_path": "data/visuals/U20260819-0825.market.svg",
       "backfill": false
+    },
+    {
+      "sequence": 83,
+      "update_id": "U20260819-0845",
+      "published_at": "2026-08-19T08:45:00+08:00",
+      "title": "第四十九回　八點三十分的門沒有關上，他反把第三張臉鎖進證據鏈",
+      "chapter_path": "data/chapters/U20260819-0845.md",
+      "stocks_path": "data/stocks/U20260819-0845.stocks.json",
+      "market_svg_path": "data/visuals/U20260819-0845.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 84,
+      "update_id": "U20260819-0905",
+      "published_at": "2026-08-19T09:05:00+08:00",
+      "title": "第五十回　父親第一句話不是認親，而是叫他別碰一張八百萬授權書",
+      "chapter_path": "data/chapters/U20260819-0905.md",
+      "stocks_path": "data/stocks/U20260819-0905.stocks.json",
+      "market_svg_path": "data/visuals/U20260819-0905.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 85,
+      "update_id": "U20260819-0925",
+      "published_at": "2026-08-19T09:25:00+08:00",
+      "title": "第五十一回　她們都知道父親活著，卻各自只握半把鑰匙",
+      "chapter_path": "data/chapters/U20260819-0925.md",
+      "stocks_path": "data/stocks/U20260819-0925.stocks.json",
+      "market_svg_path": "data/visuals/U20260819-0925.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 86,
+      "update_id": "U20260819-0945",
+      "published_at": "2026-08-19T09:45:00+08:00",
+      "title": "第五十二回　母親走進來，他用一筆零成交拆掉二千萬陷阱",
+      "chapter_path": "data/chapters/U20260819-0945.md",
+      "stocks_path": "data/stocks/U20260819-0945.stocks.json",
+      "market_svg_path": "data/visuals/U20260819-0945.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 87,
+      "update_id": "U20260819-1005",
+      "published_at": "2026-08-19T10:05:00+08:00",
+      "title": "第五十三回　她來封兩千萬，他反手封住真正的獵人",
+      "chapter_path": "data/chapters/U20260819-1005.md",
+      "stocks_path": "data/stocks/U20260819-1005.stocks.json",
+      "market_svg_path": "data/visuals/U20260819-1005.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 88,
+      "update_id": "U20260819-1025",
+      "published_at": "2026-08-19T10:25:00+08:00",
+      "title": "第五十四回　全場等他出醜，他讓失控機器人替他指認兇手",
+      "chapter_path": "data/chapters/U20260819-1025.md",
+      "stocks_path": "data/stocks/U20260819-1025.stocks.json",
+      "market_svg_path": "data/visuals/U20260819-1025.market.svg",
+      "backfill": true
     }
   ]
 }

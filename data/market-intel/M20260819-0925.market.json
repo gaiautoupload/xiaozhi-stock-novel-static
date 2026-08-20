@@ -1,0 +1,181 @@
+{
+  "market_id": "M20260819-0925",
+  "as_of": "2026-08-19T09:25:00+08:00",
+  "session_status": "open_historical_reconstruction",
+  "sources": [
+    {
+      "title": "中央社：權值股走跌，台股早盤急跌近千點",
+      "url": "https://www.cna.com.tw/news/afe/202608190025.aspx",
+      "published_at": "2026-08-19T09:21:00+08:00",
+      "accessed_at": "2026-08-20T17:06:00+08:00"
+    },
+    {
+      "title": "Reuters：科技與半導體受殖利率及地緣風險拖累",
+      "url": "https://www.reuters.com/business/us-stock-futures-drop-fading-iran-peace-hopes-lift-oil-bond-yields-2026-08-18/",
+      "published_at": "2026-08-18T09:30:15Z",
+      "accessed_at": "2026-08-20T17:06:00+08:00"
+    },
+    {
+      "title": "中央銀行新臺幣/美元銀行間收盤匯率",
+      "url": "https://www.cbc.gov.tw/tw/lp-645-1.html",
+      "published_at": "2026-08-18T17:00:00+08:00",
+      "accessed_at": "2026-08-20T17:06:00+08:00"
+    },
+    {
+      "title": "Automation Taipei / TAIROS 官方展會",
+      "url": "https://tairos.chanchao.com.tw/",
+      "published_at": null,
+      "accessed_at": "2026-08-20T17:06:00+08:00"
+    },
+    {
+      "title": "大銀微系統投資人資訊",
+      "url": "https://www.hiwinmikro.tw/zh/investor/financial",
+      "published_at": null,
+      "accessed_at": "2026-08-20T17:06:00+08:00"
+    }
+  ],
+  "breaking_news": [
+    {
+      "known_at_slot": true,
+      "item": "09:21報導：09:05加權44518.07、跌790.61；櫃買開低，台積電最低2335。"
+    },
+    {
+      "known_at_slot": true,
+      "item": "隔夜Nasdaq -1.33%、SOX近-5%、TSM ADR -4.07%，半導體與長債壓力延續。"
+    },
+    {
+      "known_at_slot": true,
+      "item": "自動化展當日開幕，但展前機器人股已有顯著漲幅，催化可能提前反映。"
+    }
+  ],
+  "index_snapshot": {
+    "status": "open",
+    "timestamp": "09:05 snapshot published 09:21",
+    "TAIEX": {
+      "value": 44518.07,
+      "change": -790.61
+    },
+    "TPEX": {
+      "status": "opened lower",
+      "value": "unavailable_at_slot"
+    },
+    "TSMC": {
+      "low": 2335
+    },
+    "note": "CNA report was published 09:21 and therefore available by 09:25; exact 09:25 tick unavailable."
+  },
+  "fx_snapshot": {
+    "pair": "USD/TWD",
+    "official_previous_close": 31.945,
+    "date": "2026-08-18",
+    "intraday_at_slot": "unavailable",
+    "later_official_close": {
+      "value": 31.937,
+      "date": "2026-08-19",
+      "not_available_at_slot": true
+    },
+    "direction": "時點方向 unavailable；不得使用午後官方收盤值回填。",
+    "impact": "台幣走強通常有利外資風險偏好與電子估值、降低進口成本；走弱有利出口換匯但可能加重外資流出、壽險避險成本與進口通膨。"
+  },
+  "cross_asset": {
+    "NASDAQ": {
+      "close": 26289.71,
+      "change_percent": -1.33,
+      "date": "2026-08-18"
+    },
+    "SOX": {
+      "change_percent": "about -5%",
+      "date": "2026-08-18"
+    },
+    "TSM_ADR": {
+      "close": 413.41,
+      "change_percent": -4.07,
+      "date": "2026-08-18"
+    },
+    "DXY": "unavailable_at_slot",
+    "US10Y": "exact close unavailable/stale",
+    "US30Y": {
+      "close_yield_percent": 5.2922,
+      "date": "2026-08-18"
+    },
+    "USDJPY": "unavailable_at_slot",
+    "drivers": [
+      "油價與中東不確定性推升通膨/殖利率風險",
+      "Fed 7月會議紀要尚待公布"
+    ]
+  },
+  "breadth_and_flow": {
+    "market_breadth": "櫃買開低，顯示壓力不只權值；精確漲跌家數 unavailable",
+    "turnover": "unavailable_at_slot",
+    "foreign_and_three_institutions": "pending at slot; official daily data after close"
+  },
+  "sector_rotation": {
+    "relative_defensive": [
+      "能源",
+      "醫療",
+      "民生防禦",
+      "現金"
+    ],
+    "weak": [
+      "半導體",
+      "記憶體",
+      "AI高Beta"
+    ],
+    "event_watch": [
+      "精密運控",
+      "機器人零組件",
+      "AI視覺",
+      "設備自動化"
+    ],
+    "rule": "急跌不視為確認；須季線/權值/櫃買與2–3檔族群共振。"
+  },
+  "abc_wave": {
+    "framework": "Elliott/ABC corrective scenario; scenario only, not prediction",
+    "current_interpretation": "A段下殺已獲可靠快訊確認；09:25精確價與反彈結構不足，不能宣稱進入B段。",
+    "anchors": [
+      {
+        "index": "TAIEX",
+        "type": "09:05 snapshot",
+        "value": 44518.07,
+        "change": -790.61
+      },
+      {
+        "index": "TSMC",
+        "type": "early_low",
+        "value": 2335
+      }
+    ],
+    "support": [
+      44518.07,
+      "44308 later low not yet known at 09:25"
+    ],
+    "resistance": [
+      "45000 psychological",
+      "previous close 45308.68"
+    ],
+    "alternate_scenario": "若重新站回季線/45000且權值與櫃買同步止穩，才可能形成B段反彈。",
+    "invalidation": "A段延伸情境於收復季線、低點不再下移且廣度改善時失效。",
+    "confidence": 0.58
+  },
+  "scenarios": {
+    "bullish": "收復季線與45000、台積電止穩、櫃買改善，機器人至少2–3檔共振。",
+    "base": "急跌後震盪、題材股分化，維持WAIT直到可靠承接。",
+    "bearish": "再破早盤低點，權值/櫃買同步惡化，A段延伸。"
+  },
+  "next_confirmations": [
+    "取得可靠09:25後指數/廣度",
+    "是否跌破09:05的44518.07",
+    "台積電2335承接",
+    "機器人是否2–3檔共振"
+  ],
+  "risk_flags": [
+    "系統性賣壓",
+    "隔夜半導體近-5%",
+    "權值與櫃買同步走弱",
+    "展會題材提前反映",
+    "地緣政治/油價/長債",
+    "時點資料缺口"
+  ],
+  "website_summary": "09:25歷史重建：09:21可得快訊顯示09:05加權44518.07、跌790.61，台積電最低2335且櫃買開低；急跌不等於買點，五檔全WAIT。"
+}
+

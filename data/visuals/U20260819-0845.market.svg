@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+<rect width="1200" height="675" fill="#081426"/><style>text{font-family:Arial,'Noto Sans TC',sans-serif;fill:#eaf2ff}.h{font-size:32px;font-weight:700}.s{font-size:18px;fill:#9fb4d0}.t{font-size:20px}.g{fill:#54d6a0}.y{fill:#ffd166}.r{fill:#ff7b7b}.box{fill:#10243e;stroke:#244563;stroke-width:1}</style>
+<text x="55" y="55" class="h">小智股海｜U20260819-0845</text><text x="55" y="87" class="s">2026-08-19 08:45｜歷史時點重建｜盤前</text>
+<rect x="45" y="115" width="535" height="160" rx="16" class="box"/><text x="70" y="150" class="t">大盤 / 匯率</text>
+<text x="70" y="188" class="y">TAIEX：未開盤；前收 45,308.68</text>
+<text x="70" y="220" class="y">TPEx：未開盤；前收 390.83</text>
+<text x="70" y="252" class="s">USD/TWD：前一日官方收 31.945；時點即時值 unavailable</text>
+<rect x="610" y="115" width="545" height="160" rx="16" class="box"/><text x="635" y="150" class="t">跨資產壓力</text>
+<text x="635" y="188" class="r">Nasdaq -1.33%｜SOX 約 -5%</text><text x="635" y="220" class="r">TSM ADR 413.41｜-4.07%</text><text x="635" y="252" class="s">油價 / 長債 / 地緣風險壓抑高估值科技</text>
+<rect x="45" y="300" width="1110" height="135" rx="16" class="box"/><text x="70" y="337" class="t">觀察股（全為 WAIT，0 成交）</text>
+<text x="70" y="375" class="g">4576 大銀微 B+　2049 上銀 B　2359 所羅門 C+　6125 廣運 B-　2330 台積電 B-</text>
+<text x="70" y="410" class="s">確認：權值止穩＋運控/機器人 2–3 檔量價共振｜失效：開高走低、支撐失守、廣度惡化</text>
+<rect x="45" y="460" width="535" height="160" rx="16" class="box"/><text x="70" y="497" class="t">ABC 修正波情境</text>
+<text x="70" y="535" class="y">偏 A 段風險測試，非預言</text><text x="70" y="567" class="s">錨點：45,308.68 / 45,225.42 / TPEx 389.92</text><text x="70" y="599" class="s">替代：收復前收且廣度改善 → B 段反彈</text>
+<rect x="610" y="460" width="545" height="160" rx="16" class="box"/><text x="635" y="497" class="t">帳本與風險</text>
+<text x="635" y="535" class="g">總資產 26,000｜自由現金 20,000｜限制款 6,000</text><text x="635" y="567" class="s">股票市值 / 已實現損益 / 新認列收入：0</text><text x="635" y="599" class="s">八百萬授權未簽未付未驗收</text>
+<text x="55" y="652" class="s">資料不足即標 unavailable；觀察不等於買進或獲利保證。</text></svg>

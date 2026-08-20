@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T08:54:50+00:00",
+  "generated_at": "2026-08-20T09:48:58+00:00",
   "events": [
     {
       "sequence": 56,
@@ -3977,129 +3977,1029 @@
       ],
       "exit_logic": "僅作市場確認；承接與廣度未共振前不交易。",
       "trade_status": "WAIT；0成交"
+    },
+    {
+      "sequence": 83,
+      "update_id": "U20260819-0845",
+      "as_of": "2026-08-19T08:45:00+08:00",
+      "ticker": "4576",
+      "name": "大銀微系統",
+      "action": "降評",
+      "previous_rating": "A-",
+      "rating": "A-（維持）",
+      "positioning": "精密運動控制／智慧自動化",
+      "reason": "隔夜半導體風險、題材提前反映。",
+      "reason_source": "auto_diff",
+      "evidence": [
+        "官方7月營收366,927千元、年增60.14%；Automation Taipei 8/19開幕提供產品與需求驗證窗口。",
+        "官方/一手連結：https://www.hiwinmikro.tw/zh/investor/financial"
+      ],
+      "risks": [
+        "隔夜半導體風險、題材提前反映。"
+      ],
+      "confirm_signals": [
+        "開盤後守前收支撐且運控至少2檔量價共振。"
+      ],
+      "invalidations": [
+        "開高走低或權值與櫃買同步惡化。"
+      ],
+      "exit_logic": "未確認不進場；若確認後才建倉，失效即退出且單筆計畫風險不超過自由現金約1%。",
+      "trade_status": "WAIT；0成交"
+    },
+    {
+      "sequence": 83,
+      "update_id": "U20260819-0845",
+      "as_of": "2026-08-19T08:45:00+08:00",
+      "ticker": "2049",
+      "name": "上銀",
+      "action": "降評",
+      "previous_rating": "B",
+      "rating": "B（維持）",
+      "positioning": "機器人關鍵零組件／Physical AI",
+      "reason": "展示不等於訂單，展前可能先行反映。",
+      "reason_source": "auto_diff",
+      "evidence": [
+        "官方揭露雙臂八軸物流機器人；官方產品整合人形核心模組、智慧夾爪與精密傳動。",
+        "官方/一手連結：https://www.hiwin.tw/news_content.aspx?newsID=25581"
+      ],
+      "risks": [
+        "展示不等於訂單，展前可能先行反映。"
+      ],
+      "confirm_signals": [
+        "零組件多檔同步且台積電止穩。"
+      ],
+      "invalidations": [
+        "僅單股脈衝或開高走低。"
+      ],
+      "exit_logic": "未確認不進場；若確認後才建倉，失效即退出且單筆計畫風險不超過自由現金約1%。",
+      "trade_status": "WAIT；0成交"
+    },
+    {
+      "sequence": 83,
+      "update_id": "U20260819-0845",
+      "as_of": "2026-08-19T08:45:00+08:00",
+      "ticker": "2359",
+      "name": "所羅門",
+      "action": "降評",
+      "previous_rating": "C+",
+      "rating": "C+（維持）",
+      "positioning": "AI視覺／機器人感知",
+      "reason": "缺新增營運數字、高Beta。",
+      "reason_source": "auto_diff",
+      "evidence": [
+        "公司公開AI視覺與感知方案；年報揭露AI/3D視覺與人形機器人感知研發。",
+        "官方/一手連結：https://www.solomon.com.tw/news-events/"
+      ],
+      "risks": [
+        "缺新增營運數字、高Beta。"
+      ],
+      "confirm_signals": [
+        "感知族群共振且拉回有承接。"
+      ],
+      "invalidations": [
+        "爆量不漲或只剩單股急拉。"
+      ],
+      "exit_logic": "未確認不進場；若確認後才建倉，失效即退出且單筆計畫風險不超過自由現金約1%。",
+      "trade_status": "WAIT；0成交"
+    },
+    {
+      "sequence": 83,
+      "update_id": "U20260819-0845",
+      "as_of": "2026-08-19T08:45:00+08:00",
+      "ticker": "6125",
+      "name": "廣運",
+      "action": "降評",
+      "previous_rating": "B-",
+      "rating": "B-（維持）",
+      "positioning": "設備／自動化鏈擴散",
+      "reason": "本時段無新增公司級訂單或營收證據。",
+      "reason_source": "auto_diff",
+      "evidence": [
+        "公司既有設備與自動化定位；官方展會為需求驗證窗口。",
+        "官方/一手連結：https://www.kenmec.com/"
+      ],
+      "risks": [
+        "本時段無新增公司級訂單或營收證據。"
+      ],
+      "confirm_signals": [
+        "核心運控先強後設備鏈擴散。"
+      ],
+      "invalidations": [
+        "核心先跌或設備鏈無擴散。"
+      ],
+      "exit_logic": "未確認不進場；若確認後才建倉，失效即退出且單筆計畫風險不超過自由現金約1%。",
+      "trade_status": "WAIT；0成交"
+    },
+    {
+      "sequence": 83,
+      "update_id": "U20260819-0845",
+      "as_of": "2026-08-19T08:45:00+08:00",
+      "ticker": "2330",
+      "name": "台積電",
+      "action": "降評",
+      "previous_rating": "B-",
+      "rating": "B-（維持）",
+      "positioning": "電子權值／市場風險確認器",
+      "reason": "SOX近-5%、長債與油價壓力。",
+      "reason_source": "auto_diff",
+      "evidence": [
+        "8/18台股官方收2,380元；TSM ADR 8/18收413.41美元、-4.07%。",
+        "官方/一手連結：https://www.reuters.com/business/us-stock-futures-drop-fading-iran-peace-hopes-lift-oil-bond-yields-2026-08-18/"
+      ],
+      "risks": [
+        "SOX近-5%、長債與油價壓力。"
+      ],
+      "confirm_signals": [
+        "守前日指數支撐且電子廣度改善。"
+      ],
+      "invalidations": [
+        "權值失守並與櫃買同步惡化。"
+      ],
+      "exit_logic": "未確認不進場；若確認後才建倉，失效即退出且單筆計畫風險不超過自由現金約1%。",
+      "trade_status": "WAIT；0成交"
+    },
+    {
+      "sequence": 84,
+      "update_id": "U20260819-0905",
+      "as_of": "2026-08-19T09:05:00+08:00",
+      "ticker": "4576",
+      "name": "大銀微系統",
+      "action": "降評",
+      "previous_rating": "A-（維持）",
+      "rating": "B+（降級）",
+      "positioning": "精密運動控制／智慧自動化",
+      "reason": "09:05無可靠即時量價快照，且隔夜半導體風險未解；開幕題材不可替代盤面確認。",
+      "reason_source": "explicit",
+      "evidence": [
+        "官方7月營收366,927千元、年增60.14%；Automation Taipei 8/19開幕提供產品與需求驗證窗口。",
+        "官方/一手連結：https://www.hiwinmikro.tw/zh/investor/financial"
+      ],
+      "risks": [
+        "隔夜半導體風險、題材提前反映。"
+      ],
+      "confirm_signals": [
+        "開盤後守前收支撐且運控至少2檔量價共振。"
+      ],
+      "invalidations": [
+        "開高走低或權值與櫃買同步惡化。"
+      ],
+      "exit_logic": "未確認不進場；若確認後才建倉，失效即退出且單筆計畫風險不超過自由現金約1%。",
+      "trade_status": "WAIT；0成交"
+    },
+    {
+      "sequence": 84,
+      "update_id": "U20260819-0905",
+      "as_of": "2026-08-19T09:05:00+08:00",
+      "ticker": "2049",
+      "name": "上銀",
+      "action": "維持",
+      "previous_rating": "B（維持）",
+      "rating": "B（維持）",
+      "positioning": "機器人關鍵零組件／Physical AI",
+      "reason": "零組件多檔同步且台積電止穩。",
+      "reason_source": "auto_diff",
+      "evidence": [
+        "官方揭露雙臂八軸物流機器人；官方產品整合人形核心模組、智慧夾爪與精密傳動。",
+        "官方/一手連結：https://www.hiwin.tw/news_content.aspx?newsID=25581"
+      ],
+      "risks": [
+        "展示不等於訂單，展前可能先行反映。"
+      ],
+      "confirm_signals": [
+        "零組件多檔同步且台積電止穩。"
+      ],
+      "invalidations": [
+        "僅單股脈衝或開高走低。"
+      ],
+      "exit_logic": "未確認不進場；若確認後才建倉，失效即退出且單筆計畫風險不超過自由現金約1%。",
+      "trade_status": "WAIT；0成交"
+    },
+    {
+      "sequence": 84,
+      "update_id": "U20260819-0905",
+      "as_of": "2026-08-19T09:05:00+08:00",
+      "ticker": "2359",
+      "name": "所羅門",
+      "action": "降評",
+      "previous_rating": "C+（維持）",
+      "rating": "C（降級）",
+      "positioning": "AI視覺／機器人感知",
+      "reason": "缺新增營運證據且高Beta，無法證實時點共振。",
+      "reason_source": "explicit",
+      "evidence": [
+        "公司公開AI視覺與感知方案；年報揭露AI/3D視覺與人形機器人感知研發。",
+        "官方/一手連結：https://www.solomon.com.tw/news-events/"
+      ],
+      "risks": [
+        "缺新增營運數字、高Beta。"
+      ],
+      "confirm_signals": [
+        "感知族群共振且拉回有承接。"
+      ],
+      "invalidations": [
+        "爆量不漲或只剩單股急拉。"
+      ],
+      "exit_logic": "未確認不進場；若確認後才建倉，失效即退出且單筆計畫風險不超過自由現金約1%。",
+      "trade_status": "WAIT；0成交"
+    },
+    {
+      "sequence": 84,
+      "update_id": "U20260819-0905",
+      "as_of": "2026-08-19T09:05:00+08:00",
+      "ticker": "6125",
+      "name": "廣運",
+      "action": "維持",
+      "previous_rating": "B-（維持）",
+      "rating": "B-（維持）",
+      "positioning": "設備／自動化鏈擴散",
+      "reason": "核心運控先強後設備鏈擴散。",
+      "reason_source": "auto_diff",
+      "evidence": [
+        "公司既有設備與自動化定位；官方展會為需求驗證窗口。",
+        "官方/一手連結：https://www.kenmec.com/"
+      ],
+      "risks": [
+        "本時段無新增公司級訂單或營收證據。"
+      ],
+      "confirm_signals": [
+        "核心運控先強後設備鏈擴散。"
+      ],
+      "invalidations": [
+        "核心先跌或設備鏈無擴散。"
+      ],
+      "exit_logic": "未確認不進場；若確認後才建倉，失效即退出且單筆計畫風險不超過自由現金約1%。",
+      "trade_status": "WAIT；0成交"
+    },
+    {
+      "sequence": 84,
+      "update_id": "U20260819-0905",
+      "as_of": "2026-08-19T09:05:00+08:00",
+      "ticker": "2330",
+      "name": "台積電",
+      "action": "維持",
+      "previous_rating": "B-（維持）",
+      "rating": "B-（維持）",
+      "positioning": "電子權值／市場風險確認器",
+      "reason": "守前日指數支撐且電子廣度改善。",
+      "reason_source": "auto_diff",
+      "evidence": [
+        "8/18台股官方收2,380元；TSM ADR 8/18收413.41美元、-4.07%。",
+        "官方/一手連結：https://www.reuters.com/business/us-stock-futures-drop-fading-iran-peace-hopes-lift-oil-bond-yields-2026-08-18/"
+      ],
+      "risks": [
+        "SOX近-5%、長債與油價壓力。"
+      ],
+      "confirm_signals": [
+        "守前日指數支撐且電子廣度改善。"
+      ],
+      "invalidations": [
+        "權值失守並與櫃買同步惡化。"
+      ],
+      "exit_logic": "未確認不進場；若確認後才建倉，失效即退出且單筆計畫風險不超過自由現金約1%。",
+      "trade_status": "WAIT；0成交"
+    },
+    {
+      "sequence": 85,
+      "update_id": "U20260819-0925",
+      "as_of": "2026-08-19T09:25:00+08:00",
+      "ticker": "4576",
+      "name": "大銀微系統",
+      "action": "降評",
+      "previous_rating": "B+（降級）",
+      "rating": "B（降級）",
+      "positioning": "精密運動控制／智慧自動化",
+      "reason": "09:21可靠快訊確認09:05大盤重挫，系統性風險高於展會催化。",
+      "reason_source": "explicit",
+      "evidence": [
+        "官方7月營收366,927千元、年增60.14%。",
+        "Automation Taipei/TAIROS 8/19開幕，提供產品與需求驗證窗口：https://tairos.chanchao.com.tw/"
+      ],
+      "risks": [
+        "大盤與櫃買同步走弱",
+        "題材提前反映"
+      ],
+      "confirm_signals": [
+        "重新站回季線且運控至少2檔共振",
+        "拉回有承接而非單筆急拉"
+      ],
+      "invalidations": [
+        "爆量長上影",
+        "權值與櫃買持續惡化"
+      ],
+      "exit_logic": "未確認不進場；若日後建倉，任一失效條件成立即退出，單筆計畫風險不超過自由現金約1%。",
+      "trade_status": "WAIT；0成交"
+    },
+    {
+      "sequence": 85,
+      "update_id": "U20260819-0925",
+      "as_of": "2026-08-19T09:25:00+08:00",
+      "ticker": "2049",
+      "name": "上銀",
+      "action": "降評",
+      "previous_rating": "B（維持）",
+      "rating": "B-（降級）",
+      "positioning": "機器人關鍵零組件／Physical AI",
+      "reason": "權值與中小型股同步承壓，展示題材不能抵銷風險。",
+      "reason_source": "explicit",
+      "evidence": [
+        "官方公開雙臂八軸物流機器人。",
+        "官方產品整合人形核心模組、智慧夾爪與精密傳動：https://www.hiwin.tw/news_content.aspx?newsID=25581"
+      ],
+      "risks": [
+        "展示不等於訂單",
+        "系統性賣壓壓縮題材溢價"
+      ],
+      "confirm_signals": [
+        "零組件多檔同步",
+        "權值止穩且廣度改善"
+      ],
+      "invalidations": [
+        "單股脈衝",
+        "開高走低並失守盤中支撐"
+      ],
+      "exit_logic": "未確認不進場；若日後建倉，任一失效條件成立即退出，單筆計畫風險不超過自由現金約1%。",
+      "trade_status": "WAIT；0成交"
+    },
+    {
+      "sequence": 85,
+      "update_id": "U20260819-0925",
+      "as_of": "2026-08-19T09:25:00+08:00",
+      "ticker": "2359",
+      "name": "所羅門",
+      "action": "維持",
+      "previous_rating": "C（降級）",
+      "rating": "C（維持）",
+      "positioning": "AI視覺／機器人感知",
+      "reason": "公司公開AI視覺與感知方案。；年報與官方活動揭露AI/3D視覺及感知研發：https://www.solomon.com.tw/news-events/",
+      "reason_source": "auto_diff",
+      "evidence": [
+        "公司公開AI視覺與感知方案。",
+        "年報與官方活動揭露AI/3D視覺及感知研發：https://www.solomon.com.tw/news-events/"
+      ],
+      "risks": [
+        "缺新增營運數字",
+        "高Beta在風險收縮時易補跌"
+      ],
+      "confirm_signals": [
+        "感知族群共振",
+        "拉回後有明確承接"
+      ],
+      "invalidations": [
+        "爆量不漲",
+        "無族群跟隨"
+      ],
+      "exit_logic": "未確認不進場；若日後建倉，任一失效條件成立即退出，單筆計畫風險不超過自由現金約1%。",
+      "trade_status": "WAIT；0成交"
+    },
+    {
+      "sequence": 85,
+      "update_id": "U20260819-0925",
+      "as_of": "2026-08-19T09:25:00+08:00",
+      "ticker": "6125",
+      "name": "廣運",
+      "action": "降評",
+      "previous_rating": "B-（維持）",
+      "rating": "C+（降級）",
+      "positioning": "設備／自動化鏈擴散",
+      "reason": "後順位擴散在系統性賣壓下失去優先度。",
+      "reason_source": "explicit",
+      "evidence": [
+        "公司既有設備與自動化定位。",
+        "官方展會為需求驗證窗口：https://tairos.chanchao.com.tw/"
+      ],
+      "risks": [
+        "本時段缺公司級新增訂單證據",
+        "大盤急跌時後順位擴散易失效"
+      ],
+      "confirm_signals": [
+        "核心運控先止穩",
+        "設備鏈成交擴散"
+      ],
+      "invalidations": [
+        "核心續跌",
+        "設備鏈無擴散"
+      ],
+      "exit_logic": "未確認不進場；若日後建倉，任一失效條件成立即退出，單筆計畫風險不超過自由現金約1%。",
+      "trade_status": "WAIT；0成交"
+    },
+    {
+      "sequence": 85,
+      "update_id": "U20260819-0925",
+      "as_of": "2026-08-19T09:25:00+08:00",
+      "ticker": "2330",
+      "name": "台積電",
+      "action": "降評",
+      "previous_rating": "B-（維持）",
+      "rating": "C+（降級）",
+      "positioning": "電子權值／市場風險確認器",
+      "reason": "盤中最低2335，權值承接條件未成立。",
+      "reason_source": "explicit",
+      "evidence": [
+        "CNA 09:21報導：09:05加權指數44518.07、台積電盤中最低2335元。",
+        "8/18 TSM ADR收413.41美元、-4.07%，SOX近-5%：https://www.reuters.com/business/us-stock-futures-drop-fading-iran-peace-hopes-lift-oil-bond-yields-2026-08-18/"
+      ],
+      "risks": [
+        "權值走弱拖累指數",
+        "海外半導體與殖利率壓力"
+      ],
+      "confirm_signals": [
+        "收復季線附近且低點不再下移",
+        "電子廣度改善"
+      ],
+      "invalidations": [
+        "再次破低",
+        "櫃買同步惡化"
+      ],
+      "exit_logic": "未確認不進場；若日後建倉，任一失效條件成立即退出，單筆計畫風險不超過自由現金約1%。",
+      "trade_status": "WAIT；0成交"
+    },
+    {
+      "sequence": 86,
+      "update_id": "U20260819-0945",
+      "as_of": "2026-08-19T09:45:00+08:00",
+      "ticker": "4576",
+      "name": "大銀微系統",
+      "action": "維持",
+      "previous_rating": "B（降級）",
+      "rating": "B（維持）",
+      "positioning": "精密運動控制／智慧自動化",
+      "reason": "重新站回季線且運控至少2檔共振",
+      "reason_source": "auto_diff",
+      "evidence": [
+        "官方7月營收366,927千元、年增60.14%。",
+        "Automation Taipei/TAIROS 8/19開幕，提供產品與需求驗證窗口：https://tairos.chanchao.com.tw/"
+      ],
+      "risks": [
+        "大盤與櫃買同步走弱",
+        "題材提前反映"
+      ],
+      "confirm_signals": [
+        "重新站回季線且運控至少2檔共振",
+        "拉回有承接而非單筆急拉"
+      ],
+      "invalidations": [
+        "爆量長上影",
+        "權值與櫃買持續惡化"
+      ],
+      "exit_logic": "未確認不進場；若日後建倉，任一失效條件成立即退出，單筆計畫風險不超過自由現金約1%。",
+      "trade_status": "WAIT；0成交"
+    },
+    {
+      "sequence": 86,
+      "update_id": "U20260819-0945",
+      "as_of": "2026-08-19T09:45:00+08:00",
+      "ticker": "2049",
+      "name": "上銀",
+      "action": "維持",
+      "previous_rating": "B-（降級）",
+      "rating": "B-（維持）",
+      "positioning": "機器人關鍵零組件／Physical AI",
+      "reason": "零組件多檔同步",
+      "reason_source": "auto_diff",
+      "evidence": [
+        "官方公開雙臂八軸物流機器人。",
+        "官方產品整合人形核心模組、智慧夾爪與精密傳動：https://www.hiwin.tw/news_content.aspx?newsID=25581"
+      ],
+      "risks": [
+        "展示不等於訂單",
+        "系統性賣壓壓縮題材溢價"
+      ],
+      "confirm_signals": [
+        "零組件多檔同步",
+        "權值止穩且廣度改善"
+      ],
+      "invalidations": [
+        "單股脈衝",
+        "開高走低並失守盤中支撐"
+      ],
+      "exit_logic": "未確認不進場；若日後建倉，任一失效條件成立即退出，單筆計畫風險不超過自由現金約1%。",
+      "trade_status": "WAIT；0成交"
+    },
+    {
+      "sequence": 86,
+      "update_id": "U20260819-0945",
+      "as_of": "2026-08-19T09:45:00+08:00",
+      "ticker": "2359",
+      "name": "所羅門",
+      "action": "維持",
+      "previous_rating": "C（維持）",
+      "rating": "C（維持）",
+      "positioning": "AI視覺／機器人感知",
+      "reason": "感知族群共振",
+      "reason_source": "auto_diff",
+      "evidence": [
+        "公司公開AI視覺與感知方案。",
+        "年報與官方活動揭露AI/3D視覺及感知研發：https://www.solomon.com.tw/news-events/"
+      ],
+      "risks": [
+        "缺新增營運數字",
+        "高Beta在風險收縮時易補跌"
+      ],
+      "confirm_signals": [
+        "感知族群共振",
+        "拉回後有明確承接"
+      ],
+      "invalidations": [
+        "爆量不漲",
+        "無族群跟隨"
+      ],
+      "exit_logic": "未確認不進場；若日後建倉，任一失效條件成立即退出，單筆計畫風險不超過自由現金約1%。",
+      "trade_status": "WAIT；0成交"
+    },
+    {
+      "sequence": 86,
+      "update_id": "U20260819-0945",
+      "as_of": "2026-08-19T09:45:00+08:00",
+      "ticker": "6125",
+      "name": "廣運",
+      "action": "維持",
+      "previous_rating": "C+（降級）",
+      "rating": "C+（維持）",
+      "positioning": "設備／自動化鏈擴散",
+      "reason": "核心運控先止穩",
+      "reason_source": "auto_diff",
+      "evidence": [
+        "公司既有設備與自動化定位。",
+        "官方展會為需求驗證窗口：https://tairos.chanchao.com.tw/"
+      ],
+      "risks": [
+        "本時段缺公司級新增訂單證據",
+        "大盤急跌時後順位擴散易失效"
+      ],
+      "confirm_signals": [
+        "核心運控先止穩",
+        "設備鏈成交擴散"
+      ],
+      "invalidations": [
+        "核心續跌",
+        "設備鏈無擴散"
+      ],
+      "exit_logic": "未確認不進場；若日後建倉，任一失效條件成立即退出，單筆計畫風險不超過自由現金約1%。",
+      "trade_status": "WAIT；0成交"
+    },
+    {
+      "sequence": 86,
+      "update_id": "U20260819-0945",
+      "as_of": "2026-08-19T09:45:00+08:00",
+      "ticker": "2330",
+      "name": "台積電",
+      "action": "降評",
+      "previous_rating": "C+（降級）",
+      "rating": "C（降級）",
+      "positioning": "電子權值／市場風險確認器",
+      "reason": "09:29更新確認指數一度下探44308附近並失守季線約44811，權值承接仍未完成。",
+      "reason_source": "explicit",
+      "evidence": [
+        "CNA 09:21報導：09:05加權指數44518.07、台積電盤中最低2335元。",
+        "8/18 TSM ADR收413.41美元、-4.07%，SOX近-5%：https://www.reuters.com/business/us-stock-futures-drop-fading-iran-peace-hopes-lift-oil-bond-yields-2026-08-18/"
+      ],
+      "risks": [
+        "權值走弱拖累指數",
+        "海外半導體與殖利率壓力"
+      ],
+      "confirm_signals": [
+        "收復季線附近且低點不再下移",
+        "電子廣度改善"
+      ],
+      "invalidations": [
+        "再次破低",
+        "櫃買同步惡化"
+      ],
+      "exit_logic": "未確認不進場；若日後建倉，任一失效條件成立即退出，單筆計畫風險不超過自由現金約1%。",
+      "trade_status": "WAIT；0成交"
+    },
+    {
+      "sequence": 87,
+      "update_id": "U20260819-1005",
+      "as_of": "2026-08-19T10:05:00+08:00",
+      "ticker": "4576",
+      "name": "大銀微系統",
+      "action": "升評",
+      "previous_rating": "B（維持）",
+      "rating": "B",
+      "positioning": "精密運動控制／機器人關節供應鏈",
+      "reason": "公司財務資訊顯示2026年7月營收366,927千元、年增60.14%；2026台灣機器人與智慧自動化展於8月19日開展，提供新品與客戶驗證場景",
+      "reason_source": "auto_diff",
+      "evidence": [
+        "公司財務資訊顯示2026年7月營收366,927千元、年增60.14%",
+        "2026台灣機器人與智慧自動化展於8月19日開展，提供新品與客戶驗證場景"
+      ],
+      "risks": [
+        "大盤跌破季線，題材股估值易壓縮",
+        "展會熱度未必立即轉成訂單與獲利"
+      ],
+      "confirm_signals": [
+        "相對大盤轉強且量能非單筆拉抬",
+        "展後公司公告可量化訂單或營收貢獻"
+      ],
+      "invalidations": [
+        "跌破前低且無量縮止穩",
+        "營收動能反轉或展會題材無後續"
+      ],
+      "exit_logic": "僅在確認訊號成立後分批；若確認後失守前低或量價背離則退出。",
+      "trade_status": "WAIT"
+    },
+    {
+      "sequence": 87,
+      "update_id": "U20260819-1005",
+      "as_of": "2026-08-19T10:05:00+08:00",
+      "ticker": "2049",
+      "name": "上銀",
+      "action": "升評",
+      "previous_rating": "B-（維持）",
+      "rating": "B-",
+      "positioning": "線性傳動／機器人與半導體自動化",
+      "reason": "上銀集團以大型展區展示人形機器人、智慧製造與精密運動控制；公司公開資訊顯示產品布局涵蓋線性傳動、伺服與自動化應用",
+      "reason_source": "auto_diff",
+      "evidence": [
+        "上銀集團以大型展區展示人形機器人、智慧製造與精密運動控制",
+        "公司公開資訊顯示產品布局涵蓋線性傳動、伺服與自動化應用"
+      ],
+      "risks": [
+        "景氣循環與資本支出放緩",
+        "市場系統性賣壓壓過展會題材"
+      ],
+      "confirm_signals": [
+        "守住早盤低點並出現相對強勢",
+        "公司後續揭露送樣、接單或量產進度"
+      ],
+      "invalidations": [
+        "反彈無量後再破低",
+        "新品停留展示、缺乏商業化證據"
+      ],
+      "exit_logic": "確認後才建立小部位；跌破確認K低點或基本面證據撤回即離場。",
+      "trade_status": "WAIT"
+    },
+    {
+      "sequence": 87,
+      "update_id": "U20260819-1005",
+      "as_of": "2026-08-19T10:05:00+08:00",
+      "ticker": "2359",
+      "name": "所羅門",
+      "action": "升評",
+      "previous_rating": "C（維持）",
+      "rating": "C",
+      "positioning": "機器視覺／AI與自動化整合",
+      "reason": "公司持續發布AI、機器視覺與智慧製造應用資訊；自動化展提供需求驗證與合作曝光場景",
+      "reason_source": "auto_diff",
+      "evidence": [
+        "公司持續發布AI、機器視覺與智慧製造應用資訊",
+        "自動化展提供需求驗證與合作曝光場景"
+      ],
+      "risks": [
+        "題材波動高且評價敏感",
+        "專案驗收與收入認列可能遞延"
+      ],
+      "confirm_signals": [
+        "展後取得可核實訂單或合作公告",
+        "股價站回關鍵均線且成交量結構健康"
+      ],
+      "invalidations": [
+        "僅有展示無商業成果",
+        "破低且量增"
+      ],
+      "exit_logic": "不追展場消息；待訂單與量價雙確認，失守事件低點退出。",
+      "trade_status": "WAIT"
+    },
+    {
+      "sequence": 87,
+      "update_id": "U20260819-1005",
+      "as_of": "2026-08-19T10:05:00+08:00",
+      "ticker": "6125",
+      "name": "廣運",
+      "action": "升評",
+      "previous_rating": "C+（維持）",
+      "rating": "C+",
+      "positioning": "自動化搬運／物流與系統整合",
+      "reason": "公司業務涵蓋自動化輸送、物流與系統工程；智慧製造展對應工廠自動化與搬運需求",
+      "reason_source": "auto_diff",
+      "evidence": [
+        "公司業務涵蓋自動化輸送、物流與系統工程",
+        "智慧製造展對應工廠自動化與搬運需求"
+      ],
+      "risks": [
+        "專案型收入波動與驗收時程風險",
+        "大盤風險偏好下降時中小型題材股承壓"
+      ],
+      "confirm_signals": [
+        "新案公告或在手訂單能見度提升",
+        "量價轉強且優於櫃買指數"
+      ],
+      "invalidations": [
+        "驗收遞延擴大",
+        "跌破事件前低且無承接"
+      ],
+      "exit_logic": "以專案公告與相對強度為雙門檻；任一門檻失效則減碼或退出。",
+      "trade_status": "WAIT"
+    },
+    {
+      "sequence": 87,
+      "update_id": "U20260819-1005",
+      "as_of": "2026-08-19T10:05:00+08:00",
+      "ticker": "2330",
+      "name": "台積電",
+      "action": "升評",
+      "previous_rating": "C（降級）",
+      "rating": "C",
+      "positioning": "台股核心權值／AI晶圓代工",
+      "reason": "09:05台積電早盤低至2,335元，是大盤主要壓力來源；前一交易日美股科技股回落且台積電ADR下跌4.07%，形成外部逆風",
+      "reason_source": "auto_diff",
+      "evidence": [
+        "09:05台積電早盤低至2,335元，是大盤主要壓力來源",
+        "前一交易日美股科技股回落且台積電ADR下跌4.07%，形成外部逆風"
+      ],
+      "risks": [
+        "SOX約跌5%與美債殖利率、油價上行壓縮成長股估值",
+        "地緣政治與外資風險偏好惡化"
+      ],
+      "confirm_signals": [
+        "ADR與SOX止穩",
+        "現股收復關鍵均線且外資賣壓收斂"
+      ],
+      "invalidations": [
+        "ADR續跌並帶動現股破低",
+        "反彈量縮且權值賣壓未止"
+      ],
+      "exit_logic": "不接下跌刀；待海外與現股同步止穩，若確認後再破低則退出。",
+      "trade_status": "WAIT"
+    },
+    {
+      "sequence": 88,
+      "update_id": "U20260819-1025",
+      "as_of": "2026-08-19T10:25:00+08:00",
+      "ticker": "4576",
+      "name": "大銀微系統",
+      "action": "維持",
+      "previous_rating": "B",
+      "rating": "B",
+      "positioning": "精密運動控制／機器人關節供應鏈",
+      "reason": "機器人與自動化展於8月19日開展，提供產品與客戶驗證場景",
+      "reason_source": "auto_diff",
+      "evidence": [
+        "公司財務資訊顯示2026年7月營收366,927千元、年增60.14%",
+        "機器人與自動化展於8月19日開展，提供產品與客戶驗證場景"
+      ],
+      "risks": [
+        "大盤跌破季線帶來估值壓縮",
+        "展會曝光未必轉為訂單"
+      ],
+      "confirm_signals": [
+        "相對大盤強勢且量能健康",
+        "公司公告可量化訂單或量產"
+      ],
+      "invalidations": [
+        "破前低且無止穩",
+        "營收動能反轉"
+      ],
+      "exit_logic": "確認後才分批；確認K低點失守或基本面撤回即退出。",
+      "trade_status": "WAIT"
+    },
+    {
+      "sequence": 88,
+      "update_id": "U20260819-1025",
+      "as_of": "2026-08-19T10:25:00+08:00",
+      "ticker": "2049",
+      "name": "上銀",
+      "action": "維持",
+      "previous_rating": "B-",
+      "rating": "B-",
+      "positioning": "線性傳動／機器人與半導體自動化",
+      "reason": "上銀集團參與自動化展並展示人形機器人與精密運動控制方案；公司產品線涵蓋線性傳動與自動化應用",
+      "reason_source": "auto_diff",
+      "evidence": [
+        "上銀集團參與自動化展並展示人形機器人與精密運動控制方案",
+        "公司產品線涵蓋線性傳動與自動化應用"
+      ],
+      "risks": [
+        "資本支出循環波動",
+        "系統性賣壓壓過題材"
+      ],
+      "confirm_signals": [
+        "守早盤低且轉相對強勢",
+        "後續送樣、接單或量產公告"
+      ],
+      "invalidations": [
+        "反彈無量再破低",
+        "新品缺乏商業化證據"
+      ],
+      "exit_logic": "雙確認後小部位；跌破確認低點即退。",
+      "trade_status": "WAIT"
+    },
+    {
+      "sequence": 88,
+      "update_id": "U20260819-1025",
+      "as_of": "2026-08-19T10:25:00+08:00",
+      "ticker": "2359",
+      "name": "所羅門",
+      "action": "維持",
+      "previous_rating": "C",
+      "rating": "C",
+      "positioning": "機器視覺／AI與自動化整合",
+      "reason": "公司公開資訊持續聚焦AI與機器視覺應用；展會提供智慧製造需求驗證場景",
+      "reason_source": "auto_diff",
+      "evidence": [
+        "公司公開資訊持續聚焦AI與機器視覺應用",
+        "展會提供智慧製造需求驗證場景"
+      ],
+      "risks": [
+        "題材波動與估值風險高",
+        "專案驗收遞延"
+      ],
+      "confirm_signals": [
+        "可核實訂單或合作公告",
+        "站回關鍵均線且量能健康"
+      ],
+      "invalidations": [
+        "只有展示無商業成果",
+        "放量破低"
+      ],
+      "exit_logic": "不追展場消息；訂單與量價雙確認後才行動，事件低點失守退出。",
+      "trade_status": "WAIT"
+    },
+    {
+      "sequence": 88,
+      "update_id": "U20260819-1025",
+      "as_of": "2026-08-19T10:25:00+08:00",
+      "ticker": "6125",
+      "name": "廣運",
+      "action": "維持",
+      "previous_rating": "C+",
+      "rating": "C+",
+      "positioning": "自動化搬運／物流與系統整合",
+      "reason": "展會主題對應工廠自動化與搬運需求",
+      "reason_source": "auto_diff",
+      "evidence": [
+        "公司業務涵蓋自動化輸送、物流與系統工程",
+        "展會主題對應工廠自動化與搬運需求"
+      ],
+      "risks": [
+        "專案型收入與驗收時程波動",
+        "中小型題材股受風險偏好壓縮"
+      ],
+      "confirm_signals": [
+        "新案或在手訂單能見度提升",
+        "量價優於櫃買"
+      ],
+      "invalidations": [
+        "驗收遞延擴大",
+        "跌破事件前低"
+      ],
+      "exit_logic": "專案公告與相對強度雙門檻；任一失效退出。",
+      "trade_status": "WAIT"
+    },
+    {
+      "sequence": 88,
+      "update_id": "U20260819-1025",
+      "as_of": "2026-08-19T10:25:00+08:00",
+      "ticker": "2330",
+      "name": "台積電",
+      "action": "維持",
+      "previous_rating": "C",
+      "rating": "C",
+      "positioning": "台股核心權值／AI晶圓代工",
+      "reason": "09:05早盤低至2,335元並拖累大盤；前一交易日台積電ADR收413.41美元、跌4.07%",
+      "reason_source": "auto_diff",
+      "evidence": [
+        "09:05早盤低至2,335元並拖累大盤",
+        "前一交易日台積電ADR收413.41美元、跌4.07%"
+      ],
+      "risks": [
+        "SOX約跌5%與美債殖利率上行壓縮估值",
+        "地緣政治與外資賣壓"
+      ],
+      "confirm_signals": [
+        "ADR與SOX止穩",
+        "現股收復關鍵均線且外資賣壓收斂"
+      ],
+      "invalidations": [
+        "ADR與現股同步破低",
+        "反彈量縮"
+      ],
+      "exit_logic": "不接下跌刀；海外與現股雙止穩後才考慮，確認後破低退出。",
+      "trade_status": "WAIT"
     }
   ],
   "current": [
     {
       "ticker": "4576",
       "name": "大銀微系統",
-      "positioning": "精密運動控制／展會驗證候選",
-      "rating": "A-",
+      "positioning": "精密運動控制／機器人關節供應鏈",
+      "rating": "B",
       "evidence": [
-        "公司官方2026年7月營收366927千元、年增60.14%，前7月累計年增49.67%。",
-        "2026台北國際自動化工業大展8/19開幕，提供產品與供應鏈公開驗證場景。"
+        "公司財務資訊顯示2026年7月營收366,927千元、年增60.14%",
+        "機器人與自動化展於8月19日開展，提供產品與客戶驗證場景"
       ],
       "risks": [
-        "展會題材已有提前反映。",
-        "高Beta估值受SOX與長債壓力。"
+        "大盤跌破季線帶來估值壓縮",
+        "展會曝光未必轉為訂單"
       ],
       "confirm_signals": [
-        "加權守45225.42、櫃買守389.92。",
-        "運控至少2至3檔共振且拉回有承接。"
+        "相對大盤強勢且量能健康",
+        "公司公告可量化訂單或量產"
       ],
       "invalidations": [
-        "開高走低或爆量不漲。",
-        "跌破支撐且廣度同步惡化。"
+        "破前低且無止穩",
+        "營收動能反轉"
       ],
-      "exit_logic": "承接或族群共振消失即退出；不追展會急拉。",
-      "trade_status": "WAIT；0成交"
+      "exit_logic": "確認後才分批；確認K低點失守或基本面撤回即退出。",
+      "trade_status": "WAIT"
     },
     {
       "ticker": "2049",
       "name": "上銀",
-      "positioning": "機器人關鍵零組件／Physical AI確認股",
-      "rating": "B",
+      "positioning": "線性傳動／機器人與半導體自動化",
+      "rating": "B-",
       "evidence": [
-        "公司官方公開雙臂八軸物流機器人。",
-        "公司官方公開人形機器人核心模組、智慧夾爪與精密傳動整合。"
+        "上銀集團參與自動化展並展示人形機器人與精密運動控制方案",
+        "公司產品線涵蓋線性傳動與自動化應用"
       ],
       "risks": [
-        "展前報導顯示題材可能已提前反映。",
-        "展示不等於新增訂單。"
+        "資本支出循環波動",
+        "系統性賣壓壓過題材"
       ],
       "confirm_signals": [
-        "零組件多檔同步。",
-        "電子權值止穩且量價健康。"
+        "守早盤低且轉相對強勢",
+        "後續送樣、接單或量產公告"
       ],
       "invalidations": [
-        "族群無共振。",
-        "開高走低或爆量不漲。"
+        "反彈無量再破低",
+        "新品缺乏商業化證據"
       ],
-      "exit_logic": "失去族群同步或盤中支撐即退出。",
-      "trade_status": "WAIT；0成交"
+      "exit_logic": "雙確認後小部位；跌破確認低點即退。",
+      "trade_status": "WAIT"
     },
     {
       "ticker": "2359",
       "name": "所羅門",
-      "positioning": "AI視覺／機器人感知高風險事件股",
-      "rating": "C+",
+      "positioning": "機器視覺／AI與自動化整合",
+      "rating": "C",
       "evidence": [
-        "公司公開AI視覺與機器人感知方案。",
-        "公司年報揭露AI／3D視覺與人形機器人感知研發。"
+        "公司公開資訊持續聚焦AI與機器視覺應用",
+        "展會提供智慧製造需求驗證場景"
       ],
       "risks": [
-        "缺新增營運數字。",
-        "高Beta科技風險偏好下降。"
+        "題材波動與估值風險高",
+        "專案驗收遞延"
       ],
       "confirm_signals": [
-        "感知族群多檔共振。",
-        "拉回承接後再攻有量。"
+        "可核實訂單或合作公告",
+        "站回關鍵均線且量能健康"
       ],
       "invalidations": [
-        "單股孤軍急拉。",
-        "爆量不漲或長上影。"
+        "只有展示無商業成果",
+        "放量破低"
       ],
-      "exit_logic": "禁止追首紅K；承接或擴散消失即退出。",
-      "trade_status": "WAIT；禁止追價"
+      "exit_logic": "不追展場消息；訂單與量價雙確認後才行動，事件低點失守退出。",
+      "trade_status": "WAIT"
     },
     {
       "ticker": "6125",
       "name": "廣運",
-      "positioning": "設備／自動化鏈後順位候選",
-      "rating": "B-",
+      "positioning": "自動化搬運／物流與系統整合",
+      "rating": "C+",
       "evidence": [
-        "公司既有設備與自動化業務定位。",
-        "自動化展提供產業需求與應用驗證窗口。"
+        "公司業務涵蓋自動化輸送、物流與系統工程",
+        "展會主題對應工廠自動化與搬運需求"
       ],
       "risks": [
-        "缺新增公司級營收或訂單證據。",
-        "設備鏈可能沒有資金擴散。"
+        "專案型收入與驗收時程波動",
+        "中小型題材股受風險偏好壓縮"
       ],
       "confirm_signals": [
-        "核心標的先強。",
-        "設備鏈多檔放量承接。"
+        "新案或在手訂單能見度提升",
+        "量價優於櫃買"
       ],
       "invalidations": [
-        "無擴散。",
-        "核心先跌或急拉無承接。"
+        "驗收遞延擴大",
+        "跌破事件前低"
       ],
-      "exit_logic": "只在設備鏈擴散後考慮；核心轉弱即退出。",
-      "trade_status": "WAIT；0成交"
+      "exit_logic": "專案公告與相對強度雙門檻；任一失效退出。",
+      "trade_status": "WAIT"
     },
     {
       "ticker": "2330",
       "name": "台積電",
-      "positioning": "電子權值／市場風險確認器",
-      "rating": "B-",
+      "positioning": "台股核心權值／AI晶圓代工",
+      "rating": "C",
       "evidence": [
-        "8/18台股正式收2380元。",
-        "TSM ADR正式收413.41美元、-4.07%。"
+        "09:05早盤低至2,335元並拖累大盤",
+        "前一交易日台積電ADR收413.41美元、跌4.07%"
       ],
       "risks": [
-        "SOX約-5%、Nasdaq廣度偏空。",
-        "油價、長債與台幣偏弱形成估值壓力。"
+        "SOX約跌5%與美債殖利率上行壓縮估值",
+        "地緣政治與外資賣壓"
       ],
       "confirm_signals": [
-        "開盤承接並守45225.42。",
-        "電子與櫃買廣度改善。"
+        "ADR與SOX止穩",
+        "現股收復關鍵均線且外資賣壓收斂"
       ],
       "invalidations": [
-        "跌破45225.42且電子、櫃買同步惡化。",
-        "權值開低後持續無承接。"
+        "ADR與現股同步破低",
+        "反彈量縮"
       ],
-      "exit_logic": "僅作市場確認；承接與廣度未共振前不交易。",
-      "trade_status": "WAIT；0成交"
+      "exit_logic": "不接下跌刀；海外與現股雙止穩後才考慮，確認後破低退出。",
+      "trade_status": "WAIT"
     }
   ],
-  "snapshot_count": 27
+  "snapshot_count": 33
 }

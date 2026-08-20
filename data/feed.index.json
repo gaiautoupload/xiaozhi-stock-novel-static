@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
   "timezone": "Asia/Taipei",
-  "latest_update_id": "U20260819-0825",
-  "sequence": 82,
+  "latest_update_id": "U20260819-1025",
+  "sequence": 88,
   "ordering_rule": "sequence then update_id; ignore legacy chapter numbers",
-  "history_count": 82,
+  "history_count": 88,
   "updates": [
     {
       "sequence": 1,
@@ -749,6 +749,72 @@
       "stocks_file_id": "1S4bjucR5CY0OfmkMMHQepQItkUT7Zy3C",
       "market_svg_file_id": "1IEqEJ0gKIIPoxs4P4vG7DwPiKuV7KwmW",
       "backfill": false
+    },
+    {
+      "sequence": 83,
+      "update_id": "U20260819-0845",
+      "published_at": "2026-08-19T08:45:00+08:00",
+      "title": "第四十九回　八點三十分的門沒有關上，他反把第三張臉鎖進證據鏈",
+      "chapter_file_id": "1aEySGkdBYtCkNHsS7G6UVaCzlgqcuaEj",
+      "storyboard_file_id": "1CB6GI7ly-bzUW4mXfQvhsaWIlGYnVbU1",
+      "stocks_file_id": "1yIeKyKM0aBlEirt-HPqhhrmG-qBpSKce",
+      "market_svg_file_id": "1sLaXe0ZzHVV7TuDV-vhQvvaZ4mv-wCvP",
+      "backfill": true
+    },
+    {
+      "sequence": 84,
+      "update_id": "U20260819-0905",
+      "published_at": "2026-08-19T09:05:00+08:00",
+      "title": "第五十回　父親第一句話不是認親，而是叫他別碰一張八百萬授權書",
+      "chapter_file_id": "1a7u7Fd--EXj3gZlJbAI2-P_cUd8BZqiP",
+      "storyboard_file_id": "1eX0aewDS_Z-mD32lGSiJkAuKXFbBPOI4",
+      "stocks_file_id": "1dW3RtmhvYCEW15JgHEOI2734mKr-lKp3",
+      "market_svg_file_id": "1n0v6q6y045tmjNffRdviDRRb3f7Q5XlC",
+      "backfill": true
+    },
+    {
+      "sequence": 85,
+      "update_id": "U20260819-0925",
+      "published_at": "2026-08-19T09:25:00+08:00",
+      "title": "第五十一回　她們都知道父親活著，卻各自只握半把鑰匙",
+      "chapter_file_id": "1qJ5Bu76iDy3DRdOU843xKCdic4qHOe_U",
+      "storyboard_file_id": "1kEZYjIhyuCdtcwYRn06kBNwfWfWSM-m9",
+      "stocks_file_id": "1xm4bOPnzvBd7ndqJbjw9iMTZOPvcEvbE",
+      "market_svg_file_id": "1HwgRkDJkcScKpGMHsItCJAl_YUNYDa50",
+      "backfill": true
+    },
+    {
+      "sequence": 86,
+      "update_id": "U20260819-0945",
+      "published_at": "2026-08-19T09:45:00+08:00",
+      "title": "第五十二回　母親走進來，他用一筆零成交拆掉二千萬陷阱",
+      "chapter_file_id": "1W6DzAVliV3JWCZryqz--db3miUTgOect",
+      "storyboard_file_id": "1CkNPtYCp1vjJ8irtq6_5KqQ4Jwm2j4Q8",
+      "stocks_file_id": "1fdNH1TlaojCpd7TSDVAybh_UWDEnYsJp",
+      "market_svg_file_id": "1TF_BDVefoJzbx18Yg7CdAJZ8J69Pc2HL",
+      "backfill": true
+    },
+    {
+      "sequence": 87,
+      "update_id": "U20260819-1005",
+      "published_at": "2026-08-19T10:05:00+08:00",
+      "title": "第五十三回　她來封兩千萬，他反手封住真正的獵人",
+      "chapter_file_id": "17xTDai097BGmCXphK0XCleKI5Ed-oWlu",
+      "storyboard_file_id": "1es5rVhPUpAT4yOgW_DlCE0NnDb5Z_OQf",
+      "stocks_file_id": "1QRDxKIu4wZnJHpw3Cl2yg6fljSnH_11V",
+      "market_svg_file_id": "1m4LnuY9k3hyACAxvylLjUrpjmn47hLQ1",
+      "backfill": true
+    },
+    {
+      "sequence": 88,
+      "update_id": "U20260819-1025",
+      "published_at": "2026-08-19T10:25:00+08:00",
+      "title": "第五十四回　全場等他出醜，他讓失控機器人替他指認兇手",
+      "chapter_file_id": "1k_QVXF78K9fR0yQMKp_FXvHvaz_bikP6",
+      "storyboard_file_id": "11-PYlmsR4lbnL5CsJDa0wC9M0D4a-28x",
+      "stocks_file_id": "1dktcz9VPDQDYhhcr6VkhIMeKZIs33lTH",
+      "market_svg_file_id": "11r_aAHSGPK1siJEQFMiJjdIqjjvlD1RA",
+      "backfill": true
     }
   ]
 }

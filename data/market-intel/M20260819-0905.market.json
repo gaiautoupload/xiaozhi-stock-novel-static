@@ -1,0 +1,194 @@
+{
+  "market_id": "M20260819-0905",
+  "as_of": "2026-08-19T09:05:00+08:00",
+  "session_status": "open_historical_snapshot_partial",
+  "data_policy": "historical reconstruction; only information available by target slot is used for contemporaneous decisions; later releases are labeled post_session_reference",
+  "sources": [
+    {
+      "title": "TWSE 加權指數日成交資訊",
+      "url": "https://accessibility.twse.com.tw/zh/trading/exchange/MI_INDEX-ind.html",
+      "published_at": "2026-08-19T14:30:00+08:00",
+      "accessed_at": "2026-08-20T16:50:00+08:00"
+    },
+    {
+      "title": "TPEx 上櫃市場重要指標",
+      "url": "https://www.tpex.org.tw/zh-tw/mainboard/trading/info/highlight.html",
+      "published_at": "2026-08-19T14:30:00+08:00",
+      "accessed_at": "2026-08-20T16:50:00+08:00"
+    },
+    {
+      "title": "Reuters：科技股與半導體因殖利率及地緣風險下挫",
+      "url": "https://www.reuters.com/business/us-stock-futures-drop-fading-iran-peace-hopes-lift-oil-bond-yields-2026-08-18/",
+      "published_at": "2026-08-18T09:30:15Z",
+      "accessed_at": "2026-08-20T16:50:00+08:00"
+    },
+    {
+      "title": "中央銀行新臺幣/美元銀行間收盤匯率",
+      "url": "https://www.cbc.gov.tw/tw/lp-645-1.html",
+      "published_at": "2026-08-19T17:00:00+08:00",
+      "accessed_at": "2026-08-20T16:50:00+08:00"
+    },
+    {
+      "title": "Automation Taipei / TAIROS 官方展會",
+      "url": "https://tairos.chanchao.com.tw/",
+      "published_at": null,
+      "accessed_at": "2026-08-20T16:50:00+08:00"
+    }
+  ],
+  "breaking_news": [
+    {
+      "known_at_slot": true,
+      "item": "8/18美股收盤：Nasdaq -1.33%，SOX約-5%，半導體為主要壓力；TSM ADR 413.41美元、-4.07%。"
+    },
+    {
+      "known_at_slot": true,
+      "item": "Automation Taipei / TAIROS於8/19開幕，官方公開時間10:00；開幕是驗證窗口，不代表訂單或股價確認。"
+    }
+  ],
+  "index_snapshot": {
+    "TAIEX": {
+      "status": "open",
+      "value": "unavailable",
+      "timestamp": "2026-08-19T09:05:00+08:00",
+      "note": "無可靠精確09:05指數快照，不補數字。",
+      "post_session_reference": {
+        "close": 44719.35,
+        "change": -589.33,
+        "percent": -1.3,
+        "available_after_slot": true
+      }
+    },
+    "TPEX": {
+      "status": "open",
+      "value": "unavailable",
+      "timestamp": "2026-08-19T09:05:00+08:00",
+      "note": "無可靠精確09:05快照。",
+      "post_session_reference": {
+        "close": 384.79,
+        "change": -6.04,
+        "available_after_slot": true
+      }
+    }
+  },
+  "fx_snapshot": {
+    "pair": "USD/TWD",
+    "known_at_slot": {
+      "official_previous_close": 31.945,
+      "date": "2026-08-18"
+    },
+    "intraday_at_slot": "unavailable",
+    "post_session_reference": {
+      "close": 31.937,
+      "date": "2026-08-19",
+      "available_16_to_17_local": true
+    },
+    "direction": "當時無可靠即時方向；事後收盤較前日小幅下降。",
+    "impact": "台幣轉強通常有利外資風險偏好與電子估值、降低進口成本；台幣轉弱有利出口換匯但可能加重外資流出與壽險避險成本。"
+  },
+  "cross_asset": {
+    "NASDAQ": {
+      "close": 26289.71,
+      "change_percent": -1.33,
+      "date": "2026-08-18"
+    },
+    "SOX": {
+      "change_percent": "約-5%",
+      "date": "2026-08-18"
+    },
+    "TSM_ADR": {
+      "close": 413.41,
+      "change_percent": -4.07,
+      "date": "2026-08-18"
+    },
+    "DXY": "unavailable_at_slot",
+    "US10Y": "stale/unavailable exact close",
+    "US30Y": {
+      "close_yield_percent": 5.2922,
+      "date": "2026-08-18"
+    },
+    "USDJPY": "unavailable_at_slot",
+    "drivers": [
+      "油價與中東不確定性推升通膨/殖利率風險",
+      "Fed 7月會議紀要尚待公布"
+    ]
+  },
+  "breadth_and_flow": {
+    "market_breadth": "unavailable_at_slot",
+    "turnover": "unavailable_at_slot",
+    "foreign_and_three_institutions": "pending at slot; official daily figures published after close",
+    "note": "不得以事後法人數字冒充盤初已知。"
+  },
+  "sector_rotation": {
+    "strong_or_defensive": [
+      "能源",
+      "醫療",
+      "民生防禦"
+    ],
+    "weak_or_risk": [
+      "半導體",
+      "AI高Beta",
+      "記憶體"
+    ],
+    "taiwan_watch": [
+      "精密運控",
+      "機器人零組件",
+      "AI視覺",
+      "設備自動化"
+    ],
+    "rule": "至少2–3檔共振且權值止穩才視為確認。"
+  },
+  "abc_wave": {
+    "framework": "Elliott/ABC corrective scenario, not prediction",
+    "current_interpretation": "開盤資料不足，沿用偏A段風險情境但降低信心；精確09:05 OHLC不足。",
+    "anchors": [
+      {
+        "index": "TAIEX",
+        "type": "previous_close",
+        "value": 45308.68,
+        "date": "2026-08-18"
+      },
+      {
+        "index": "TAIEX",
+        "type": "prior_support",
+        "value": 45225.42,
+        "date": "2026-08-18"
+      },
+      {
+        "index": "TPEX",
+        "type": "prior_support",
+        "value": 389.92,
+        "date": "2026-08-18"
+      }
+    ],
+    "support": [
+      45225.42,
+      389.92
+    ],
+    "resistance": [
+      "TAIEX 45,308.68 previous close",
+      "opening gap/reclaim level unavailable"
+    ],
+    "alternate_scenario": "若權值與櫃買同步收復前收且廣度改善，可能是B段反彈而非A段延伸。",
+    "invalidation": "精確開盤後量價與廣度確認收復前收；反之跌破支撐則A段延伸風險升高。",
+    "confidence": 0.48
+  },
+  "scenarios": {
+    "bullish": "台積電止穩、TAIEX守支撐，運控/機器人2–3檔量價共振。",
+    "base": "高波動測試支撐，題材股分化；維持WAIT。",
+    "bearish": "權值與櫃買同步破支撐，半導體壓力擴散。"
+  },
+  "next_confirmations": [
+    "取得可驗證09:05後指數/權值量價",
+    "確認運控與機器人是否至少2–3檔共振",
+    "等待三大法人收盤後官方資料"
+  ],
+  "risk_flags": [
+    "歷史時點即時資料缺口",
+    "隔夜半導體急跌",
+    "長債殖利率高檔",
+    "展會題材可能提前反映",
+    "地緣政治與油價"
+  ],
+  "website_summary": "09:05開盤精確快照無可靠來源，維持WAIT；隔夜半導體近-5%與TSM ADR -4.07%仍是主風險。事後收盤資料僅作驗證，不回填為當時已知。"
+}
+

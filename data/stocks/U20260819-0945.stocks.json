@@ -1,0 +1,167 @@
+{
+  "update_id": "U20260819-0945",
+  "market_id": "M20260819-0945",
+  "as_of": "2026-08-19T09:45:00+08:00",
+  "market_summary": {
+    "session": "historical intraday reconstruction",
+    "known_at_slot": "CNA 09:29更新已確認早盤低點約44308、跌破45000與季線約44811；台積電最低2335。",
+    "decision": "系統性風險已確認；不以跌深或展會題材當買點，全部WAIT。"
+  },
+  "selection_changes": [
+    {
+      "ticker": "2330",
+      "name": "台積電",
+      "action": "降評",
+      "from_rating": "C+",
+      "to_rating": "C",
+      "reason": "09:29更新確認指數一度下探44308附近並失守季線約44811，權值承接仍未完成。",
+      "evidence_added": [
+        "加權早盤低點約44308",
+        "失守45000與季線約44811"
+      ],
+      "risk_changed": "A段延伸風險上升",
+      "market_id": "M20260819-0945"
+    }
+  ],
+  "watchlist": [
+    {
+      "ticker": "4576",
+      "name": "大銀微系統",
+      "positioning": "精密運動控制／智慧自動化",
+      "rating": "B（維持）",
+      "evidence": [
+        "官方7月營收366,927千元、年增60.14%。",
+        "Automation Taipei/TAIROS 8/19開幕，提供產品與需求驗證窗口：https://tairos.chanchao.com.tw/"
+      ],
+      "risks": [
+        "大盤與櫃買同步走弱",
+        "題材提前反映"
+      ],
+      "confirm_signals": [
+        "重新站回季線且運控至少2檔共振",
+        "拉回有承接而非單筆急拉"
+      ],
+      "invalidations": [
+        "爆量長上影",
+        "權值與櫃買持續惡化"
+      ],
+      "exit_logic": "未確認不進場；若日後建倉，任一失效條件成立即退出，單筆計畫風險不超過自由現金約1%。",
+      "trade_status": "WAIT；0成交",
+      "as_of": "2026-08-19T09:45:00+08:00"
+    },
+    {
+      "ticker": "2049",
+      "name": "上銀",
+      "positioning": "機器人關鍵零組件／Physical AI",
+      "rating": "B-（維持）",
+      "evidence": [
+        "官方公開雙臂八軸物流機器人。",
+        "官方產品整合人形核心模組、智慧夾爪與精密傳動：https://www.hiwin.tw/news_content.aspx?newsID=25581"
+      ],
+      "risks": [
+        "展示不等於訂單",
+        "系統性賣壓壓縮題材溢價"
+      ],
+      "confirm_signals": [
+        "零組件多檔同步",
+        "權值止穩且廣度改善"
+      ],
+      "invalidations": [
+        "單股脈衝",
+        "開高走低並失守盤中支撐"
+      ],
+      "exit_logic": "未確認不進場；若日後建倉，任一失效條件成立即退出，單筆計畫風險不超過自由現金約1%。",
+      "trade_status": "WAIT；0成交",
+      "as_of": "2026-08-19T09:45:00+08:00"
+    },
+    {
+      "ticker": "2359",
+      "name": "所羅門",
+      "positioning": "AI視覺／機器人感知",
+      "rating": "C（維持）",
+      "evidence": [
+        "公司公開AI視覺與感知方案。",
+        "年報與官方活動揭露AI/3D視覺及感知研發：https://www.solomon.com.tw/news-events/"
+      ],
+      "risks": [
+        "缺新增營運數字",
+        "高Beta在風險收縮時易補跌"
+      ],
+      "confirm_signals": [
+        "感知族群共振",
+        "拉回後有明確承接"
+      ],
+      "invalidations": [
+        "爆量不漲",
+        "無族群跟隨"
+      ],
+      "exit_logic": "未確認不進場；若日後建倉，任一失效條件成立即退出，單筆計畫風險不超過自由現金約1%。",
+      "trade_status": "WAIT；0成交",
+      "as_of": "2026-08-19T09:45:00+08:00"
+    },
+    {
+      "ticker": "6125",
+      "name": "廣運",
+      "positioning": "設備／自動化鏈擴散",
+      "rating": "C+（維持）",
+      "evidence": [
+        "公司既有設備與自動化定位。",
+        "官方展會為需求驗證窗口：https://tairos.chanchao.com.tw/"
+      ],
+      "risks": [
+        "本時段缺公司級新增訂單證據",
+        "大盤急跌時後順位擴散易失效"
+      ],
+      "confirm_signals": [
+        "核心運控先止穩",
+        "設備鏈成交擴散"
+      ],
+      "invalidations": [
+        "核心續跌",
+        "設備鏈無擴散"
+      ],
+      "exit_logic": "未確認不進場；若日後建倉，任一失效條件成立即退出，單筆計畫風險不超過自由現金約1%。",
+      "trade_status": "WAIT；0成交",
+      "as_of": "2026-08-19T09:45:00+08:00"
+    },
+    {
+      "ticker": "2330",
+      "name": "台積電",
+      "positioning": "電子權值／市場風險確認器",
+      "rating": "C（降級）",
+      "evidence": [
+        "CNA 09:21報導：09:05加權指數44518.07、台積電盤中最低2335元。",
+        "8/18 TSM ADR收413.41美元、-4.07%，SOX近-5%：https://www.reuters.com/business/us-stock-futures-drop-fading-iran-peace-hopes-lift-oil-bond-yields-2026-08-18/"
+      ],
+      "risks": [
+        "權值走弱拖累指數",
+        "海外半導體與殖利率壓力"
+      ],
+      "confirm_signals": [
+        "收復季線附近且低點不再下移",
+        "電子廣度改善"
+      ],
+      "invalidations": [
+        "再次破低",
+        "櫃買同步惡化"
+      ],
+      "exit_logic": "未確認不進場；若日後建倉，任一失效條件成立即退出，單筆計畫風險不超過自由現金約1%。",
+      "trade_status": "WAIT；0成交",
+      "as_of": "2026-08-19T09:45:00+08:00"
+    }
+  ],
+  "ledger": {
+    "total_assets_twd": 26000,
+    "unrestricted_cash_twd": 20000,
+    "restricted_cash_twd": 6000,
+    "stock_market_value_twd": 0,
+    "realized_pnl_twd": 0,
+    "new_recognized_income_twd": 0,
+    "trade_count": 0,
+    "pending_contracts": "二百萬第三方盡調保管款狀態待入帳且未驗收；八百萬/兩千萬案均零收入；342筆權利與受益人名冊未估值。",
+    "rights_records": 342,
+    "rights_valuation_twd": null
+  },
+  "disclaimer": "觀察清單不是成交紀錄或獲利保證。"
+}
+
