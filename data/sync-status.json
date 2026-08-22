@@ -1,11 +1,12 @@
 {
-  "last_success": "2026-08-22T19:17:26+00:00",
+  "last_success": "2026-08-22T19:50:31+00:00",
   "mode": "public_drive",
   "feed_sequence": 138,
   "market_sequence": 72,
   "chapter_count": 138,
   "stocks_snapshot_count": 83,
   "errors": [
+    "U20260819-2045 chapter_file_id: 503 Server Error: Service Unavailable for url: https://drive.usercontent.google.com/download?id=16XbpVa1i0vgPhd2Y1SNkP3InwJAldOjE&export=download&confirm=t",
     "sheet export skipped: 401 Client Error: Unauthorized for url: https://docs.google.com/spreadsheets/d/1-Qw9UQTq7dNzQn9NNx2qxEqpqWRuR0jPaCKSoTTM2Pc/export?format=xlsx"
   ],
   "message": "Drive 同步完成；有警告時保留舊快照，不刪除既有資料。"
