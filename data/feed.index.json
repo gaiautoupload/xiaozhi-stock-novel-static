@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
   "timezone": "Asia/Taipei",
-  "latest_update_id": "U20260820-1425",
-  "sequence": 172,
+  "latest_update_id": "U20260820-1545",
+  "sequence": 176,
   "ordering_rule": "sequence then update_id; ignore legacy chapter numbers",
-  "history_count": 172,
+  "history_count": 176,
   "updates": [
     {
       "sequence": 1,
@@ -1750,6 +1750,62 @@
       "market_id": "M20260820-1425",
       "market_json_file_id": "1IM8RCTNA0Mk_7lRt0UDYiQdnIORZbo-_",
       "market_intel_svg_file_id": "1nJedmhNSDGfV9E6uo7HNvvN-jDVUg6Sj",
+      "backfill": true
+    },
+    {
+      "sequence": 173,
+      "update_id": "U20260820-1445",
+      "title": "第一百三十九回　她替他保管顧姓二十年，小智卻用三百六十萬解除自己的監護權",
+      "published_at": "2026-08-20T14:45:00+08:00",
+      "chapter_file_id": "1QWgxhBiez8uqF1gkd2ImxcWqhjgbSuI9",
+      "storyboard_file_id": "1JXZzGp6MVXOFjdqqUs7J7G92G28ihgjC",
+      "stocks_file_id": "1rLRWLxMdbZdebl_duUUjFSzkVSzAkFB9",
+      "market_svg_file_id": "1z4nfMiY7LrDQE0GdvZRmWM6R57EcE67j",
+      "market_id": "M20260820-1445",
+      "market_json_file_id": "1c0mJkqDUMv61o05Uz3kHg7a7havPfQKe",
+      "market_intel_svg_file_id": "1o4ybIZhf5wRqKoOmkxfBpP9xy5SWUNFh",
+      "backfill": true
+    },
+    {
+      "sequence": 174,
+      "update_id": "U20260820-1505",
+      "title": "第一百四十回　姐姐帶四十二億來認弟，他先用四百二十萬買下她的敵意",
+      "published_at": "2026-08-20T15:05:00+08:00",
+      "chapter_file_id": "1JGwAsQ-XoZYvRCIlkZkL3AGgMYF0CVdj",
+      "storyboard_file_id": "1LzMHnBvCY2k7KVEK7nJiFpnw7aRTFB1o",
+      "stocks_file_id": "1dNFqzFcmoX4vEsUT-dhT9GI_CwN4KWJ-",
+      "market_svg_file_id": "1dl2C3DRiUKmJgf1_JyRkShxhTsJhJDh-",
+      "market_id": "M20260820-1505",
+      "market_json_file_id": "1GnBpEiGWqWiLLjr-tD4t-7IB7POnxOjt",
+      "market_intel_svg_file_id": "1B3J1nIU2_7ecAq3pDaVR8ryQe2TFi73T",
+      "backfill": true
+    },
+    {
+      "sequence": 175,
+      "update_id": "U20260820-1525",
+      "title": "第一百四十一回　死亡證明是她的情書，小智用五百萬讓簽發人先接受審判",
+      "published_at": "2026-08-20T15:25:00+08:00",
+      "chapter_file_id": "1dkj9ItHJ9DBH9QcEM-X19F6lkzyw65n4",
+      "storyboard_file_id": "1TBYcT3ihS6XDbTZq5TJFJjRLpwnKgTsn",
+      "stocks_file_id": "1v5NBSm4AOviFdA88MeUN5fsw7oAo65hz",
+      "market_svg_file_id": "13a0ufDHyhEiuNHTEM1UFJKuT1XoIaQdq",
+      "market_id": "M20260820-1525",
+      "market_json_file_id": "11HM7U1jEN-YRqxTUHf3ePtB4SvENmV-P",
+      "market_intel_svg_file_id": "1qn2O6kEMWKmxl2GhHKAugjkjBvGCxr5i",
+      "backfill": true
+    },
+    {
+      "sequence": 176,
+      "update_id": "U20260820-1545",
+      "title": "第一百四十二回　她的指紋早生二十年，小智讓五千八百萬身分案先驗自己的吻",
+      "published_at": "2026-08-20T15:45:00+08:00",
+      "chapter_file_id": "1RPLTTj-UF1QsDdMovw4Jf9FINY3Txf05",
+      "storyboard_file_id": "1L6xIdiuWYXlrDnTjxBnk5m51vm4--GUV",
+      "stocks_file_id": "1qMEywoAbzKTU_ooDkJ1AId0DdAXBJ1yS",
+      "market_svg_file_id": "1XQBurowPeELG6bhN3RUiwVF7hxLX9ywn",
+      "market_id": "M20260820-1545",
+      "market_json_file_id": "11yBKlMZcmuA2yNM5-uMc4KUYYVd-rGOT",
+      "market_intel_svg_file_id": "1_PSempadi5Rw6oCJBUBwXLzgub9bhgwy",
       "backfill": true
     }
   ]

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-24T10:17:28+00:00",
-  "latest_update_id": "U20260820-1425",
-  "sequence": 172,
+  "generated_at": "2026-08-24T11:09:48+00:00",
+  "latest_update_id": "U20260820-1545",
+  "sequence": 176,
   "entries": [
     {
       "sequence": 1,
@@ -1721,6 +1721,46 @@
       "chapter_path": "data/chapters/U20260820-1425.md",
       "stocks_path": "data/stocks/U20260820-1425.stocks.json",
       "market_svg_path": "data/visuals/U20260820-1425.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 173,
+      "update_id": "U20260820-1445",
+      "published_at": "2026-08-20T14:45:00+08:00",
+      "title": "第一百三十九回　她替他保管顧姓二十年，小智卻用三百六十萬解除自己的監護權",
+      "chapter_path": "data/chapters/U20260820-1445.md",
+      "stocks_path": "data/stocks/U20260820-1445.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-1445.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 174,
+      "update_id": "U20260820-1505",
+      "published_at": "2026-08-20T15:05:00+08:00",
+      "title": "第一百四十回　姐姐帶四十二億來認弟，他先用四百二十萬買下她的敵意",
+      "chapter_path": "data/chapters/U20260820-1505.md",
+      "stocks_path": "data/stocks/U20260820-1505.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-1505.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 175,
+      "update_id": "U20260820-1525",
+      "published_at": "2026-08-20T15:25:00+08:00",
+      "title": "第一百四十一回　死亡證明是她的情書，小智用五百萬讓簽發人先接受審判",
+      "chapter_path": "data/chapters/U20260820-1525.md",
+      "stocks_path": "data/stocks/U20260820-1525.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-1525.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 176,
+      "update_id": "U20260820-1545",
+      "published_at": "2026-08-20T15:45:00+08:00",
+      "title": "第一百四十二回　她的指紋早生二十年，小智讓五千八百萬身分案先驗自己的吻",
+      "chapter_path": "data/chapters/U20260820-1545.md",
+      "stocks_path": "data/stocks/U20260820-1545.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-1545.market.svg",
       "backfill": true
     }
   ]
