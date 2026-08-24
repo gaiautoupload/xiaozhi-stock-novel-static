@@ -1,0 +1,21 @@
+{
+  "market_id":"M20260820-0945","as_of":"2026-08-20T09:45:00+08:00","session_status":"open_historical_backfill",
+  "sources":[
+    {"title":"中央社早盤：台股漲逾400點站上45000點","url":"https://news.pchome.com.tw/finance/cna/20260820/index-17871885228013618003.html","published_at":"2026-08-20T09:15:22+08:00","accessed_at":"2026-08-24T13:09:00+08:00"},
+    {"title":"Focus Taiwan：Taiwan shares open higher","url":"https://focustaiwan.tw/business/202608200002","published_at":"2026-08-20T09:12:00+08:00","accessed_at":"2026-08-24T13:09:00+08:00"},
+    {"title":"臺灣證交所：2026年8月TAIEX歷史資料","url":"https://www.twse.com.tw/en/indices/taiex/mi-5min-hist.html","published_at":"2026-08-20T14:00:00+08:00","accessed_at":"2026-08-24T13:09:00+08:00"},
+    {"title":"Reuters：Bonds bounce on US buybacks","url":"https://www.reuters.com/business/bonds-bounce-us-buybacks-relief-may-be-brief-2026-08-20/","published_at":"2026-08-20T12:02:00+08:00","accessed_at":"2026-08-24T13:09:00+08:00","scope":"post_target_context_only_not_used_as_target_quote"},
+    {"title":"台積電2026年7月營收公告","url":"https://pr.tsmc.com/english/news/3329","published_at":"2026-08-10T13:30:00+08:00","accessed_at":"2026-08-24T13:09:00+08:00"}
+  ],
+  "breaking_news":["09:15前已報導早盤最高45,160.05點、台積電2,365元、電子+0.75%、金融-0.32%、TPEx+1.83%","09:45精確分鐘落點仍不可證，僅保留當時已發布的早盤區間"],
+  "index_snapshot":{"TAIEX":{"open":44942.01,"known_early_high":45160.05,"at_09_45":"unavailable"},"TPEx":{"known_early_change_pct":1.83,"at_09_45":"unavailable"},"sector_indices":{"electronics_change_pct":0.75,"financials_change_pct":-0.32}},
+  "fx_snapshot":{"USD_TWD":{"at_09_45":"unavailable","prior_official_close":31.937},"impact":"台幣即時方向不可證；出口、壽險匯兌與進口成本效應僅列條件"},
+  "cross_asset":{"NASDAQ":{"prior_close":26331.09},"SOX":"unavailable_at_target_time","TSM_ADR":"unavailable_at_target_time","DXY":{"prior_snapshot":98.80,"status":"stale"},"US_30Y":{"value":"unavailable_at_target_time","post_target_context":"Reuters later reported about 5.19%; not backfilled into the slot"},"USD_JPY":{"prior_snapshot":158.15,"status":"stale"}},
+  "breadth_and_flow":{"foreign_investors":"前日三大法人賣超708.48億元；本時點即時法人未公布","breadth":"TPEx早盤+1.83%顯示中小型股反彈，但上漲家數與成交比重 unavailable","interpretation":"指數與櫃買同彈是正面線索，仍缺量能與法人驗證"},
+  "sector_rotation":{"leaders":["TPEx中小型股","電子與台積電","機器人／自動化觀察"],"laggards":["金融類股早盤-0.32%"],"impacts":{"TSMC":"2,365元為當時已發布錨點，仍需量價與海外同步","exports":"匯率不可證","financial_insurance":"金融早盤相對弱，長債及匯率敏感","import_costs":"台幣升值情境有利但尚未確認","valuation":"高殖利率仍限制高本益比擴張"}},
+  "abc_wave":{"framework":"Elliott/ABC僅為情境框架","current_interpretation":"早盤開高並越過45,000，可能是B波擴張；但精確09:45落點與量價不足","anchors":{"A_low":44308.71,"open":44942.01,"known_early_high":45160.05},"support":[44719.35,44308.71],"resistance":[45071.34,45160.05],"alternate_scenario":"45,160附近失敗後快速回落，仍可視為A段延伸前的假突破","invalidation":"帶量站穩45,160、TPEx擴散且外資轉買才否定弱B假設","confidence":"low_to_medium"},
+  "scenarios":{"bullish":"站穩45,160並由台積電、TPEx及機器人三線共振","base":"45,000上下震盪，量能不足則不追價","bearish":"跌回44,719下方，早盤突破成假訊號"},
+  "next_confirmations":["10:05指數與成交量","TPEx廣度","外資期現貨方向","USD/TWD早盤可信報價","台積電能否站穩2,365"],
+  "risk_flags":["09:45精確分鐘值不可證","早盤衝高回落風險","前日法人賣超","長債與Fed通膨風險","地緣與關稅風險"],
+  "website_summary":"09:45回補：09:15前可知TAIEX早盤最高45,160.05、TPEx+1.83%、台積電2,365；精確09:45仍unavailable。ABC維持B波擴張或假突破雙情境。"
+}

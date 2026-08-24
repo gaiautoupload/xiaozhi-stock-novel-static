@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
   "timezone": "Asia/Taipei",
-  "latest_update_id": "U20260820-0905",
-  "sequence": 156,
+  "latest_update_id": "U20260820-1025",
+  "sequence": 160,
   "ordering_rule": "sequence then update_id; ignore legacy chapter numbers",
-  "history_count": 156,
+  "history_count": 160,
   "updates": [
     {
       "sequence": 1,
@@ -1546,6 +1546,54 @@
       "stocks_file_id": "1Y_TGo8HfgOU562bjUActeSZHt5kcTuBg",
       "market_svg_file_id": "1vFhOmgbRc9KWawiHa5hfd5F0WPLck1oW",
       "market_id": "M20260820-0905",
+      "backfill": true
+    },
+    {
+      "sequence": 157,
+      "update_id": "U20260820-0925",
+      "published_at": "2026-08-20T09:25:00+08:00",
+      "title": "第一百二十三回　十歲憑證下了第一筆單，他用一把離線金鑰讓全市場作證",
+      "chapter_file_id": "1TjyAUhQsw__OMA-0WXCqB1uX9jqRueWh",
+      "storyboard_file_id": "1nrkZGCDV1a26ExyJvrhuvgPFZ6joXcVa",
+      "stocks_file_id": "1_S6UzE9rJnQ4v77EzEdKW9jTNkwzxHyy",
+      "market_svg_file_id": "1cSNxArLjRNK8P0WP95Vb4b_nMtqk144f",
+      "market_id": "M20260820-0925",
+      "backfill": true
+    },
+    {
+      "sequence": 158,
+      "update_id": "U20260820-0945",
+      "published_at": "2026-08-20T09:45:00+08:00",
+      "title": "第一百二十四回　六千元解鎖十歲假簽章，她在交易室索要第一個真吻",
+      "chapter_file_id": "1TwhVpORB5X9XaX6C5LHGu7SFvm9Phnqi",
+      "storyboard_file_id": "13V7etOoVfmVww3FZevz7zFk5G8aLbXr0",
+      "stocks_file_id": "100n1RoBO96hNkS0dRPtbfgTDYDIkq-Gc",
+      "market_svg_file_id": "1ORJDW-K8FYb05uhXpI14AV8ii7A53pTd",
+      "market_id": "M20260820-0945",
+      "backfill": true
+    },
+    {
+      "sequence": 159,
+      "update_id": "U20260820-1005",
+      "published_at": "2026-08-20T10:05:00+08:00",
+      "title": "第一百二十五回　第五監護人戴著她的戒指，小智用二十萬未收款逼她先摘下來",
+      "chapter_file_id": "1qBAp1-ZeBefsFXJRtd0lwfINt-JPsHRz",
+      "storyboard_file_id": "1fiSCDFRwi2JNyGM4K2ItFF8mZty3is2j",
+      "stocks_file_id": "1Sk1v8TKJ7xFuhggB7z4RY02DQPCauED5",
+      "market_svg_file_id": "1Lt5WqjYcpkpXCghVBeTb-twCh7yaelpV",
+      "market_id": "M20260820-1005",
+      "backfill": true
+    },
+    {
+      "sequence": 160,
+      "update_id": "U20260820-1025",
+      "published_at": "2026-08-20T10:25:00+08:00",
+      "title": "第一百二十六回　第一筆股票成交不是他的，他讓二十萬委任反過來告買家",
+      "chapter_file_id": "1OEfxmKDdLv2HAh89bPis624iqjZsLASO",
+      "storyboard_file_id": "1inBCBdSxmyPpZx4Sde2zBmItHSwoGuDR",
+      "stocks_file_id": "1xa9BJQ655KvBUeaV8RNmsB8PeA74NH3I",
+      "market_svg_file_id": "19RkXCNV1pMduWjH0bmfddCq_6-5D-gJ4",
+      "market_id": "M20260820-1025",
       "backfill": true
     }
   ]

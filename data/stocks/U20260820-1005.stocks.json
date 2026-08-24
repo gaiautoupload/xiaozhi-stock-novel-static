@@ -1,0 +1,12 @@
+{
+  "update_id":"U20260820-1005","market_id":"M20260820-1005","as_of":"2026-08-20T10:05:00+08:00",
+  "account":{"total_assets_twd":706000,"free_cash_twd":700000,"restricted_cash_twd":6000,"recognized_income_twd":680000,"stock_trades":0,"note":"二十萬元保付支票封存為證物；未交付、未驗收、未入帳，不認列。"},
+  "selection_changes":[],
+  "watchlist":[
+    {"ticker":"4576","name":"大銀微系統","positioning":"機器人與線性傳動觀察核心","rating":"B","action":"WAIT","evidence":["8/20 09:15前可驗證報導顯示櫃買早盤上漲1.83%，題材風險偏好改善","公司屬精密運動控制供應鏈，需以公開營收及訂單公告續驗"],"risks":["題材急漲後波動","故事內非公開線索造成法遵禁交易"],"confirm_signals":["公開公告與量價同步","大盤守住前收且中小型廣度延續"],"invalidations":["跌破自身關鍵支撐且放量","公開基本面轉弱"],"exit_logic":"未成交；僅在公開訊號確認後另訂停損與分批退出。"},
+    {"ticker":"2049","name":"上銀","positioning":"自動化與機器人龍頭觀察","rating":"B-","action":"WAIT","evidence":["早盤電子與櫃買風險偏好改善","自動化需求具長線題材但須由公司公告驗證"],"risks":["景氣循環","估值與匯率波動"],"confirm_signals":["量價轉強","營收或展望改善"],"invalidations":["產業訂單下修","跌破波段支撐"],"exit_logic":"未成交；確認失敗即移出進攻名單。"},
+    {"ticker":"2359","name":"所羅門","positioning":"機器視覺題材觀察","rating":"C","action":"WAIT","evidence":["櫃買早盤反彈提供題材環境","機器視覺為機器人延伸題材"],"risks":["題材化高波動","獲利驗證不足"],"confirm_signals":["公開訂單或營收支持","量能健康不爆量失守"],"invalidations":["題材退潮","基本面不及預期"],"exit_logic":"未成交；不追價，訊號失效即汰換。"},
+    {"ticker":"6125","name":"廣運","positioning":"自動化設備與物流題材","rating":"C+","action":"WAIT","evidence":["早盤中小型股相對活躍","設備題材需用公司公開資訊續驗"],"risks":["接單認列波動","籌碼快速輪動"],"confirm_signals":["營收與訂單同向","帶量突破且守穩"],"invalidations":["量價背離","公開接單不如預期"],"exit_logic":"未成交；僅觀察，不以小說線索交易。"},
+    {"ticker":"2330","name":"台積電","positioning":"大盤權值與AI景氣錨","rating":"C-","action":"WAIT","evidence":["09:15前報導顯示早盤約2365元，支撐指數","7月營收官方公告提供基本面背景"],"risks":["高估值與Fed通膨疑慮","匯率及地緣風險"],"confirm_signals":["守住早盤區間且外資轉穩","ADR與SOX公開數據共振"],"invalidations":["權值轉弱拖累指數","展望或需求下修"],"exit_logic":"未成交；待跨市場訊號可驗證後再評估。"}
+  ]
+}
