@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-24T13:19:16+00:00",
-  "latest_update_id": "U20260820-1805",
-  "sequence": 183,
+  "generated_at": "2026-08-24T14:18:59+00:00",
+  "latest_update_id": "U20260820-1905",
+  "sequence": 186,
   "entries": [
     {
       "sequence": 1,
@@ -1831,6 +1831,36 @@
       "chapter_path": "data/chapters/U20260820-1805.md",
       "stocks_path": "data/stocks/U20260820-1805.stocks.json",
       "market_svg_path": "data/visuals/U20260820-1805.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 184,
+      "update_id": "U20260820-1825",
+      "published_at": "2026-08-20T18:25:00+08:00",
+      "title": "第一百五十回　新女股東要跟他結婚才交出兩趴，小智用一千三百五十萬讓她先排隊",
+      "chapter_path": "data/chapters/U20260820-1825.md",
+      "stocks_path": "data/stocks/U20260820-1825.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-1825.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 185,
+      "update_id": "U20260820-1845",
+      "published_at": "2026-08-20T18:45:00+08:00",
+      "title": "第一百五十一回　死人帳戶要替他買下五個女人，小智用一千五百萬讓自己的遺產先出庭",
+      "chapter_path": "data/chapters/U20260820-1845.md",
+      "stocks_path": "data/stocks/U20260820-1845.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-1845.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 186,
+      "update_id": "U20260820-1905",
+      "published_at": "2026-08-20T19:05:00+08:00",
+      "title": "第一百五十二回　兩個林小智同時活著，他用一千六百五十萬讓冒牌父親先喊他老師",
+      "chapter_path": "data/chapters/U20260820-1905.md",
+      "stocks_path": "data/stocks/U20260820-1905.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-1905.market.svg",
       "backfill": true
     }
   ]

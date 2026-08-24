@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
   "timezone": "Asia/Taipei",
-  "latest_update_id": "U20260820-1805",
-  "sequence": 183,
+  "latest_update_id": "U20260820-1905",
+  "sequence": 186,
   "ordering_rule": "sequence then update_id; ignore legacy chapter numbers",
-  "history_count": 183,
+  "history_count": 186,
   "updates": [
     {
       "sequence": 1,
@@ -1904,6 +1904,48 @@
       "market_id": "M20260820-1805",
       "market_json_file_id": "1pngDorompa6WUuONJ0vzURQzZAS6Fr58",
       "market_intel_svg_file_id": "1M_wKMXAuHm7KiCxu1mOfMAcTOTC5NVX8",
+      "backfill": true
+    },
+    {
+      "sequence": 184,
+      "update_id": "U20260820-1825",
+      "title": "第一百五十回　新女股東要跟他結婚才交出兩趴，小智用一千三百五十萬讓她先排隊",
+      "published_at": "2026-08-20T18:25:00+08:00",
+      "chapter_file_id": "1IKVphgPyo1JKvg-Y1wO3HKYpV1-tpcby",
+      "storyboard_file_id": "164YKjNvg78KoWbCA4Lb7hiGvgCOxLlOW",
+      "stocks_file_id": "1lWortxvW2ir2Y4SY0wBXZzlW2EPlkT3C",
+      "market_svg_file_id": "1OMWP24XQUeflFUGC595sIn-dob1h01gn",
+      "market_id": "M20260820-1825",
+      "market_json_file_id": "1ngsbJBdc3u9O39jA3EGSGB9A2_3ONV7K",
+      "market_intel_svg_file_id": "1BRxDaZLamo3L-TzVlByTIkXm-im-9W5Y",
+      "backfill": true
+    },
+    {
+      "sequence": 185,
+      "update_id": "U20260820-1845",
+      "title": "第一百五十一回　死人帳戶要替他買下五個女人，小智用一千五百萬讓自己的遺產先出庭",
+      "published_at": "2026-08-20T18:45:00+08:00",
+      "chapter_file_id": "1sGZf1lYyId3k9b0KnV3c8arTMt0pRiR7",
+      "storyboard_file_id": "1N5MDJqtdX4lIm4zCahj4oF_x21mr47Hu",
+      "stocks_file_id": "14NEwDIepIlBtcKCNscR1mxFquzpfsgmZ",
+      "market_svg_file_id": "1lIC-1G6xf-bcjowaHq6mKiqE20f_OJYO",
+      "market_id": "M20260820-1845",
+      "market_json_file_id": "1x-IzEN7bFerG8YlVg_3GNPUcIIYQQpHv",
+      "market_intel_svg_file_id": "17QjgSN02p8yqRApfz5X9ptwKyMNAtnKn",
+      "backfill": true
+    },
+    {
+      "sequence": 186,
+      "update_id": "U20260820-1905",
+      "title": "第一百五十二回　兩個林小智同時活著，他用一千六百五十萬讓冒牌父親先喊他老師",
+      "published_at": "2026-08-20T19:05:00+08:00",
+      "chapter_file_id": "1lA3q51lMPtA-ZfMwvKCdk7EEcosWu7Ue",
+      "storyboard_file_id": "1YDIgEf5mpZA9nENp3o5LajnCZVPKUGe8",
+      "stocks_file_id": "1uYjdnEPcLAr8V8WGUYUzoLXKaml6rZ5W",
+      "market_svg_file_id": "1yL-0OxXAbAhEyZLnaUkBsGv5e_MNIN_x",
+      "market_id": "M20260820-1905",
+      "market_json_file_id": "1rjm32_2mr_v5b_D6zlfM0rex_okiLkjX",
+      "market_intel_svg_file_id": "1yr0lZt5VXZ1amsqhJ7KWXUcmZ88GUIlS",
       "backfill": true
     }
   ]
