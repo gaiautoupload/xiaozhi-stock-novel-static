@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
   "timezone": "Asia/Taipei",
-  "latest_update_id": "U20260820-1545",
-  "sequence": 176,
+  "latest_update_id": "U20260820-1705",
+  "sequence": 180,
   "ordering_rule": "sequence then update_id; ignore legacy chapter numbers",
-  "history_count": 176,
+  "history_count": 180,
   "updates": [
     {
       "sequence": 1,
@@ -1806,6 +1806,62 @@
       "market_id": "M20260820-1545",
       "market_json_file_id": "11yBKlMZcmuA2yNM5-uMc4KUYYVd-rGOT",
       "market_intel_svg_file_id": "1_PSempadi5Rw6oCJBUBwXLzgub9bhgwy",
+      "backfill": true
+    },
+    {
+      "sequence": 177,
+      "update_id": "U20260820-1605",
+      "title": "第一百四十三回　若棠出生前就成了受益人，小智用六百六十萬讓她第一次說不",
+      "published_at": "2026-08-20T16:05:00+08:00",
+      "chapter_file_id": "1pRobgoFNtwXW3PLtx2il7fai3c5kOJoc",
+      "storyboard_file_id": "1SO9JYfW7ear90tWgXzXWnPMztXdZzBH6",
+      "stocks_file_id": "1YIZVi2J4i0_e-D5YjfQGjp26ZZ62-ZfQ",
+      "market_svg_file_id": "1neLaWQGxPLDULQjTqmewO3gJQFeAtQ7v",
+      "market_id": "M20260820-1605",
+      "market_json_file_id": "1PHRf-zhUFk-5NcxUD__U5wpD_8P3xo32",
+      "market_intel_svg_file_id": "1VAr5PpMEKfq60zFXHWg-drcrdpxzknQC",
+      "backfill": true
+    },
+    {
+      "sequence": 178,
+      "update_id": "U20260820-1625",
+      "title": "第一百四十四回　十歲的他簽下四十二億，小智用七百二十萬把童年自己告上法庭",
+      "published_at": "2026-08-20T16:25:00+08:00",
+      "chapter_file_id": "1GoD9bDmBXA1ZiB1Yiq6A_OJoJHkWRCcA",
+      "storyboard_file_id": "1h2IQ5k0krSAclB8kEWv7nf4HHh-VIpNJ",
+      "stocks_file_id": "1YyQ0W-CLtXkCzgoxQimDKYXxNgI_vv4U",
+      "market_svg_file_id": "1Ok_uPBeqiuMFIpeXvGakDXvG78LeXPpm",
+      "market_id": "M20260820-1625",
+      "market_json_file_id": "1Qo4IkMitS8a_XBGfZHnPBG_JYRNeI3Nf",
+      "market_intel_svg_file_id": "1CiUDoVYk47Ytxhmz_k63CyXQhTyfOQh_",
+      "backfill": true
+    },
+    {
+      "sequence": 179,
+      "update_id": "U20260820-1645",
+      "title": "第一百四十五回　四十歲的他提前投案，小智用八百萬買斷自己的未來",
+      "published_at": "2026-08-20T16:45:00+08:00",
+      "chapter_file_id": "1rZrNBJ_nnVF3ShJG61h04n1Ng9FAqyjM",
+      "storyboard_file_id": "1XXLae3ZgpOmR9DchXyYbOuX-ahnsOhfV",
+      "stocks_file_id": "1R94nQjJFaPmmnuAjDcVKkPnY4o7EreFE",
+      "market_svg_file_id": "1LdCJOnow2h0y2VxriTS0ZwJ5Q1ip3OGW",
+      "market_id": "M20260820-1645",
+      "market_json_file_id": "1TS1Lc7RcX8XQqcsL8OHcnhM3lBUCoIpb",
+      "market_intel_svg_file_id": "1VYguWaTSSw5AUKik6TgIlcOhKwCLejtq",
+      "backfill": true
+    },
+    {
+      "sequence": 180,
+      "update_id": "U20260820-1705",
+      "title": "第一百四十六回　父親用他的臉活了二十年，小智讓八百八十萬先驗一聲兒子",
+      "published_at": "2026-08-20T17:05:00+08:00",
+      "chapter_file_id": "1OE7A_JUU3A7jGNFYduLNqntXCF3BcjcP",
+      "storyboard_file_id": "1xPE3GJKV9r5thaG0E1o08UNzNwNg8XZ-",
+      "stocks_file_id": "1Qxmb8r2bl4NJ3dibtz31OZcEaKWv0yGt",
+      "market_svg_file_id": "1l2-bnM8G03h6vpQfQ3FPfaF5ZaLHBc24",
+      "market_id": "M20260820-1705",
+      "market_json_file_id": "12EFMvv7B8eEqLloX0z3tgq70ip3QDVhc",
+      "market_intel_svg_file_id": "19NQsla_9LNq7W-RhOiVpazrs5NP5TQAN",
       "backfill": true
     }
   ]

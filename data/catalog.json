@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-24T11:09:48+00:00",
-  "latest_update_id": "U20260820-1545",
-  "sequence": 176,
+  "generated_at": "2026-08-24T11:48:00+00:00",
+  "latest_update_id": "U20260820-1705",
+  "sequence": 180,
   "entries": [
     {
       "sequence": 1,
@@ -1761,6 +1761,46 @@
       "chapter_path": "data/chapters/U20260820-1545.md",
       "stocks_path": "data/stocks/U20260820-1545.stocks.json",
       "market_svg_path": "data/visuals/U20260820-1545.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 177,
+      "update_id": "U20260820-1605",
+      "published_at": "2026-08-20T16:05:00+08:00",
+      "title": "第一百四十三回　若棠出生前就成了受益人，小智用六百六十萬讓她第一次說不",
+      "chapter_path": "data/chapters/U20260820-1605.md",
+      "stocks_path": "data/stocks/U20260820-1605.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-1605.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 178,
+      "update_id": "U20260820-1625",
+      "published_at": "2026-08-20T16:25:00+08:00",
+      "title": "第一百四十四回　十歲的他簽下四十二億，小智用七百二十萬把童年自己告上法庭",
+      "chapter_path": "data/chapters/U20260820-1625.md",
+      "stocks_path": "data/stocks/U20260820-1625.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-1625.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 179,
+      "update_id": "U20260820-1645",
+      "published_at": "2026-08-20T16:45:00+08:00",
+      "title": "第一百四十五回　四十歲的他提前投案，小智用八百萬買斷自己的未來",
+      "chapter_path": "data/chapters/U20260820-1645.md",
+      "stocks_path": "data/stocks/U20260820-1645.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-1645.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 180,
+      "update_id": "U20260820-1705",
+      "published_at": "2026-08-20T17:05:00+08:00",
+      "title": "第一百四十六回　父親用他的臉活了二十年，小智讓八百八十萬先驗一聲兒子",
+      "chapter_path": "data/chapters/U20260820-1705.md",
+      "stocks_path": "data/stocks/U20260820-1705.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-1705.market.svg",
       "backfill": true
     }
   ]
