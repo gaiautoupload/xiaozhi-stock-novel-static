@@ -1,0 +1,17 @@
+{"market_id":"M20260820-0905","as_of":"2026-08-20T09:05:00+08:00","session_status":"market_open_historical_backfill","sources":[
+{"title":"TWSE TAIEX historical data","url":"https://www.twse.com.tw/en/indices/taiex/mi-5min-hist.html","published_at":"2026-08-20","accessed_at":"2026-08-24T13:05:00+08:00"},
+{"title":"CNA Taiwan shares open higher","url":"https://focustaiwan.tw/business/202608200002","published_at":"2026-08-20T09:12:00+08:00","accessed_at":"2026-08-24T13:05:00+08:00"},
+{"title":"TPEx Trading Overview","url":"https://www.tpex.org.tw/en-us/mainboard/trading/statistics/month.html","published_at":"2026-08-20","accessed_at":"2026-08-24T13:05:00+08:00"},
+{"title":"Fed July 2026 minutes","url":"https://www.federalreserve.gov/monetarypolicy/fomcminutes20260729.htm","published_at":"2026-08-19T14:00:00-04:00","accessed_at":"2026-08-24T13:05:00+08:00"},
+{"title":"Reuters Treasury buyback relief may be brief","url":"https://www.reuters.com/business/bonds-bounce-us-buybacks-relief-may-be-brief-2026-08-20/","published_at":"2026-08-20","accessed_at":"2026-08-24T13:05:00+08:00"}],
+"breaking_news":["TAIEX 09:00以44,942.01開出，較前收高222.66點；精確09:05指數無可靠時間戳","長債回購效果可能短暫，通膨與財政疑慮未除"],
+"index_snapshot":{"TAIEX":{"status":"verified_open","open":44942.01,"open_change_points":222.66,"exact_0905":"unavailable_at_target_time"},"TPEx":{"status":"exact_0905_unavailable"},"NASDAQ":{"status":"prior_close","close":26331.09},"SOX":{"status":"unavailable_at_target_time"},"TSM_ADR":{"status":"unavailable_at_target_time"}},
+"fx_snapshot":{"USD_TWD":{"status":"exact_0905_unavailable","prior_close":31.937},"DXY":{"status":"verified_context","value":98.80},"USD_JPY":{"status":"verified_context","value":158.15}},
+"cross_asset":{"US_30Y_yield":{"value_pct":5.19,"status":"verified_context"},"impacts":{"foreign_investors":"開高不等於外資回流，需等期現貨與現貨買賣超","TSMC_and_exports":"權值開盤方向需與外資及SOX/ADR同步驗證","financial_insurance":"長債仍處高位，壽險債券評價波動大","import_costs":"USD/TWD 09:05 unavailable，不能推定即時成本方向","valuation":"開盤反彈不改變高殖利率對估值的限制"}},
+"breadth_and_flow":{"institutional_prior_net_twd_bn":-70.848,"breadth":"exact_0905_unavailable","volume_and_moving_average":"官方開盤成交額121.5億元；精確09:05總量、上漲家數與均線缺口 unavailable","rotation":"機器人與自動化僅列觀察，公開公告兩分鐘不足以確認輪動"},
+"sector_rotation":{"stronger_watch":["機器人","自動化"],"weaker_watch":["高估值半導體","櫃買高波動股"],"status":"awaiting_intraday_confirmation"},
+"abc_wave":{"framework":"Elliott/ABC情境，非預言","current_interpretation":"開盤反彈可視為弱B嘗試，但09:05廣度不足","anchors":{"A_start":45071.34,"A_low":44308.71,"open":44942.01},"support":[44308.71],"resistance":[45071.34],"alternate_scenario":"若無法站穩44942且跌破44308，回到A段延伸","invalidation":"精確09:05量價與廣度不足，insufficient_data","confidence":"low"},
+"scenarios":{"bullish":"站穩44942並突破45071，權值與櫃買同步擴散","base":"開高後在前收與45071間震盪，等待15分鐘確認","bearish":"開高走低、跌破前收並重測44308"},
+"next_confirmations":["09:15量價與廣度","TPEx同步性","外資期現貨","公告完整交付與現金流資訊"],
+"risk_flags":["歷史回補","精確09:05行情 unavailable","SOX/TSM ADR unavailable","ABC insufficient_data","私有證據禁交易"],
+"website_summary":"09:05：TAIEX官方開盤44,942.01、上漲222.66點；精確五分鐘量價與廣度不足，零成交、五檔WAIT。"}

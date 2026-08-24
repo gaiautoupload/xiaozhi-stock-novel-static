@@ -1,0 +1,22 @@
+{
+  "market_id":"M20260820-0825","as_of":"2026-08-20T08:25:00+08:00","session_status":"pre_open_historical_backfill",
+  "sources":[
+    {"title":"TWSE TAIEX historical data","url":"https://www.twse.com.tw/en/indices/taiex/mi-5min-hist.html","published_at":"2026-08-19","accessed_at":"2026-08-24T12:25:00+08:00"},
+    {"title":"TPEx Daily Volume & Index","url":"https://www.tpex.org.tw/en-us/mainboard/trading/info/daily-indices.html","published_at":"2026-08-19","accessed_at":"2026-08-24T12:25:00+08:00"},
+    {"title":"FOMC minutes July 28-29 2026","url":"https://www.federalreserve.gov/monetarypolicy/fomcminutes20260729.htm","published_at":"2026-08-19T14:00:00-04:00","accessed_at":"2026-08-24T12:25:00+08:00"},
+    {"title":"Reuters US Treasury long-bond buybacks","url":"https://www.reuters.com/world/us-treasury-double-sizes-some-debt-buyback-operations-least-4-billion-2026-08-19/","published_at":"2026-08-19","accessed_at":"2026-08-24T12:25:00+08:00"},
+    {"title":"Reuters global markets","url":"https://www.reuters.com/world/china/global-markets-global-markets-2026-08-19/","published_at":"2026-08-19","accessed_at":"2026-08-24T12:25:00+08:00"},
+    {"title":"TSMC July 2026 revenue","url":"https://pr.tsmc.com/english/news/3329","published_at":"2026-08-10","accessed_at":"2026-08-24T12:25:00+08:00"}
+  ],
+  "breaking_news":["長債回購暫緩殖利率壓力，但規模相對市場有限","Fed紀要通膨風險與台股法人賣超使盤前維持風險控管"],
+  "index_snapshot":{"TAIEX":{"status":"prior_close","open":45071.34,"high":45071.34,"low":44308.71,"close":44719.35,"change_points":-589.33,"change_pct":-1.30},"TPEx":{"status":"prior_close","close":384.79,"change_pct":-1.55},"NASDAQ":{"status":"verified_prior_close","close":26331.09,"change_pct":0.2},"SOX":{"status":"unavailable_at_target_time"},"TSM_ADR":{"status":"unavailable_at_target_time"}},
+  "fx_snapshot":{"USD_TWD":{"status":"prior_official_close","value":31.937},"DXY":{"status":"verified_context","value":98.80,"change_pct":-0.84},"USD_JPY":{"status":"verified_context","value":158.15}},
+  "cross_asset":{"US_30Y_yield":{"value_pct":5.187,"status":"verified_context"},"gold_usd_oz":{"value":4508.64,"status":"verified_context"},"oil":{"status":"unavailable_at_target_time"},"impacts":{"foreign_investors":"美元與長債壓力短線緩和，但法人回流仍待20日開盤後確認","TSMC_and_exports":"台積電基本面有營收錨點；匯率換算與海外半導體訊號仍需同步","financial_insurance":"長債回落改善債券評價，但高殖利率與資本波動仍是壽險風險","import_costs":"美元回落有助進口成本，能源與地緣變數仍在","valuation":"折現率壓力稍緩，不足以單獨支持高估值追價"}},
+  "breadth_and_flow":{"institutions_net_twd_bn":-70.848,"breadth":"weak","volume_and_moving_average":"盤前未有可驗證新成交；8月19日TAIEX自45071.34下探44308.71，均線缺口精確值unavailable","rotation":"機器人／自動化仍是觀察主線，但開盤前不把委託或題材當成交"},
+  "sector_rotation":{"stronger_watch":["機器人","自動化"],"weaker_watch":["高估值半導體","櫃買高波動股"],"status":"scenario_only"},
+  "abc_wave":{"framework":"Elliott/ABC情境分析，非預言","current_interpretation":"A段急跌後等待弱B，若開盤廣度不擴散則保留A段延伸","anchors":{"A_start":45071.34,"A_low":44308.71,"prior_close":44719.35},"support":[44308.71],"resistance":[44719.35,45071.34],"alternate_scenario":"站回44719並由權值與櫃買同步擴散才視為B段嘗試；跌破44308則偏A延伸","invalidation":"20日開盤前成交與均線資訊不足，insufficient_data","confidence":"low"},
+  "scenarios":{"bullish":"指數站回44719、外資賣壓收斂、台積電與機器人量價同步","base":"盤前訊號互抵，開盤後震盪分化並以WAIT為主","bearish":"44308失守，法人與權值共振轉弱，美元或殖利率反彈"},
+  "next_confirmations":["20日09:00後量價與廣度","三大法人與外資期現貨","USD/TWD即時方向","SOX/TSM ADR可驗證收盤資料"],
+  "risk_flags":["歷史回補","盤前無新成交","SOX/TSM ADR unavailable","ABC insufficient_data","上市公司未公開重大契約禁交易"],
+  "website_summary":"08:25盤前：長債與美元回落僅提供喘息，台股法人賣超、弱勢廣度與Fed通膨風險仍在；五檔全數WAIT，未成交。"
+}

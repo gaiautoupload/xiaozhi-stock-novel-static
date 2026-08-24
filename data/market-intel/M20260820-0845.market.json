@@ -1,0 +1,17 @@
+{"market_id":"M20260820-0845","as_of":"2026-08-20T08:45:00+08:00","session_status":"pre_open_historical_backfill","sources":[
+{"title":"TWSE TAIEX historical data","url":"https://www.twse.com.tw/en/indices/taiex/mi-5min-hist.html","published_at":"2026-08-20","accessed_at":"2026-08-24T12:45:00+08:00"},
+{"title":"TPEx Daily Volume & Index","url":"https://www.tpex.org.tw/en-us/mainboard/trading/info/daily-indices.html","published_at":"2026-08-20","accessed_at":"2026-08-24T12:45:00+08:00"},
+{"title":"Fed July 2026 minutes","url":"https://www.federalreserve.gov/monetarypolicy/fomcminutes20260729.htm","published_at":"2026-08-19T14:00:00-04:00","accessed_at":"2026-08-24T12:45:00+08:00"},
+{"title":"Reuters bonds bounce on buybacks","url":"https://www.reuters.com/business/bonds-bounce-us-buybacks-relief-may-be-brief-2026-08-20/","published_at":"2026-08-20","accessed_at":"2026-08-24T12:45:00+08:00"},
+{"title":"TSMC July 2026 revenue","url":"https://pr.tsmc.com/english/news/3329","published_at":"2026-08-10","accessed_at":"2026-08-24T12:45:00+08:00"}],
+"breaking_news":["長債回購令30年債殖利率短暫回落至約5.19%，但規模相對市場有限","Fed通膨疑慮與台股前日法人賣超仍限制風險偏好"],
+"index_snapshot":{"TAIEX":{"status":"prior_close","close":44719.35,"low":44308.71,"high":45071.34},"TPEx":{"status":"prior_close","close":384.79},"NASDAQ":{"status":"prior_close","close":26331.09},"SOX":{"status":"unavailable_at_target_time"},"TSM_ADR":{"status":"unavailable_at_target_time"}},
+"fx_snapshot":{"USD_TWD":{"status":"prior_official_close","value":31.937},"DXY":{"status":"verified_context","value":98.80},"USD_JPY":{"status":"verified_context","value":158.15}},
+"cross_asset":{"US_30Y_yield":{"value_pct":5.19,"status":"verified_context"},"gold":{"status":"verified_context","value_usd_oz":4508.64},"impacts":{"foreign_investors":"美元回落短線減壓，外資回流仍待開盤後確認","TSMC_and_exports":"美元偏弱可能影響出口換算，台積電需看外資與海外半導體同步","financial_insurance":"長債回落改善債券評價但高位波動仍大","import_costs":"美元回落有助進口成本，能源地緣仍是風險","valuation":"折現率壓力稍緩，不足以支持追價"}},
+"breadth_and_flow":{"institutional_prior_net_twd_bn":-70.848,"breadth":"weak_prior_day","volume_and_moving_average":"08:45尚未開盤，精確成交量與均線缺口 unavailable","rotation":"機器人與自動化為觀察主線，未形成成交確認"},
+"sector_rotation":{"stronger_watch":["機器人","自動化"],"weaker_watch":["高估值半導體","櫃買高波動股"],"status":"scenario_only"},
+"abc_wave":{"framework":"Elliott/ABC情境，非預言","current_interpretation":"8月19日急跌A後等待弱B；亦可能A段延伸","anchors":{"A_start":45071.34,"A_low":44308.71,"prior_close":44719.35},"support":[44308.71],"resistance":[44719.35,45071.34],"alternate_scenario":"站回44719並由權值與櫃買擴散才提高B段可信度","invalidation":"盤前無成交，insufficient_data","confidence":"low"},
+"scenarios":{"bullish":"開盤站回44719且外資、權值、櫃買同步","base":"開高後震盪分化，維持WAIT","bearish":"跌破44308且法人賣壓延續"},
+"next_confirmations":["09:00開盤價","09:05後量價廣度","外資期現貨","台積電與機器人族群同步"],
+"risk_flags":["歷史回補","盤前無成交","SOX/TSM ADR unavailable","ABC insufficient_data","未公開重大契約禁交易"],
+"website_summary":"08:45盤前：長債回購帶來喘息但Fed偏鷹、法人賣超與弱廣度仍在；五檔WAIT，未交易。"}

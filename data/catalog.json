@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-24T04:20:12+00:00",
-  "latest_update_id": "U20260820-0805",
-  "sequence": 153,
+  "generated_at": "2026-08-24T05:16:57+00:00",
+  "latest_update_id": "U20260820-0905",
+  "sequence": 156,
   "entries": [
     {
       "sequence": 1,
@@ -1531,6 +1531,36 @@
       "chapter_path": "data/chapters/U20260820-0805.md",
       "stocks_path": "data/stocks/U20260820-0805.stocks.json",
       "market_svg_path": "data/visuals/U20260820-0805.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 154,
+      "update_id": "U20260820-0825",
+      "published_at": "2026-08-20T08:25:00+08:00",
+      "title": "第一百二十回　十二萬尾款真的入帳，她用新名字把四十九趴還給自己",
+      "chapter_path": "data/chapters/U20260820-0825.md",
+      "stocks_path": "data/stocks/U20260820-0825.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-0825.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 155,
+      "update_id": "U20260820-0845",
+      "published_at": "2026-08-20T08:45:00+08:00",
+      "title": "第一百二十一回　七十萬買下禁令，她把內線名單貼在他的胸口",
+      "chapter_path": "data/chapters/U20260820-0845.md",
+      "stocks_path": "data/stocks/U20260820-0845.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-0845.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 156,
+      "update_id": "U20260820-0905",
+      "published_at": "2026-08-20T09:05:00+08:00",
+      "title": "第一百二十二回　公告公開兩分鐘，他用零成交贏過整間交易室",
+      "chapter_path": "data/chapters/U20260820-0905.md",
+      "stocks_path": "data/stocks/U20260820-0905.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-0905.market.svg",
       "backfill": true
     }
   ]

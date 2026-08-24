@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+<rect width="1200" height="675" fill="#07131f"/><text x="55" y="65" fill="#f8fafc" font-size="34" font-family="sans-serif" font-weight="700">台股盤前市場情報｜2026-08-20 08:25</text>
+<text x="55" y="102" fill="#94a3b8" font-size="18" font-family="sans-serif">歷史回補・盤前沒有新成交確認</text>
+<rect x="55" y="135" width="330" height="145" rx="18" fill="#12233b"/><text x="80" y="180" fill="#67e8f9" font-size="22" font-family="sans-serif">TAIEX 前收</text><text x="80" y="230" fill="#fff" font-size="34" font-family="sans-serif">44,719.35</text>
+<rect x="435" y="135" width="330" height="145" rx="18" fill="#12233b"/><text x="460" y="180" fill="#67e8f9" font-size="22" font-family="sans-serif">NASDAQ</text><text x="460" y="230" fill="#fff" font-size="34" font-family="sans-serif">26,331.09</text><text x="460" y="260" fill="#86efac" font-size="20" font-family="sans-serif">約 +0.2%</text>
+<rect x="815" y="135" width="330" height="145" rx="18" fill="#12233b"/><text x="840" y="180" fill="#67e8f9" font-size="22" font-family="sans-serif">USD/TWD 前收</text><text x="840" y="230" fill="#fff" font-size="34" font-family="sans-serif">31.937</text>
+<rect x="55" y="325" width="1090" height="220" rx="18" fill="#2a2410"/><text x="80" y="370" fill="#fde68a" font-size="23" font-family="sans-serif">三情境</text>
+<text x="80" y="415" fill="#f8fafc" font-size="21" font-family="sans-serif">多：站回44,719且權值、櫃買、機器人同步擴散</text><text x="80" y="455" fill="#f8fafc" font-size="21" font-family="sans-serif">中：訊號互抵，開盤後震盪分化</text><text x="80" y="495" fill="#f8fafc" font-size="21" font-family="sans-serif">空：跌破44,308，外資與權值共振轉弱</text>
+<text x="55" y="625" fill="#fbbf24" font-size="20" font-family="sans-serif">五檔全數 WAIT｜未公開重大契約屬法遵禁交易資訊</text>
+</svg>

@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
   "timezone": "Asia/Taipei",
-  "latest_update_id": "U20260820-0805",
-  "sequence": 153,
+  "latest_update_id": "U20260820-0905",
+  "sequence": 156,
   "ordering_rule": "sequence then update_id; ignore legacy chapter numbers",
-  "history_count": 153,
+  "history_count": 156,
   "updates": [
     {
       "sequence": 1,
@@ -1510,6 +1510,42 @@
       "stocks_file_id": "1V7ipYJ0sM5K5gnxZkrxVe2s0NOoGCZQb",
       "market_svg_file_id": "1V1ZgJolueJYfIGteOBq8kRBGFB3Ts0ol",
       "market_id": "M20260820-0805",
+      "backfill": true
+    },
+    {
+      "sequence": 154,
+      "update_id": "U20260820-0825",
+      "published_at": "2026-08-20T08:25:00+08:00",
+      "title": "第一百二十回　十二萬尾款真的入帳，她用新名字把四十九趴還給自己",
+      "chapter_file_id": "1ndL_XwMM27PK87LpmwlYVrAoFQCsTIQc",
+      "storyboard_file_id": "1ukY42DDSuupreD0czHVfBHgSXfbdQZnW",
+      "stocks_file_id": "1GjidksP4AltVSdSzWCy-ZQ4fEe9sWLd1",
+      "market_svg_file_id": "1uvkgYhEqdleLQ5C9ZPzycdKUfr-LTHCp",
+      "market_id": "M20260820-0825",
+      "backfill": true
+    },
+    {
+      "sequence": 155,
+      "update_id": "U20260820-0845",
+      "published_at": "2026-08-20T08:45:00+08:00",
+      "title": "第一百二十一回　七十萬買下禁令，她把內線名單貼在他的胸口",
+      "chapter_file_id": "1vToNDL3URvN74geRN7i5rxpaVxipAdqX",
+      "storyboard_file_id": "1zY2fiTCjeT5FfGwrlGgFjrjUvVSdZr_D",
+      "stocks_file_id": "1BXgCFDLEQmlFld4T-wo4GpXLT9LeBLrd",
+      "market_svg_file_id": "1V3L2f24BYREWPPp_aDSf2rKNPpio5ajN",
+      "market_id": "M20260820-0845",
+      "backfill": true
+    },
+    {
+      "sequence": 156,
+      "update_id": "U20260820-0905",
+      "published_at": "2026-08-20T09:05:00+08:00",
+      "title": "第一百二十二回　公告公開兩分鐘，他用零成交贏過整間交易室",
+      "chapter_file_id": "1epJShfROqAinEssLxbMJ1kN_AKrxpm0y",
+      "storyboard_file_id": "1MZ5lWomVi0NQ1QuM9u6cy-d5TaDmen8F",
+      "stocks_file_id": "1Y_TGo8HfgOU562bjUActeSZHt5kcTuBg",
+      "market_svg_file_id": "1vFhOmgbRc9KWawiHa5hfd5F0WPLck1oW",
+      "market_id": "M20260820-0905",
       "backfill": true
     }
   ]
