@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-24T14:18:59+00:00",
-  "latest_update_id": "U20260820-1905",
-  "sequence": 186,
+  "generated_at": "2026-08-24T15:17:56+00:00",
+  "latest_update_id": "U20260820-2025",
+  "sequence": 190,
   "entries": [
     {
       "sequence": 1,
@@ -1861,6 +1861,46 @@
       "chapter_path": "data/chapters/U20260820-1905.md",
       "stocks_path": "data/stocks/U20260820-1905.stocks.json",
       "market_svg_path": "data/visuals/U20260820-1905.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 187,
+      "update_id": "U20260820-1925",
+      "published_at": "2026-08-20T19:25:00+08:00",
+      "title": "第一百五十三回　第一版叫她女兒，小智用一千八百萬讓十五億先做親子鑑定",
+      "chapter_path": "data/chapters/U20260820-1925.md",
+      "stocks_path": "data/stocks/U20260820-1925.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-1925.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 188,
+      "update_id": "U20260820-1945",
+      "published_at": "2026-08-20T19:45:00+08:00",
+      "title": "第一百五十四回　活著的第一版要收回他的名字，小智用一千九百五十萬買下全場沉默",
+      "chapter_path": "data/chapters/U20260820-1945.md",
+      "stocks_path": "data/stocks/U20260820-1945.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-1945.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 189,
+      "update_id": "U20260820-2005",
+      "published_at": "2026-08-20T20:05:00+08:00",
+      "title": "第一百五十五回　五個女人只能留一個，小智用二千一百萬把唯一席位改成五席董事會",
+      "chapter_path": "data/chapters/U20260820-2005.md",
+      "stocks_path": "data/stocks/U20260820-2005.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-2005.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 190,
+      "update_id": "U20260820-2025",
+      "published_at": "2026-08-20T20:25:00+08:00",
+      "title": "第一百五十六回　第六個女人帶海上資料中心投奔，他用二千三百萬讓第一版在自己家付房租",
+      "chapter_path": "data/chapters/U20260820-2025.md",
+      "stocks_path": "data/stocks/U20260820-2025.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-2025.market.svg",
       "backfill": true
     }
   ]

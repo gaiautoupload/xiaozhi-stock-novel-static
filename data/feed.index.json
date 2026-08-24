@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
   "timezone": "Asia/Taipei",
-  "latest_update_id": "U20260820-1905",
-  "sequence": 186,
+  "latest_update_id": "U20260820-2025",
+  "sequence": 190,
   "ordering_rule": "sequence then update_id; ignore legacy chapter numbers",
-  "history_count": 186,
+  "history_count": 190,
   "updates": [
     {
       "sequence": 1,
@@ -1946,6 +1946,54 @@
       "market_id": "M20260820-1905",
       "market_json_file_id": "1rjm32_2mr_v5b_D6zlfM0rex_okiLkjX",
       "market_intel_svg_file_id": "1yr0lZt5VXZ1amsqhJ7KWXUcmZ88GUIlS",
+      "backfill": true
+    },
+    {
+      "sequence": 187,
+      "update_id": "U20260820-1925",
+      "published_at": "2026-08-20T19:25:00+08:00",
+      "title": "第一百五十三回　第一版叫她女兒，小智用一千八百萬讓十五億先做親子鑑定",
+      "chapter_file_id": "1LZgeC0yjOQGyIg4nHnuhZTOn1Aj84Cke",
+      "storyboard_file_id": "1kgPZB1zNdQYAHhYdw4gn-k-w8Y8GWLty",
+      "stocks_file_id": "1lsbYEby2SXpdB8QmDv2-V3ZS3wH55zmK",
+      "market_svg_file_id": "1g9_1AaW-EkcRb104KWqz1q7YzxNHWSDC",
+      "market_id": "M20260820-1925",
+      "backfill": true
+    },
+    {
+      "sequence": 188,
+      "update_id": "U20260820-1945",
+      "published_at": "2026-08-20T19:45:00+08:00",
+      "title": "第一百五十四回　活著的第一版要收回他的名字，小智用一千九百五十萬買下全場沉默",
+      "chapter_file_id": "1jrYFSVM2kGb1a2mkNeA0ojwvn-YBBcHX",
+      "storyboard_file_id": "1MUAWMc3Mvybqkfb0JcNxy2kfRVDw3YT6",
+      "stocks_file_id": "1UHOeT_G7fCDbGs7USzpEkMpN5nw_xgFC",
+      "market_svg_file_id": "1IWBzFpE3DptYJrUlMGJ01RPeY6flz-0c",
+      "market_id": "M20260820-1945",
+      "backfill": true
+    },
+    {
+      "sequence": 189,
+      "update_id": "U20260820-2005",
+      "published_at": "2026-08-20T20:05:00+08:00",
+      "title": "第一百五十五回　五個女人只能留一個，小智用二千一百萬把唯一席位改成五席董事會",
+      "chapter_file_id": "1RnBTEy8zeLX5Grx8WHB5F6v6bXpsJW1r",
+      "storyboard_file_id": "1kNQPRfUj27tcLO_1Wkk56-JbktsNfvA_",
+      "stocks_file_id": "1HEu4ox_3tnEYnQZGI4Pdz7QTlufCucqD",
+      "market_svg_file_id": "16japnIH9oeQnzybsDJs7AiJvrHW57U1l",
+      "market_id": "M20260820-2005",
+      "backfill": true
+    },
+    {
+      "sequence": 190,
+      "update_id": "U20260820-2025",
+      "published_at": "2026-08-20T20:25:00+08:00",
+      "title": "第一百五十六回　第六個女人帶海上資料中心投奔，他用二千三百萬讓第一版在自己家付房租",
+      "chapter_file_id": "1gx9430nUMukVnXriPacHLUhzBoC6LWgI",
+      "storyboard_file_id": "1DBVwRbli_qDvSvzplk8fKJqSff0Cgx_v",
+      "stocks_file_id": "1uRp3W8RRNjtmCx7kQ_HZfwIAHaNA0UOn",
+      "market_svg_file_id": "10bNIxEPhVq__Rax-IZxVo2jpLbkl03zP",
+      "market_id": "M20260820-2025",
       "backfill": true
     }
   ]

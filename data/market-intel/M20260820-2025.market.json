@@ -1,0 +1,218 @@
+{
+  "market_id": "M20260820-2025",
+  "as_of": "2026-08-20T20:25:00+08:00",
+  "session_status": "post_close_historical_backfill",
+  "sources": [
+    {
+      "title": "中央社：台股震盪逾700點終場上漲214點",
+      "url": "https://www.cna.com.tw/news/afe/202608200131.aspx",
+      "published_at": "2026-08-20T13:45:00+08:00",
+      "accessed_at": "2026-08-24T19:32:00+08:00"
+    },
+    {
+      "title": "中央社：三大法人合計賣超35.37億元",
+      "url": "https://www.cna.com.tw/news/afe/202608200167.aspx",
+      "published_at": "2026-08-20T15:06:00+08:00",
+      "accessed_at": "2026-08-24T19:32:00+08:00"
+    },
+    {
+      "title": "中央社：新台幣升1.2分收31.925元",
+      "url": "https://www.cna.com.tw/news/afe/202608200169.aspx",
+      "published_at": "2026-08-20T16:04:00+08:00",
+      "accessed_at": "2026-08-24T19:32:00+08:00"
+    },
+    {
+      "title": "經濟部：115年7月外銷訂單統計",
+      "url": "https://www.moea.gov.tw/Mns/dos/bulletin/Bulletin.aspx?html=1&kind=5&menu_id=6724",
+      "published_at": "2026-08-20T16:00:00+08:00",
+      "accessed_at": "2026-08-24T19:32:00+08:00"
+    },
+    {
+      "title": "鉅亨網：7月外銷訂單年增61.9%",
+      "url": "https://news.cnyes.com/news/id/6582613",
+      "published_at": "2026-08-20T16:30:00+08:00",
+      "accessed_at": "2026-08-24T19:32:00+08:00"
+    },
+    {
+      "title": "櫃買中心每日指數",
+      "url": "https://www.tpex.org.tw/zh-tw/mainboard/trading/info/daily-indices.html",
+      "published_at": "2026-08-20T13:35:00+08:00",
+      "accessed_at": "2026-08-24T19:32:00+08:00"
+    },
+    {
+      "title": "台積電2026年7月營收公告",
+      "url": "https://pr.tsmc.com/english/news/3329",
+      "published_at": "2026-08-10T13:30:00+08:00",
+      "accessed_at": "2026-08-24T19:32:00+08:00"
+    },
+    {
+      "title": "聯準會2026年7月會議紀要",
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20260729.htm",
+      "published_at": "2026-08-19T14:00:00-04:00",
+      "accessed_at": "2026-08-24T19:32:00+08:00"
+    },
+    {
+      "title": "聯合報：7月外銷訂單979.4億美元創高",
+      "url": "https://money.udn.com/money/story/10869/9703966",
+      "published_at": "2026-08-20T16:43:49+08:00",
+      "accessed_at": "2026-08-24T20:53:00+08:00"
+    },
+    {
+      "title": "CMoney：外銷訂單創高與AI伺服器需求解讀",
+      "url": "https://cmnews.com.tw/article/zhouzhehan-de9183ec-9c7a-11f1-bbd3-187960240e2b",
+      "published_at": "2026-08-20T17:38:00+08:00",
+      "accessed_at": "2026-08-24T20:53:00+08:00"
+    },
+    {
+      "title": "中央社／IEK：外銷訂單創高，9月可望首破千億美元",
+      "url": "https://ieknet.iek.org.tw/ieknews/news_open.aspx?nsl_id=fb9af4e4f9b146b0a7c4c3534e0a40c1",
+      "published_at": "2026-08-20T17:36:00+08:00",
+      "accessed_at": "2026-08-24T21:03:00+08:00"
+    }
+  ],
+  "breaking_news": [
+    "TAIEX收44933.74、TPEx收389.96、台積電2375元，均為收盤值而非目標分鐘報價",
+    "外資買超37.82億元、三大法人合計賣超35.37億元",
+    "USD/TWD收31.925，16:04前已發布",
+    "7月外銷訂單979.4億美元、年增61.9%；資通訊年增89.5%、電子年增71.7%",
+    "9月外銷訂單突破千億美元僅為條件情境",
+    "20:25美股尚未開盤；NASDAQ、SOX、TSM ADR與美債精確值unavailable"
+  ],
+  "index_snapshot": {
+    "TAIEX": {
+      "close": 44933.74,
+      "change": 214.39,
+      "pct": 0.48,
+      "open": 44942.01,
+      "high": 45160.05,
+      "low": 44446.36,
+      "turnover_twd_100m": 7929.62
+    },
+    "TPEx": {
+      "close": 389.96,
+      "pct": 1.34
+    },
+    "TSMC": {
+      "close": 2375,
+      "change": 25,
+      "pct": 1.06
+    },
+    "timestamp_quality": "close verified; not minute quote"
+  },
+  "fx_snapshot": {
+    "USD_TWD": {
+      "close": 31.925,
+      "change_twd": -0.012,
+      "published_at": "2026-08-20T16:04:00+08:00",
+      "impacts": {
+        "exporters": "台幣小幅升值對出口換匯略偏逆風，但訂單成長支撐需求",
+        "financial_life": "升值影響壽險避險成本與外幣資產評價",
+        "import_cost": "台幣升值略降美元計價進口成本",
+        "valuation": "匯率與外資折算仍影響科技股估值"
+      }
+    },
+    "DXY": {
+      "value": 98.8,
+      "status": "stale_prior_us_close"
+    },
+    "USD_JPY": {
+      "value": 158.15,
+      "status": "stale_prior_us_close"
+    }
+  },
+  "cross_asset": {
+    "NASDAQ": {
+      "value": "unavailable",
+      "status": "us_market_not_open_at_target"
+    },
+    "SOX": {
+      "value": "unavailable",
+      "status": "us_market_not_open_at_target"
+    },
+    "TSM_ADR": {
+      "value": "unavailable",
+      "status": "us_market_not_open_at_target"
+    },
+    "DXY": {
+      "value": 98.8,
+      "status": "stale"
+    },
+    "US_TREASURY_30Y": {
+      "value": "unavailable",
+      "status": "target_timestamp_not_verified"
+    },
+    "USD_JPY": {
+      "value": 158.15,
+      "status": "stale"
+    },
+    "macro": {
+      "taiwan_export_orders_usd_100m": 979,
+      "yoy_pct": 61.9,
+      "status": "published_before_target"
+    }
+  },
+  "breadth_and_flow": {
+    "advancers": 792,
+    "decliners": 237,
+    "unchanged": 76,
+    "foreign_twd_100m": 37.82,
+    "investment_trust_twd_100m": -12.11,
+    "dealer_twd_100m": -61.08,
+    "three_institutions_twd_100m": -35.37,
+    "interpretation": "外資回補，但投信與自營商賣壓令合計仍為賣超"
+  },
+  "sector_rotation": {
+    "strong": [
+      "記憶體",
+      "CPO／光學",
+      "中小型股",
+      "AI／半導體出口訂單"
+    ],
+    "weak": [
+      "金融類-0.66%",
+      "部分權值股"
+    ],
+    "interpretation": "出口訂單支撐AI供應鏈中期需求，短線仍是高波動題材輪動"
+  },
+  "abc_wave": {
+    "framework": "Elliott/ABC僅作情境，不作預言",
+    "current_interpretation": "45160.05至44446.36為A段候選；收44933.74為B段修復候選",
+    "anchors": [
+      45160.05,
+      44446.36,
+      44933.74
+    ],
+    "support": [
+      44681.78,
+      44446.36,
+      44308.71
+    ],
+    "resistance": [
+      45000,
+      45160.05
+    ],
+    "alternate_scenario": "跌破44446.36則A段延伸；放量站穩45160.05則否定弱B框架",
+    "invalidation": "站穩45160.05或跌破44446.36後重畫",
+    "confidence": "low_to_medium"
+  },
+  "scenarios": {
+    "bullish": "外資續買、出口訂單轉化為營收，站穩45000並突破45160.05",
+    "base": "44446至45160區間震盪，資金續留記憶體、CPO與中小型",
+    "bearish": "法人賣壓擴大、長債風險壓縮估值並跌破44446.36"
+  },
+  "next_confirmations": [
+    "外銷訂單能否轉化為公司營收與獲利",
+    "下一交易日外資是否續買",
+    "45000與45160.05能否站穩",
+    "TPEx相對強勢能否延續"
+  ],
+  "risk_flags": [
+    "盤中震幅逾700點且成交量大",
+    "外資買超但三大法人合計賣超",
+    "Fed通膨疑慮與美債估值壓力",
+    "美股尚未開盤且精確跨資產報價不足",
+    "9月外銷訂單千億美元僅為條件情境",
+    "ABC錨點有限"
+  ],
+  "website_summary": "20:25歷史回補：TAIEX 44933.74、TPEx 389.96、台積電2375、USD/TWD 31.925；外銷訂單979.4億美元、年增61.9%。美股尚未開盤，NASDAQ、SOX、TSM ADR與美債精確值unavailable；ABC僅作情境。"
+}
