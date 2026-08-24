@@ -1,0 +1,163 @@
+{
+  "market_id": "M20260820-2125",
+  "as_of": "2026-08-20T21:25:00+08:00",
+  "session_status": "pre_us_open_historical_backfill",
+  "sources": [
+    {
+      "title": "中央社：三大法人賣超台股35.37億元",
+      "url": "https://www.cna.com.tw/news/afe/202608200167.aspx",
+      "published_at": "2026-08-20T15:06:00+08:00",
+      "accessed_at": "2026-08-24T23:31:00+08:00"
+    },
+    {
+      "title": "經濟部：115年7月外銷訂單統計",
+      "url": "https://www.moea.gov.tw/Mns/dos/bulletin/Bulletin.aspx?bull_id=16896&html=1&kind=5&menu_id=6724",
+      "published_at": "2026-08-20T16:00:00+08:00",
+      "accessed_at": "2026-08-24T23:31:00+08:00"
+    },
+    {
+      "title": "Nasdaq官方交易時段",
+      "url": "https://www.nasdaq.com/market-activity/stock-market-holiday-schedule",
+      "published_at": "2026-01-01T00:00:00-05:00",
+      "accessed_at": "2026-08-24T23:31:00+08:00"
+    },
+    {
+      "title": "Reuters：長債回購與Fed紀要背景",
+      "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-08-19/",
+      "published_at": "2026-08-19T23:00:00+08:00",
+      "accessed_at": "2026-08-24T23:31:00+08:00"
+    },
+    {
+      "title": "台積電2026年7月營收",
+      "url": "https://pr.tsmc.com/english/news/3329",
+      "published_at": "2026-08-10T13:30:00+08:00",
+      "accessed_at": "2026-08-24T23:31:00+08:00"
+    }
+  ],
+  "breaking_news": [
+    "台股收44933.74，外資買超但三大法人合計賣超",
+    "7月外銷訂單979.4億美元、年增61.9%",
+    "21:25美股未開盤；21:45雖已開盤但可靠目標分鐘行情不足"
+  ],
+  "index_snapshot": {
+    "TAIEX": {
+      "close": 44933.74,
+      "change": 214.39,
+      "pct": 0.48
+    },
+    "TPEx": {
+      "close": 389.96,
+      "pct": 1.34
+    },
+    "TSMC": {
+      "close": 2375,
+      "change": 25
+    },
+    "turnover_twd_billion": 7929.62
+  },
+  "fx_snapshot": {
+    "USD_TWD": {
+      "close": 31.925,
+      "status": "official_close"
+    },
+    "DXY": {
+      "value": "unavailable",
+      "status": "stale"
+    },
+    "USD_JPY": {
+      "value": "unavailable",
+      "status": "stale"
+    }
+  },
+  "cross_asset": {
+    "NASDAQ": {
+      "value": "unavailable",
+      "reason": "US market not open at target slot"
+    },
+    "SOX": {
+      "value": "unavailable",
+      "reason": "US market not open at target slot"
+    },
+    "TSM_ADR": {
+      "value": "unavailable",
+      "reason": "US market not open at target slot"
+    },
+    "US10Y": {
+      "value": "unavailable",
+      "reason": "US market not open at target slot"
+    },
+    "US30Y": {
+      "value": "unavailable",
+      "reason": "US market not open at target slot"
+    },
+    "oil": {
+      "value": "unavailable",
+      "status": "stale"
+    }
+  },
+  "breadth_and_flow": {
+    "advancers": 792,
+    "decliners": 237,
+    "unchanged": 76,
+    "foreign_net_twd_billion": 3.782,
+    "institutions_net_twd_billion": -3.537,
+    "interpretation": "指數反彈但法人分歧，廣度尚可；單日外資買超非趨勢確認"
+  },
+  "sector_rotation": {
+    "strong": [
+      "AI伺服器",
+      "散熱",
+      "電子",
+      "自動化情境"
+    ],
+    "weak": [
+      "金融",
+      "高估值無獲利驗證題材"
+    ],
+    "impacts": {
+      "export": "外銷訂單提供需求背景",
+      "financial_life": "利率與匯率影響金融壽險評價",
+      "import_cost": "匯率影響進口成本",
+      "valuation": "美債風險壓抑高估值科技"
+    }
+  },
+  "abc_wave": {
+    "framework": "Elliott/ABC scenario only; not forecast",
+    "current_interpretation": "弱B修復與A段延伸並存",
+    "anchors": {
+      "prior_close": 44719.35,
+      "low": 44446.36,
+      "close": 44933.74,
+      "high": 45160.05
+    },
+    "support": [
+      44681.78,
+      44446.36
+    ],
+    "resistance": [
+      45000,
+      45160.05
+    ],
+    "alternate_scenario": "站穩45000且法人廣度同步改善才提高修復權重",
+    "invalidation": "跌破44446且權值、TPEx同步弱化",
+    "confidence": "insufficient_data"
+  },
+  "scenarios": {
+    "bullish": "站穩45000／45160並獲量價法人確認",
+    "base": "44934附近震盪，出口題材與法人分歧拉鋸",
+    "bearish": "跌破44682及44446，權值與中小型同步轉弱"
+  },
+  "next_confirmations": [
+    "可靠時間戳的NASDAQ、SOX、TSM ADR",
+    "美債殖利率與美元方向",
+    "次日外資、台積電及TPEx共振"
+  ],
+  "risk_flags": [
+    "美股目標分鐘行情不足",
+    "稍後Reuters收盤跌幅不得倒填",
+    "法人分歧",
+    "ABC僅條件情境",
+    "R-4576私人線索禁交易"
+  ],
+  "website_summary": "21:25歷史回補：台股封存44933.74／櫃買389.96；美股目標分鐘值不足，五檔WAIT、零成交。"
+}

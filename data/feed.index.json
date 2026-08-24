@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
   "timezone": "Asia/Taipei",
-  "latest_update_id": "U20260820-2025",
-  "sequence": 190,
+  "latest_update_id": "U20260820-2145",
+  "sequence": 194,
   "ordering_rule": "sequence then update_id; ignore legacy chapter numbers",
-  "history_count": 190,
+  "history_count": 194,
   "updates": [
     {
       "sequence": 1,
@@ -1994,6 +1994,54 @@
       "stocks_file_id": "1uRp3W8RRNjtmCx7kQ_HZfwIAHaNA0UOn",
       "market_svg_file_id": "10bNIxEPhVq__Rax-IZxVo2jpLbkl03zP",
       "market_id": "M20260820-2025",
+      "backfill": true
+    },
+    {
+      "sequence": 191,
+      "update_id": "U20260820-2045",
+      "published_at": "2026-08-20T20:45:00+08:00",
+      "title": "第一百五十七回　她把婚戒當成停機密鑰，小智用二千五百萬讓K-01第一次向六個女人道歉",
+      "chapter_file_id": "1jIKCTNvPSN06HNbn4dVeVfEKJ4rwOZZb",
+      "storyboard_file_id": "1MwSLobnuhYjXSQRdm655nk6oVwAeUulL",
+      "stocks_file_id": "1Fjtr1xHnNqYRCAXFisArTqB9mU12UrA3",
+      "market_svg_file_id": "1kRdya5twHve-G4BxbXbxqnPcm-Z9emRx",
+      "market_id": "M20260820-2045",
+      "backfill": true
+    },
+    {
+      "sequence": 192,
+      "update_id": "U20260820-2105",
+      "published_at": "2026-08-20T21:05:00+08:00",
+      "title": "第一百五十八回　AI替他排好第一場婚禮，小智用二千八百萬把新娘席改成刑事股東席",
+      "chapter_file_id": "1UviwTwixxt5QDOuguGOBhbv_1Zsh2xRG",
+      "storyboard_file_id": "1L_JO50iLj5PPdIlW0rR4QJUii9C_yzUt",
+      "stocks_file_id": "1oPBFlcgO6ddli4_kxU4jk77za1noiyZ3",
+      "market_svg_file_id": "1G9KzSx0J0mB-K5jddohh0OF63P3bSZQc",
+      "market_id": "M20260820-2105",
+      "backfill": true
+    },
+    {
+      "sequence": 193,
+      "update_id": "U20260820-2125",
+      "published_at": "2026-08-20T21:25:00+08:00",
+      "title": "第一百五十九回　第七個女人預告他會做空台積電，小智用三千一百萬讓零成交先贏華爾街",
+      "chapter_file_id": "1xltkTeDFOw_WufF6NUuHVd6Uvp5MEbRB",
+      "storyboard_file_id": "1FU7Cghhr05Kdfp-YLbjV72aVm_4icfbi",
+      "stocks_file_id": "1QPcYaJ1oKMYuzfjxbKjvTWOhF0gBskiE",
+      "market_svg_file_id": "1ygvfmZV8O83Zn54zoBNYj4Zl6s3-Rnff",
+      "market_id": "M20260820-2125",
+      "backfill": true
+    },
+    {
+      "sequence": 194,
+      "update_id": "U20260820-2145",
+      "published_at": "2026-08-20T21:45:00+08:00",
+      "title": "第一百六十回　美股開盤一股ADR要把他變空頭，小智用三千五百萬讓第八個女人凍結華爾街",
+      "chapter_file_id": "1843pIF2MzlZkrVvxekBrEWJ3396HwkgB",
+      "storyboard_file_id": "105plGdJD3acBCpwCS8AKbnUaojYfcXfD",
+      "stocks_file_id": "1Cua3H40cA6t4oyvrc4robylVdEi1wf92",
+      "market_svg_file_id": "1NmnYF3N8Ugmb3jGHrpblH-xjG4D-YBKZ",
+      "market_id": "M20260820-2145",
       "backfill": true
     }
   ]

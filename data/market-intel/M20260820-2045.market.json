@@ -1,0 +1,165 @@
+{
+  "market_id": "M20260820-2045",
+  "as_of": "2026-08-20T20:45:00+08:00",
+  "session_status": "pre_us_open_historical_backfill",
+  "sources": [
+    {
+      "title": "中央社：三大法人賣超台股35.37億元",
+      "url": "https://www.cna.com.tw/news/afe/202608200167.aspx",
+      "published_at": "2026-08-20T15:06:00+08:00",
+      "accessed_at": "2026-08-24T23:20:00+08:00"
+    },
+    {
+      "title": "經濟部：115年7月外銷訂單統計",
+      "url": "https://www.moea.gov.tw/Mns/dos/bulletin/Bulletin.aspx?bull_id=16896&html=1&kind=5&menu_id=6724",
+      "published_at": "2026-08-20T16:00:00+08:00",
+      "accessed_at": "2026-08-24T23:20:00+08:00"
+    },
+    {
+      "title": "中央銀行歷史匯率",
+      "url": "https://www.cbc.gov.tw/tw/lp-645-1.html",
+      "published_at": "2026-08-20T16:04:00+08:00",
+      "accessed_at": "2026-08-24T23:20:00+08:00"
+    },
+    {
+      "title": "Reuters：美國財政部擴大長債回購",
+      "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-08-19/",
+      "published_at": "2026-08-19T23:00:00+08:00",
+      "accessed_at": "2026-08-24T23:20:00+08:00"
+    },
+    {
+      "title": "台積電2026年7月營收",
+      "url": "https://pr.tsmc.com/english/news/3329",
+      "published_at": "2026-08-10T13:30:00+08:00",
+      "accessed_at": "2026-08-24T23:20:00+08:00"
+    }
+  ],
+  "breaking_news": [
+    "台股已收盤；外資買超37.82億元，但三大法人合計賣超35.37億元",
+    "7月外銷訂單979.4億美元、年增61.9%，AI伺服器與散熱需求為已知背景",
+    "美股21:30台北時間才開盤，本切點精確NASDAQ、SOX與台積電ADR unavailable"
+  ],
+  "index_snapshot": {
+    "TAIEX": {
+      "close": 44933.74,
+      "change": 214.39,
+      "pct": 0.48,
+      "status": "closed"
+    },
+    "TPEx": {
+      "close": 389.96,
+      "pct": 1.34,
+      "status": "closed"
+    },
+    "TSMC": {
+      "close": 2375,
+      "change": 25,
+      "status": "closed"
+    },
+    "volume_twd_billion": 7929.62
+  },
+  "fx_snapshot": {
+    "USD_TWD": {
+      "close": 31.925,
+      "status": "official_close"
+    },
+    "DXY": {
+      "value": "unavailable",
+      "status": "stale"
+    },
+    "USD_JPY": {
+      "value": "unavailable",
+      "status": "stale"
+    }
+  },
+  "cross_asset": {
+    "NASDAQ": {
+      "value": "unavailable",
+      "reason": "US market not open at target slot"
+    },
+    "SOX": {
+      "value": "unavailable",
+      "reason": "US market not open at target slot"
+    },
+    "TSM_ADR": {
+      "value": "unavailable",
+      "reason": "US market not open at target slot"
+    },
+    "US10Y": {
+      "value": "unavailable",
+      "reason": "no reliable target-time quote"
+    },
+    "US30Y": {
+      "value": "unavailable",
+      "reason": "no reliable target-time quote"
+    },
+    "oil": {
+      "value": "unavailable"
+    }
+  },
+  "breadth_and_flow": {
+    "advancers": 792,
+    "decliners": 237,
+    "unchanged": 76,
+    "foreign_net_twd_billion": 3.782,
+    "institutions_net_twd_billion": -3.537,
+    "interpretation": "指數上漲但法人分歧；不得把外資單日買超視為趨勢確認"
+  },
+  "sector_rotation": {
+    "strong": [
+      "AI伺服器",
+      "散熱模組",
+      "電子",
+      "自動化情境"
+    ],
+    "weak": [
+      "金融",
+      "高估值且無獲利驗證題材"
+    ],
+    "impacts": {
+      "export": "外銷訂單強勁提供需求背景",
+      "financial_life": "利率與匯率波動影響評價",
+      "import_cost": "台幣水準影響進口成本",
+      "valuation": "美債殖利率風險限制高估值科技"
+    }
+  },
+  "abc_wave": {
+    "framework": "Elliott/ABC scenario only; not a forecast",
+    "current_interpretation": "收盤反彈可視為弱B修復，亦可能仍在A段後半；錨點不足不做單一路徑預言",
+    "anchors": {
+      "prior_close": 44719.35,
+      "intraday_low": 44446.36,
+      "close": 44933.74,
+      "intraday_high": 45160.05
+    },
+    "support": [
+      44681.78,
+      44446.36
+    ],
+    "resistance": [
+      45000,
+      45160.05
+    ],
+    "alternate_scenario": "站穩45000並伴隨法人、廣度改善，才提高修復延續權重",
+    "invalidation": "跌破44446.36且權值、TPEx同步轉弱，弱B修復假設失效",
+    "confidence": "insufficient_data"
+  },
+  "scenarios": {
+    "bullish": "站穩45000／45160且量價、法人、櫃買同步確認",
+    "base": "44934附近高量震盪，AI出口題材與法人分歧拉鋸",
+    "bearish": "跌破44682及44446，權值與中小型同步轉弱"
+  },
+  "next_confirmations": [
+    "21:30後NASDAQ、SOX、台積電ADR實際開盤",
+    "美債殖利率與美元指數可靠時間戳",
+    "次日外資、台積電與TPEx是否共振"
+  ],
+  "risk_flags": [
+    "目標時點美股尚未開盤",
+    "Reuters 8月20日後續行情不可倒填",
+    "法人方向分歧",
+    "ABC為條件情境",
+    "R-4576私人線索禁交易"
+  ],
+  "website_summary": "20:45歷史回補：台股收44933.74、櫃買389.96；美股未開盤，精確NASDAQ／SOX／ADR unavailable。五檔WAIT、零成交。"
+}
