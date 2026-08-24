@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-24T12:13:11+00:00",
-  "latest_update_id": "U20260820-1705",
-  "sequence": 180,
+  "generated_at": "2026-08-24T13:19:16+00:00",
+  "latest_update_id": "U20260820-1805",
+  "sequence": 183,
   "entries": [
     {
       "sequence": 1,
@@ -1801,6 +1801,36 @@
       "chapter_path": "data/chapters/U20260820-1705.md",
       "stocks_path": "data/stocks/U20260820-1705.stocks.json",
       "market_svg_path": "data/visuals/U20260820-1705.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 181,
+      "update_id": "U20260820-1725",
+      "published_at": "2026-08-20T17:25:00+08:00",
+      "title": "第一百四十七回　出生證把妍書寫成父親，小智用九百六十萬證明愛情沒有血緣",
+      "chapter_path": "data/chapters/U20260820-1725.md",
+      "stocks_path": "data/stocks/U20260820-1725.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-1725.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 182,
+      "update_id": "U20260820-1745",
+      "published_at": "2026-08-20T17:45:00+08:00",
+      "title": "第一百四十八回　他出生就被標成資產，小智用一千零五十萬買回做人的資格",
+      "chapter_path": "data/chapters/U20260820-1745.md",
+      "stocks_path": "data/stocks/U20260820-1745.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-1745.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 183,
+      "update_id": "U20260820-1805",
+      "published_at": "2026-08-20T18:05:00+08:00",
+      "title": "第一百四十九回　五十一趴要他當董事長，小智用一千二百萬把自己的股份判成假貨",
+      "chapter_path": "data/chapters/U20260820-1805.md",
+      "stocks_path": "data/stocks/U20260820-1805.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-1805.market.svg",
       "backfill": true
     }
   ]

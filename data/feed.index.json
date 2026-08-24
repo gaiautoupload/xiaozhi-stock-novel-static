@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
   "timezone": "Asia/Taipei",
-  "latest_update_id": "U20260820-1705",
-  "sequence": 180,
+  "latest_update_id": "U20260820-1805",
+  "sequence": 183,
   "ordering_rule": "sequence then update_id; ignore legacy chapter numbers",
-  "history_count": 180,
+  "history_count": 183,
   "updates": [
     {
       "sequence": 1,
@@ -1862,6 +1862,48 @@
       "market_id": "M20260820-1705",
       "market_json_file_id": "12EFMvv7B8eEqLloX0z3tgq70ip3QDVhc",
       "market_intel_svg_file_id": "19NQsla_9LNq7W-RhOiVpazrs5NP5TQAN",
+      "backfill": true
+    },
+    {
+      "sequence": 181,
+      "update_id": "U20260820-1725",
+      "title": "第一百四十七回　出生證把妍書寫成父親，小智用九百六十萬證明愛情沒有血緣",
+      "published_at": "2026-08-20T17:25:00+08:00",
+      "chapter_file_id": "1DrBQZt512ZNKIyfhLIA6oE7kF0C9jTwW",
+      "storyboard_file_id": "1hatfuYyRqaU6iAVq4W2nFbTjKkYJpr4r",
+      "stocks_file_id": "1VlfQyVCOq_sypq_-PT8cYYkgWg1ToM5m",
+      "market_svg_file_id": "1xD_L8MdcG5HrDf7OCI6hsakfuQWPWQ_3",
+      "market_id": "M20260820-1725",
+      "market_json_file_id": "1G7aMILqggeENfPgwN9lWzeUN0PPxAs9a",
+      "market_intel_svg_file_id": "1GgUPcOoTj_BV4faanWo353_9Q4gcrSuJ",
+      "backfill": true
+    },
+    {
+      "sequence": 182,
+      "update_id": "U20260820-1745",
+      "title": "第一百四十八回　他出生就被標成資產，小智用一千零五十萬買回做人的資格",
+      "published_at": "2026-08-20T17:45:00+08:00",
+      "chapter_file_id": "121dh0uuAKNzEhNgmjuepIw7i2xHmqA2s",
+      "storyboard_file_id": "1Zsj7Wcr8gSX5Hhz6ExaaeUoerlBEQrXl",
+      "stocks_file_id": "1L2p1i9FiG1VaeJozjgWBPu-iX4Ablhc2",
+      "market_svg_file_id": "1iq-34qPXrvKFiJ6LZ4axMOKcrf2tAwZI",
+      "market_id": "M20260820-1745",
+      "market_json_file_id": "1FsQOc1B7dFZLHTENa3n5FgSlBNBoM5uQ",
+      "market_intel_svg_file_id": "1R0tP4xHsr3HGsuMOOMxPPPC6Y5St5rZn",
+      "backfill": true
+    },
+    {
+      "sequence": 183,
+      "update_id": "U20260820-1805",
+      "title": "第一百四十九回　五十一趴要他當董事長，小智用一千二百萬把自己的股份判成假貨",
+      "published_at": "2026-08-20T18:05:00+08:00",
+      "chapter_file_id": "11NAIdkyuMFrlQ27q5jVACKe7re1iQ3L8",
+      "storyboard_file_id": "1E2_yawFDVYaZhqiN0kjkWDw6FuuEzqFJ",
+      "stocks_file_id": "161ofb4Cz6r_RhKYklxTgrLGO8e-2B-Vy",
+      "market_svg_file_id": "12QAXDdNHDIIfRSRelefM4nokXnsXgFy2",
+      "market_id": "M20260820-1805",
+      "market_json_file_id": "1pngDorompa6WUuONJ0vzURQzZAS6Fr58",
+      "market_intel_svg_file_id": "1M_wKMXAuHm7KiCxu1mOfMAcTOTC5NVX8",
       "backfill": true
     }
   ]
