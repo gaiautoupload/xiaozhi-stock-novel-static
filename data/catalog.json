@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-24T06:09:18+00:00",
-  "latest_update_id": "U20260820-1025",
-  "sequence": 160,
+  "generated_at": "2026-08-24T07:23:29+00:00",
+  "latest_update_id": "U20260820-1145",
+  "sequence": 164,
   "entries": [
     {
       "sequence": 1,
@@ -1601,6 +1601,46 @@
       "chapter_path": "data/chapters/U20260820-1025.md",
       "stocks_path": "data/stocks/U20260820-1025.stocks.json",
       "market_svg_path": "data/visuals/U20260820-1025.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 161,
+      "update_id": "U20260820-1045",
+      "published_at": "2026-08-20T10:45:00+08:00",
+      "title": "第一百二十七回　一百萬委任只差她一個吻，他用受益人欄逼出第二個沈妍書",
+      "chapter_path": "data/chapters/U20260820-1045.md",
+      "stocks_path": "data/stocks/U20260820-1045.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-1045.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 162,
+      "update_id": "U20260820-1105",
+      "published_at": "2026-08-20T11:05:00+08:00",
+      "title": "第一百二十八回　她用五十一趴買下他的公司，他先讓第一個百萬只屬於自己",
+      "chapter_path": "data/chapters/U20260820-1105.md",
+      "stocks_path": "data/stocks/U20260820-1105.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-1105.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 163,
+      "update_id": "U20260820-1125",
+      "published_at": "2026-08-20T11:25:00+08:00",
+      "title": "第一百二十九回　未授權帳戶倒數六十秒，他讓銀行先付三十萬認錯",
+      "chapter_path": "data/chapters/U20260820-1125.md",
+      "stocks_path": "data/stocks/U20260820-1125.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-1125.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 164,
+      "update_id": "U20260820-1145",
+      "published_at": "2026-08-20T11:45:00+08:00",
+      "title": "第一百三十回　兩個妻子都要驗他的唇，他用五十萬把自己買回來",
+      "chapter_path": "data/chapters/U20260820-1145.md",
+      "stocks_path": "data/stocks/U20260820-1145.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-1145.market.svg",
       "backfill": true
     }
   ]

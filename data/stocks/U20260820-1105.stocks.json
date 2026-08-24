@@ -1,0 +1,12 @@
+{
+  "update_id":"U20260820-1105","market_id":"M20260820-1105","as_of":"2026-08-20T11:05:00+08:00",
+  "account":{"total_assets_twd":1006000,"free_cash_twd":1000000,"restricted_cash_twd":6000,"recognized_income_twd":980000,"stock_trades":0,"note":"二十萬元數位鑑識已簽約、交付、三方驗收並入帳；未授權證券申請已凍結，無成交。"},
+  "selection_changes":[],
+  "watchlist":[
+    {"ticker":"4576","name":"大銀微系統","positioning":"機器人與精密運動控制觀察核心","rating":"B","action":"WAIT","evidence":["10:15前報導顯示指數自早盤高點明顯回落，追價條件惡化","公司供應鏈定位需用公開營收與公司公告續驗"],"risks":["題材回吐","未授權交易與私有線索法遵風險"],"confirm_signals":["公開催化與量價共振","真實帳戶授權由本人完成"],"invalidations":["放量跌破支撐","公開基本面轉弱"],"exit_logic":"真實成交0；任何未授權委託立即凍結通報。"},
+    {"ticker":"2049","name":"上銀","positioning":"自動化與線性傳動龍頭觀察","rating":"B-","action":"WAIT","evidence":["機器人長線題材仍在","早盤開高走低要求更嚴格量價確認"],"risks":["景氣循環","資金輪動"],"confirm_signals":["營收展望改善","相對大盤轉強"],"invalidations":["訂單下修","量增價跌"],"exit_logic":"未成交；確認失敗即降評或移出。"},
+    {"ticker":"2359","name":"所羅門","positioning":"機器視覺題材觀察","rating":"C","action":"WAIT","evidence":["中小型題材仍有局部輪動","資金焦點轉向玻纖布與記憶體，機器視覺需新催化"],"risks":["高波動","獲利驗證不足"],"confirm_signals":["公開訂單","量能健康"],"invalidations":["題材退潮","基本面不及預期"],"exit_logic":"未成交；不追高。"},
+    {"ticker":"6125","name":"廣運","positioning":"自動化設備與智慧物流","rating":"C+","action":"WAIT","evidence":["設備題材具長線需求","盤中資金轉移使相對強勢尚未確認"],"risks":["接單認列","籌碼快速輪動"],"confirm_signals":["營收接單同向","帶量突破"],"invalidations":["量價背離","櫃買轉弱"],"exit_logic":"未成交；失去族群強勢即退出。"},
+    {"ticker":"2330","name":"台積電","positioning":"AI權值與大盤錨","rating":"C-","action":"WAIT","evidence":["公開報導確認早盤曾2370元","官方7月營收提供基本面背景"],"risks":["Fed與高估值","匯率地緣風險"],"confirm_signals":["台股止穩且海外同步","外資轉穩"],"invalidations":["權值轉弱","展望下修"],"exit_logic":"未成交；11:05精確報價不可驗證，維持WAIT。"}
+  ]
+}

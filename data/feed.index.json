@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
   "timezone": "Asia/Taipei",
-  "latest_update_id": "U20260820-1025",
-  "sequence": 160,
+  "latest_update_id": "U20260820-1145",
+  "sequence": 164,
   "ordering_rule": "sequence then update_id; ignore legacy chapter numbers",
-  "history_count": 160,
+  "history_count": 164,
   "updates": [
     {
       "sequence": 1,
@@ -1594,6 +1594,54 @@
       "stocks_file_id": "1xa9BJQ655KvBUeaV8RNmsB8PeA74NH3I",
       "market_svg_file_id": "19RkXCNV1pMduWjH0bmfddCq_6-5D-gJ4",
       "market_id": "M20260820-1025",
+      "backfill": true
+    },
+    {
+      "sequence": 161,
+      "update_id": "U20260820-1045",
+      "published_at": "2026-08-20T10:45:00+08:00",
+      "title": "第一百二十七回　一百萬委任只差她一個吻，他用受益人欄逼出第二個沈妍書",
+      "chapter_file_id": "14ZZN8f8FALRDsrwS1_wyO2yNc--bUv2Q",
+      "storyboard_file_id": "1781QtdKFJFPooZJvcAcbfAJsTLidSTU3",
+      "stocks_file_id": "1L5U_R9RxMXc8UM64sy0RBGK0409ESYZ-",
+      "market_svg_file_id": "1wZDhrBB6cfgqgTKQr-jYrZ5hlKU2_yWB",
+      "market_id": "M20260820-1045",
+      "backfill": true
+    },
+    {
+      "sequence": 162,
+      "update_id": "U20260820-1105",
+      "published_at": "2026-08-20T11:05:00+08:00",
+      "title": "第一百二十八回　她用五十一趴買下他的公司，他先讓第一個百萬只屬於自己",
+      "chapter_file_id": "1IqiH-_RPHC7N83ut5hy_SiYEeBErmmi2",
+      "storyboard_file_id": "1j1seAFR05U2FM34Mg5YFxtL4K4Euhh_-",
+      "stocks_file_id": "1BdbkiXmz5FGI_GAtknohd02crrNTGmTE",
+      "market_svg_file_id": "1mKKrlvgF5tH49B9TlqEz9VGB-mpnYuGV",
+      "market_id": "M20260820-1105",
+      "backfill": true
+    },
+    {
+      "sequence": 163,
+      "update_id": "U20260820-1125",
+      "published_at": "2026-08-20T11:25:00+08:00",
+      "title": "第一百二十九回　未授權帳戶倒數六十秒，他讓銀行先付三十萬認錯",
+      "chapter_file_id": "1iXmtJvLzG2V52kKKj4sCCHWnhgfk5SFr",
+      "storyboard_file_id": "1pM8dKGfvG988iyxZfIpoXRFs5k_C36uS",
+      "stocks_file_id": "1pgyZXCGde7MZfrUQPcl0c1wJ0bFX1MwY",
+      "market_svg_file_id": "1Dpl_SkjbIxmLdlTBCYkFVcZgq-Kcqajp",
+      "market_id": "M20260820-1125",
+      "backfill": true
+    },
+    {
+      "sequence": 164,
+      "update_id": "U20260820-1145",
+      "published_at": "2026-08-20T11:45:00+08:00",
+      "title": "第一百三十回　兩個妻子都要驗他的唇，他用五十萬把自己買回來",
+      "chapter_file_id": "1m0Dr6YT0iIqp_bmMUVDPjmznjiurhvzx",
+      "storyboard_file_id": "19rqVODI66HRhsPiGEmtw6JQ3Ohyf46Lg",
+      "stocks_file_id": "1qTXTfxfTuW_fo3b1SsfKaS6mG0fXlzV7",
+      "market_svg_file_id": "1CHpwRHUMIV6qjCjpGMs58iJAgsIs4R7a",
+      "market_id": "M20260820-1145",
       "backfill": true
     }
   ]

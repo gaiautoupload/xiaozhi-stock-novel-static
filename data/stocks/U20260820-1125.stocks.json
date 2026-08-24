@@ -1,0 +1,13 @@
+{
+  "update_id":"U20260820-1125","market_id":"M20260820-1125","as_of":"2026-08-20T11:25:00+08:00",
+  "trade_status":"NO_TRADE","recognized_income":1280000,"total_assets":1306000,"available_cash":1300000,"restricted_cash":6000,
+  "selection_changes":[],
+  "stocks":[
+    {"ticker":"4576","name":"大銀微系統","positioning":"機器人／精密運動控制","rating":"B","action":"WAIT","evidence":["中央社11:12報導上銀與大銀漲勢收斂至平盤附近","非凡盤中報導機器人展催化且大銀一度漲3至4%"],"risks":["題材回吐","非公開身分線索嚴禁交易"],"confirm_signals":["公開訂單或營收改善","量價重新共振"],"invalidations":["跌破盤中支撐且族群轉弱"],"exit_logic":"未確認不進場；失效即移除"},
+    {"ticker":"2049","name":"上銀","positioning":"線性傳動／自動化","rating":"B-","action":"WAIT","evidence":["機器人與智慧自動化展提供公開題材催化","中央社11:12報導上銀漲勢收斂至平盤"],"risks":["景氣循環","追價風險"],"confirm_signals":["營收與量價同步改善","族群廣度擴大"],"invalidations":["題材退潮或訂單下修"],"exit_logic":"不追價，僅等公開訊號"},
+    {"ticker":"2359","name":"所羅門","positioning":"AI視覺／機器人","rating":"C","action":"WAIT","evidence":["機器人展為產業催化","11:12前可驗證盤勢顯示資金分散至光學與機器人"],"risks":["高波動","獲利驗證不足"],"confirm_signals":["公開訂單","健康量能"],"invalidations":["爆量不漲或題材退潮"],"exit_logic":"嚴守部位上限，未確認零交易"},
+    {"ticker":"6125","name":"廣運","positioning":"自動化／智慧物流","rating":"C+","action":"WAIT","evidence":["智慧自動化展帶來公開催化","TPEx 10:45仍上漲0.43%顯示中小型股相對抗跌"],"risks":["輪動快速","接單認列波動"],"confirm_signals":["營收與訂單同向","櫃買維持相對強勢"],"invalidations":["櫃買轉弱且量價失效"],"exit_logic":"分批觀察，不以題材直接成交"},
+    {"ticker":"2330","name":"台積電","positioning":"先進製程／AI權值","rating":"C-","action":"WAIT","evidence":["中央社10:45報價2355元、仍小漲5元","台積電官方7月營收年增44.7%"],"risks":["Fed通膨疑慮","匯率、長債與海外半導體波動"],"confirm_signals":["權值重新領漲","外資與海外半導體共振"],"invalidations":["跌破盤中支撐且權值續弱"],"exit_logic":"不追高，待量價與法人確認"}
+  ]
+}
+
