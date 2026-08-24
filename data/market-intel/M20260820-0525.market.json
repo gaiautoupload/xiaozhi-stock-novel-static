@@ -1,0 +1,22 @@
+{
+  "market_id":"M20260820-0525","as_of":"2026-08-20T05:25:00+08:00","session_status":"taiwan_preopen_historical_backfill_us_postclose",
+  "sources":[
+    {"title":"TWSE 2026/08 TAIEX historical data","url":"https://www.twse.com.tw/en/indices/taiex/mi-5min-hist.html","published_at":"2026-08-19T13:30:00+08:00","accessed_at":"2026-08-24T10:07:00+08:00"},
+    {"title":"TPEx daily volume and index","url":"https://www.tpex.org.tw/en-us/mainboard/trading/info/daily-indices.html","published_at":"2026-08-19T13:30:00+08:00","accessed_at":"2026-08-24T10:07:00+08:00"},
+    {"title":"Federal Reserve July 28-29 minutes","url":"https://www.federalreserve.gov/monetarypolicy/fomcminutes20260729.htm","published_at":"2026-08-20T02:00:00+08:00","accessed_at":"2026-08-24T10:07:00+08:00"},
+    {"title":"Reuters Treasury long-bond buybacks","url":"https://www.reuters.com/world/us-treasury-double-sizes-some-debt-buyback-operations-least-4-billion-2026-08-19/","published_at":"2026-08-19T21:41:00+08:00","accessed_at":"2026-08-24T10:07:00+08:00"},
+    {"title":"Reuters market reaction view","url":"https://www.reuters.com/legal/transactional/view-us-treasury-will-double-some-bond-buy-backs-2026-08-19/","published_at":"2026-08-20T00:00:00+08:00","accessed_at":"2026-08-24T10:07:00+08:00"},
+    {"title":"TSMC July 2026 revenue","url":"https://pr.tsmc.com/english/news/3329","published_at":"2026-08-10T13:30:00+08:00","accessed_at":"2026-08-24T10:07:00+08:00"}
+  ],
+  "breaking_news":["FOMC紀要顯示通膨疑慮升高，未提供寬鬆保證。","美國財政部將長債回購由每次20億美元提高至至少40億美元。","Reuters即時反應顯示殖利率回落、美元走弱，Nasdaq方向約上漲0.4%，但精確收盤點位無目標時點證據。"],
+  "index_snapshot":{"TAIEX":{"date":"2026-08-19","close":44719.35,"change":-589.33,"change_pct":-1.30,"high":45071.34,"low":44308.71,"status":"official_close"},"TPEx":{"date":"2026-08-19","close":384.79,"change_pct":-1.55,"status":"official_close"},"volume_and_moving_averages":"exact historical volume and MA snapshot unavailable_at_target_time"},
+  "fx_snapshot":{"USD_TWD":{"value":31.937,"status":"official daily close; exact publication minute not reconstructed"},"USD_JPY":{"value":null,"status":"unavailable_at_target_time"},"impacts":{"foreign_flow":"美元回落可能改善外資風險偏好，但台股法人賣壓仍需開盤確認","tsmc_exporters":"台積電與出口股同時受海外科技、美元與終端需求影響","financial_life":"長債殖利率回落改善債券評價，利差與匯兌仍有風險","import_costs":"美元走弱方向可緩和美元計價進口成本","valuation":"殖利率回落支持長久期估值，偏鷹紀要限制擴張"}},
+  "cross_asset":{"NASDAQ":{"direction":"up about 0.4% in Reuters reaction","value":null,"status":"direction available; exact close unavailable_at_target_time"},"SOX":{"value":null,"status":"unavailable_at_target_time"},"TSM_ADR":{"value":null,"status":"unavailable_at_target_time"},"DXY":{"direction":"down about 0.8%","status":"Reuters historical report"},"US_10Y":{"value":null,"status":"exact target quote unavailable"},"US_30Y":{"value":5.184,"unit":"percent","status":"Reuters approximate after announcement"},"USDJPY":{"value":null,"status":"unavailable_at_target_time"},"gold":{"value":4487.91,"unit":"USD/oz","status":"Reuters historical snapshot"},"oil":{"value":null,"status":"geopolitical upward-risk context; exact quote unavailable"}},
+  "breadth_and_flow":{"three_institutions_net_twd_bn":-70.848,"interpretation":"大盤與櫃買同步下跌、法人顯著賣超；外資、台積電與上漲家數是盤前第一確認。","status":"historical reported aggregate"},
+  "sector_rotation":{"stronger_watch":["機器人／自動化","黃金與避險"],"weaker_watch":["高估值科技","法人調節權值"],"macro":["Fed通膨疑慮","長債回購流動性","地緣與關稅"],"implications":"出口、金融壽險、進口成本與估值受匯率及殖利率雙向拉扯。"},
+  "abc_wave":{"framework":"Elliott/ABC scenario only; not a forecast","current_interpretation":"44,308.71可能是急跌A段低點後弱B準備，也可能只是A段延伸暫停。","anchors":{"swing_high":45071.34,"swing_low":44308.71,"close":44719.35},"support":[44308.71],"resistance":[44811,45071.34],"alternate_scenario":"放量站回45,071.34才提高弱B反彈可信度；跌破44,308.71偏向A段延伸。","invalidation":"目標分鐘完整量價、均線與缺口資料不足，標記僅為情境。","confidence":"low"},
+  "scenarios":{"bullish":"外資轉買、台積電與機器人共振，指數放量站回45,071.34。","base":"44,308.71至45,071.34震盪，題材輪動但廣度修復有限。","bearish":"偏鷹利率與地緣通膨壓過回購利多，量增跌破44,308.71。"},
+  "next_confirmations":["外資現貨期貨方向","台積電開盤量價","TAIEX/TPEx上漲家數與成交量","NASDAQ/SOX/TSM ADR正式收盤資料","USD/TWD、USDJPY與美債殖利率"],
+  "risk_flags":["historical_backfill","exact_us_close_unavailable_at_target_time","insufficient_data_for_wave_confirmation","geopolitical_tariff_risk","not_investment_advice"],
+  "website_summary":"台股前收44,719.35、櫃買384.79，法人與廣度偏弱；長債回購壓低殖利率與美元、Nasdaq方向改善，但Fed通膨疑慮仍在。ABC僅列44,308.71支撐與45,071.34壓力的雙情境。"
+}

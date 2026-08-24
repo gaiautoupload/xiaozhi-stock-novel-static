@@ -1,0 +1,183 @@
+{
+  "market_id": "M20260820-0625",
+  "as_of": "2026-08-20T06:25:00+08:00",
+  "session_status": "Taiwan_preopen; US_cash_market_closed",
+  "sources": [
+    {
+      "title": "TWSE TAIEX historical data",
+      "url": "https://www.twse.com.tw/en/indices/taiex/mi-5min-hist.html",
+      "published_at": "2026-08-19 close",
+      "accessed_at": "2026-08-24T02:25:00Z"
+    },
+    {
+      "title": "TPEx daily indices",
+      "url": "https://www.tpex.org.tw/en-us/mainboard/trading/info/daily-indices.html",
+      "published_at": "2026-08-19 close",
+      "accessed_at": "2026-08-24T02:25:00Z"
+    },
+    {
+      "title": "How major US stock indexes fared Wednesday 8/19/2026",
+      "url": "https://apnews.com/article/cb67d83b0638d31e5fe3c80c8de5934c",
+      "published_at": "2026-08-19 after US close; exact minute unavailable",
+      "accessed_at": "2026-08-24T02:25:00Z"
+    },
+    {
+      "title": "Global yields fall after US Treasury boosts debt buybacks",
+      "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-08-19/",
+      "published_at": "2026-08-19; updated after US close",
+      "accessed_at": "2026-08-24T02:25:00Z"
+    },
+    {
+      "title": "FOMC Minutes, July 28-29 2026",
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20260729.htm",
+      "published_at": "2026-08-19T14:00:00-04:00",
+      "accessed_at": "2026-08-24T02:25:00Z"
+    },
+    {
+      "title": "TSMC July 2026 Revenue Report",
+      "url": "https://pr.tsmc.com/english/news/3329",
+      "published_at": "2026-08-10",
+      "accessed_at": "2026-08-24T02:25:00Z"
+    },
+    {
+      "title": "Central Bank of Taiwan daily exchange rates",
+      "url": "https://www.cbc.gov.tw/tw/lp-645-1.html",
+      "published_at": "2026-08-19 daily close; exact minute unavailable",
+      "accessed_at": "2026-08-24T02:25:00Z"
+    }
+  ],
+  "breaking_news": [
+    "美國財政部將長天期名目券回購規模由每次20億美元至少提高至40億美元，長債殖利率回落。",
+    "Fed 7月會議紀要顯示多位官員仍關切通膨，若通膨未降不排除再升息。",
+    "美股8月19日溫和收高，但半導體相對大盤偏弱。 06:25仍須等待台股新交易日驗證。"
+  ],
+  "index_snapshot": {
+    "TAIEX": {
+      "value": 44719.35,
+      "change_pct": -1.3,
+      "status": "2026-08-19 official close"
+    },
+    "TPEx": {
+      "value": 384.79,
+      "change_pct": -1.55,
+      "status": "2026-08-19 official close"
+    },
+    "SP500": {
+      "value": 7707.98,
+      "change_pct": 0.2,
+      "status": "2026-08-19 US close; AP"
+    },
+    "Dow": {
+      "value": 53463.05,
+      "change_pct": 0.2,
+      "status": "2026-08-19 US close; AP"
+    },
+    "NASDAQ": {
+      "value": 26331.09,
+      "change_pct": 0.2,
+      "status": "2026-08-19 US close; AP"
+    },
+    "SOX": {
+      "value": "unavailable_at_target_time",
+      "status": "direction weak; exact reliable close not independently verified"
+    },
+    "TSM_ADR": {
+      "value": "unavailable_at_target_time"
+    }
+  },
+  "fx_snapshot": {
+    "USD_TWD": {
+      "value": 31.937,
+      "status": "official daily close; publication minute unavailable"
+    },
+    "DXY": {
+      "value": 98.8,
+      "change_pct": -0.84
+    },
+    "USD_JPY": {
+      "value": 158.15,
+      "change_pct": -0.93
+    }
+  },
+  "cross_asset": {
+    "US10Y": {
+      "value_pct": 4.651,
+      "status": "around 4pm ET"
+    },
+    "US30Y": {
+      "value_pct": 5.187,
+      "status": "Reuters after Treasury announcement"
+    },
+    "gold_spot_usd": {
+      "value": 4508.64,
+      "change_pct": 4.05
+    },
+    "oil": {
+      "value": "near 92 USD",
+      "status": "geopolitical premium"
+    },
+    "NASDAQ_note": "broad tech recovered modestly while semiconductors lagged"
+  },
+  "breadth_and_flow": {
+    "taiwan_institutions": "三大法人賣超708.48億元",
+    "foreign_flow": "外資賣壓仍是台積電與權值股主要阻力",
+    "us_breadth": "三大指數約升0.2%，非全面風險偏好回歸",
+    "volume_and_ma": "目標時點無新台股交易量與均線資料，標示stale"
+  },
+  "sector_rotation": {
+    "stronger": [
+      "美國大型科技反彈",
+      "黃金與避險資產",
+      "部分機器人題材"
+    ],
+    "weaker": [
+      "半導體相對弱勢",
+      "台股權值與櫃買廣度"
+    ],
+    "impacts": {
+      "TSMC": "基本面有官方營收支撐，但外資與半導體相對弱勢壓抑估值",
+      "exporters": "美元走弱、台幣相對偏強可能壓縮換匯利益",
+      "financial_insurance": "長端殖利率回落有利債券評價，但利差與再投資收益受影響",
+      "import_costs": "美元回落可緩和能源與原料進口成本",
+      "valuation": "殖利率回落短線支撐高估值，但偏鷹Fed仍構成上限"
+    }
+  },
+  "abc_wave": {
+    "framework": "Elliott/ABC僅為條件情境，不是預測",
+    "current_interpretation": "8月19日急跌A後，海外市場回穩提供弱B反彈條件；台股尚未開盤確認",
+    "anchors": {
+      "A_high": 45071.34,
+      "A_low": 44308.71,
+      "close": 44719.35
+    },
+    "support": [
+      44308.71
+    ],
+    "resistance": [
+      45071.34
+    ],
+    "alternate_scenario": "海外科技反彈未帶動半導體，A段可能延伸並跌破44308.71",
+    "invalidation": "新交易日放量突破45071.34則原弱B框架失效；放量跌破44308.71則反彈情境失效",
+    "confidence": "low_to_medium; no new Taiwan session"
+  },
+  "scenarios": {
+    "bullish": "外資轉買、台積電領漲且指數放量站回45071.34",
+    "base": "44719附近震盪，機器人題材輪動但廣度有限",
+    "bearish": "半導體弱勢與法人賣壓延續，跌破44308.71"
+  },
+  "next_confirmations": [
+    "台股開盤後外資期現貨方向",
+    "台積電與櫃買開盤量價",
+    "SOX與TSM ADR可驗證正式收盤資料",
+    "USD/TWD即時方向",
+    "44308.71與45071.34攻防"
+  ],
+  "risk_flags": [
+    "Fed紀要偏鷹",
+    "中東與油價風險",
+    "長債殖利率仍在高檔",
+    "台股法人賣超與廣度偏弱",
+    "SOX及TSM ADR精確值未可靠還原"
+  ],
+  "website_summary": "美股三大指數8月19日約升0.2%，長債回購令美元與殖利率回落，但半導體相對弱、Fed紀要偏鷹。台股仍以44308.71支撐、45071.34壓力觀察，ABC僅列條件情境。"
+}

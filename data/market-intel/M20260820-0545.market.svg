@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <rect width="1200" height="675" fill="#0d111c"/><text x="60" y="72" fill="#b9c9ff" font-size="30" font-weight="700" font-family="sans-serif">M20260820-0545｜台股休市歷史情境</text>
+  <g font-family="sans-serif"><rect x="60" y="105" width="330" height="145" rx="20" fill="#18243b"/><text x="88" y="145" fill="#b8cafa" font-size="20">TAIEX 前收</text><text x="88" y="205" fill="#fff" font-size="38">44,719.35</text>
+  <rect x="435" y="105" width="330" height="145" rx="20" fill="#18243b"/><text x="463" y="145" fill="#b8cafa" font-size="20">TPEx 前收</text><text x="463" y="205" fill="#fff" font-size="38">384.79</text>
+  <rect x="810" y="105" width="330" height="145" rx="20" fill="#18243b"/><text x="838" y="145" fill="#b8cafa" font-size="20">USD/TWD 日收</text><text x="838" y="205" fill="#fff" font-size="38">31.937</text>
+  <rect x="60" y="285" width="520" height="260" rx="20" fill="#18243b"/><text x="88" y="330" fill="#ffe099" font-size="24" font-weight="700">資金與輪動</text><text x="88" y="377" fill="#ffabab" font-size="21">法人賣超 708.48 億</text><text x="88" y="420" fill="#dbe3f2" font-size="20">機器人題材有催化、廣度仍弱</text><text x="88" y="460" fill="#dbe3f2" font-size="20">金融壽險受長端殖利率雙向影響</text><text x="88" y="505" fill="#ffcf91" font-size="18">高估值科技仍受偏鷹紀要約束</text>
+  <rect x="620" y="285" width="520" height="260" rx="20" fill="#18243b"/><text x="648" y="330" fill="#ffe099" font-size="24" font-weight="700">ABC 雙情境</text><text x="648" y="377" fill="#fff" font-size="21">支撐 44,308.71｜壓力 45,071.34</text><text x="648" y="420" fill="#dbe3f2" font-size="20">基準：弱 B 嘗試，需量價確認</text><text x="648" y="460" fill="#dbe3f2" font-size="20">空方：A 延伸並跌破支撐</text><text x="648" y="505" fill="#ffcf91" font-size="18">精確跨資產分鐘值：unavailable</text>
+  <text x="60" y="610" fill="#8794ae" font-size="17">資料錨定至 2026-08-20 05:45（Asia/Taipei）；ABC 僅為條件情境。</text></g>
+</svg>

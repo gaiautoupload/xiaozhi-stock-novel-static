@@ -1,0 +1,13 @@
+{
+  "update_id":"U20260820-0545","market_id":"M20260820-0545","as_of":"2026-08-20T05:45:00+08:00",
+  "portfolio":{"total_assets_twd":226000,"free_cash_twd":220000,"restricted_cash_twd":6000,"recognized_income_twd":200000,"stock_trades":0},
+  "watchlist":[
+    {"ticker":"4576","name":"大銀微系統","positioning":"精密運動控制／機器人零組件","rating":"B","action":"WAIT","evidence":["公司官網產品涵蓋精密運動控制","機器人題材有催化但市場廣度偏弱"],"risks":["估值先行","分鐘量價不足"],"confirm_signals":["訂單或營收加速","量價轉強"],"invalidations":["量增破低","展望轉弱"],"exit_logic":"失效即移出觀察"},
+    {"ticker":"2049","name":"上銀","positioning":"線性傳動／自動化","rating":"B-","action":"WAIT","evidence":["公司產品涵蓋線性傳動核心元件","自動化題材延續但法人流向偏弱"],"risks":["景氣循環","出口匯率"],"confirm_signals":["接單轉強","族群擴散"],"invalidations":["跌破結構","需求惡化"],"exit_logic":"不猜底，失效退出"},
+    {"ticker":"2359","name":"所羅門","positioning":"AI視覺／機器人","rating":"C","action":"WAIT","evidence":["公司聚焦AI視覺與機器人","Unitree上市提供題材催化"],"risks":["題材波動","訂單待驗"],"confirm_signals":["公告訂單","量價共振"],"invalidations":["題材退潮破低","營運不及預期"],"exit_logic":"證據價格雙確認才評估"},
+    {"ticker":"6125","name":"廣運","positioning":"自動化／物流","rating":"C+","action":"WAIT","evidence":["公司揭示自動化與物流業務","國際機器人題材仍活躍"],"risks":["專案認列","廣度偏弱"],"confirm_signals":["新案驗收","量能擴張"],"invalidations":["訂單延後","量增破低"],"exit_logic":"證據落空即退出"},
+    {"ticker":"2330","name":"台積電","positioning":"先進製程／AI權值","rating":"C-","action":"WAIT","evidence":["官方7月營收提供基本面錨點","前日法人賣超與大盤回落壓抑權值"],"risks":["科技估值","外資匯率地緣"],"confirm_signals":["外資轉買","官方展望確認"],"invalidations":["跌破44308.71結構","展望下修"],"exit_logic":"未確認不交易，失效退出"}
+  ],
+  "selection_changes":[],
+  "compliance":["八萬元顧問費已簽約、交付、驗收、入帳","十二億與三十億未交割不列資產","股票零成交；非公開劇情資訊禁交易"]
+}

@@ -1,0 +1,22 @@
+{
+  "market_id":"M20260820-0545","as_of":"2026-08-20T05:45:00+08:00","session_status":"taiwan_preopen_historical_backfill_us_postclose",
+  "sources":[
+    {"title":"TWSE 2026/08 TAIEX historical data","url":"https://www.twse.com.tw/en/indices/taiex/mi-5min-hist.html","published_at":"2026-08-19T13:30:00+08:00","accessed_at":"2026-08-24T10:07:00+08:00"},
+    {"title":"TPEx daily volume and index","url":"https://www.tpex.org.tw/en-us/mainboard/trading/info/daily-indices.html","published_at":"2026-08-19T13:30:00+08:00","accessed_at":"2026-08-24T10:07:00+08:00"},
+    {"title":"Federal Reserve July minutes","url":"https://www.federalreserve.gov/monetarypolicy/fomcminutes20260729.htm","published_at":"2026-08-20T02:00:00+08:00","accessed_at":"2026-08-24T10:07:00+08:00"},
+    {"title":"Reuters Treasury buyback report","url":"https://www.reuters.com/world/us-treasury-double-sizes-some-debt-buyback-operations-least-4-billion-2026-08-19/","published_at":"2026-08-19T21:41:00+08:00","accessed_at":"2026-08-24T10:07:00+08:00"},
+    {"title":"Federal Reserve fund liquidity risk note","url":"https://www.federalreserve.gov/econres/notes/feds-notes/liquidity-transformation-risks-in-u-s-bank-loan-and-high-yield-mutual-funds-a-2026-update-20260819.html","published_at":"2026-08-19T20:00:00+08:00","accessed_at":"2026-08-24T10:07:00+08:00"},
+    {"title":"TSMC July 2026 revenue","url":"https://pr.tsmc.com/english/news/3329","published_at":"2026-08-10T13:30:00+08:00","accessed_at":"2026-08-24T10:07:00+08:00"}
+  ],
+  "breaking_news":["長債回購帶來的殖利率緩和與Fed通膨疑慮形成拉鋸。","Fed研究指出銀行貸款基金的流動性轉換風險近年上升，信用市場壓力需納入風險旗標。","美股科技方向有所改善，但SOX、TSM ADR與NASDAQ精確收盤仍無可靠目標時點證據。"],
+  "index_snapshot":{"TAIEX":{"date":"2026-08-19","close":44719.35,"change":-589.33,"change_pct":-1.30,"high":45071.34,"low":44308.71,"status":"official_close"},"TPEx":{"date":"2026-08-19","close":384.79,"change_pct":-1.55,"status":"official_close"},"volume_and_moving_averages":"exact historical target snapshot unavailable"},
+  "fx_snapshot":{"USD_TWD":{"value":31.937,"status":"official daily close; exact publication minute not reconstructed"},"USD_JPY":{"value":null,"status":"unavailable_at_target_time"},"impacts":{"foreign_flow":"美元轉弱有利風險偏好但法人賣壓未確認反轉","tsmc_exporters":"外銷換算與科技需求需並看","financial_life":"長債評價改善但信用與流動性風險仍在","import_costs":"美元走弱有助進口成本","valuation":"殖利率回落支撐估值，Fed偏鷹與信用風險限制幅度"}},
+  "cross_asset":{"NASDAQ":{"direction":"approximately +0.4% in Reuters market reaction","value":null,"status":"exact close unavailable"},"SOX":{"value":null,"status":"unavailable_at_target_time"},"TSM_ADR":{"value":null,"status":"unavailable_at_target_time"},"DXY":{"direction":"down about 0.8%","status":"historical Reuters report"},"US_10Y":{"value":null,"status":"unavailable"},"US_30Y":{"value":5.184,"unit":"percent","status":"Reuters approximate"},"USDJPY":{"value":null,"status":"unavailable"},"gold":{"value":4487.91,"unit":"USD/oz","status":"historical snapshot"},"oil":{"value":null,"status":"geopolitical risk only"}},
+  "breadth_and_flow":{"three_institutions_net_twd_bn":-70.848,"interpretation":"法人與廣度仍偏空，機器人題材須由量能與上漲家數確認，台積電是指數樞紐。","status":"historical reported aggregate"},
+  "sector_rotation":{"stronger_watch":["機器人／自動化","黃金避險"],"weaker_watch":["高估值科技","信用敏感資產"],"macro":["Fed通膨疑慮","美債回購","基金流動性風險","地緣／關稅"],"implications":"金融壽險需同時看利率、信用與匯率；出口與進口成本受美元方向影響。"},
+  "abc_wave":{"framework":"Elliott/ABC scenario only; not a forecast","current_interpretation":"急跌A後弱B準備與A段延伸並存，錨點不足。","anchors":{"swing_high":45071.34,"swing_low":44308.71,"close":44719.35},"support":[44308.71],"resistance":[44811,45071.34],"alternate_scenario":"站回45,071.34且廣度量能改善才提高B段可信度；破44,308.71偏空。","invalidation":"目標分鐘K、均線、量能與缺口不足，波浪情境低信心。","confidence":"low"},
+  "scenarios":{"bullish":"外資回補與殖利率回落推動權值、機器人擴散。","base":"區間震盪、題材輪動，廣度慢修復。","bearish":"Fed、信用流動性或地緣風險推升殖利率並跌破支撐。"},
+  "next_confirmations":["台股外資與權值方向","TPEx廣度","台積電量價","正式海外收盤資料","USD/TWD、USDJPY、美債與信用利差"],
+  "risk_flags":["historical_backfill","credit_fund_liquidity_risk","exact_cross_asset_close_unavailable","insufficient_abc_anchors","not_investment_advice"],
+  "website_summary":"05:45盤前歷史框架維持法人與廣度偏弱；美債回購利多估值，但Fed通膨與基金流動性風險增加尾部風險。機器人僅列觀察主線，ABC仍為低信心雙情境。"
+}

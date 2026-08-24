@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
   "timezone": "Asia/Taipei",
-  "latest_update_id": "U20260820-0505",
-  "sequence": 144,
+  "latest_update_id": "U20260820-0645",
+  "sequence": 149,
   "ordering_rule": "sequence then update_id; ignore legacy chapter numbers",
-  "history_count": 144,
+  "history_count": 149,
   "updates": [
     {
       "sequence": 1,
@@ -1402,6 +1402,66 @@
       "stocks_file_id": "1cFl93BneSTWOBmMo6TpUf0B4Me0mMHkP",
       "market_svg_file_id": "1aCa2Zsl0pZxvwZM7KOKv6tVaPtxazjN5",
       "market_id": "M20260820-0505",
+      "backfill": true
+    },
+    {
+      "sequence": 145,
+      "update_id": "U20260820-0525",
+      "published_at": "2026-08-20T05:25:00+08:00",
+      "title": "第一百一十一回　十二萬繞過三十年，她母親卻把小智列為唯一收款人",
+      "chapter_file_id": "1oHBUE6YEz92Q33rg_y-oBtuAT-MiUofV",
+      "storyboard_file_id": "1E9GshMGMIIa1lcZOtye9BLnmxJg7H_rf",
+      "stocks_file_id": "15rC7PG_Uq27VwBXyZxNcJRUnTNAqWGRs",
+      "market_svg_file_id": "1H3T-D1nvxGrxBKSzgh8obBd83eIzdfra",
+      "market_id": "M20260820-0525",
+      "backfill": true
+    },
+    {
+      "sequence": 146,
+      "update_id": "U20260820-0545",
+      "published_at": "2026-08-20T05:45:00+08:00",
+      "title": "第一百一十二回　八萬尾款真的入帳，四個女人卻收到同一份婚前協議",
+      "chapter_file_id": "1ZjG9u13gjgysANF4F1ZCfFqVyIy4OTAn",
+      "storyboard_file_id": "1c-toeTeHCC16Ji7eh2hN0vEmfcAFlRvc",
+      "stocks_file_id": "1WPzlH91C7XWwu6jb9ibqDDfiqOQEgBeT",
+      "market_svg_file_id": "1o0nCnMzAex6QpJCE-zxJzCUcEL_Tj1fP",
+      "market_id": "M20260820-0545",
+      "backfill": true
+    },
+    {
+      "sequence": 147,
+      "update_id": "U20260820-0605",
+      "published_at": "2026-08-20T06:05:00+08:00",
+      "title": "第一百一十三回　模型替她們排好婚序，他用一份零元同意書讓AI先告自己",
+      "chapter_file_id": "11yoqHfauwUYPzXcgdWHsY4erhc4fLlIE",
+      "storyboard_file_id": "1X3tDqzZ_drAkmFqiP9aU9DD5OxDmJEv8",
+      "stocks_file_id": "18jANpIbAa4P-Q1Lga9eJuuI7CH6AAsdo",
+      "market_svg_file_id": "1J7NRtEUck1sCmRf6IeJapLSTGfISO-iw",
+      "market_id": "M20260820-0605",
+      "backfill": true
+    },
+    {
+      "sequence": 148,
+      "update_id": "U20260820-0625",
+      "published_at": "2026-08-20T06:25:00+08:00",
+      "title": "第一百一十四回　死人替他簽了四十八萬，她在證據室先收走他的門卡",
+      "chapter_file_id": "1HHRD956OwagKxN0RvEONXmoHwo2EvV82",
+      "storyboard_file_id": "1pcYeILZbzfMwzQU_OvO1b8L2Us0Znntc",
+      "stocks_file_id": "1_0juQ8qJhRj7Hw8Do-wS9VUd9C4Jf0iF",
+      "market_svg_file_id": "1-tlz5ix1zUIIFUU6oTSywUA-tcPYxhVb",
+      "market_id": "M20260820-0625",
+      "backfill": true
+    },
+    {
+      "sequence": 149,
+      "update_id": "U20260820-0645",
+      "published_at": "2026-08-20T06:45:00+08:00",
+      "title": "第一百一十五回　妍書承認造了婚姻模型，小智卻用一元買下它的自白",
+      "chapter_file_id": "1NXUXMn_vSjOFju1vRgtkQqRKj9vH_kUm",
+      "storyboard_file_id": "1NBNI0RauctP4FrGq49FS_my7Mgv8l0bg",
+      "stocks_file_id": "1AhJGiIWZlsLu-LcKFzvy4kmJqtUfFaZC",
+      "market_svg_file_id": "1Ml7n7LDauX1FDzHbOKMfAxAquvepFTVM",
+      "market_id": "M20260820-0645",
       "backfill": true
     }
   ]

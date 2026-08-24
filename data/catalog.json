@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-24T02:00:47+00:00",
-  "latest_update_id": "U20260820-0505",
-  "sequence": 144,
+  "generated_at": "2026-08-24T03:19:46+00:00",
+  "latest_update_id": "U20260820-0645",
+  "sequence": 149,
   "entries": [
     {
       "sequence": 1,
@@ -1441,6 +1441,56 @@
       "chapter_path": "data/chapters/U20260820-0505.md",
       "stocks_path": "data/stocks/U20260820-0505.stocks.json",
       "market_svg_path": "data/visuals/U20260820-0505.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 145,
+      "update_id": "U20260820-0525",
+      "published_at": "2026-08-20T05:25:00+08:00",
+      "title": "第一百一十一回　十二萬繞過三十年，她母親卻把小智列為唯一收款人",
+      "chapter_path": "data/chapters/U20260820-0525.md",
+      "stocks_path": "data/stocks/U20260820-0525.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-0525.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 146,
+      "update_id": "U20260820-0545",
+      "published_at": "2026-08-20T05:45:00+08:00",
+      "title": "第一百一十二回　八萬尾款真的入帳，四個女人卻收到同一份婚前協議",
+      "chapter_path": "data/chapters/U20260820-0545.md",
+      "stocks_path": "data/stocks/U20260820-0545.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-0545.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 147,
+      "update_id": "U20260820-0605",
+      "published_at": "2026-08-20T06:05:00+08:00",
+      "title": "第一百一十三回　模型替她們排好婚序，他用一份零元同意書讓AI先告自己",
+      "chapter_path": "data/chapters/U20260820-0605.md",
+      "stocks_path": "data/stocks/U20260820-0605.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-0605.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 148,
+      "update_id": "U20260820-0625",
+      "published_at": "2026-08-20T06:25:00+08:00",
+      "title": "第一百一十四回　死人替他簽了四十八萬，她在證據室先收走他的門卡",
+      "chapter_path": "data/chapters/U20260820-0625.md",
+      "stocks_path": "data/stocks/U20260820-0625.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-0625.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 149,
+      "update_id": "U20260820-0645",
+      "published_at": "2026-08-20T06:45:00+08:00",
+      "title": "第一百一十五回　妍書承認造了婚姻模型，小智卻用一元買下它的自白",
+      "chapter_path": "data/chapters/U20260820-0645.md",
+      "stocks_path": "data/stocks/U20260820-0645.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-0645.market.svg",
       "backfill": true
     }
   ]
