@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+<rect width="1200" height="675" fill="#07131f"/><text x="55" y="65" fill="#f8fafc" font-size="34" font-family="sans-serif" font-weight="700">台股盤前市場情報｜2026-08-20 08:05</text>
+<text x="55" y="102" fill="#94a3b8" font-size="18" font-family="sans-serif">歷史回補・可驗證前收；非即時報價</text>
+<rect x="55" y="135" width="330" height="145" rx="18" fill="#12233b"/><text x="80" y="180" fill="#67e8f9" font-size="22" font-family="sans-serif">TAIEX</text><text x="80" y="230" fill="#fff" font-size="34" font-family="sans-serif">44,719.35</text><text x="80" y="260" fill="#fca5a5" font-size="20" font-family="sans-serif">-1.30%</text>
+<rect x="435" y="135" width="330" height="145" rx="18" fill="#12233b"/><text x="460" y="180" fill="#67e8f9" font-size="22" font-family="sans-serif">TPEx</text><text x="460" y="230" fill="#fff" font-size="34" font-family="sans-serif">384.79</text><text x="460" y="260" fill="#fca5a5" font-size="20" font-family="sans-serif">-1.55%</text>
+<rect x="815" y="135" width="330" height="145" rx="18" fill="#12233b"/><text x="840" y="180" fill="#67e8f9" font-size="22" font-family="sans-serif">跨資產</text><text x="840" y="220" fill="#fff" font-size="22" font-family="sans-serif">DXY 98.80</text><text x="840" y="255" fill="#fff" font-size="22" font-family="sans-serif">美30Y 5.187%</text>
+<rect x="55" y="325" width="1090" height="220" rx="18" fill="#10291f"/><text x="80" y="370" fill="#86efac" font-size="23" font-family="sans-serif">ABC 情境（非預言）</text>
+<text x="80" y="415" fill="#f8fafc" font-size="23" font-family="sans-serif">支撐 44,308.71｜壓力 44,719.35／45,071.34</text><text x="80" y="460" fill="#cbd5e1" font-size="21" font-family="sans-serif">基準：急跌A後等待弱B；跌破支撐則保留A段延伸</text><text x="80" y="505" fill="#fbbf24" font-size="21" font-family="sans-serif">Fed偏鷹＋法人賣超，長債回購僅帶來喘息｜WAIT</text>
+<text x="55" y="625" fill="#94a3b8" font-size="18" font-family="sans-serif">SOX／TSM ADR精確目標時點：unavailable｜錨點不足：insufficient_data</text>
+</svg>

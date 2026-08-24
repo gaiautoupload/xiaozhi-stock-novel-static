@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
   "timezone": "Asia/Taipei",
-  "latest_update_id": "U20260820-0645",
-  "sequence": 149,
+  "latest_update_id": "U20260820-0805",
+  "sequence": 153,
   "ordering_rule": "sequence then update_id; ignore legacy chapter numbers",
-  "history_count": 149,
+  "history_count": 153,
   "updates": [
     {
       "sequence": 1,
@@ -1462,6 +1462,54 @@
       "stocks_file_id": "1AhJGiIWZlsLu-LcKFzvy4kmJqtUfFaZC",
       "market_svg_file_id": "1Ml7n7LDauX1FDzHbOKMfAxAquvepFTVM",
       "market_id": "M20260820-0645",
+      "backfill": true
+    },
+    {
+      "sequence": 150,
+      "update_id": "U20260820-0705",
+      "published_at": "2026-08-20T07:05:00+08:00",
+      "title": "第一百一十六回　十二萬里程碑真的入帳，活著的妻子卻來收他的六千元",
+      "chapter_file_id": "1njsvM29GodkJJdo0qExAah4RMRgYM5hx",
+      "storyboard_file_id": "1k97zZzU3lJJpdPyBSj3DRnmCkoLujybk",
+      "stocks_file_id": "1-SgZDz1Fc47cKEaidQgosOGEnw7eE0zt",
+      "market_svg_file_id": "1-6E2H9p2pH8Qm7YxxFYBAtU3-nzmur17",
+      "market_id": "M20260820-0705",
+      "backfill": true
+    },
+    {
+      "sequence": 151,
+      "update_id": "U20260820-0725",
+      "published_at": "2026-08-20T07:25:00+08:00",
+      "title": "第一百一十七回　十歲的她替他存六千，他用一張兒童帳本逼活死人認錯",
+      "chapter_file_id": "1pE15Hu5g4yCFC5KtqLaGL5bs9qxUcH9D",
+      "storyboard_file_id": "1jj1fDkPFRRcWdvG0YcQBb-XswhhhviCv",
+      "stocks_file_id": "1sItASt4pAQL0p09aQgA2d8kbhVt9XGia",
+      "market_svg_file_id": "1lQZ73yspZsbg9EGL-S1UZUIKIJLZqN9Z",
+      "market_id": "M20260820-0725",
+      "backfill": true
+    },
+    {
+      "sequence": 152,
+      "update_id": "U20260820-0745",
+      "published_at": "2026-08-20T07:45:00+08:00",
+      "title": "第一百一十八回　十四萬真的入帳，她母親卻拿婚約交換六千元真相",
+      "chapter_file_id": "1LZd9mMeT5axkcqGyrE1TMIXPIVawMMBx",
+      "storyboard_file_id": "12BZ6dog0uPYS17DHNniICijesVurU6fe",
+      "stocks_file_id": "13DX4p0itVD5Quo9CjF_UQR-EhKoDXHct",
+      "market_svg_file_id": "1aITO9FQ4xmps3VRexn2TV6lN0Hl_N3N9",
+      "market_id": "M20260820-0745",
+      "backfill": true
+    },
+    {
+      "sequence": 153,
+      "update_id": "U20260820-0805",
+      "published_at": "2026-08-20T08:05:00+08:00",
+      "title": "第一百一十九回　名冊說岑雪早死，他用一條臍帶碼讓活人拿回名字",
+      "chapter_file_id": "1jTDScpHOWrzLyWRBqpqqQMqwGjhWpteq",
+      "storyboard_file_id": "1YHLV87pwptJNhyRju7frgFzFiQ6tjtn0",
+      "stocks_file_id": "1V7ipYJ0sM5K5gnxZkrxVe2s0NOoGCZQb",
+      "market_svg_file_id": "1V1ZgJolueJYfIGteOBq8kRBGFB3Ts0ol",
+      "market_id": "M20260820-0805",
       "backfill": true
     }
   ]

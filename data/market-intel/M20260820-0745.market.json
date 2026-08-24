@@ -1,0 +1,22 @@
+{
+  "market_id":"M20260820-0745","as_of":"2026-08-20T07:45:00+08:00","session_status":"taiwan_preopen_us_closed_historical_reconstruction",
+  "sources":[
+    {"title":"TWSE TAIEX August 2026 historical data","url":"https://www.twse.com.tw/en/indices/taiex/mi-5min-hist.html","published_at":"2026-08-19T13:30:00+08:00","accessed_at":"2026-08-24T11:24:00+08:00"},
+    {"title":"TPEx daily index historical data","url":"https://www.tpex.org.tw/en-us/mainboard/trading/info/daily-indices.html","published_at":"2026-08-19T13:30:00+08:00","accessed_at":"2026-08-24T11:24:00+08:00"},
+    {"title":"Federal Reserve July 28-29 2026 minutes","url":"https://www.federalreserve.gov/monetarypolicy/fomcminutes20260729.htm","published_at":"2026-08-19T14:00:00-04:00","accessed_at":"2026-08-24T11:24:00+08:00"},
+    {"title":"Reuters Treasury increases long-bond buybacks","url":"https://www.reuters.com/world/us-treasury-double-sizes-some-debt-buyback-operations-least-4-billion-2026-08-19/","published_at":"2026-08-19T16:00:00-04:00","accessed_at":"2026-08-24T11:24:00+08:00"},
+    {"title":"Reuters global markets August 19","url":"https://www.reuters.com/world/china/global-markets-global-markets-2026-08-19/","published_at":"2026-08-19T17:00:00-04:00","accessed_at":"2026-08-24T11:24:00+08:00"},
+    {"title":"TSMC July revenue announcement","url":"https://pr.tsmc.com/english/news/3329","published_at":"2026-08-10T13:30:00+08:00","accessed_at":"2026-08-24T11:24:00+08:00"}
+  ],
+  "breaking_news":["長債回購擴大使30年債殖利率由高點回落至約5.187%","Fed維持3.50%-3.75%但內部分歧偏鷹，油價與地緣仍是通膨風險"],
+  "index_snapshot":{"TAIEX":{"close":44719.35,"change":-589.33,"change_pct":-1.30,"high":45071.34,"low":44308.71,"status":"official historical close"},"TPEx":{"close":384.79,"change_pct":-1.55,"status":"official historical close"},"NASDAQ":{"close":26331.09,"change_pct":0.2,"status":"reported close"},"SOX":{"value":null,"status":"unavailable_at_target_time"}},
+  "fx_snapshot":{"USD_TWD":{"value":31.937,"status":"official daily close; exact publication minute unavailable"},"DXY":{"value":98.80,"change_pct":-0.84,"status":"Reuters snapshot"},"USD_JPY":{"value":158.15,"status":"Reuters snapshot; exact 07:45 tick unavailable"}},
+  "cross_asset":{"TSM_ADR":{"value":null,"status":"official target-time close unavailable"},"US_30Y":{"value":5.187,"unit":"percent","status":"Reuters reference"},"gold":{"value":4508.64,"unit":"USD/oz","change_pct":4.05,"status":"Reuters snapshot"},"impact":{"tsmc":"外資與SOX仍是開盤確認核心","exporters":"美元走弱可能壓縮台幣營收換算","financial_insurance":"長債回落有利債券評價但利率波動仍高","import_costs":"新台幣偏強降低進口成本","valuation":"利率下降短線支撐估值，Fed偏鷹限制上修"}},
+  "breadth_and_flow":{"three_institutions_net_twd_bn":-70.848,"foreign_and_breadth":"8月19日法人賣壓、櫃買跌幅與權值集中度均顯示廣度偏弱","volume_and_moving_average":"07:45仍為盤前，當日成交量、均線缺口與上漲家數 unavailable"},
+  "sector_rotation":{"stronger_themes":["機器人事件催化","黃金避險"],"weaker_themes":["半導體相對強度","高估值中小型電子"],"readthrough":"等待09:00後量價驗證，不把海外題材直接等同台股買盤"},
+  "abc_wave":{"framework":"Elliott/ABC scenario only","current_interpretation":"弱B反彈準備與A段延伸風險並存","anchors":{"prior_high":45071.34,"swing_low":44308.71,"close":44719.35},"support":[44308.71],"resistance":[45071.34],"alternate_scenario":"跌破44308.71且量增，A段延伸優先","invalidation":"帶量站穩45071.34並改善外資與櫃買廣度","confidence":"low_to_medium"},
+  "scenarios":{"bullish":"台積電、SOX與外資同步止穩，指數帶量收復45071.34","base":"開盤區間震盪、機器人局部輪動、五檔維持WAIT","bearish":"跌破44308.71且櫃買破底，殖利率反升壓縮估值"},
+  "next_confirmations":["09:00後成交量與上漲家數","外資現貨與期貨","台積電開盤相對大盤強弱","SOX與TSM ADR官方資料"],
+  "risk_flags":["歷史回補非即時行情","SOX與TSM ADR unavailable","盤前缺少當日量價與均線缺口","Fed、油價、地緣及關稅可能造成跳空"],
+  "website_summary":"07:45盤前仍以8月19日急跌、法人賣超與櫃買弱勢為主；長債與美元回落帶來喘息，但偏鷹Fed與半導體相對疲弱使所有觀察股維持WAIT。"
+}

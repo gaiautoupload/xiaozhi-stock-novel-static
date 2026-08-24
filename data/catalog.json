@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-24T03:19:46+00:00",
-  "latest_update_id": "U20260820-0645",
-  "sequence": 149,
+  "generated_at": "2026-08-24T04:20:12+00:00",
+  "latest_update_id": "U20260820-0805",
+  "sequence": 153,
   "entries": [
     {
       "sequence": 1,
@@ -1491,6 +1491,46 @@
       "chapter_path": "data/chapters/U20260820-0645.md",
       "stocks_path": "data/stocks/U20260820-0645.stocks.json",
       "market_svg_path": "data/visuals/U20260820-0645.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 150,
+      "update_id": "U20260820-0705",
+      "published_at": "2026-08-20T07:05:00+08:00",
+      "title": "第一百一十六回　十二萬里程碑真的入帳，活著的妻子卻來收他的六千元",
+      "chapter_path": "data/chapters/U20260820-0705.md",
+      "stocks_path": "data/stocks/U20260820-0705.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-0705.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 151,
+      "update_id": "U20260820-0725",
+      "published_at": "2026-08-20T07:25:00+08:00",
+      "title": "第一百一十七回　十歲的她替他存六千，他用一張兒童帳本逼活死人認錯",
+      "chapter_path": "data/chapters/U20260820-0725.md",
+      "stocks_path": "data/stocks/U20260820-0725.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-0725.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 152,
+      "update_id": "U20260820-0745",
+      "published_at": "2026-08-20T07:45:00+08:00",
+      "title": "第一百一十八回　十四萬真的入帳，她母親卻拿婚約交換六千元真相",
+      "chapter_path": "data/chapters/U20260820-0745.md",
+      "stocks_path": "data/stocks/U20260820-0745.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-0745.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 153,
+      "update_id": "U20260820-0805",
+      "published_at": "2026-08-20T08:05:00+08:00",
+      "title": "第一百一十九回　名冊說岑雪早死，他用一條臍帶碼讓活人拿回名字",
+      "chapter_path": "data/chapters/U20260820-0805.md",
+      "stocks_path": "data/stocks/U20260820-0805.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-0805.market.svg",
       "backfill": true
     }
   ]
