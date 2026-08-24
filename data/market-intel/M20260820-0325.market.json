@@ -1,0 +1,23 @@
+{
+  "market_id":"M20260820-0325","as_of":"2026-08-20T03:25:00+08:00","session_status":"US_session_late; Taiwan_closed; historical_backfill",
+  "sources":[
+    {"title":"TAIEX Total Index Historical Data","url":"https://www.twse.com.tw/en/indices/taiex/mi-5min-hist.html","published_at":"2026-08-19","accessed_at":"2026-08-24T08:10:00+08:00"},
+    {"title":"TPEx Daily Volume & Index","url":"https://www.tpex.org.tw/en-us/mainboard/trading/info/daily-indices.html","published_at":"2026-08-19","accessed_at":"2026-08-24T08:10:00+08:00"},
+    {"title":"Minutes of the FOMC, July 28-29 2026","url":"https://www.federalreserve.gov/monetarypolicy/fomcminutes20260729.htm","published_at":"2026-08-19T14:00:00-04:00","accessed_at":"2026-08-24T08:10:00+08:00"},
+    {"title":"Fed policymakers' inflation concerns increased","url":"https://www.reuters.com/business/fed-policymakers-inflation-concerns-increased-july-meeting-minutes-show-2026-08-19/","published_at":"2026-08-19T18:04:00Z","accessed_at":"2026-08-24T08:10:00+08:00"},
+    {"title":"Global yields fall after US Treasury boosts debt buybacks","url":"https://www.reuters.com/world/china/global-markets-global-markets-2026-08-19/","published_at":"2026-08-19T02:51:00Z","accessed_at":"2026-08-24T08:10:00+08:00"},
+    {"title":"TSMC July 2026 Revenue Report","url":"https://pr.tsmc.com/english/news/3329","published_at":"2026-08-10","accessed_at":"2026-08-24T08:10:00+08:00"}
+  ],
+  "breaking_news":["FOMC紀要顯示通膨疑慮升高，數名官員支持升息，許多人認為通膨不降則可能需緊縮","美國財政部擴大長天期債券回購，壓低長端殖利率並削弱美元；目標分鐘精確報價無法可靠重建"],
+  "index_snapshot":{"TAIEX":{"value":44719.35,"change_pct":-1.30,"date":"2026-08-19","high":45071.34,"low":44308.71,"status":"official_prior_close"},"TPEx":{"value":384.79,"change_pct":-1.55,"date":"2026-08-19","status":"official_prior_close"},"volume_and_moving_average_gap":"intraday_volume_and_MA_gap_insufficient_data_at_target_minute"},
+  "fx_snapshot":{"USD_TWD":{"value":31.937,"date":"2026-08-19","status":"stale_official_close"},"DXY":{"direction":"down_after_Treasury_buyback_news","exact_value":"unavailable_at_target_time"},"USD_JPY":{"direction":"yen_firmer","exact_value":"unavailable_at_target_time"},"impacts":{"exporters":"台幣若升值壓抑換匯收益；本時點僅方向性","financial_life_insurance":"長債殖利率回落有助債券評價但匯兌與避險成本仍需追蹤","import_costs":"美元走弱有利美元計價進口成本","valuation":"殖利率回落短線支撐成長股估值，偏鷹Fed限制擴張"}},
+  "cross_asset":{"NASDAQ":{"direction":"late-session_positive_but_pared","exact_value":"unavailable_at_target_time"},"SOX":{"status":"unavailable_at_target_time"},"TSM_ADR":{"status":"unavailable_at_target_time"},"US10Y":{"direction":"lower_after_buyback","exact_value":"unavailable_at_target_time"},"US30Y":{"direction":"lower_from_multiyear_high","exact_value":"unavailable_at_target_time"},"oil":{"direction":"higher_on_Middle_East_risk"},"gold":{"direction":"stronger_on_lower_yields_and_dollar"}},
+  "breadth_and_flow":{"taiwan_institutions":"2026-08-19 three institutions net sell about TWD 70.848bn","foreign":"net sell; exact component retained from official/press close package","breadth":"decliners exceeded advancers; risk appetite weak","us_late_session":"stocks lifted by lower yields but gains pared; exact 03:25 breadth unavailable"},
+  "sector_rotation":{"leaders":["機器人／自動化題材催化","黃金與利率敏感資產"],"laggards":["高估值半導體仍受偏鷹Fed與前一日科技賣壓牽制"],"TSMC":"基本面公告可驗證，但外資與估值壓力使評級維持C-","export_finance_cost":"美元走弱利進口成本、可能壓出口換匯；壽險受債券評價與匯兌雙向影響"},
+  "abc_wave":{"framework":"Elliott/ABC scenario only, not a forecast","current_interpretation":"8/19急跌A後，弱B反彈準備與A段延伸並存","anchors":{"A_high":45071.34,"A_low":44308.71,"status":"daily_anchors_only; intraday_wave_insufficient_data"},"support":[44308.71],"resistance":[44811.00,45071.34],"alternate_scenario":"若量價無法站回44,811，A段可能延伸；若站回並伴隨廣度改善，才視為B段反彈確認","invalidation":"有效站回45,071.34且法人與廣度同步改善，否定弱B／A延伸偏空解讀","confidence":"low_to_medium"},
+  "scenarios":{"bullish":"殖利率續降、NASDAQ與SOX確認轉強，台股站回44,811並見外資賣壓收斂","base":"政策利多與偏鷹Fed互抵，44,308至45,071區間震盪，機器人題材局部輪動","bearish":"油價與通膨風險升溫、長債反彈，台股跌破44,308且弱勢廣度擴大"},
+  "next_confirmations":["美股收盤NASDAQ／SOX／TSM ADR實際結果","8/20台股開盤量價與44,811回復情況","外資現貨期貨是否同步轉穩","USD/TWD新交易日走勢","機器人族群是否由題材擴散到營收與訂單"],
+  "risk_flags":["historical minute reconstruction incomplete","Fed inflation hawkishness","Middle East and oil inflation","foreign selling and weak breadth","valuation concentration in TSMC/AI"],
+  "website_summary":"03:25回補：台股前收弱、法人與廣度偏空；美財政部擴大長債回購帶來殖利率與美元下滑的風險偏好支撐，但FOMC紀要偏鷹。ABC僅列44,308支撐與45,071壓力雙情境，精確美股分鐘值標unavailable。"
+}
+

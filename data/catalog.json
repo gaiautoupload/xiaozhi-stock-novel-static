@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-24T00:05:30+00:00",
-  "latest_update_id": "U20260820-0305",
-  "sequence": 138,
+  "generated_at": "2026-08-24T02:00:47+00:00",
+  "latest_update_id": "U20260820-0505",
+  "sequence": 144,
   "entries": [
     {
       "sequence": 1,
@@ -1381,6 +1381,66 @@
       "chapter_path": "data/chapters/U20260820-0305.md",
       "stocks_path": "data/stocks/U20260820-0305.stocks.json",
       "market_svg_path": "data/visuals/U20260820-0305.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 139,
+      "update_id": "U20260820-0325",
+      "published_at": "2026-08-20T03:25:00+08:00",
+      "title": "第一百零五回　三十年沉默只值六千，他讓尚未成立的分行替岳父認罪",
+      "chapter_path": "data/chapters/U20260820-0325.md",
+      "stocks_path": "data/stocks/U20260820-0325.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-0325.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 140,
+      "update_id": "U20260820-0345",
+      "published_at": "2026-08-20T03:45:00+08:00",
+      "title": "第一百零六回　死人借出一枚指紋，他用零元對價封死十二億標案",
+      "chapter_path": "data/chapters/U20260820-0345.md",
+      "stocks_path": "data/stocks/U20260820-0345.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-0345.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 141,
+      "update_id": "U20260820-0405",
+      "published_at": "2026-08-20T04:05:00+08:00",
+      "title": "第一百零七回　四個女人都沒離開，他卻讓安全屋先搬了家",
+      "chapter_path": "data/chapters/U20260820-0405.md",
+      "stocks_path": "data/stocks/U20260820-0405.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-0405.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 142,
+      "update_id": "U20260820-0425",
+      "published_at": "2026-08-20T04:25:00+08:00",
+      "title": "第一百零八回　四把房卡都想留他過夜，他先讓十二萬真的入帳",
+      "chapter_path": "data/chapters/U20260820-0425.md",
+      "stocks_path": "data/stocks/U20260820-0425.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-0425.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 143,
+      "update_id": "U20260820-0445",
+      "published_at": "2026-08-20T04:45:00+08:00",
+      "title": "第一百零九回　父親帶十二億來認子，他只收一元訪客費",
+      "chapter_path": "data/chapters/U20260820-0445.md",
+      "stocks_path": "data/stocks/U20260820-0445.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-0445.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 144,
+      "update_id": "U20260820-0505",
+      "published_at": "2026-08-20T05:05:00+08:00",
+      "title": "第一百一十回　出生證明把她送給三十億，小智先讓父親證明自己活著",
+      "chapter_path": "data/chapters/U20260820-0505.md",
+      "stocks_path": "data/stocks/U20260820-0505.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-0505.market.svg",
       "backfill": true
     }
   ]

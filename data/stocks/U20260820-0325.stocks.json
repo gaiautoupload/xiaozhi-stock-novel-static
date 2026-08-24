@@ -1,0 +1,18 @@
+{
+  "schema_version": 2,
+  "update_id": "U20260820-0325",
+  "market_id": "M20260820-0325",
+  "as_of": "2026-08-20T03:25:00+08:00",
+  "decision": "NO_TRADE",
+  "ledger": {"total_assets_twd": 26000, "free_cash_twd": 20000, "restricted_cash_twd": 6000, "recognized_income_twd": 0, "stock_trades": 0},
+  "compliance_notes": ["觀察股不等於成交", "R-4576與劇情線索屬未公開資訊，禁止交易", "1.8億元、12億元、30億元均未簽約、驗收或付款，不列資產或收入"],
+  "watchlist": [
+    {"ticker":"4576","name":"大銀微系統","positioning":"精密運動控制／機器人零組件","rating":"B","status":"WAIT","evidence":[{"claim":"官方產品涵蓋線性馬達、直驅馬達、位置量測與單軸機器人","source":"https://www.hiwinmikro.tw/"},{"claim":"機器人催化存在，但8月19日台股廣度與法人流向偏弱，需等待量價確認","source":"https://www.twse.com.tw/en/indices/taiex/mi-5min-hist.html"}],"risks":["題材估值過熱","法人賣壓與利率風險"],"confirm_signals":["公開訂單或營收驗證","放量站回短期均線且族群擴散"],"invalidations":["放量跌破44,308.71市場支撐且個股同步破低","公開營運展望轉弱"],"exit_logic":"僅於公開訊號成立後規劃；失效條件觸發即撤回，不因劇情線索交易"},
+    {"ticker":"2049","name":"上銀","positioning":"線性傳動／自動化","rating":"B-","status":"WAIT","evidence":[{"claim":"官方產品包含滾珠螺桿、線性滑軌、多軸機器人與半導體次系統","source":"https://www.hiwin.tw/"},{"claim":"8月19日法人與市場廣度偏弱，FOMC紀要又強化通膨與升息風險","source":"https://www.federalreserve.gov/monetarypolicy/fomcminutes20260729.htm"}],"risks":["工具機循環波動","長端利率壓抑估值"],"confirm_signals":["機器人營收與訂單公開增長","價量轉強且外資賣壓收斂"],"invalidations":["需求指引下修","量增破低"],"exit_logic":"不追題材跳空；確認失敗或風險報酬惡化即退出觀察"},
+    {"ticker":"2359","name":"所羅門","positioning":"AI視覺／機器人整合","rating":"C","status":"WAIT","evidence":[{"claim":"公開報導聚焦AI視覺、3D機器視覺與機器人整合應用","source":"https://money.udn.com/money/story/11162/9603050"},{"claim":"高波動成長題材在偏鷹FOMC與弱勢廣度下估值敏感","source":"https://www.reuters.com/business/fed-policymakers-inflation-concerns-increased-july-meeting-minutes-show-2026-08-19/"}],"risks":["題材交易波動大","訂單轉營收節奏不確定"],"confirm_signals":["官方訂單與毛利驗證","量價轉強且非單日脈衝"],"invalidations":["題材退潮並放量破低","營運證據不支持估值"],"exit_logic":"等待可重複的營運與量價證據；失效即汰除"},
+    {"ticker":"6125","name":"廣運","positioning":"智慧自動化／物流系統","rating":"C+","status":"WAIT","evidence":[{"claim":"公司投資人專區列示8月19日法說並定位智慧自動化系統","source":"https://www.kenmec.com/tw/investor02.aspx"},{"claim":"機器人題材有催化，但8月19日櫃買收384.79且風險偏好未充分擴散","source":"https://www.tpex.org.tw/en-us/mainboard/trading/info/daily-indices.html"}],"risks":["專案認列波動","題材漲幅與基本面脫節"],"confirm_signals":["法說訂單轉收入的明確時程","櫃買廣度改善且個股量價續強"],"invalidations":["接單或毛利指引下修","放量跌破關鍵支撐"],"exit_logic":"以公開法說與財報驗證；未驗證不買，破位退出"},
+    {"ticker":"2330","name":"台積電","positioning":"先進製程／AI權值","rating":"C-","status":"WAIT","evidence":[{"claim":"台積電已發布2026年7月營收公告，基本面資料可公開驗證","source":"https://pr.tsmc.com/english/news/3329"},{"claim":"8月19日台股收44,719.35且法人偏賣，長端殖利率雖回落但偏鷹紀要仍構成估值壓力","source":"https://www.reuters.com/world/china/global-markets-global-markets-2026-08-19/"}],"risks":["外資賣超與權值集中風險","美債殖利率及地緣關稅"],"confirm_signals":["外資賣壓收斂並站回壓力帶","ADR與SOX同步轉強且可驗證"],"invalidations":["跌破市場支撐且外資擴大賣超","公司指引或先進製程需求轉弱"],"exit_logic":"只用公開資料；ADR／SOX精確分鐘不可驗證時維持等待"}
+  ],
+  "selection_changes": []
+}
+

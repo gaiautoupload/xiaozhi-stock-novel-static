@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
   "timezone": "Asia/Taipei",
-  "latest_update_id": "U20260820-0305",
-  "sequence": 138,
+  "latest_update_id": "U20260820-0505",
+  "sequence": 144,
   "ordering_rule": "sequence then update_id; ignore legacy chapter numbers",
-  "history_count": 138,
+  "history_count": 144,
   "updates": [
     {
       "sequence": 1,
@@ -1330,6 +1330,78 @@
       "stocks_file_id": "1zor1Amsqw7kipZ9cWs6mV5K4AFapJa0J",
       "market_svg_file_id": "1Jal3-jT45bdg8tVDCvCUn0mgn-v6ihJP",
       "market_id": "M20260820-0305",
+      "backfill": true
+    },
+    {
+      "sequence": 139,
+      "update_id": "U20260820-0325",
+      "published_at": "2026-08-20T03:25:00+08:00",
+      "title": "第一百零五回　三十年沉默只值六千，他讓尚未成立的分行替岳父認罪",
+      "chapter_file_id": "17f2g05nSy-cmV_54Ke6fOzT0nCh9fkvL",
+      "storyboard_file_id": "1WtLdKKuMJCl93vc49Y2cqaIjbDNwnjge",
+      "stocks_file_id": "1nHxCvJqhgHhQXEwyuo-QDlklemk4Gcy0",
+      "market_svg_file_id": "1n8JxunLxR2u6_h_RX_Lg20PpLC4MCGhF",
+      "market_id": "M20260820-0325",
+      "backfill": true
+    },
+    {
+      "sequence": 140,
+      "update_id": "U20260820-0345",
+      "published_at": "2026-08-20T03:45:00+08:00",
+      "title": "第一百零六回　死人借出一枚指紋，他用零元對價封死十二億標案",
+      "chapter_file_id": "1YuihxE3PuC6B0lQAXz59Lc_gkYBq9iCh",
+      "storyboard_file_id": "13_4tJGg9RWboofe-NUh0Ftxbcocr94ro",
+      "stocks_file_id": "1IQ4npJozZdyBHArF2G_XgceD6Pckl097",
+      "market_svg_file_id": "14Cl3hayyM1B0khN9I4npxraNTcm5Arz8",
+      "market_id": "M20260820-0345",
+      "backfill": true
+    },
+    {
+      "sequence": 141,
+      "update_id": "U20260820-0405",
+      "published_at": "2026-08-20T04:05:00+08:00",
+      "title": "第一百零七回　四個女人都沒離開，他卻讓安全屋先搬了家",
+      "chapter_file_id": "18VPyHAWdb8oGGDM4IHJKdIEvE3IaKzjY",
+      "storyboard_file_id": "1zhXBFaeJZNyV_AyvcK2eXmJnr7YfXaFy",
+      "stocks_file_id": "1ucZBoLkibkIXSKVc9kE4bJ8s04mgc9vz",
+      "market_svg_file_id": "1tkyFySbS1wTPeYIYKJeqoNFEtf8uW47b",
+      "market_id": "M20260820-0405",
+      "backfill": true
+    },
+    {
+      "sequence": 142,
+      "update_id": "U20260820-0425",
+      "published_at": "2026-08-20T04:25:00+08:00",
+      "title": "第一百零八回　四把房卡都想留他過夜，他先讓十二萬真的入帳",
+      "chapter_file_id": "1iqIsN4paEQvvaf0oQvtrHltddVC1aPgQ",
+      "storyboard_file_id": "1Sr4xELQtFuu1cvvm6gc85Yk0s2eLLsYv",
+      "stocks_file_id": "15djjvqF8cLFGUnDfN-Lz5z3Rv08JrR84",
+      "market_svg_file_id": "1n1qYGGM0aKKSOdhQGgU7S2uUGt5uBb3g",
+      "market_id": "M20260820-0425",
+      "backfill": true
+    },
+    {
+      "sequence": 143,
+      "update_id": "U20260820-0445",
+      "published_at": "2026-08-20T04:45:00+08:00",
+      "title": "第一百零九回　父親帶十二億來認子，他只收一元訪客費",
+      "chapter_file_id": "1cSuxWUk5Vmc2rdL3wyvND_rN1Zl2cKl5",
+      "storyboard_file_id": "1B3I10BwgqyLtAA_y07ypX0sKrvY66JmE",
+      "stocks_file_id": "1T8vgNWYwNiXXqIdIT95YxmZuPwHnoydj",
+      "market_svg_file_id": "1_TC54gXVU4_RZO_wlUWwHHohpBjAfeK2",
+      "market_id": "M20260820-0445",
+      "backfill": true
+    },
+    {
+      "sequence": 144,
+      "update_id": "U20260820-0505",
+      "published_at": "2026-08-20T05:05:00+08:00",
+      "title": "第一百一十回　出生證明把她送給三十億，小智先讓父親證明自己活著",
+      "chapter_file_id": "1sl_BqlyL4vz6jbUrVsnhdQv6bficLnyY",
+      "storyboard_file_id": "11kBkrtvPj81BbVVYSZuZRJGhG5DZZ4eD",
+      "stocks_file_id": "1cFl93BneSTWOBmMo6TpUf0B4Me0mMHkP",
+      "market_svg_file_id": "1aCa2Zsl0pZxvwZM7KOKv6tVaPtxazjN5",
+      "market_id": "M20260820-0505",
       "backfill": true
     }
   ]

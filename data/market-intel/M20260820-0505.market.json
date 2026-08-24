@@ -1,0 +1,22 @@
+{
+  "market_id":"M20260820-0505","as_of":"2026-08-20T05:05:00+08:00","session_status":"taiwan_preopen_historical_backfill_us_postclose",
+  "sources":[
+    {"title":"TWSE 2026/08 TAIEX historical data","url":"https://www.twse.com.tw/en/indices/taiex/mi-5min-hist.html","published_at":"2026-08-19T13:30:00+08:00","accessed_at":"2026-08-24T09:23:00+08:00"},
+    {"title":"TPEx daily volume and index","url":"https://www.tpex.org.tw/en-us/mainboard/trading/info/daily-indices.html","published_at":"2026-08-19T13:30:00+08:00","accessed_at":"2026-08-24T09:23:00+08:00"},
+    {"title":"Federal Reserve July 28-29 minutes","url":"https://www.federalreserve.gov/monetarypolicy/fomcminutes20260729.htm","published_at":"2026-08-20T02:00:00+08:00","accessed_at":"2026-08-24T09:23:00+08:00"},
+    {"title":"Reuters: Treasury doubles long-bond buybacks","url":"https://www.reuters.com/world/us-treasury-double-sizes-some-debt-buyback-operations-least-4-billion-2026-08-19/","published_at":"2026-08-19T21:41:00+08:00","accessed_at":"2026-08-24T09:23:00+08:00"},
+    {"title":"Reuters: gold surges as yields and dollar fall","url":"https://www.reuters.com/world/india/gold-inches-higher-focus-fed-minutes-2026-08-19/","published_at":"2026-08-20T02:10:00+08:00","accessed_at":"2026-08-24T09:23:00+08:00"},
+    {"title":"TSMC July 2026 revenue announcement","url":"https://pr.tsmc.com/english/news/3329","published_at":"2026-08-10T13:30:00+08:00","accessed_at":"2026-08-24T09:23:00+08:00"}
+  ],
+  "breaking_news":["Fed紀要仍以通膨風險為核心，市場降息想像受限。","長債回購擴大使30年期殖利率從多年高點回落，但不等於財政風險消失。","DXY約跌0.8%、黃金約4487.91美元；跨資產反映流動性改善與貨幣疑慮並存。"],
+  "index_snapshot":{"TAIEX":{"date":"2026-08-19","close":44719.35,"change":-589.33,"change_pct":-1.30,"high":45071.34,"low":44308.71,"status":"official_close"},"TPEx":{"date":"2026-08-19","close":384.79,"change_pct":-1.55,"status":"official_close"},"volume_and_moving_averages":"historical exact volume/MA snapshot unavailable_at_target_time"},
+  "fx_snapshot":{"USD_TWD":{"value":31.937,"status":"official_daily_close; publication minute not independently reconstructed"},"USD_JPY":{"value":null,"status":"unavailable_at_target_time"},"impacts":{"foreign_flow":"美元轉弱有助部分風險偏好，但台股法人賣壓需以開盤後資料確認","exporters":"匯率換算與終端需求須並看","financial_life":"債券評價改善可能利多壽險淨值，利差風險仍在","import_costs":"美元走弱方向有助進口成本","valuation":"長債殖利率回落支持科技估值，偏鷹Fed限制幅度"}},
+  "cross_asset":{"NASDAQ":{"value":null,"status":"exact_close_unavailable_at_target_time"},"SOX":{"value":null,"status":"exact_close_unavailable_at_target_time"},"TSM_ADR":{"value":null,"status":"exact_close_unavailable_at_target_time"},"DXY":{"direction":"down about 0.8%","status":"Reuters historical report available before target"},"US_10Y":{"value":null,"status":"exact_target_quote_unavailable"},"US_30Y":{"value":5.184,"unit":"percent","status":"Reuters post-announcement approximate"},"USDJPY":{"value":null,"status":"unavailable_at_target_time"},"gold":{"value":4487.91,"unit":"USD/oz","status":"Reuters historical snapshot"},"oil":{"value":null,"status":"geopolitical upward-risk context; exact quote unavailable"}},
+  "breadth_and_flow":{"three_institutions_net_twd_bn":-70.848,"status":"historical reported aggregate","interpretation":"大盤與櫃買同步回落，法人賣超顯著；任何題材反彈須由上漲家數、量能與外資方向確認。"},
+  "sector_rotation":{"stronger_watch":["機器人／自動化","黃金與避險"],"weaker_watch":["高估值成長","法人調節權值"],"policy_and_macro":["Fed偏鷹訊號","美債回購","地緣／關稅"],"implications":"台積電、出口、金融壽險與進口成本對美元及殖利率敏感。"},
+  "abc_wave":{"framework":"Elliott/ABC scenario only, not a forecast","current_interpretation":"急跌A後弱B準備與A段延伸並存，沒有足夠目標分鐘錨點確認。","anchors":{"swing_high":45071.34,"swing_low":44308.71,"close":44719.35},"support":[44308.71],"resistance":[44811,45071.34],"alternate_scenario":"站回45,071.34且量價改善才視為B段較可信；跌破44,308.71則偏向A段延伸。","invalidation":"目標時點的完整分鐘K、均線與成交量缺失，波浪判讀信心低。","confidence":"low"},
+  "scenarios":{"bullish":"美元與殖利率回落延續，外資回補並帶動權值、機器人擴散。","base":"指數區間整理，資金在機器人、避險與權值間輪動。","bearish":"Fed與地緣通膨風險再推升殖利率，台股跌破44,308.71。"},
+  "next_confirmations":["外資現貨與期貨方向","台積電開盤量價","TPEx廣度是否止跌","NASDAQ/SOX/TSM ADR可驗證正式收盤","USD/TWD、USD/JPY與美債殖利率"],
+  "risk_flags":["historical_backfill","exact_us_close_unavailable_at_target_time","insufficient_data_for_wave_confirmation","geopolitical_tariff_risk","not_investment_advice"],
+  "website_summary":"04:45至05:05可驗證框架未變：台股官方收盤偏弱，長債回購令殖利率與美元回落、黃金走強，Fed通膨疑慮則構成反向風險。海外精確收盤值無可靠目標時點證據，維持unavailable。"
+}

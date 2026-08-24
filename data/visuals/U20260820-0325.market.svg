@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <rect width="1200" height="675" fill="#07111f"/><rect x="40" y="40" width="1120" height="595" rx="28" fill="#0d1c2f" stroke="#27435f"/>
+  <text x="75" y="100" fill="#f7d774" font-size="34" font-family="sans-serif" font-weight="700">小智股海｜03:25 歷史市場卡</text>
+  <text x="75" y="145" fill="#a8bfd5" font-size="21" font-family="sans-serif">前收：TAIEX 44,719.35｜TPEx 384.79｜法人偏空</text>
+  <rect x="75" y="185" width="500" height="150" rx="18" fill="#132944"/><text x="105" y="230" fill="#7fd6ff" font-size="25" font-family="sans-serif">政策拉鋸</text>
+  <text x="105" y="275" fill="#fff" font-size="21" font-family="sans-serif">Fed 紀要偏鷹：通膨未降或需升息</text><text x="105" y="310" fill="#fff" font-size="21" font-family="sans-serif">美財政部擴大長債回購：殖利率回落</text>
+  <rect x="625" y="185" width="500" height="150" rx="18" fill="#132944"/><text x="655" y="230" fill="#7fd6ff" font-size="25" font-family="sans-serif">ABC 情境（非預言）</text>
+  <text x="655" y="275" fill="#fff" font-size="21" font-family="sans-serif">弱 B 嘗試／A 段延伸</text><text x="655" y="310" fill="#fff" font-size="21" font-family="sans-serif">支撐 44,308.71｜壓力 45,071.34</text>
+  <text x="75" y="400" fill="#f7d774" font-size="26" font-family="sans-serif">觀察：機器人有催化，廣度與法人仍未確認</text>
+  <text x="75" y="450" fill="#d7e5f2" font-size="22" font-family="sans-serif">NASDAQ／SOX／TSM ADR 03:25 精確值：unavailable</text>
+  <text x="75" y="490" fill="#d7e5f2" font-size="22" font-family="sans-serif">USD/TWD：31.937（8/19 官方收盤，stale）</text>
+  <rect x="75" y="535" width="1050" height="55" rx="14" fill="#3a2630"/><text x="100" y="571" fill="#ffb4bd" font-size="21" font-family="sans-serif">策略：五檔全數 WAIT｜零成交｜不得以劇情線索交易</text>
+</svg>
+
