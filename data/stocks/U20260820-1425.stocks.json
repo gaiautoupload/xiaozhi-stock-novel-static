@@ -1,0 +1,15 @@
+{
+  "update_id": "U20260820-1425",
+  "market_id": "M20260820-1425",
+  "as_of": "2026-08-20T14:25:00+08:00",
+  "portfolio": {"recognized_income_twd":15480000,"total_assets_twd":15506000,"available_cash_twd":15500000,"restricted_cash_twd":6000,"stock_trades":0,"stock_holdings":0},
+  "watchlist": [
+    {"ticker":"4576","name":"大銀微系統","positioning":"機器人／精密運動控制","rating":"B","action":"WAIT","evidence":["7月營收3.67億元、年增60.14%，累計前7月年增49.67%","14:10收盤報導顯示資金集中記憶體與CPO，機器人並非收盤唯一主線"],"risks":["題材回吐與高估值","非公開劇情線索不得交易"],"confirm_signals":["訂單營收延續","量價與族群廣度重新共振"],"invalidations":["營收動能反轉","爆量不漲"],"exit_logic":"維持WAIT，不追價"},
+    {"ticker":"2049","name":"上銀","positioning":"線性傳動／自動化","rating":"B-","action":"WAIT","evidence":["7月營收26.81億元、年增33.9%，連五個月年月雙增","自動化展為需求催化，但TAIEX仍收在45000下方"],"risks":["景氣循環","出口、匯率與估值波動"],"confirm_signals":["營收訂單同向","站穩突破位且量能擴張"],"invalidations":["訂單下修","族群與個股量價同步轉弱"],"exit_logic":"公開共振前維持WAIT"},
+    {"ticker":"2359","name":"所羅門","positioning":"AI視覺／機器人","rating":"C","action":"WAIT","evidence":["7月營收年增36.32%但月減29.09%，成長與波動並存","TPEx +1.34%提供中小型環境支撐，收盤主線仍偏記憶體與CPO"],"risks":["高波動","訂單獲利轉換待證明"],"confirm_signals":["公開訂單與獲利落地","櫃買與個股健康放量"],"invalidations":["爆量不漲","TPEx轉弱"],"exit_logic":"未確認前WAIT，題材失效退出"},
+    {"ticker":"6125","name":"廣運","positioning":"自動化／智慧物流","rating":"C+","action":"WAIT","evidence":["TPEx 389.96點、+1.34%，中小型股相對強","自動化展包含物流與智慧工廠，但14:10收盤資訊未提供個股基本面新證據"],"risks":["輪動快","接單認列波動"],"confirm_signals":["訂單營收同向","個股量價與櫃買廣度延續"],"invalidations":["TPEx轉弱","認列低於預期"],"exit_logic":"任何核心證據失效即退出"},
+    {"ticker":"2330","name":"台積電","positioning":"先進製程／AI權值","rating":"C-","action":"WAIT","evidence":["收2375元、上漲25元，尾盤帶動大盤翻紅","官方7月營收年增44.7%，提供基本面錨點"],"risks":["Fed偏鷹與長債回升","匯率、海外半導體與指數集中度"],"confirm_signals":["外資資料確認回流","守穩2375並帶指數站回45000"],"invalidations":["外資轉賣且權值轉弱","跌破44446放量"],"exit_logic":"不因單日尾盤拉升追價；零成交零持倉"}
+  ],
+  "selection_changes": [],
+  "sources": ["https://www.cna.com.tw/news/afe/202608200144.aspx","https://www.tpex.org.tw/zh-tw/mainboard/trading/info/daily-indices.html","https://news.cnyes.com/news/id/6562569","https://money.udn.com/money/story/5607/9676743","https://news.cnyes.com/news/id/6568774","https://pr.tsmc.com/english/news/3329"]
+}

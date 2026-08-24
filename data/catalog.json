@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-24T09:19:25+00:00",
-  "latest_update_id": "U20260820-1305",
-  "sequence": 168,
+  "generated_at": "2026-08-24T10:17:28+00:00",
+  "latest_update_id": "U20260820-1425",
+  "sequence": 172,
   "entries": [
     {
       "sequence": 1,
@@ -1681,6 +1681,46 @@
       "chapter_path": "data/chapters/U20260820-1305.md",
       "stocks_path": "data/stocks/U20260820-1305.stocks.json",
       "market_svg_path": "data/visuals/U20260820-1305.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 169,
+      "update_id": "U20260820-1325",
+      "published_at": "2026-08-20T13:25:00+08:00",
+      "title": "第一百三十五回　她被登記成他的母親，小智用一場公開聽證把五十一趴變成零",
+      "chapter_path": "data/chapters/U20260820-1325.md",
+      "stocks_path": "data/stocks/U20260820-1325.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-1325.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 170,
+      "update_id": "U20260820-1345",
+      "published_at": "2026-08-20T13:45:00+08:00",
+      "title": "第一百三十六回　真正母親只給他九分鐘，小智用九百九十萬讓她先做親子鑑定",
+      "chapter_path": "data/chapters/U20260820-1345.md",
+      "stocks_path": "data/stocks/U20260820-1345.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-1345.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 171,
+      "update_id": "U20260820-1405",
+      "published_at": "2026-08-20T14:05:00+08:00",
+      "title": "第一百三十七回　岳母要他用婚約救若棠，小智卻先讓一千二百五十萬拒絕認親",
+      "chapter_path": "data/chapters/U20260820-1405.md",
+      "stocks_path": "data/stocks/U20260820-1405.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-1405.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 172,
+      "update_id": "U20260820-1425",
+      "published_at": "2026-08-20T14:25:00+08:00",
+      "title": "第一百三十八回　兩個母親同時喊他兒子，他用一千五百萬買下自己的姓氏",
+      "chapter_path": "data/chapters/U20260820-1425.md",
+      "stocks_path": "data/stocks/U20260820-1425.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-1425.market.svg",
       "backfill": true
     }
   ]

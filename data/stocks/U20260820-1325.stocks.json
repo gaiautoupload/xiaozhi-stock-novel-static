@@ -1,0 +1,81 @@
+{
+  "update_id": "U20260820-1325",
+  "market_id": "M20260820-1325",
+  "as_of": "2026-08-20T13:25:00+08:00",
+  "portfolio": {
+    "recognized_income_twd": 7680000,
+    "total_assets_twd": 7706000,
+    "available_cash_twd": 7700000,
+    "restricted_cash_twd": 6000,
+    "stock_trades": 0,
+    "stock_holdings": 0
+  },
+  "watchlist": [
+    {
+      "ticker": "4576",
+      "name": "大銀微系統",
+      "positioning": "機器人／精密運動控制",
+      "rating": "B",
+      "action": "WAIT",
+      "evidence": ["自動化展與機器人題材仍有催化", "10:45前大銀漲勢已收斂至平盤附近"],
+      "risks": ["題材快速回吐", "未公開劇情線索嚴禁交易"],
+      "confirm_signals": ["公開訂單與營收改善", "收盤量價及族群廣度共振"],
+      "invalidations": ["族群轉弱", "基本面無法支持估值"],
+      "exit_logic": "不追價；公開訊號失效即退出觀察"
+    },
+    {
+      "ticker": "2049",
+      "name": "上銀",
+      "positioning": "線性傳動／自動化",
+      "rating": "B-",
+      "action": "WAIT",
+      "evidence": ["智慧自動化展提供需求想像", "10:45前上銀漲勢收斂、未確認全面轉強"],
+      "risks": ["景氣循環", "高位估值波動"],
+      "confirm_signals": ["公開營收與訂單同向", "機器人族群廣度擴張"],
+      "invalidations": ["訂單下修", "量價轉弱"],
+      "exit_logic": "等待公開基本面與量價共振"
+    },
+    {
+      "ticker": "2359",
+      "name": "所羅門",
+      "positioning": "AI視覺／機器人",
+      "rating": "C",
+      "action": "WAIT",
+      "evidence": ["AI視覺展會題材延續", "10:45 TPEx仍上漲0.43%"],
+      "risks": ["波動高", "獲利與訂單驗證不足"],
+      "confirm_signals": ["公開訂單落地", "健康量能而非爆量追價"],
+      "invalidations": ["爆量不漲", "題材退潮"],
+      "exit_logic": "嚴守部位上限，未確認前不成交"
+    },
+    {
+      "ticker": "6125",
+      "name": "廣運",
+      "positioning": "自動化／智慧物流",
+      "rating": "C+",
+      "action": "WAIT",
+      "evidence": ["自動化與智慧物流輪動", "10:45櫃買相對金融權值抗跌"],
+      "risks": ["輪動速度快", "接單認列波動"],
+      "confirm_signals": ["訂單與營收同向", "櫃買收盤廣度續強"],
+      "invalidations": ["TPEx轉弱", "接單認列不如預期"],
+      "exit_logic": "題材與基本面任一失效即退出"
+    },
+    {
+      "ticker": "2330",
+      "name": "台積電",
+      "positioning": "先進製程／AI權值",
+      "rating": "C-",
+      "action": "WAIT",
+      "evidence": ["目標前最近可驗證價格為10:45的2355元", "官方2026年7月營收年增44.7%"],
+      "risks": ["Fed與長債折現率", "匯率、海外半導體與權值波動"],
+      "confirm_signals": ["外資與權值共振", "守支撐並出現健康承接"],
+      "invalidations": ["權值續弱", "跌破盤中低點且量能放大"],
+      "exit_logic": "維持零成交零持倉；僅依公開資訊評估"
+    }
+  ],
+  "selection_changes": [],
+  "sources": [
+    "https://www.cna.com.tw/news/afe/202608200057.aspx",
+    "https://pr.tsmc.com/english/news/3329",
+    "https://www.federalreserve.gov/monetarypolicy/fomcminutes20260729.htm"
+  ]
+}

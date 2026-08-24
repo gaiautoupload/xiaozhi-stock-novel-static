@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
   "timezone": "Asia/Taipei",
-  "latest_update_id": "U20260820-1305",
-  "sequence": 168,
+  "latest_update_id": "U20260820-1425",
+  "sequence": 172,
   "ordering_rule": "sequence then update_id; ignore legacy chapter numbers",
-  "history_count": 168,
+  "history_count": 172,
   "updates": [
     {
       "sequence": 1,
@@ -1694,6 +1694,62 @@
       "market_id": "M20260820-1305",
       "market_json_file_id": "1BZ4TMR8wawlJzZ2UT8uUVaytalrtgecC",
       "market_intel_svg_file_id": "1Rv4XEdCYBqH7btQ3rByC4rrYDEzr9iRr",
+      "backfill": true
+    },
+    {
+      "sequence": 169,
+      "update_id": "U20260820-1325",
+      "title": "第一百三十五回　她被登記成他的母親，小智用一場公開聽證把五十一趴變成零",
+      "published_at": "2026-08-20T13:25:00+08:00",
+      "chapter_file_id": "1BCJFTUAauU1rgNqxjG_mqsK2kUh7Dynr",
+      "storyboard_file_id": "1ysPJ7eFqs9I-zakj3UCz0qy7QY0_C35q",
+      "stocks_file_id": "1NOil1iRBtlS4Xg7PJXmEv2j8hKWw-1DN",
+      "market_svg_file_id": "1igaz67n-XpFRJFUPBqLhC2KbNBuqakDp",
+      "market_id": "M20260820-1325",
+      "market_json_file_id": "18kLDuAomNoevxBBsocnYUI2i-61OoFUO",
+      "market_intel_svg_file_id": "1MSfWRLCxuwfJ2tvNGVmZuh6qQ-AS-XD0",
+      "backfill": true
+    },
+    {
+      "sequence": 170,
+      "update_id": "U20260820-1345",
+      "title": "第一百三十六回　真正母親只給他九分鐘，小智用九百九十萬讓她先做親子鑑定",
+      "published_at": "2026-08-20T13:45:00+08:00",
+      "chapter_file_id": "1oWDLZiEierKy778cX_RjVAk6JohdotwY",
+      "storyboard_file_id": "1g_QgGtF4ptujr2EQtwWPRkYHEj9E92mZ",
+      "stocks_file_id": "1LF_2dV_GN03Ye6_2GpXsBOzvRCqiquae",
+      "market_svg_file_id": "176S2xTy_Ovv5sT8iXi_3WcbTZuphLLW5",
+      "market_id": "M20260820-1345",
+      "market_json_file_id": "12DunCEMtuHGaDlqnynaNszgSljrWtGjw",
+      "market_intel_svg_file_id": "1PSO4vOFrA2bnZdhor52uXQe59ery5adM",
+      "backfill": true
+    },
+    {
+      "sequence": 171,
+      "update_id": "U20260820-1405",
+      "title": "第一百三十七回　岳母要他用婚約救若棠，小智卻先讓一千二百五十萬拒絕認親",
+      "published_at": "2026-08-20T14:05:00+08:00",
+      "chapter_file_id": "1YXGHkQBDvtnwJFsQl46yj0PrmTksPjLg",
+      "storyboard_file_id": "1sb3oSd33LwxFKg186f__yqWO38uVJvl6",
+      "stocks_file_id": "1jqr4Na7hQwbwhZ86pIq2SSiprrOxBlnp",
+      "market_svg_file_id": "10fXhYZ42XDe45-_sxWR_4p9s2pU260xb",
+      "market_id": "M20260820-1405",
+      "market_json_file_id": "1X2eo78ESoMZxAZz9y9u0sKfFeP9VfA3K",
+      "market_intel_svg_file_id": "1RcPuaYbBZ4KEaR4aBFOCi2la8gkpJ78U",
+      "backfill": true
+    },
+    {
+      "sequence": 172,
+      "update_id": "U20260820-1425",
+      "title": "第一百三十八回　兩個母親同時喊他兒子，他用一千五百萬買下自己的姓氏",
+      "published_at": "2026-08-20T14:25:00+08:00",
+      "chapter_file_id": "17jVCJi8qH3r3FR8Uvxm6UzhWqK5h1XAE",
+      "storyboard_file_id": "1PKJxNab3WXLWnFz6gIGzaz0vmvmMqPuK",
+      "stocks_file_id": "1g9PHWEfd4UyKwSr278jh9YhSjmvs26C1",
+      "market_svg_file_id": "1FCapimMgz_vYb-2PnYncldyktGDeKQ_w",
+      "market_id": "M20260820-1425",
+      "market_json_file_id": "1IM8RCTNA0Mk_7lRt0UDYiQdnIORZbo-_",
+      "market_intel_svg_file_id": "1nJedmhNSDGfV9E6uo7HNvvN-jDVUg6Sj",
       "backfill": true
     }
   ]
