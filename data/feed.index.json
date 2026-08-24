@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
   "timezone": "Asia/Taipei",
-  "latest_update_id": "U20260820-1225",
-  "sequence": 166,
+  "latest_update_id": "U20260820-1305",
+  "sequence": 168,
   "ordering_rule": "sequence then update_id; ignore legacy chapter numbers",
-  "history_count": 166,
+  "history_count": 168,
   "updates": [
     {
       "sequence": 1,
@@ -1666,6 +1666,34 @@
       "stocks_file_id": "1u4wonxKQkICmgM9HbdWfG0Aug27BceZQ",
       "market_svg_file_id": "1Xqpr1y78Ien2o0PdNTRoCCKZ5M1YY2ZK",
       "market_id": "M20260820-1225",
+      "backfill": true
+    },
+    {
+      "sequence": 167,
+      "update_id": "U20260820-1245",
+      "title": "第一百三十三回　四百萬要買走他本人，他用一元退款逼第一版交出真名",
+      "published_at": "2026-08-20T12:45:00+08:00",
+      "chapter_file_id": "1ltyZjDLD0_Kckyy2jioorxLjZVEjARKL",
+      "storyboard_file_id": "1jzaoj1XNx5aGfTpbKZkFbLUUf125R54F",
+      "stocks_file_id": "1wA3kKOx9k0ttsGrVklAl4DtRemgjfHQs",
+      "market_svg_file_id": "1zQ-0POjSH2eYU7VsxOXWyzzika-P5s7L",
+      "market_id": "M20260820-1245",
+      "market_json_file_id": "1LBZN7tslycaw0G3JIJfw1IsrhcQ8T5tZ",
+      "market_intel_svg_file_id": "1eOvifzlFvNeAwXgmowjjMcZKpX4B8lJO",
+      "backfill": true
+    },
+    {
+      "sequence": 168,
+      "update_id": "U20260820-1305",
+      "title": "第一百三十四回　董事會要他選一個女人作證，他讓五個女人同時坐上主位",
+      "published_at": "2026-08-20T13:05:00+08:00",
+      "chapter_file_id": "171BcyMeZNB2UOZ0bw4K-sA_xTIbaLfPh",
+      "storyboard_file_id": "1Z8754a8qY55-MfBY3Dh_DZRGWSU3A4FI",
+      "stocks_file_id": "1qvJTpqaAT65Sa_sMCxzfPTdjPQGEEp1d",
+      "market_svg_file_id": "17eLCl9oa-877QH4NxSBBLq8RVYLBKyU1",
+      "market_id": "M20260820-1305",
+      "market_json_file_id": "1BZ4TMR8wawlJzZ2UT8uUVaytalrtgecC",
+      "market_intel_svg_file_id": "1Rv4XEdCYBqH7btQ3rByC4rrYDEzr9iRr",
       "backfill": true
     }
   ]

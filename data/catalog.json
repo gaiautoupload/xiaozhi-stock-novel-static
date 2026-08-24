@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-24T08:18:43+00:00",
-  "latest_update_id": "U20260820-1225",
-  "sequence": 166,
+  "generated_at": "2026-08-24T09:19:25+00:00",
+  "latest_update_id": "U20260820-1305",
+  "sequence": 168,
   "entries": [
     {
       "sequence": 1,
@@ -1661,6 +1661,26 @@
       "chapter_path": "data/chapters/U20260820-1225.md",
       "stocks_path": "data/stocks/U20260820-1225.stocks.json",
       "market_svg_path": "data/visuals/U20260820-1225.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 167,
+      "update_id": "U20260820-1245",
+      "published_at": "2026-08-20T12:45:00+08:00",
+      "title": "第一百三十三回　四百萬要買走他本人，他用一元退款逼第一版交出真名",
+      "chapter_path": "data/chapters/U20260820-1245.md",
+      "stocks_path": "data/stocks/U20260820-1245.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-1245.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 168,
+      "update_id": "U20260820-1305",
+      "published_at": "2026-08-20T13:05:00+08:00",
+      "title": "第一百三十四回　董事會要他選一個女人作證，他讓五個女人同時坐上主位",
+      "chapter_path": "data/chapters/U20260820-1305.md",
+      "stocks_path": "data/stocks/U20260820-1305.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-1305.market.svg",
       "backfill": true
     }
   ]
