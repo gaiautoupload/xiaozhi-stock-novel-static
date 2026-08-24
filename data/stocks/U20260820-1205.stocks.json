@@ -1,0 +1,15 @@
+{
+  "update_id": "U20260820-1205",
+  "market_id": "M20260820-1205",
+  "as_of": "2026-08-20T12:05:00+08:00",
+  "portfolio": {"recognized_income_twd": 2480000, "total_assets_twd": 2506000, "available_cash_twd": 2500000, "restricted_cash_twd": 6000, "stock_trades": 0, "stock_holdings": 0},
+  "watchlist": [
+    {"ticker":"4576","name":"大銀微系統","positioning":"機器人／精密運動控制","rating":"B","action":"WAIT","evidence":["智慧自動化與機器人展提供題材催化，但11:12前報導顯示部分機器人股漲幅已收斂","8月19日法人賣超708.48億元，整體廣度風險尚未解除"],"risks":["題材回吐","未公開劇情線索不得交易"],"confirm_signals":["公開訂單或營收改善","量價與族群廣度共振"],"invalidations":["族群轉弱且跌破盤中支撐","公司公開資訊不支持成長敘事"],"exit_logic":"不追價；失效即退出觀察"},
+    {"ticker":"2049","name":"上銀","positioning":"線性傳動／自動化","rating":"B-","action":"WAIT","evidence":["智慧自動化展提供機器人需求催化","10:45後機器人族群漲勢收斂，尚無全面量價確認"],"risks":["景氣循環","估值與追價風險"],"confirm_signals":["營收與訂單同步改善","族群廣度擴大"],"invalidations":["訂單展望下修","題材失速且量價轉弱"],"exit_logic":"等待公開基本面與量價共振"},
+    {"ticker":"2359","name":"所羅門","positioning":"AI視覺／機器人","rating":"C","action":"WAIT","evidence":["機器人展與AI視覺題材仍有催化","TPEx於10:45仍上漲0.43%，中小型題材相對抗跌"],"risks":["高波動","獲利驗證不足"],"confirm_signals":["公開訂單落地","健康量能而非單日爆量"],"invalidations":["爆量不漲","題材退潮"],"exit_logic":"嚴守觀察上限，不把題材當成交"},
+    {"ticker":"6125","name":"廣運","positioning":"自動化／智慧物流","rating":"C+","action":"WAIT","evidence":["自動化與機器人展支撐題材輪動","TPEx 10:45上漲0.43%，相對權值金融偏弱更具韌性"],"risks":["輪動快速","接單認列波動"],"confirm_signals":["公開在手訂單與營收同向","櫃買廣度持續"],"invalidations":["TPEx轉弱","接單認列不如預期"],"exit_logic":"失效退出，不追盤中急拉"},
+    {"ticker":"2330","name":"台積電","positioning":"先進製程／AI權值","rating":"C-","action":"WAIT","evidence":["10:45可驗證價格2355元，仍較前收2350元小幅上漲","官方7月營收4675.8億元，月增5.6%、年增44.7%"],"risks":["Fed通膨疑慮","長債、匯率與海外半導體波動"],"confirm_signals":["權值回穩且外資共振","守住盤中支撐並放大健康成交"],"invalidations":["權值續弱拖累指數","跌破盤中低點且無承接"],"exit_logic":"異常移轉拒收；真實交易仍為零，不追高"}
+  ],
+  "selection_changes": [],
+  "sources": ["https://www.cna.com.tw/news/afe/202608200057.aspx","https://www.twse.com.tw/zh/indices/taiex/mi-5min-hist.html","https://pr.tsmc.com/english/news/3329","https://www.federalreserve.gov/monetarypolicy/fomcminutes20260729.htm"]
+}

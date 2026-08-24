@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
   "timezone": "Asia/Taipei",
-  "latest_update_id": "U20260820-1145",
-  "sequence": 164,
+  "latest_update_id": "U20260820-1225",
+  "sequence": 166,
   "ordering_rule": "sequence then update_id; ignore legacy chapter numbers",
-  "history_count": 164,
+  "history_count": 166,
   "updates": [
     {
       "sequence": 1,
@@ -1642,6 +1642,30 @@
       "stocks_file_id": "1qTXTfxfTuW_fo3b1SsfKaS6mG0fXlzV7",
       "market_svg_file_id": "1CHpwRHUMIV6qjCjpGMs58iJAgsIs4R7a",
       "market_id": "M20260820-1145",
+      "backfill": true
+    },
+    {
+      "sequence": 165,
+      "update_id": "U20260820-1205",
+      "published_at": "2026-08-20T12:05:00+08:00",
+      "title": "第一百三十一回　一股台積電想替他選妻，他用七十萬讓新婚贈禮先認罪",
+      "chapter_file_id": "1Kg63nmzZiyxdiyzF5YT8BmN1Bd-dWDRE",
+      "storyboard_file_id": "1Ecbjs8CU1_jtv65eQ2P8AnIEzwgTFkfZ",
+      "stocks_file_id": "1Nc8HDo5bKN98cFZ8rdgdnorApCSpIp3s",
+      "market_svg_file_id": "1dDUoeVZV8VD_5TfruFzn7Ytl4ReVchoc",
+      "market_id": "M20260820-1205",
+      "backfill": true
+    },
+    {
+      "sequence": 166,
+      "update_id": "U20260820-1225",
+      "published_at": "2026-08-20T12:25:00+08:00",
+      "title": "第一百三十二回　她差一毫米就成了真妻子，小智用九十萬拆出第三個沈妍書",
+      "chapter_file_id": "1qZ_53_qK5nODcSFMJclfu-3miJmEgkrz",
+      "storyboard_file_id": "17yDOh7t8gwtsnkr7vuDIpbdvsQPU_q5d",
+      "stocks_file_id": "1u4wonxKQkICmgM9HbdWfG0Aug27BceZQ",
+      "market_svg_file_id": "1Xqpr1y78Ien2o0PdNTRoCCKZ5M1YY2ZK",
+      "market_id": "M20260820-1225",
       "backfill": true
     }
   ]

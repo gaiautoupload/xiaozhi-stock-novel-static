@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-24T07:23:29+00:00",
-  "latest_update_id": "U20260820-1145",
-  "sequence": 164,
+  "generated_at": "2026-08-24T08:18:43+00:00",
+  "latest_update_id": "U20260820-1225",
+  "sequence": 166,
   "entries": [
     {
       "sequence": 1,
@@ -1641,6 +1641,26 @@
       "chapter_path": "data/chapters/U20260820-1145.md",
       "stocks_path": "data/stocks/U20260820-1145.stocks.json",
       "market_svg_path": "data/visuals/U20260820-1145.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 165,
+      "update_id": "U20260820-1205",
+      "published_at": "2026-08-20T12:05:00+08:00",
+      "title": "第一百三十一回　一股台積電想替他選妻，他用七十萬讓新婚贈禮先認罪",
+      "chapter_path": "data/chapters/U20260820-1205.md",
+      "stocks_path": "data/stocks/U20260820-1205.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-1205.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 166,
+      "update_id": "U20260820-1225",
+      "published_at": "2026-08-20T12:25:00+08:00",
+      "title": "第一百三十二回　她差一毫米就成了真妻子，小智用九十萬拆出第三個沈妍書",
+      "chapter_path": "data/chapters/U20260820-1225.md",
+      "stocks_path": "data/stocks/U20260820-1225.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-1225.market.svg",
       "backfill": true
     }
   ]
