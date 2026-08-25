@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
   "timezone": "Asia/Taipei",
-  "latest_update_id": "U20260821-0145",
-  "sequence": 206,
+  "latest_update_id": "U20260821-0225",
+  "sequence": 208,
   "ordering_rule": "sequence then update_id; ignore legacy chapter numbers",
-  "history_count": 206,
+  "history_count": 208,
   "updates": [
     {
       "sequence": 1,
@@ -2186,6 +2186,30 @@
       "stocks_file_id": "1z0ulZ7nIO_KLdp7KC3SLPZ6fleCgTeCb",
       "market_svg_file_id": "1JStLiwL0tnSeKQESvzfZMj1opfifo2z1",
       "market_id": "M20260821-0145",
+      "backfill": true
+    },
+    {
+      "sequence": 207,
+      "update_id": "U20260821-0205",
+      "published_at": "2026-08-21T02:05:00+08:00",
+      "title": "第一百七十三回　第一把女性密鑰竟是她的吻，小智用一億二千五百萬讓合法委託先失去買家",
+      "chapter_file_id": "17nz-kXaNajmO_eF8ytcBhl2fwfZDUpbx",
+      "storyboard_file_id": "1GtFCKejQXm7bZR7cKywwYdmTikmCKJU-",
+      "stocks_file_id": "1ZypgJC33vj7CCecGsqiqr3AVfYuOpJhu",
+      "market_svg_file_id": "1jfN2udbVwZnCUkm8N2OR23FcNgHWKDAt",
+      "market_id": "M20260821-0205",
+      "backfill": true
+    },
+    {
+      "sequence": 208,
+      "update_id": "U20260821-0225",
+      "published_at": "2026-08-21T02:25:00+08:00",
+      "title": "第一百七十四回　十一個女人同時被列成買家，小智用一億三千五百萬把第一筆成交變成零",
+      "chapter_file_id": "16tiyIYxBmjarKFMo0R7O5PLsUViuxR-e",
+      "storyboard_file_id": "1v1kMTpHmItwVdNmlafHXndXo2wbK7B-o",
+      "stocks_file_id": "1dN4CcunwiqKozGeCKOb4U1EDJNp5H9Nr",
+      "market_svg_file_id": "16ZmW__IPYeaTBfpaVNpuuGymOb6m7MHr",
+      "market_id": "M20260821-0225",
       "backfill": true
     }
   ]

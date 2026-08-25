@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "timezone": "Asia/Taipei",
-  "latest_market_id": "M20260821-0145",
-  "sequence": 140,
+  "latest_market_id": "M20260821-0225",
+  "sequence": 142,
   "updates": [
     {
       "sequence": 1,
@@ -843,9 +843,23 @@
       "as_of": "2026-08-21T01:45:00+08:00",
       "json_file_id": "1FEulbHqqRq3Z1ZVX-9I8o2TzLDF9ojLq",
       "svg_file_id": "1eR5zix9Bc3sor5gc6dl_MBzHRHF8HkZI"
+    },
+    {
+      "sequence": 141,
+      "market_id": "M20260821-0205",
+      "as_of": "2026-08-21T02:05:00+08:00",
+      "json_file_id": "1LPjgSnLThDeYmCxf-SUQYVOnzXKqdV0g",
+      "svg_file_id": "1Sl4PiUcirmFxCkD3iXgti-nrBw2jHfWs"
+    },
+    {
+      "sequence": 142,
+      "market_id": "M20260821-0225",
+      "as_of": "2026-08-21T02:25:00+08:00",
+      "json_file_id": "1rRbZxy8pCawpfVrFurC6dHdclAe1JYKp",
+      "svg_file_id": "1UvHmACm9JtHf3rzl_jvNep7LmYHFjOuu"
     }
   ],
-  "history_count": 140,
+  "history_count": 142,
   "markets": [
     {
       "sequence": 93,
