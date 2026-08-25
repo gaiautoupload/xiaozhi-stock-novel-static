@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-25T19:18:11+00:00",
-  "latest_update_id": "U20260820-2345",
-  "sequence": 200,
+  "generated_at": "2026-08-25T20:05:00+00:00",
+  "latest_update_id": "U20260821-0025",
+  "sequence": 202,
   "entries": [
     {
       "sequence": 1,
@@ -2001,6 +2001,26 @@
       "chapter_path": "data/chapters/U20260820-2345.md",
       "stocks_path": "data/stocks/U20260820-2345.stocks.json",
       "market_svg_path": "data/visuals/U20260820-2345.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 201,
+      "update_id": "U20260821-0005",
+      "published_at": "2026-08-21T00:05:00+08:00",
+      "title": "第一百六十七回　十萬股台積電凌晨強制交割，小智用七千二百萬讓不存在的買家先認罪",
+      "chapter_path": "data/chapters/U20260821-0005.md",
+      "stocks_path": "data/stocks/U20260821-0005.stocks.json",
+      "market_svg_path": "data/visuals/U20260821-0005.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 202,
+      "update_id": "U20260821-0025",
+      "published_at": "2026-08-21T00:25:00+08:00",
+      "title": "第一百六十八回　被刪除的新娘帶十萬股證物回台，小智用八千萬讓她先簽婚姻不存在",
+      "chapter_path": "data/chapters/U20260821-0025.md",
+      "stocks_path": "data/stocks/U20260821-0025.stocks.json",
+      "market_svg_path": "data/visuals/U20260821-0025.market.svg",
       "backfill": true
     }
   ]

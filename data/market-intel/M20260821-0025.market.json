@@ -1,0 +1,240 @@
+{
+  "market_id": "M20260821-0025",
+  "as_of": "2026-08-21T00:25:00+08:00",
+  "session_status": "US_trading_Taiwan_closed_historical_backfill",
+  "sources": [
+    {
+      "title": "中央社：台股收盤與類股輪動",
+      "url": "https://www.cna.com.tw/news/afe/202608200131.aspx",
+      "published_at": "2026-08-20T13:45:00+08:00",
+      "accessed_at": "2026-08-26T03:35:00+08:00"
+    },
+    {
+      "title": "中央社：三大法人買賣超",
+      "url": "https://www.cna.com.tw/news/afe/202608200167.aspx",
+      "published_at": "2026-08-20T15:06:00+08:00",
+      "accessed_at": "2026-08-26T03:35:00+08:00"
+    },
+    {
+      "title": "中央銀行：新臺幣／美元收盤匯率",
+      "url": "https://www.cbc.gov.tw/tw/lp-645-1.html",
+      "published_at": "2026-08-20T16:04:00+08:00",
+      "accessed_at": "2026-08-26T03:35:00+08:00"
+    },
+    {
+      "title": "經濟部：2026年7月外銷訂單",
+      "url": "https://www.moea.gov.tw/Mns/dos/bulletin/Bulletin.aspx?bull_id=16896&html=1&kind=5&menu_id=6724",
+      "published_at": "2026-08-20T16:30:00+08:00",
+      "accessed_at": "2026-08-26T03:35:00+08:00"
+    },
+    {
+      "title": "台積電2026年7月營收公告",
+      "url": "https://pr.tsmc.com/english/news/3329",
+      "published_at": "2026-08-10T00:00:00+08:00",
+      "accessed_at": "2026-08-26T03:35:00+08:00"
+    },
+    {
+      "title": "Reuters鏡像：09:44 ET美股盤中快照",
+      "url": "https://wmbdradio.com/2026/08/20/us-stock-futures-muted-as-bond-yields-resume-uptrend-ahead-of-walmarts-earnings/",
+      "published_at": "2026-08-20T05:17:00-05:00",
+      "accessed_at": "2026-08-26T03:35:00+08:00"
+    },
+    {
+      "title": "Reuters：美元盤中背景",
+      "url": "https://www.reuters.com/world/uk/sterling-hits-six-month-high-against-fading-dollar-2026-08-20/",
+      "published_at": "2026-08-20T10:33:00Z",
+      "accessed_at": "2026-08-26T03:35:00+08:00"
+    },
+    {
+      "title": "Fed：2026年7月FOMC會議紀要",
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20260729.htm",
+      "published_at": "2026-08-19T14:00:00-04:00",
+      "accessed_at": "2026-08-26T03:35:00+08:00"
+    }
+  ],
+  "breaking_news": [
+    {
+      "headline": "美債殖利率回升、Walmart下跌拖累風險偏好",
+      "impact": "高估值與消費相關資產承壓"
+    },
+    {
+      "headline": "Nvidia與Apple在09:44 ET舊快照提供局部支撐",
+      "impact": "AI鏈有韌性但不能據此升評"
+    },
+    {
+      "headline": "油價上漲與Fed通膨疑慮並存",
+      "impact": "進口成本、金融壽險與科技估值承壓"
+    }
+  ],
+  "index_snapshot": {
+    "TAIEX": {
+      "close": 44933.74,
+      "change_points": 214.39,
+      "status": "official_close_2026-08-20",
+      "support": [
+        44682,
+        44446
+      ],
+      "resistance": [
+        45000,
+        45160.05
+      ]
+    },
+    "TPEx": {
+      "close": 389.96,
+      "change_pct": 1.34,
+      "status": "official_close_2026-08-20"
+    },
+    "TSMC_TW": {
+      "close": 2375,
+      "status": "reported_close_2026-08-20"
+    },
+    "US_at_target": {
+      "NASDAQ": "unavailable_exact_target",
+      "SOX": "unavailable_exact_target"
+    }
+  },
+  "fx_snapshot": {
+    "USD_TWD": {
+      "value": 31.925,
+      "status": "official_daily_close",
+      "impacts": {
+        "foreign_flow": "須與外資現貨同步確認",
+        "tsmc_and_exporters": "升值可能壓外幣營收換算但降低進口成本",
+        "financial_insurance": "外幣資產評價與避險成本雙向影響",
+        "import_cost": "台幣偏強可緩和部分設備成本",
+        "valuation": "需伴隨外資回補才較利估值"
+      }
+    },
+    "DXY": {
+      "value": 98.61,
+      "status": "stale_earlier_snapshot"
+    },
+    "USDJPY": {
+      "value": "unavailable_exact_target",
+      "status": "unavailable"
+    }
+  },
+  "cross_asset": {
+    "NASDAQ": {
+      "value": 26254.38,
+      "change_pct": -0.29,
+      "data_time": "2026-08-20T09:44:00-04:00",
+      "status": "stale_161_minutes_not_target"
+    },
+    "SOX": {
+      "value": "unavailable",
+      "status": "unavailable_exact_target"
+    },
+    "TSM_ADR": {
+      "value": "unavailable",
+      "status": "unavailable_exact_target"
+    },
+    "US10Y": {
+      "value_pct": 4.698,
+      "data_time": "09:44 ET",
+      "status": "stale_not_target"
+    },
+    "US30Y": {
+      "value_pct": 5.239,
+      "data_time": "09:44 ET",
+      "status": "stale_not_target"
+    },
+    "DXY": {
+      "value": 98.61,
+      "status": "stale_earlier"
+    },
+    "USDJPY": {
+      "value": "unavailable",
+      "status": "unavailable_exact_target"
+    },
+    "oil": {
+      "direction": "up_2.3pct_at_0944_ET_snapshot",
+      "impact": "推升通膨與進口成本風險"
+    }
+  },
+  "breadth_and_flow": {
+    "Taiwan": {
+      "foreign_and_china_twd_100m": 37.82,
+      "total_institutions_twd_100m": -35.37,
+      "assessment": "外資買超但三大法人合計賣超"
+    },
+    "US_snapshot": {
+      "NYSE_decline_advance": "1.83:1",
+      "NASDAQ_decline_advance": "1.68:1",
+      "data_time": "09:44 ET",
+      "status": "stale_not_target"
+    },
+    "assessment": "美股舊快照廣度偏弱；台股法人分歧"
+  },
+  "sector_rotation": {
+    "leaders": [
+      "AI伺服器／部分半導體韌性",
+      "Nvidia與Apple舊快照相對支撐",
+      "外銷訂單支持資通訊需求"
+    ],
+    "laggards": [
+      "美國零售與消費",
+      "高估值長久期資產",
+      "油價與長債敏感族群"
+    ],
+    "impacts": {
+      "TSMC": "基本面有營收支撐，但海外同步不足",
+      "exports": "外銷訂單強，仍看匯率與美國需求",
+      "financial_insurance": "長債高檔使評價與避險承壓",
+      "import_costs": "油價上升抵銷部分台幣升值效益",
+      "valuation": "長債高檔壓抑科技估值"
+    }
+  },
+  "abc_wave": {
+    "framework": "Elliott/ABC僅作條件情境，不是預言",
+    "current_interpretation": "8月19日A段急跌後，8月20日弱B修復；午夜外盤風險使B段仍脆弱",
+    "anchors": [
+      {
+        "type": "A_low_candidate",
+        "value": 44446
+      },
+      {
+        "type": "close",
+        "value": 44933.74
+      },
+      {
+        "type": "resistance",
+        "value": 45160.05
+      }
+    ],
+    "support": [
+      44682,
+      44446
+    ],
+    "resistance": [
+      45000,
+      45160.05
+    ],
+    "alternate_scenario": "站回45160且外資、SOX同步止穩則弱B延伸；跌破44446且量增則修正延伸",
+    "invalidation": "缺乏目標分鐘與隔日量價，任何單一路徑不足確認",
+    "confidence": "insufficient_data"
+  },
+  "scenarios": {
+    "bullish": "SOX與TSM同步止穩、外資續買、TAIEX站穩45160",
+    "base": "高量區間震盪，AI局部支撐但長債與法人分歧限制上檔",
+    "bearish": "長債再升、外資轉賣且TAIEX跌破44446"
+  },
+  "next_confirmations": [
+    "SOX與TSM ADR下一個可驗證時點",
+    "美債殖利率方向",
+    "8月21日外資與台積電",
+    "44446支撐與45160壓力",
+    "機器人與AI量價廣度"
+  ],
+  "risk_flags": [
+    "歷史回補非即時行情",
+    "09:44 ET快照較目標時點陳舊161分鐘",
+    "精確NASDAQ、SOX、TSM ADR與USDJPY不可驗證",
+    "美債與油價上升",
+    "法人分歧",
+    "ABC信心insufficient_data",
+    "私人劇情線索禁止交易"
+  ],
+  "website_summary": "00:25歷史回補：台股44933.74、TPEx389.96；只採09:44 ET舊快照，NASDAQ 26254.38、10Y 4.698%、30Y 5.239%，精確目標分鐘不足。五檔WAIT、零成交。"
+}

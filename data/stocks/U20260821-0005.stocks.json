@@ -1,0 +1,161 @@
+{
+  "update_id": "U20260821-0005",
+  "market_id": "M20260821-0005",
+  "as_of": "2026-08-21T00:05:00+08:00",
+  "position_status": {
+    "executed_trades": 0,
+    "holdings": 0,
+    "pending_disputed_tsm_shares": 100000,
+    "pending_status": "unverified_rejected_not_booked"
+  },
+  "watchlist": [
+    {
+      "ticker": "4576",
+      "name": "大銀微系統",
+      "positioning": "機器人／精密運動控制",
+      "rating": "B",
+      "evidence": [
+        "2026年7月營收年增60.14%",
+        "8月20日TPEx收389.96、上漲1.34%"
+      ],
+      "risks": [
+        "題材擁擠與估值先行",
+        "R-4576私人線索禁止交易"
+      ],
+      "confirm_signals": [
+        "公開訂單或營收續增",
+        "量價與族群廣度共振"
+      ],
+      "invalidations": [
+        "營收趨勢反轉",
+        "爆量不漲或TPEx破支撐"
+      ],
+      "exit_logic": "WAIT；失效移出觀察",
+      "status": "WAIT"
+    },
+    {
+      "ticker": "2049",
+      "name": "上銀",
+      "positioning": "線性傳動／自動化",
+      "rating": "B-",
+      "evidence": [
+        "2026年7月營收年增約33.9%",
+        "7月外銷訂單979.4億美元、年增61.9%"
+      ],
+      "risks": [
+        "出口循環與匯率換算",
+        "長債估值壓力"
+      ],
+      "confirm_signals": [
+        "公開訂單與毛利改善",
+        "突破後量能延續"
+      ],
+      "invalidations": [
+        "訂單或營收下修",
+        "族群相對強勢消失"
+      ],
+      "exit_logic": "WAIT；不追價",
+      "status": "WAIT"
+    },
+    {
+      "ticker": "2359",
+      "name": "所羅門",
+      "positioning": "AI視覺／機器人",
+      "rating": "C",
+      "evidence": [
+        "2026年7月營收年增36.32%",
+        "同月月減29.09%"
+      ],
+      "risks": [
+        "高Beta與專案驗收波動",
+        "午夜分鐘資料不足"
+      ],
+      "confirm_signals": [
+        "公開訂單或毛利改善",
+        "放量收復壓力"
+      ],
+      "invalidations": [
+        "續月減或爆量不漲",
+        "TPEx轉弱"
+      ],
+      "exit_logic": "WAIT；不接落刀",
+      "status": "WAIT"
+    },
+    {
+      "ticker": "6125",
+      "name": "廣運",
+      "positioning": "自動化／智慧物流",
+      "rating": "C+",
+      "evidence": [
+        "7月外銷訂單創高支持自動化需求",
+        "8月20日TPEx收漲1.34%"
+      ],
+      "risks": [
+        "專案認列遞延",
+        "題材輪動快"
+      ],
+      "confirm_signals": [
+        "公開接單與營收轉強",
+        "量價廣度共振"
+      ],
+      "invalidations": [
+        "TPEx轉弱",
+        "接單不如預期"
+      ],
+      "exit_logic": "WAIT；基本面優先",
+      "status": "WAIT"
+    },
+    {
+      "ticker": "2330",
+      "name": "台積電",
+      "positioning": "先進製程／AI權值",
+      "rating": "C-",
+      "evidence": [
+        "官方2026年7月營收年增44.7%",
+        "8月20日台股收2375元；09:44 ET舊快照顯示利率壓力"
+      ],
+      "risks": [
+        "長債壓抑估值",
+        "外資與權值集中"
+      ],
+      "confirm_signals": [
+        "ADR與SOX同步止穩",
+        "外資回補且TAIEX站穩45000"
+      ],
+      "invalidations": [
+        "TAIEX跌破44446",
+        "SOX續弱與殖利率再升"
+      ],
+      "exit_logic": "WAIT；跨市場未同步前不追",
+      "status": "WAIT"
+    }
+  ],
+  "selection_changes": [],
+  "transactions": [],
+  "ledger": {
+    "recognized_income_twd": 730280000,
+    "total_assets_twd": 730306000,
+    "unrestricted_cash_twd": 730300000,
+    "restricted_cash_twd": 6000,
+    "executed_trades": 0,
+    "holdings": 0,
+    "recognized_this_update_twd": 72000000,
+    "recognition_evidence": [
+      "signed_contract",
+      "delivered",
+      "independent_acceptance",
+      "payment_received"
+    ],
+    "excluded_assets": [
+      "十萬股台積電爭議證物",
+      "婚姻與受益權",
+      "K-01控制權",
+      "未交割離岸信託"
+    ]
+  },
+  "compliance": [
+    "觀察股不是成交",
+    "未公開劇情與身分線索禁止交易",
+    "未驗收、未付款或未交割項目不得灌入本金"
+  ]
+}
