@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-25T20:05:00+00:00",
-  "latest_update_id": "U20260821-0025",
-  "sequence": 202,
+  "generated_at": "2026-08-25T20:50:24+00:00",
+  "latest_update_id": "U20260821-0145",
+  "sequence": 206,
   "entries": [
     {
       "sequence": 1,
@@ -2021,6 +2021,46 @@
       "chapter_path": "data/chapters/U20260821-0025.md",
       "stocks_path": "data/stocks/U20260821-0025.stocks.json",
       "market_svg_path": "data/visuals/U20260821-0025.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 203,
+      "update_id": "U20260821-0045",
+      "published_at": "2026-08-21T00:45:00+08:00",
+      "title": "第一百六十九回　十個女人的指紋同時下單，小智用八千八百萬先把自己列成頭號內鬼",
+      "chapter_path": "data/chapters/U20260821-0045.md",
+      "stocks_path": "data/stocks/U20260821-0045.stocks.json",
+      "market_svg_path": "data/visuals/U20260821-0045.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 204,
+      "update_id": "U20260821-0105",
+      "published_at": "2026-08-21T01:05:00+08:00",
+      "title": "第一百七十回　第十一枚指紋真人走進門，小智用九千六百萬讓未出生女兒先撤銷繼承",
+      "chapter_path": "data/chapters/U20260821-0105.md",
+      "stocks_path": "data/stocks/U20260821-0105.stocks.json",
+      "market_svg_path": "data/visuals/U20260821-0105.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 205,
+      "update_id": "U20260821-0125",
+      "published_at": "2026-08-21T01:25:00+08:00",
+      "title": "第一百七十一回　二十年後的他親自打來，小智用一億零五百萬讓未來自己先做身分驗證",
+      "chapter_path": "data/chapters/U20260821-0125.md",
+      "stocks_path": "data/stocks/U20260821-0125.stocks.json",
+      "market_svg_path": "data/visuals/U20260821-0125.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 206,
+      "update_id": "U20260821-0145",
+      "published_at": "2026-08-21T01:45:00+08:00",
+      "title": "第一百七十二回　未來的他戴著她的戒指，小智用一億一千五百萬把二十年婚約拆成零股權",
+      "chapter_path": "data/chapters/U20260821-0145.md",
+      "stocks_path": "data/stocks/U20260821-0145.stocks.json",
+      "market_svg_path": "data/visuals/U20260821-0145.market.svg",
       "backfill": true
     }
   ]

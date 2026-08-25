@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
   "timezone": "Asia/Taipei",
-  "latest_update_id": "U20260821-0025",
-  "sequence": 202,
+  "latest_update_id": "U20260821-0145",
+  "sequence": 206,
   "ordering_rule": "sequence then update_id; ignore legacy chapter numbers",
-  "history_count": 202,
+  "history_count": 206,
   "updates": [
     {
       "sequence": 1,
@@ -2138,6 +2138,54 @@
       "stocks_file_id": "1f1m7_uYWpg1ajG5y85ZRirA8uu-9ieVA",
       "market_svg_file_id": "1hEn4Dsmp2zo3AvTT6HmJFFusRmf_0dR7",
       "market_id": "M20260821-0025",
+      "backfill": true
+    },
+    {
+      "sequence": 203,
+      "update_id": "U20260821-0045",
+      "published_at": "2026-08-21T00:45:00+08:00",
+      "title": "第一百六十九回　十個女人的指紋同時下單，小智用八千八百萬先把自己列成頭號內鬼",
+      "chapter_file_id": "1Z5tOTo6drCTxGzSd9dtAkSoJaNveu3gE",
+      "storyboard_file_id": "1FyG5MRaP_m76cp4XdILOymQ7L4-vPlDV",
+      "stocks_file_id": "1X6-f4NOw6MFS1EUYOAjScGNTW-G5ZnOS",
+      "market_svg_file_id": "1m6AV5XsOFPP6iVDi1PfEbW9nGGCjERyf",
+      "market_id": "M20260821-0045",
+      "backfill": true
+    },
+    {
+      "sequence": 204,
+      "update_id": "U20260821-0105",
+      "published_at": "2026-08-21T01:05:00+08:00",
+      "title": "第一百七十回　第十一枚指紋真人走進門，小智用九千六百萬讓未出生女兒先撤銷繼承",
+      "chapter_file_id": "1QfLRTS2IDap543rbFG6Z0OHIhzwuGvds",
+      "storyboard_file_id": "1MpMWeKcF2wQEVLhdJlzSXl5Rg7Fv2GuU",
+      "stocks_file_id": "1hXwsWH7EabuJ23VR9usPF4lV_rxSEBMP",
+      "market_svg_file_id": "1Wc6thvjAe2UXHOzam0qt6bwF2a-frcjh",
+      "market_id": "M20260821-0105",
+      "backfill": true
+    },
+    {
+      "sequence": 205,
+      "update_id": "U20260821-0125",
+      "published_at": "2026-08-21T01:25:00+08:00",
+      "title": "第一百七十一回　二十年後的他親自打來，小智用一億零五百萬讓未來自己先做身分驗證",
+      "chapter_file_id": "1b_cM_MjjagPmZN0w2IavYPU882zNQhSR",
+      "storyboard_file_id": "1S0o9sc3MeBfMASvC9Qh8wRlLQmG4lHZL",
+      "stocks_file_id": "1L7taukOm7AZ2xrQQcYBfbd0XzgGfKrxK",
+      "market_svg_file_id": "1mx3jZRsN5hCFj7j2Gxte135pae7q5bgx",
+      "market_id": "M20260821-0125",
+      "backfill": true
+    },
+    {
+      "sequence": 206,
+      "update_id": "U20260821-0145",
+      "published_at": "2026-08-21T01:45:00+08:00",
+      "title": "第一百七十二回　未來的他戴著她的戒指，小智用一億一千五百萬把二十年婚約拆成零股權",
+      "chapter_file_id": "1wZLIIIYeWyE9t7kjOJ5rpcKrqaqN8BKt",
+      "storyboard_file_id": "1yuYh4V_wrElZjhwjGRIoEm4ojU0FGe3s",
+      "stocks_file_id": "1z0ulZ7nIO_KLdp7KC3SLPZ6fleCgTeCb",
+      "market_svg_file_id": "1JStLiwL0tnSeKQESvzfZMj1opfifo2z1",
+      "market_id": "M20260821-0145",
       "backfill": true
     }
   ]
