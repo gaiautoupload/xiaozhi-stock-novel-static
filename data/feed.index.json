@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
   "timezone": "Asia/Taipei",
-  "latest_update_id": "U20260820-2305",
-  "sequence": 198,
+  "latest_update_id": "U20260820-2345",
+  "sequence": 200,
   "ordering_rule": "sequence then update_id; ignore legacy chapter numbers",
-  "history_count": 198,
+  "history_count": 200,
   "updates": [
     {
       "sequence": 1,
@@ -2090,6 +2090,30 @@
       "stocks_file_id": "1GlRsyJnwt7XX_NvM8wvrIM7Tu9QHEeZh",
       "market_svg_file_id": "1h0dOpDW57FzXZ4sPsI38sQGDLXguSbZl",
       "market_id": "M20260820-2305",
+      "backfill": true
+    },
+    {
+      "sequence": 199,
+      "update_id": "U20260820-2325",
+      "published_at": "2026-08-20T23:25:00+08:00",
+      "title": "第一百六十五回　第九個女人能判他重婚，小智用六千萬先撤銷自己的婚姻資格",
+      "chapter_file_id": "1fkgC0PYBomkvjQj_1urbbU8ae_YuVqxg",
+      "storyboard_file_id": "1rjUyEvv40WO1lJqzp67wZxjafCMWSCFL",
+      "stocks_file_id": "1ILvH8Wbo0uKDOadbLvocZmMA3nEwMQhV",
+      "market_svg_file_id": "1RhzoI5WKeOe4YUDkURas6AQivhvquSiW",
+      "market_id": "M20260820-2325",
+      "backfill": true
+    },
+    {
+      "sequence": 200,
+      "update_id": "U20260820-2345",
+      "published_at": "2026-08-20T23:45:00+08:00",
+      "title": "第一百六十六回　他出生前三年就結過婚，小智用六千六百萬逼新娘親自摘下面具",
+      "chapter_file_id": "13ESf6X10s8lI8BCPS7Vlkszn3uCLZZ4x",
+      "storyboard_file_id": "1HwTStH1edN3V3csshtglLEusFyVcw_qP",
+      "stocks_file_id": "1AUBwnX4nJVj_5rizuN6ePzgFRZdmHHM-",
+      "market_svg_file_id": "1_V5ByFU4w4WqEeG0zbBhqINX7N4kQYJ-",
+      "market_id": "M20260820-2345",
       "backfill": true
     }
   ]

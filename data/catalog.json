@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-25T16:05:33+00:00",
-  "latest_update_id": "U20260820-2305",
-  "sequence": 198,
+  "generated_at": "2026-08-25T17:01:06+00:00",
+  "latest_update_id": "U20260820-2345",
+  "sequence": 200,
   "entries": [
     {
       "sequence": 1,
@@ -1980,7 +1980,27 @@
       "title": "第一百六十四回　八個女人只能有一個正宮，小智用五千五百萬把她們全列共同原告",
       "chapter_path": "data/chapters/U20260820-2305.md",
       "stocks_path": "data/stocks/U20260820-2305.stocks.json",
-      "market_svg_path": null,
+      "market_svg_path": "data/visuals/U20260820-2305.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 199,
+      "update_id": "U20260820-2325",
+      "published_at": "2026-08-20T23:25:00+08:00",
+      "title": "第一百六十五回　第九個女人能判他重婚，小智用六千萬先撤銷自己的婚姻資格",
+      "chapter_path": "data/chapters/U20260820-2325.md",
+      "stocks_path": "data/stocks/U20260820-2325.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-2325.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 200,
+      "update_id": "U20260820-2345",
+      "published_at": "2026-08-20T23:45:00+08:00",
+      "title": "第一百六十六回　他出生前三年就結過婚，小智用六千六百萬逼新娘親自摘下面具",
+      "chapter_path": "data/chapters/U20260820-2345.md",
+      "stocks_path": "data/stocks/U20260820-2345.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-2345.market.svg",
       "backfill": true
     }
   ]
