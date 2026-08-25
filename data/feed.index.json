@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
   "timezone": "Asia/Taipei",
-  "latest_update_id": "U20260820-2145",
-  "sequence": 194,
+  "latest_update_id": "U20260820-2305",
+  "sequence": 198,
   "ordering_rule": "sequence then update_id; ignore legacy chapter numbers",
-  "history_count": 194,
+  "history_count": 198,
   "updates": [
     {
       "sequence": 1,
@@ -2042,6 +2042,54 @@
       "stocks_file_id": "1Cua3H40cA6t4oyvrc4robylVdEi1wf92",
       "market_svg_file_id": "1NmnYF3N8Ugmb3jGHrpblH-xjG4D-YBKZ",
       "market_id": "M20260820-2145",
+      "backfill": true
+    },
+    {
+      "sequence": 195,
+      "update_id": "U20260820-2205",
+      "published_at": "2026-08-20T22:05:00+08:00",
+      "title": "第一百六十一回　第八個女人要他赴美作證，小智用四千萬讓她先查自己的委託人",
+      "chapter_file_id": "14fJCDw6VY768GdNTC1z6IRJWNadG9baQ",
+      "storyboard_file_id": "1-qOWqxL6u0_On2kYc1TaWjU8rYUQTZ7S",
+      "stocks_file_id": "1-gmb-y-6VfIXWy77U1Dben_SSX90hh8n",
+      "market_svg_file_id": "1g9K_OQuuccLBF_QZTkQsrOnJY6gfMSnO",
+      "market_id": "M20260820-2205",
+      "backfill": true
+    },
+    {
+      "sequence": 196,
+      "update_id": "U20260820-2225",
+      "published_at": "2026-08-20T22:25:00+08:00",
+      "title": "第一百六十二回　冒牌小智已坐上紐約航班，他用四千五百萬讓自己的護照先被逮捕",
+      "chapter_file_id": "1mZUx68C2WJfZJgDpuoC_GaCH6AkoN0v8",
+      "storyboard_file_id": "17r6C3BiikcOZC-0GTtSkFsUWPLA-UnZs",
+      "stocks_file_id": "1bND2oCluJc8r8NnY2-hQE4AmrL7JelRS",
+      "market_svg_file_id": "1-0WsKy47XLQnUnN1xZ7w2bAQCaR-yM7Y",
+      "market_id": "M20260820-2225",
+      "backfill": true
+    },
+    {
+      "sequence": 197,
+      "update_id": "U20260820-2245",
+      "published_at": "2026-08-20T22:45:00+08:00",
+      "title": "第一百六十三回　護照說十一歲的她嫁過他，小智用五千萬讓未成年婚姻先告系統",
+      "chapter_file_id": "1hqt7iqFi17NE2Pgbxx0l_LQzJyaOrAJH",
+      "storyboard_file_id": "1qWL6xGdIcdrNaj1mC5j3fAgn04DEE5pl",
+      "stocks_file_id": "1bFNIMnvWl0AQDjHU4mNO2a1B5h7oxbjk",
+      "market_svg_file_id": "1BQBdVcpJCEWK9DxQOUmX4rJxBUX2vTI_",
+      "market_id": "M20260820-2245",
+      "backfill": true
+    },
+    {
+      "sequence": 198,
+      "update_id": "U20260820-2305",
+      "published_at": "2026-08-20T23:05:00+08:00",
+      "title": "第一百六十四回　八個女人只能有一個正宮，小智用五千五百萬把她們全列共同原告",
+      "chapter_file_id": "1seNEu7TuasKOhdmNtrln9rsILQYlrfFx",
+      "storyboard_file_id": "1hjqIEjo-Z5XpYkeRlnaZHcdtl92dgwgh",
+      "stocks_file_id": "1GlRsyJnwt7XX_NvM8wvrIM7Tu9QHEeZh",
+      "market_svg_file_id": "1h0dOpDW57FzXZ4sPsI38sQGDLXguSbZl",
+      "market_id": "M20260820-2305",
       "backfill": true
     }
   ]

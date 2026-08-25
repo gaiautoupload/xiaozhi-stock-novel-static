@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-25T15:10:03+00:00",
-  "latest_update_id": "U20260820-2145",
-  "sequence": 194,
+  "generated_at": "2026-08-25T16:05:33+00:00",
+  "latest_update_id": "U20260820-2305",
+  "sequence": 198,
   "entries": [
     {
       "sequence": 1,
@@ -1941,6 +1941,46 @@
       "chapter_path": "data/chapters/U20260820-2145.md",
       "stocks_path": "data/stocks/U20260820-2145.stocks.json",
       "market_svg_path": "data/visuals/U20260820-2145.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 195,
+      "update_id": "U20260820-2205",
+      "published_at": "2026-08-20T22:05:00+08:00",
+      "title": "第一百六十一回　第八個女人要他赴美作證，小智用四千萬讓她先查自己的委託人",
+      "chapter_path": "data/chapters/U20260820-2205.md",
+      "stocks_path": "data/stocks/U20260820-2205.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-2205.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 196,
+      "update_id": "U20260820-2225",
+      "published_at": "2026-08-20T22:25:00+08:00",
+      "title": "第一百六十二回　冒牌小智已坐上紐約航班，他用四千五百萬讓自己的護照先被逮捕",
+      "chapter_path": "data/chapters/U20260820-2225.md",
+      "stocks_path": "data/stocks/U20260820-2225.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-2225.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 197,
+      "update_id": "U20260820-2245",
+      "published_at": "2026-08-20T22:45:00+08:00",
+      "title": "第一百六十三回　護照說十一歲的她嫁過他，小智用五千萬讓未成年婚姻先告系統",
+      "chapter_path": "data/chapters/U20260820-2245.md",
+      "stocks_path": "data/stocks/U20260820-2245.stocks.json",
+      "market_svg_path": "data/visuals/U20260820-2245.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 198,
+      "update_id": "U20260820-2305",
+      "published_at": "2026-08-20T23:05:00+08:00",
+      "title": "第一百六十四回　八個女人只能有一個正宮，小智用五千五百萬把她們全列共同原告",
+      "chapter_path": "data/chapters/U20260820-2305.md",
+      "stocks_path": "data/stocks/U20260820-2305.stocks.json",
+      "market_svg_path": null,
       "backfill": true
     }
   ]
