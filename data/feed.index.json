@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
   "timezone": "Asia/Taipei",
-  "latest_update_id": "U20260821-0225",
-  "sequence": 208,
+  "latest_update_id": "U20260821-0345",
+  "sequence": 212,
   "ordering_rule": "sequence then update_id; ignore legacy chapter numbers",
-  "history_count": 208,
+  "history_count": 212,
   "updates": [
     {
       "sequence": 1,
@@ -2210,6 +2210,54 @@
       "stocks_file_id": "1dN4CcunwiqKozGeCKOb4U1EDJNp5H9Nr",
       "market_svg_file_id": "16ZmW__IPYeaTBfpaVNpuuGymOb6m7MHr",
       "market_id": "M20260821-0225",
+      "backfill": true
+    },
+    {
+      "sequence": 209,
+      "update_id": "U20260821-0245",
+      "published_at": "2026-08-21T02:45:00+08:00",
+      "title": "第一百七十五回　原始配偶在起飛前先寄離婚書，小智用一億四千五百萬讓一股台積電先驗婚",
+      "chapter_file_id": "1K2ClcBmgSRBI03-oeLwKkZM0B34_sRHD",
+      "storyboard_file_id": "1RPmB_rqiN6ivkpkMS5gqn08eppsp3CCt",
+      "stocks_file_id": "1N_7WiAn67019yqZiz9nuQ5aL5agzEglY",
+      "market_svg_file_id": "1kkFF-rB9DIjik_UAINFHH4tsRGlqL5zI",
+      "market_id": "M20260821-0245",
+      "backfill": true
+    },
+    {
+      "sequence": 210,
+      "update_id": "U20260821-0305",
+      "published_at": "2026-08-21T03:05:00+08:00",
+      "title": "第一百七十六回　她拿真護照證明自己是第一任妻，小智用一億五千五百萬把結婚紀錄告成交易病毒",
+      "chapter_file_id": "1-VByROVlmhveFAbyIiqPTyvZNEJBj39X",
+      "storyboard_file_id": "1vY9yk3LcecK9jAIBIrH3guhJkQVNuu_1",
+      "stocks_file_id": "1s35B4N_GfJNtS-VpAae9ZMA-5p9CMfJw",
+      "market_svg_file_id": "1-6c898AUe_tNhpKm6FkPkkhG-1WwsrFj",
+      "market_id": "M20260821-0305",
+      "backfill": true
+    },
+    {
+      "sequence": 211,
+      "update_id": "U20260821-0325",
+      "published_at": "2026-08-21T03:25:00+08:00",
+      "title": "第一百七十七回　死亡通知比班機早落地，小智用一億六千五百萬讓受益人先證明自己活著",
+      "chapter_file_id": "1wx3FkHZc0nPbIZ3LdQ6XYxTTzNfx4syN",
+      "storyboard_file_id": "11bE6GdhqmPtpjSCK3jtw2aRdNl3d6JX3",
+      "stocks_file_id": "1ohR6CN7WPRu0kaUu5FR6hg2Rb6m4QTEE",
+      "market_svg_file_id": "1OCGlWfgcG1Ce0S67RSO3prRRXMw1WfQi",
+      "market_id": "M20260821-0325",
+      "backfill": true
+    },
+    {
+      "sequence": 212,
+      "update_id": "U20260821-0345",
+      "published_at": "2026-08-21T03:45:00+08:00",
+      "title": "第一百七十八回　她落地時全世界都說他死了，小智用一億八千萬讓十二個女人替自己宣布復活",
+      "chapter_file_id": "15YWnjXJqtaDonZ1967mB-iVWUzCkgGZN",
+      "storyboard_file_id": "1GfyUqcol2EgHqdg4f-MmTq34EyuuE8Eh",
+      "stocks_file_id": "1iMA3k0uNxDCOvWU1jwonuSrjcbdJhPkf",
+      "market_svg_file_id": "1Ff-tqo14hd3PyIIb8bHRdRqcgLggfXkL",
+      "market_id": "M20260821-0345",
       "backfill": true
     }
   ]

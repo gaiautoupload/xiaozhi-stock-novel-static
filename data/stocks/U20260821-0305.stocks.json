@@ -1,0 +1,194 @@
+{
+  "update_id": "U20260821-0305",
+  "market_id": "M20260821-0305",
+  "as_of": "2026-08-21T03:05:00+08:00",
+  "portfolio": {
+    "recognized_income": 1774280000,
+    "total_assets": 1774306000,
+    "available_cash": 1774300000,
+    "restricted_cash": 6000,
+    "executed_trades": 0,
+    "positions": [],
+    "unrecognized_items": [
+      "一股台積電受益人預登記",
+      "台積電ADR未成交買單",
+      "配偶角色與死亡受益權",
+      "K-01及所有未交割權利"
+    ]
+  },
+  "watchlist": [
+    {
+      "ticker": "4576",
+      "name": "大銀微系統",
+      "positioning": "機器人／精密運動控制",
+      "rating": "B",
+      "evidence": [
+        "2026年7月營收年增60.14%",
+        "8月20日TPEx收389.96、上漲1.34%"
+      ],
+      "risks": [
+        "估值偏高",
+        "題材退潮",
+        "R-4576禁交易"
+      ],
+      "confirm_signals": [
+        "公開訂單或營收續增",
+        "量價與TPEx廣度共振"
+      ],
+      "invalidations": [
+        "營收反轉",
+        "爆量不漲或TPEx跌破支撐"
+      ],
+      "exit_logic": "WAIT；失效即移出，不追價",
+      "status": "WAIT"
+    },
+    {
+      "ticker": "2049",
+      "name": "上銀",
+      "positioning": "線性傳動／自動化",
+      "rating": "B-",
+      "evidence": [
+        "2026年7月營收年增33.9%",
+        "營收連5個月月增、年增"
+      ],
+      "risks": [
+        "出口循環",
+        "匯率與成本",
+        "估值壓縮"
+      ],
+      "confirm_signals": [
+        "訂單與毛利改善",
+        "突破後量能持續"
+      ],
+      "invalidations": [
+        "訂單下修",
+        "自動化族群轉弱"
+      ],
+      "exit_logic": "WAIT；不追單一急拉",
+      "status": "WAIT"
+    },
+    {
+      "ticker": "2359",
+      "name": "所羅門",
+      "positioning": "AI視覺／機器人",
+      "rating": "C",
+      "evidence": [
+        "2026年7月營收年增36.32%",
+        "TPEx收高提供中小型股環境支撐"
+      ],
+      "risks": [
+        "月減29.09%",
+        "高波動",
+        "獲利不足"
+      ],
+      "confirm_signals": [
+        "公開訂單落地",
+        "放量且毛利改善"
+      ],
+      "invalidations": [
+        "爆量不漲",
+        "TPEx轉弱或營收續月減"
+      ],
+      "exit_logic": "WAIT；失效汰換",
+      "status": "WAIT"
+    },
+    {
+      "ticker": "6125",
+      "name": "廣運",
+      "positioning": "自動化／智慧物流",
+      "rating": "C+",
+      "evidence": [
+        "7月外銷訂單979.4億美元、年增61.9%",
+        "AI伺服器與電子需求提供自動化背景"
+      ],
+      "risks": [
+        "資金輪動快",
+        "營收認列波動",
+        "題材先於基本面"
+      ],
+      "confirm_signals": [
+        "訂單及營收公開",
+        "量價廣度共振"
+      ],
+      "invalidations": [
+        "TPEx轉弱",
+        "接單或認列不如預期"
+      ],
+      "exit_logic": "WAIT；基本面優先",
+      "status": "WAIT"
+    },
+    {
+      "ticker": "2330",
+      "name": "台積電",
+      "positioning": "先進製程／AI權值",
+      "rating": "C-",
+      "evidence": [
+        "8月20日台股收2,375元",
+        "2026年7月營收年增44.7%"
+      ],
+      "risks": [
+        "長債殖利率壓縮估值",
+        "台幣波動",
+        "權值集中"
+      ],
+      "confirm_signals": [
+        "外資續流入",
+        "站穩2,375且大盤重回45,000"
+      ],
+      "invalidations": [
+        "權值轉弱",
+        "大盤跌破44,446"
+      ],
+      "exit_logic": "WAIT；反彈不追",
+      "status": "WAIT"
+    }
+  ],
+  "selection_changes": [],
+  "market_context": {
+    "TAIEX": 44933.74,
+    "TPEx": 389.96,
+    "USD_TWD": 31.925,
+    "NASDAQ": {
+      "value": 26040.53,
+      "status": "stale",
+      "staleness_minutes": 53
+    },
+    "SOX": "unavailable",
+    "TSM_ADR": "unavailable"
+  },
+  "sources": [
+    {
+      "title": "中央社：台股收盤與類股輪動",
+      "url": "https://www.cna.com.tw/news/afe/202608200131.aspx"
+    },
+    {
+      "title": "中央社：三大法人買賣超",
+      "url": "https://www.cna.com.tw/news/afe/202608200167.aspx"
+    },
+    {
+      "title": "中央銀行：新臺幣／美元收盤匯率",
+      "url": "https://www.cbc.gov.tw/tw/lp-645-1.html"
+    },
+    {
+      "title": "經濟部：2026年7月外銷訂單",
+      "url": "https://www.moea.gov.tw/Mns/dos/home/Home.aspx"
+    },
+    {
+      "title": "台積電：2026年7月營收",
+      "url": "https://investor.tsmc.com/english/monthly-revenue/2026"
+    },
+    {
+      "title": "MarketFinch：14:12 ET美股盤中與廣度",
+      "url": "https://marketfinch.com/futures-walmart-sales-miss-oil-claims-philly-fed-august-20-2026/"
+    },
+    {
+      "title": "Benzinga：13:02 ET美債與美股快照",
+      "url": "https://www.benzinga.com/markets/equities/26/08/61338062/bond-rescue-scott-bessent-walmart-craters-treasury-yields-oil-markets-thursday"
+    },
+    {
+      "title": "Fed：2026年7月FOMC會議紀要",
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20260729.htm"
+    }
+  ],
+  "disclaimer": "觀察清單不是成交紀錄；所有委託在成交前均不得計入持倉或資產。"
+}

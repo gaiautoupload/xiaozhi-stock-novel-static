@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-26T00:12:12+00:00",
-  "latest_update_id": "U20260821-0225",
-  "sequence": 208,
+  "generated_at": "2026-08-26T02:07:06+00:00",
+  "latest_update_id": "U20260821-0345",
+  "sequence": 212,
   "entries": [
     {
       "sequence": 1,
@@ -2081,6 +2081,46 @@
       "chapter_path": "data/chapters/U20260821-0225.md",
       "stocks_path": "data/stocks/U20260821-0225.stocks.json",
       "market_svg_path": "data/visuals/U20260821-0225.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 209,
+      "update_id": "U20260821-0245",
+      "published_at": "2026-08-21T02:45:00+08:00",
+      "title": "第一百七十五回　原始配偶在起飛前先寄離婚書，小智用一億四千五百萬讓一股台積電先驗婚",
+      "chapter_path": "data/chapters/U20260821-0245.md",
+      "stocks_path": "data/stocks/U20260821-0245.stocks.json",
+      "market_svg_path": "data/visuals/U20260821-0245.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 210,
+      "update_id": "U20260821-0305",
+      "published_at": "2026-08-21T03:05:00+08:00",
+      "title": "第一百七十六回　她拿真護照證明自己是第一任妻，小智用一億五千五百萬把結婚紀錄告成交易病毒",
+      "chapter_path": "data/chapters/U20260821-0305.md",
+      "stocks_path": "data/stocks/U20260821-0305.stocks.json",
+      "market_svg_path": "data/visuals/U20260821-0305.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 211,
+      "update_id": "U20260821-0325",
+      "published_at": "2026-08-21T03:25:00+08:00",
+      "title": "第一百七十七回　死亡通知比班機早落地，小智用一億六千五百萬讓受益人先證明自己活著",
+      "chapter_path": "data/chapters/U20260821-0325.md",
+      "stocks_path": "data/stocks/U20260821-0325.stocks.json",
+      "market_svg_path": "data/visuals/U20260821-0325.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 212,
+      "update_id": "U20260821-0345",
+      "published_at": "2026-08-21T03:45:00+08:00",
+      "title": "第一百七十八回　她落地時全世界都說他死了，小智用一億八千萬讓十二個女人替自己宣布復活",
+      "chapter_path": "data/chapters/U20260821-0345.md",
+      "stocks_path": "data/stocks/U20260821-0345.stocks.json",
+      "market_svg_path": "data/visuals/U20260821-0345.market.svg",
       "backfill": true
     }
   ]

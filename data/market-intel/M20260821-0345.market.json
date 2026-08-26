@@ -1,0 +1,267 @@
+{
+  "market_id": "M20260821-0345",
+  "as_of": "2026-08-21T03:45:00+08:00",
+  "session_status": "US_regular_session_historical_backfill; Taiwan_closed",
+  "sources": [
+    {
+      "title": "中央社：台股收盤與類股輪動",
+      "url": "https://www.cna.com.tw/news/afe/202608200131.aspx",
+      "published_at": "2026-08-20T13:45:00+08:00",
+      "accessed_at": "2026-08-26T09:22:00+08:00"
+    },
+    {
+      "title": "中央社：三大法人買賣超",
+      "url": "https://www.cna.com.tw/news/afe/202608200167.aspx",
+      "published_at": "2026-08-20T15:06:00+08:00",
+      "accessed_at": "2026-08-26T09:22:00+08:00"
+    },
+    {
+      "title": "中央銀行：新臺幣／美元收盤匯率",
+      "url": "https://www.cbc.gov.tw/tw/lp-645-1.html",
+      "published_at": "2026-08-20T16:04:00+08:00",
+      "accessed_at": "2026-08-26T09:22:00+08:00"
+    },
+    {
+      "title": "經濟部：2026年7月外銷訂單",
+      "url": "https://www.moea.gov.tw/Mns/dos/home/Home.aspx",
+      "published_at": "2026-08-20T16:30:00+08:00",
+      "accessed_at": "2026-08-26T09:22:00+08:00"
+    },
+    {
+      "title": "台積電：2026年7月營收",
+      "url": "https://investor.tsmc.com/english/monthly-revenue/2026",
+      "published_at": "2026-08-10T00:00:00+08:00",
+      "accessed_at": "2026-08-26T09:22:00+08:00"
+    },
+    {
+      "title": "MarketFinch：14:12 ET美股盤中與廣度",
+      "url": "https://marketfinch.com/futures-walmart-sales-miss-oil-claims-philly-fed-august-20-2026/",
+      "published_at": "2026-08-20T14:12:00-04:00",
+      "accessed_at": "2026-08-26T09:22:00+08:00"
+    },
+    {
+      "title": "Benzinga：13:02 ET美債與美股快照",
+      "url": "https://www.benzinga.com/markets/equities/26/08/61338062/bond-rescue-scott-bessent-walmart-craters-treasury-yields-oil-markets-thursday",
+      "published_at": "2026-08-20T13:02:00-04:00",
+      "accessed_at": "2026-08-26T09:22:00+08:00"
+    },
+    {
+      "title": "Fed：2026年7月FOMC會議紀要",
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20260729.htm",
+      "published_at": "2026-08-19T14:00:00-04:00",
+      "accessed_at": "2026-08-26T09:22:00+08:00"
+    }
+  ],
+  "breaking_news": [
+    {
+      "headline": "美債殖利率回升、Walmart銷售失誤壓抑風險偏好",
+      "status": "known_before_target",
+      "impact": "高估值科技、台股權值估值承壓"
+    },
+    {
+      "headline": "Fed 7月會議紀要顯示通膨憂慮加深",
+      "status": "known_before_target",
+      "impact": "利率上行尾部風險仍在"
+    },
+    {
+      "headline": "精確目標分鐘行情",
+      "status": "unavailable",
+      "impact": "不得用稍後收盤倒填"
+    }
+  ],
+  "index_snapshot": {
+    "TAIEX": {
+      "value": 44933.74,
+      "change_points": 214.39,
+      "as_of": "2026-08-20T13:33:00+08:00",
+      "status": "official_close"
+    },
+    "TPEx": {
+      "value": 389.96,
+      "change_percent": 1.34,
+      "as_of": "2026-08-20T13:30:00+08:00",
+      "status": "official_close"
+    },
+    "TSMC_TW": {
+      "value": 2375,
+      "currency": "TWD",
+      "status": "official_close"
+    },
+    "NASDAQ": {
+      "value": 26040.53,
+      "change_percent": -1.1,
+      "as_of": "2026-08-20T14:12:00-04:00",
+      "status": "stale",
+      "staleness_minutes": 93
+    },
+    "SOX": {
+      "value": null,
+      "status": "unavailable_at_target"
+    },
+    "TSM_ADR": {
+      "value": null,
+      "status": "unavailable_at_target"
+    },
+    "DOW": {
+      "value": 52857.91,
+      "change_percent": -1.13,
+      "as_of": "2026-08-20T14:12:00-04:00",
+      "status": "stale",
+      "staleness_minutes": 93
+    },
+    "SP500": {
+      "value": 7653.96,
+      "change_percent": -0.7,
+      "as_of": "2026-08-20T14:12:00-04:00",
+      "status": "stale",
+      "staleness_minutes": 93
+    }
+  },
+  "fx_snapshot": {
+    "USD_TWD": {
+      "value": 31.925,
+      "as_of": "2026-08-20T16:00:00+08:00",
+      "status": "official_close",
+      "impact": "台幣偏弱有利出口換匯，但提高進口成本；外資流向仍須配合法人資料"
+    },
+    "DXY": {
+      "value": null,
+      "status": "unavailable_at_target"
+    },
+    "USD_JPY": {
+      "value": null,
+      "status": "unavailable_at_target"
+    },
+    "valuation_effect": "長債殖利率高檔壓縮AI與高估值權值股評價；壽險帳面與避險成本敏感，進口企業承受美元成本"
+  },
+  "cross_asset": {
+    "US10Y": {
+      "value": 4.71,
+      "unit": "%",
+      "as_of": "2026-08-20T13:02:00-04:00",
+      "status": "stale",
+      "staleness_minutes": 163
+    },
+    "US30Y": {
+      "value": 5.26,
+      "unit": "%",
+      "as_of": "2026-08-20T13:02:00-04:00",
+      "status": "stale",
+      "staleness_minutes": 163
+    },
+    "oil": {
+      "change_percent": 2.3,
+      "status": "stale_09:44_ET",
+      "impact": "輸入性通膨與運輸成本風險"
+    },
+    "gold": {
+      "value": null,
+      "status": "unavailable"
+    },
+    "bitcoin": {
+      "value": null,
+      "status": "unavailable"
+    },
+    "policy_geopolitics": [
+      "美國長債回購僅提供短暫喘息",
+      "伊朗衝突與油價推升通膨風險",
+      "Fed紀要保留升息尾部風險"
+    ]
+  },
+  "breadth_and_flow": {
+    "Taiwan": {
+      "foreign_investors_twd_bn": 3.782,
+      "investment_trust_twd_bn": -1.211,
+      "dealer_twd_bn": -6.108,
+      "total_institutions_twd_bn": -3.537,
+      "status": "official_close"
+    },
+    "US": {
+      "NYSE_decline_advance_ratio": "1.83:1",
+      "NASDAQ_decline_advance_ratio": "1.68:1",
+      "as_of": "2026-08-20T09:44:00-04:00",
+      "status": "stale"
+    },
+    "interpretation": "外資買超但三大法人合計賣超，台股權值與中小型股分歧；美股舊快照顯示廣度偏弱",
+    "us_breadth": "14:12 ET：NYSE下跌／上漲約1.9:1，NASDAQ接近2:1；僅作目標時點前最近可靠廣度錨。"
+  },
+  "sector_rotation": {
+    "stronger": [
+      "AI伺服器與散熱需求背景",
+      "台灣自動化與機器人題材",
+      "美股舊快照中的Nvidia與Apple"
+    ],
+    "weaker": [
+      "金融與壽險受利率／避險波動影響",
+      "美國零售與消費可選",
+      "高估值科技受長債殖利率壓力"
+    ],
+    "next_rotation_checks": [
+      "台積電能否站穩2375",
+      "TPEx能否守住前一日低點",
+      "法人是否由分歧轉為同步",
+      "美債殖利率是否續升"
+    ]
+  },
+  "abc_wave": {
+    "framework": "Elliott/ABC僅作條件情境，不作預言；以已知44,446.48低點、45,160.05高點、44,933.74收盤為錨。",
+    "current_interpretation": "可能為A段急跌後的B段修復，也可能仍在較大A段中的反彈；目標分鐘量價缺失。",
+    "anchors": {
+      "low": 44446.48,
+      "high": 45160.05,
+      "close": 44933.74,
+      "status": "daily_known"
+    },
+    "support": [
+      44682,
+      44446
+    ],
+    "resistance": [
+      45000,
+      45160
+    ],
+    "alternate_scenario": "若放量站穩45,160，修復延伸；若跌破44,446，A段延伸風險升高。",
+    "invalidation": "缺乏目標分鐘量、均線與缺口資料，任何細分波浪計數均失效。",
+    "confidence": "insufficient_data"
+  },
+  "scenarios": {
+    "bullish": {
+      "conditions": [
+        "台積電站穩2375",
+        "外資續買且三大法人翻多",
+        "10年債殖利率回落"
+      ],
+      "implications": "權值與自動化族群擴散，但仍不追價"
+    },
+    "base": {
+      "conditions": [
+        "44,682至45,160區間震盪",
+        "法人維持分歧",
+        "美債高檔"
+      ],
+      "implications": "五檔維持WAIT，以確認訊號取代預測"
+    },
+    "bearish": {
+      "conditions": [
+        "跌破44,446",
+        "台積電失守關鍵支撐",
+        "油價與長債殖利率續升"
+      ],
+      "implications": "降低曝險，金融壽險與高估值股先受壓"
+    }
+  },
+  "next_confirmations": [
+    "下一交易日TAIEX／TPEx開盤廣度與成交量",
+    "台積電2375與大盤45000攻防",
+    "外資現貨、期貨與USD/TWD共振",
+    "NASDAQ／SOX／TSM ADR可驗證即時值",
+    "出口、自動化與AI訂單是否轉成公司營收"
+  ],
+  "risk_flags": [
+    "14:12 ET指數與廣度落後93分鐘；精確目標分鐘NASDAQ、SOX、TSM ADR、DXY、USDJPY unavailable",
+    "13:02 ET美債殖利率落後163分鐘；不得冒充目標分鐘",
+    "長債、油價與零售弱勢壓抑高估值；觀察股不得冒充成交",
+    "ABC僅條件情境；錨點不足"
+  ],
+  "website_summary": "03:45歷史回補：台股封存TAIEX 44,933.74、TPEx 389.96、台積電2,375、USD/TWD31.925。14:12 ET快照NASDAQ 26,040.53(-1.10%)、S&P -0.70%、Dow -1.13%，落後93分鐘；13:02 ET 10Y 4.71%、30Y 5.26%落後163分鐘。精確SOX、TSM ADR、DXY、USDJPY unavailable。"
+}
