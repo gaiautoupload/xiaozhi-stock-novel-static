@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
   "timezone": "Asia/Taipei",
-  "latest_update_id": "U20260821-0345",
-  "sequence": 212,
+  "latest_update_id": "U20260821-0445",
+  "sequence": 215,
   "ordering_rule": "sequence then update_id; ignore legacy chapter numbers",
-  "history_count": 212,
+  "history_count": 215,
   "updates": [
     {
       "sequence": 1,
@@ -2258,6 +2258,42 @@
       "stocks_file_id": "1iMA3k0uNxDCOvWU1jwonuSrjcbdJhPkf",
       "market_svg_file_id": "1Ff-tqo14hd3PyIIb8bHRdRqcgLggfXkL",
       "market_id": "M20260821-0345",
+      "backfill": true
+    },
+    {
+      "sequence": 213,
+      "update_id": "U20260821-0405",
+      "published_at": "2026-08-21T04:05:00+08:00",
+      "title": "第一百七十九回　婚禮代號竟是一家空殼公司，小智用兩億讓新娘先接受上市審查",
+      "chapter_file_id": "1iRvteAseO-A-boUWqsclJgdx-vy3TD5q",
+      "storyboard_file_id": "1sGiIP-iqR9wOJjFB1ObLZCpKil1iHHDp",
+      "stocks_file_id": "1-zY6UNwmNpN2q3pvC7Iw2fLr0ZkDyjsT",
+      "market_svg_file_id": "1LS3NLvkdlBgZqm-dIccewXwt3rTWOYir",
+      "market_id": "M20260821-0405",
+      "backfill": true
+    },
+    {
+      "sequence": 214,
+      "update_id": "U20260821-0425",
+      "published_at": "2026-08-21T04:25:00+08:00",
+      "title": "第一百八十回　兩百萬股要替他迎娶不存在的妻，小智用兩億兩千萬讓十三個女人共同監票",
+      "chapter_file_id": "15gnByH3QI1-cQG4Bk1F69qD1zl8P7dRq",
+      "storyboard_file_id": "1ZPPc-2IDTKHEK1FqKcxbzR4mJSG9RvUD",
+      "stocks_file_id": "1jYoiRtYXeJWAtWY7nOIIAvS3zprpQf-y",
+      "market_svg_file_id": "1WL5Kpp9soW4rzx2Z41rqICPNJOWtjPFP",
+      "market_id": "M20260821-0425",
+      "backfill": true
+    },
+    {
+      "sequence": 215,
+      "update_id": "U20260821-0445",
+      "published_at": "2026-08-21T04:45:00+08:00",
+      "title": "第一百八十一回　第十四張否決票竟是他的遺孀，小智用兩億四千萬讓死亡配偶先公開財產",
+      "chapter_file_id": "1uQ8lUZ9YWMZPl1vGOAgBu97tj9yXYypp",
+      "storyboard_file_id": "14WjzQzEPHSfyR3ToQub_dWy3TKI6Skok",
+      "stocks_file_id": "181hRdCqPrpFmhv8Fh3w3FvGe0ktNn5CN",
+      "market_svg_file_id": "1cKUjjZvpSpu7-HmH98s3dEysNbH1fa6_",
+      "market_id": "M20260821-0445",
       "backfill": true
     }
   ]

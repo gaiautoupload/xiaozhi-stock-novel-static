@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-26T02:07:06+00:00",
-  "latest_update_id": "U20260821-0345",
-  "sequence": 212,
+  "generated_at": "2026-08-26T03:29:04+00:00",
+  "latest_update_id": "U20260821-0445",
+  "sequence": 215,
   "entries": [
     {
       "sequence": 1,
@@ -2121,6 +2121,36 @@
       "chapter_path": "data/chapters/U20260821-0345.md",
       "stocks_path": "data/stocks/U20260821-0345.stocks.json",
       "market_svg_path": "data/visuals/U20260821-0345.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 213,
+      "update_id": "U20260821-0405",
+      "published_at": "2026-08-21T04:05:00+08:00",
+      "title": "第一百七十九回　婚禮代號竟是一家空殼公司，小智用兩億讓新娘先接受上市審查",
+      "chapter_path": "data/chapters/U20260821-0405.md",
+      "stocks_path": "data/stocks/U20260821-0405.stocks.json",
+      "market_svg_path": "data/visuals/U20260821-0405.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 214,
+      "update_id": "U20260821-0425",
+      "published_at": "2026-08-21T04:25:00+08:00",
+      "title": "第一百八十回　兩百萬股要替他迎娶不存在的妻，小智用兩億兩千萬讓十三個女人共同監票",
+      "chapter_path": "data/chapters/U20260821-0425.md",
+      "stocks_path": "data/stocks/U20260821-0425.stocks.json",
+      "market_svg_path": "data/visuals/U20260821-0425.market.svg",
+      "backfill": true
+    },
+    {
+      "sequence": 215,
+      "update_id": "U20260821-0445",
+      "published_at": "2026-08-21T04:45:00+08:00",
+      "title": "第一百八十一回　第十四張否決票竟是他的遺孀，小智用兩億四千萬讓死亡配偶先公開財產",
+      "chapter_path": "data/chapters/U20260821-0445.md",
+      "stocks_path": "data/stocks/U20260821-0445.stocks.json",
+      "market_svg_path": "data/visuals/U20260821-0445.market.svg",
       "backfill": true
     }
   ]
